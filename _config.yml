@@ -1,14 +1,153 @@
-# Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+# -----------------------------------------------------------------------------
+# SITE PERSONALIZATION
+# -----------------------------------------------------------------------------
 
-# Build settings
+name: Brownerd
+# This text will be used on the homepage to personalize the name of your site
+# This will also act as a text link that always points to the homepage
+
+
+# -----------------------------------------------------------------------------
+# SEO SETTINGS
+# -----------------------------------------------------------------------------
+
+title: Brownerds unite!
+# SEO - This will be used for the title text on the homepage
+
+description: Brownerds unite
+# SEO - This will be used for the meta description on the homepage
+
+google_analytics: UA-24190198-34
+# This will enable Google Analytics to track your site
+
+
+# -----------------------------------------------------------------------------
+# COMMENTS
+# -----------------------------------------------------------------------------
+
+disqus: brownerds
+# To enable comments, use your Disqus "shortname" to enable comments
+# You can create a free acount here: https://disqus.com/
+
+
+# -----------------------------------------------------------------------------
+# SITE CONFIGURATION
+# -----------------------------------------------------------------------------
+
+
+url: http://brownerd.com
+# http://repoName.github.io
+# http://www.yourDomainName.com
+# This will confiure your sitemap.xml and RSS feed
+
+baseurl: ""
+# use this configuraiton for a "Username" or "Organization" site
+# ex: http://userName.github.io
+
+# else
+
+# baseurl: "/repoName"
+# use this configuraiton for a "Project" site:
+# ex: http://userName.github.io/REPO-NAME
+
+
+# -----------------------------------------------------------------------------
+# COLLECTIONS
+# -----------------------------------------------------------------------------
+
+collections:
+#  team_members:
+#    output: true
+#    permalink: /team-members/:path/
+
+# Not everything is a post or a page. Maybe you want to document the various methods in your open source project, members of a team, or talks at a conference. Collections allow you to define a new type of document that behave like Pages or Posts do normally, but also have their own unique properties and namespace.
+
+# Read more: http://jekyllrb.com/docs/collections/
+
+
+# -----------------------------------------------------------------------------
+# DEFAULT FRONT MATTER SETTINGS
+# -----------------------------------------------------------------------------
+
+# Using YAML Front Matter is one way that you can specify configuration in the pages and posts for your site.
+
+# ! Read more: http://jekyllrb.com/docs/configuration/
+
+defaults:
+
+
+
+# -----------------------------------------------------------------------------
+# Sass SETTINGS
+# -----------------------------------------------------------------------------
+
+sass:
+  sass_dir: _scss
+  # The load path for Sass imports. This folder must only contain imports!
+  # Read more: http://jekyllrb.com/docs/assets/
+
+  style: :expanded
+    # Sass output settings. ! Read more:
+    # http://web-design-weekly.com/2014/06/15/different-sass-output-styles/
+
+    # optoins:
+      #:nested
+      #:expanded
+      #:compact
+      #:compressed #minified
+
+
+# -----------------------------------------------------------------------------
+# SAFE PLUGINS allowed by gitHub pages
+# -----------------------------------------------------------------------------
+
+gems:
+# Plugin list
+  - jemoji # Emoji please!
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  # - jekyll-mentions
+  - jekyll-redirect-from
+
+
+# -----------------------------------------------------------------------------
+# PERMALINK SETTINGS
+# -----------------------------------------------------------------------------
+
+permalink: /:title/
+# These may only apply to posts, not to pages, collections or static files.
+# ! Read more: http://jekyllrb.com/docs/permalinks/
+
+
+# -----------------------------------------------------------------------------
+# CONVERSION SETTINGS
+# -----------------------------------------------------------------------------
+
+highlighter: pygments
 markdown: kramdown
+
+
+# -----------------------------------------------------------------------------
+# SAFE MODE
+# -----------------------------------------------------------------------------
+
+safe: true
+# Use "true" if you intend to let gitHub automatically build your pages
+
+# GitHub Pages is powered by Jekyll, however all Pages sites are generated using the --safe option to disable custom plugins for security reasons. Unfortunately, this means your plugins won’t work if you’re deploying to GitHub Pages.
+
+#You can still use GitHub Pages to publish your site, but you’ll need to convert the site locally and push the generated static files to your GitHub repository instead of the Jekyll source files.
+
+# ! Read more: http://jekyllrb.com/docs/plugins/
+
+
+# -----------------------------------------------------------------------------
+# PRODUCITON BUILD SETTINGS
+# -----------------------------------------------------------------------------
+
+exclude:
+# Exclude (ignore) these files in your Producion build
+
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
