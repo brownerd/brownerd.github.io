@@ -49,6 +49,9 @@ baseurl: ""
 # use this configuraiton for a "Project" site:
 # ex: http://userName.github.io/REPO-NAME
 
+timezone: America/Chicago
+# Set the timezone. ! Read more: http://jekyllrb.com/docs/configuration/
+
 
 # -----------------------------------------------------------------------------
 # COLLECTIONS
