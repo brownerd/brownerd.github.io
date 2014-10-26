@@ -192,7 +192,7 @@ Since it's all managed by Git, all of your history is there.
 WP sites are everywhere. You can always find WP work. WP has excellent open source support. It's a great gateway to PHP and MySQL.
 
 ### Jekyll
-It's a hackers playground. Just make what you want. Work, collaborate and optimize fast as shit. It's a great gateway to Ruby, JS, CoffeeScript, Sass, Gulp, Grunt, continuous integration and liquid template language.
+It's a hackers playground. Just make what you want. Work, collaborate and optimize fast as shit. It's a great gateway to Ruby, JS, CoffeeScript, Sass, Gulp, Grunt, continuous integration and liquid template language. Work modularly. Since you can make whatever you want, you are no longer bound to the page/single/archive/taxonomy/category/tag/partial naming conventions for everything.
 
 
 ## Closing
