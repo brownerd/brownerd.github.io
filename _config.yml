@@ -1,4 +1,14 @@
 # -----------------------------------------------------------------------------
+# THE ONLY WARNING!!!
+# -----------------------------------------------------------------------------
+
+# Do not use tabs in this configuration file! Only SPACES!!!
+# This will either lead to parsing errors, or Jekyll will revert to the default settings. Use spaces instead.
+# ! Read more: http://jekyllrb.com/docs/configuration/
+
+# Use this YAML Lint tool to help: http://yamllint.com/
+# YAML PARSER http://yaml-online-parser.appspot.com/
+# -----------------------------------------------------------------------------
 # YAML resources
 # -----------------------------------------------------------------------------
 
