@@ -35,7 +35,7 @@ All of these are valid
   font-family helvetica
 
 ```
-You can write CSS however you like with out throwing and error. Personally, this one is my favorite:
+You can write CSS however you like without throwing and error. Personally, this one is my favorite:
 
 ```stylus
 // Valid
@@ -58,7 +58,7 @@ $link = #000
 
 active = #00f
 ```
-Use what ever variable sytle that suits your needs.
+Use what ever variable style that suits your needs.
 
 ## Three - Objects
 
@@ -97,11 +97,11 @@ $typeface-map: (
   )
 )
 
-// And you get values our of your map like this:
+// And you get values from your map like this:
 map-get($typeface-map, $key);
 ```
 
-...But, you can't use that to get get info out of the map above because it has 3 levels of nested maps. You have to use a [crazy function](http://sassmeister.com/gist/566686c51749d4e833ef) like this:
+...But, you can't use that to get info out of the map above because it has 3 levels of nested maps. So, you have to use a [crazy function](http://sassmeister.com/gist/566686c51749d4e833ef) like this:
 
 ```sass
 $config: (
@@ -161,41 +161,37 @@ body {
   color: map-search($config, visited);
 }
 ```
-But I can't use this function on the typeface-map above to get a 'weight' object because the weight object exist in another object as too. Well, this fucking sucks. At this point we are making our code impenetrable with all these lines and logic.
+But I can't use this function on the typeface-map above to get a 'weight' object because the weight object exists in another object too. Well, this fucking sucks. At this point we are making our code impenetrable with all these lines and logic.
 
 Here's how we do it in Stylus:
 
 ```stylus
 // Objects are called Hashes
 
-typeface-map: {
+typeface: {
   sans: {
-    config: {
-      name: 'source sans pro',
-      weight: {
-        hairline: 200,
-        light: 300,
-        normal: 400,
-        semi: 600,
-        bold: 700,
-        heavy: 900
-      }
+    name: 'source sans pro',
+    weight: {
+      hairline: 200,
+      light: 300,
+      normal: 400,
+      semi: 600,
+      bold: 700,
+      heavy: 900
     }
   },
   serif: {
-    config: {
-      name: 'source serif pro',
-      weight: {
-        normal: 400,
-        semi: 600,
-        bold: 700
-      }
+    name: 'source serif pro',
+    weight: {
+      normal: 400,
+      semi: 600,
+      bold: 700
     }
   }
 }
 
 // And you get values our of your map like this:
-typeface-map.sans.config.weight.light
+typeface.sans.weight.light
 
 // If that is too long, then just store part of the path in a variable
 $weight = typeface.slab.weight
@@ -243,7 +239,7 @@ p {
 }
 ```
 
-Stylus agian, looks and works like were expect it to
+Stylus again, looks and works like we expect it to
 
 ```stylus
 box1 = red
@@ -252,13 +248,13 @@ box2 = blue
 
 if (box2 == red)
 
-h1
-  color: box1
+  h1
+    color: box1
 
 else
 
-h1
-  color: box2
+  h1
+    color: box2
 ```
 
 
@@ -276,10 +272,22 @@ Stylus feels a lot like CoffeeScript.
 
 Try it on [Codepen](http://codepen.io)
 
-Use it on locally
+### Use it on locally
 ```
 $ npm install stylus -g
 ```
 
 
-Use it with Gulp
+### Use it with Gulp
+
+```javascript
+//Stylus task
+var stylus = require('gulp-stylus');
+
+// Get one .styl file and render
+gulp.task('one', function () {
+  gulp.src('./main.styl')
+    .pipe(stylus())
+    .pipe(gulp.dest('./css/build'));
+});
+```
