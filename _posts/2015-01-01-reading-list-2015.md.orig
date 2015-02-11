@@ -62,8 +62,22 @@ This is a running list of all the articles I read during 2015 that I want to rem
 - [Introducing Flexbox Fridays](http://codepen.io/team/lincolnloop/blog/flexboxfridays)
 
 
+
+
+
+<<<<<<< HEAD
+
+
+### Images (css)
+- [Center and crop images with a single line of CSS Using object-fit: cover](https://medium.com/@chrisnager/center-and-crop-images-with-a-single-line-of-css-ad140d5b4a87)
+- [Spriting with <img>](http://css-tricks.com/spriting-img/)
+
+
+
+=======
 ### Images
 - [:+1: Center and crop images with a single line of CSS Using object-fit: cover](https://medium.com/@chrisnager/center-and-crop-images-with-a-single-line-of-css-ad140d5b4a87)
+>>>>>>> dev
 
 
 
@@ -71,9 +85,6 @@ This is a running list of all the articles I read during 2015 that I want to rem
 - [Momentum Scrolling on iOS Overflow Elements](http://css-tricks.com/snippets/css/momentum-scrolling-on-ios-overflow-elements/)
 
 
-### Images (css)
-- [Center and crop images with a single line of CSS Using object-fit: cover](https://medium.com/@chrisnager/center-and-crop-images-with-a-single-line-of-css-ad140d5b4a87)
-- [Spriting with <img>](http://css-tricks.com/spriting-img/)
 
 ### Performance / Optimization
 - [Tour of a Performant and Responsive CSS Only Site](http://css-tricks.com/tour-performant-responsive-css-site/)
@@ -87,10 +98,6 @@ This is a running list of all the articles I read during 2015 that I want to rem
 - [BackstopJS](https://garris.github.io/BackstopJS/) Catch CSS curve balls.
 - [Viff](http://twers.github.io/Viff-Service/)
 
-
-
-### Performance / Optimization
-- [Tour of a Performant and Responsive CSS Only Site](http://css-tricks.com/tour-performant-responsive-css-site/)
 
 
 
@@ -147,7 +154,8 @@ This is a running list of all the articles I read during 2015 that I want to rem
 
 
 
-## GIT
+## Git
+
 - [Webcast • Undo, Redo & Rebase Your Git History • May 2014](https://www.youtube.com/watch?v=W39CfI3-JFc
 )
 - [GitHub Training & Guides](https://www.youtube.com/user/GitHubGuides/videos)
@@ -228,7 +236,6 @@ Just tyring to get better with handling merge conflicts
 ## Icons
 
 - [Evil Icons](https://github.com/outpunk/gulp-evil-icons) SVGs and npm
-
 - [Transformicons](http://www.transformicons.com/builder.htmlhttp://www.transformicons.com/builder.html)
 
 
@@ -318,19 +325,15 @@ Just tyring to get better with handling merge conflicts
 - [Backbone & jQuery meet Browserify: easy.](http://learnjs.io/blog/2013/11/23/backbone-jquery-browserify/)
 
 
+### D3js
+- [TagTree](http://tagtree.tv/library)
+
 
 
 ### CoffeeScript
 - [The Absolute Beginner’s Guide to CoffeeScript](http://blog.teamtreehouse.com/the-absolute-beginners-guide-to-coffeescript)
 - [CoffeeScript and jQuery](http://www.coffeescriptlove.com/2012/08/coffeescript-and-jquery.html)
 - [Using jQuery with CoffeeScript](http://aaronrussell.co.uk/articles/using-coffeescript-with-jquery/http://aaronrussell.co.uk/articles/using-coffeescript-with-jquery/)
-
-
-
-
-### D3js
-- [TagTree](http://tagtree.tv/library)
-
 
 
 
@@ -491,6 +494,8 @@ A SIMPLE WEBSITE IN NODE.JS WITH EXPRESS, JADE AND STYLUS](http://www.clock.co.u
 ## Lint
 - [Detect Problems in JavaScript Automatically with ESLint](http://davidwalsh.name/eslint)
 
+
+
 ## Material Design
 - [An exploration in Material Design](https://medium.com/@abrodo/an-exploration-in-material-design-by-feedly-8c1a1cbdfdcdhttps://medium.com/@abrodo/an-exploration-in-material-design-by-feedly-8c1a1cbdfdcd)
 
@@ -501,11 +506,7 @@ A SIMPLE WEBSITE IN NODE.JS WITH EXPRESS, JADE AND STYLUS](http://www.clock.co.u
 
 ## Music
 - [Don't Hold Your Breath](http://borrowed.bandcamp.com/album/dont-hold-your-breath)
-- [Strictly Beats](http://strictlybeats.blogspot.com/)
-- [Radio Juicy](https://soundcloud.com/radiojuicy)
-- [SoundCloud Playlists](https://soundcloud.com/you/sets)
-- [Klim Beats](https://soundcloud.com/klim-beats)
-- [Paths](https://soundcloud.com/tylerfinck/sets/paths) Tyler Fink
+
 
 
 
@@ -715,13 +716,13 @@ I hate powerpoint and keynote. But I am loving Bespoke!
 
 
 
+<<<<<<< HEAD
+
 
 ## YAML
 - [YAML Converter](http://codebeautify.org/yaml-to-json-xml-csv)
+=======
 ---
-
-
-
 
 
 ## Z Browser Tabs left open
@@ -862,3 +863,4 @@ AN SVG BASED SEAMLESS PATTERN MAKER.](http://www.kennethcachia.com/plain-pattern
 - [Making Modal Windows Better For Everyone](http://www.smashingmagazine.com/2014/09/15/making-modal-windows-better-for-everyone/)
 - [scotchPanels.js – Dead simple Off Canvas jQuery Plugin](https://scotch.io/bar-talk/scotchpanels-js-dead-simple-off-canvas-jquery-plugin)
 - [How I Built The One Page Scroll Plugin](http://www.smashingmagazine.com/2014/08/25/how-i-built-the-one-page-scroll-plugin/)
+>>>>>>> dev
