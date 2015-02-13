@@ -458,9 +458,9 @@ A SIMPLE WEBSITE IN NODE.JS WITH EXPRESS, JADE AND STYLUS](http://www.clock.co.u
 
 
 
+
+
 ### Single page websites
-
-
 - [Making a Single Page App Without a Framework](http://tutorialzine.com/2015/02/single-page-app-without-a-framework/)
 
 
@@ -721,18 +721,24 @@ I hate powerpoint and keynote. But I am loving Bespoke!
 
 
 
+<<<<<<< HEAD
 
 ## WordPress
 - [Why WordPress Sucks, and what you can do about it](http://lostechies.com/bradcarleton/2014/01/22/why-wordpress-sucks-and-what-you-can-do-about-it/http://lostechies.com/bradcarleton/2014/01/22/why-wordpress-sucks-and-what-you-can-do-about-it/)
 
 
 
+
+
+
+=======
 ## YAML
 - [YAML Converter](http://codebeautify.org/yaml-to-json-xml-csv)
-
-
-
+>>>>>>> dev
 ---
+
+
+
 
 
 ## Z Browser Tabs left open
