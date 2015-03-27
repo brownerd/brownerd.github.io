@@ -49,7 +49,6 @@ Here are the agencies, people and sites that I was most influenced by in 2015
 - [An Illustrated History of Mac OS X](http://www.git-tower.com/blog/history-of-osx/)
 - [Fiaxte](http://fixate.it/)
 
-
 ### Utility sites
 - [CSS Puns](http://saijogeorge.com/css-puns/)
 - [Shade](http://jxnblk.com/shade/)
@@ -70,7 +69,6 @@ Here are the agencies, people and sites that I was most influenced by in 2015
 
 ## API
 - [Using the HTML5 History API](https://css-tricks.com/using-the-html5-history-api/)
-
 
 
 
@@ -525,7 +523,6 @@ Just tyring to get better with handling merge conflicts
 - [:+1: Getting Started with Backbone](https://code.tutsplus.com/courses/getting-started-with-backbone)
 
 
-
 ### Browserify
 - [Browserify handbook](https://github.com/substack/browserify-handbook)
 - [Browserify Articles](http://browserify.org/articles.html)
@@ -699,7 +696,6 @@ A SIMPLE WEBSITE IN NODE.JS WITH EXPRESS, JADE AND STYLUS](http://www.clock.co.u
 
 
 
-
 ### NPM
 - [how-to-npm](https://www.npmjs.com/package/how-to-npm) A module to teach you how to module!
 - [Publishing your jQuery plugin to npm, the quick and dirty way](http://blog.npmjs.org/post/111475741445/publishing-your-jquery-plugin-to-npm-the-quickhttp://blog.npmjs.org/post/111475741445/publishing-your-jquery-plugin-to-npm-the-quick)
@@ -710,8 +706,11 @@ A SIMPLE WEBSITE IN NODE.JS WITH EXPRESS, JADE AND STYLUS](http://www.clock.co.u
 
 
 ### NODE.js
-- [Node for the Front-End Developer](https://code.tutsplus.com/courses/node-for-the-front-end-developer)
+<<<<<<< HEAD
 - [Node.js From Scratch](https://code.tutsplus.com/courses/nodejs-from-scratch)
+=======
+- [Node for the Front-End Developer](https://code.tutsplus.com/courses/node-for-the-front-end-developer)
+>>>>>>> dev
 - [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 - [Getting a new node project started with npm](http://www.wolfe.id.au/2014/02/01/getting-a-new-node-project-started-with-npm/)
 - [Getting Started With Node And Express](http://ericleads.com/2013/05/getting-started-with-node-and-express/)
@@ -877,12 +876,17 @@ An easier, faster way to build apps with React and JavaScript.
 
 
 
+<<<<<<< HEAD
 ### SystemJS
 - [SystemJS](https://github.com/systemjs/systemjs)
-
-
+=======
 
 ### Testing
+>>>>>>> dev
+
+
+
+
 - [Testing with Karma and Jasmine](http://codepen.io/timbergus/timbergus/testing-with-karma-and-jasminehttp://codepen.io/timbergus/timbergus/testing-with-karma-and-jasmine)
 - [Testing JavaScript with PhantomJS](https://code.tutsplus.com/tutorials/testing-javascript-with-phantomjs--net-28243)
 
@@ -1036,6 +1040,7 @@ PostCSS yall!
 
 
 
+
 ### Stylus
 This is my favorite pre-processor. I use Sass and LESS to, but Stylus is more fun and logical to me.
 
@@ -1103,12 +1108,14 @@ I hate powerpoint and keynote. But I am loving Bespoke!
 
 ## Social Media
 - [Responsible Social Share Links](https://jonsuh.com/blog/social-share-links/)
-
 ## Teamwork
 
 
 
 
+
+
+<<<<<<< HEAD
 
 
 
@@ -1124,6 +1131,8 @@ SVG patterns for Data Visualization](http://riccardoscalco.github.io/textures/)
 
 
 ## Teamwork
+=======
+>>>>>>> dev
 - [The Specialist-Generalist Balance](http://alistapart.com/article/the-specialist-generalist-balancehttp://alistapart.com/article/the-specialist-generalist-balance)
 
 
