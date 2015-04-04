@@ -199,6 +199,7 @@ I generally hate grids, but I'm listing these to remember them.
 
 
 
+
 ### Media Queries
 - [All your base, are belong to us — or what base size do em-based media queries use?](http://blog.w3conversions.com/2015/03/all-your-base-are-belong-to-us-%E2%80%94-or-what-base-size-do-em-based-media-queries-use/)
 
@@ -239,8 +240,8 @@ I generally hate grids, but I'm listing these to remember them.
 
 
 
-### Resets
 
+### Resets
 - [Sanitize CSS](https://github.com/jonathantneal/sanitize.css) Lightweight alternative to Normalize.css
 
 
@@ -505,7 +506,6 @@ Just tyring to get better with handling merge conflicts
 
 
 
-
 ## JavaScript
 
 - [:+1: ECMAScript 567intlnon-standard compatibility table](http://kangax.github.io/compat-table/es5/)
@@ -651,11 +651,13 @@ A SIMPLE WEBSITE IN NODE.JS WITH EXPRESS, JADE AND STYLUS](http://www.clock.co.u
 ### JSON
 - [The Anatomy of a JSON Web Token](https://scotch.io/tutorials/the-anatomy-of-a-json-web-token)
 - [:+1: JSON Formatter](http://jsonformatter.curiousconcept.com/)
-
-
 - [faker.js](http://marak.com/faker.js/) Generate massive amounts of fake data in node.js and the browser]
 - [Generate Fake Data for Your JavaScript Applications Using Faker](https://scotch.io/tutorials/generate-fake-data-for-your-javascript-applications-using-faker)
 - [Creating Demo APIs with json-server](https://egghead.io/lessons/nodejs-creating-demo-apis-with-json-server)
+
+
+
+
 
 ### JSPM
 -[jspm.io](http://jspm.io/http://jspm.io/) jspm is a package manager for the SystemJS universal module loader, built on top of the dynamic ES6 module loader
@@ -748,6 +750,8 @@ A SIMPLE WEBSITE IN NODE.JS WITH EXPRESS, JADE AND STYLUS](http://www.clock.co.u
 #### Exports
 - [Export This: Interface Design Patterns for Node.js Modules](http://bites.goodeggs.com/posts/export-this/http://bites.goodeggs.com/posts/export-this/)
 - [Understanding module.exports and exports in Node.js](http://www.sitepoint.com/understanding-module-exports-exports-node-js/http://www.sitepoint.com/understanding-module-exports-exports-node-js/)
+
+
 
 #### Blogging platforms
 - [Camel](https://github.com/cliss/camel)
@@ -907,12 +911,11 @@ An easier, faster way to build apps with React and JavaScript.
 
 
 - [Making a Single Page App Without a Framework](http://tutorialzine.com/2015/02/single-page-app-without-a-framework/)
+
+
+
 ### SystemJS
-
-
-
 - [SystemJS](https://github.com/systemjs/systemjs)
-
 
 
 
@@ -920,7 +923,6 @@ An easier, faster way to build apps with React and JavaScript.
 - [Testing with Karma and Jasmine](http://codepen.io/timbergus/timbergus/testing-with-karma-and-jasminehttp://codepen.io/timbergus/timbergus/testing-with-karma-and-jasmine)
 - [Testing JavaScript with PhantomJS](https://code.tutsplus.com/tutorials/testing-javascript-with-phantomjs--net-28243)
 - [Testing with tdfjs](http://codepen.io/32bitkid/blog/testing-with-tdfjs)
-
 
 
 
@@ -960,13 +962,17 @@ An easier, faster way to build apps with React and JavaScript.
 
 
 
+<<<<<<< HEAD
+
+## Jekyll
+- [Jekyll, Github Pages, and Cloudflare for PageSpeed Win](https://scotch.io/tutorials/jekyll-github-pages-and-cloudflare-for-pagespeed-win)
+=======
 ### Webpack
 - [Browserify VS Webpack - JS Drama](http://blog.namangoel.com/browserify-vs-webpack-js-drama
 	)
 
 
-## Jekyll
-- [Jekyll, Github Pages, and Cloudflare for PageSpeed Win](https://scotch.io/tutorials/jekyll-github-pages-and-cloudflare-for-pagespeed-win)
+>>>>>>> dev
 
 
 
@@ -1077,7 +1083,6 @@ PostCSS yall!
 
 
 
-
 ### Stylus
 This is my favorite pre-processor. I use Sass and LESS to, but Stylus is more fun and logical to me.
 
@@ -1135,8 +1140,19 @@ I hate powerpoint and keynote. But I am loving Bespoke!
 ## StrongLoop
 - [Installing StrongLoop](http://docs.strongloop.com/display/SL/Installing+StrongLoop)
 
+<<<<<<< HEAD
+
+
+
+## SVG
+- [illustrio](https://designer.illustrio.com/)
+- [:+1: Transform your illustration into smart SVG](https://medium.com/@benev/transform-your-illustration-into-smart-svg-51b505f908f0https://medium.com/@benev/transform-your-illustration-into-smart-svg-51b505f908f0) This is AWESOME!
+- [Caching SVG Sprite in localStorage](http://osvaldas.info/caching-svg-sprite-in-localstorage)For IE < 11
+
+=======
 ### Loop Back
 - [Composing APIs](http://docs.strongloop.com/display/APIS/Composing+APIs?_ga=1.143943670.252394607.1427414262)
+>>>>>>> dev
 
 
 
@@ -1147,6 +1163,7 @@ I hate powerpoint and keynote. But I am loving Bespoke!
 ## Social Media
 - [Responsible Social Share Links](https://jonsuh.com/blog/social-share-links/)
 
+## Teamwork
 
 
 
