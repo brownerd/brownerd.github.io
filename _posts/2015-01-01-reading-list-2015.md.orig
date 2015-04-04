@@ -49,7 +49,6 @@ Here are the agencies, people and sites that I was most influenced by in 2015
 - [An Illustrated History of Mac OS X](http://www.git-tower.com/blog/history-of-osx/)
 - [Fiaxte](http://fixate.it/)
 
-
 ### Utility sites
 - [CSS Puns](http://saijogeorge.com/css-puns/)
 - [Shade](http://jxnblk.com/shade/)
@@ -70,7 +69,6 @@ Here are the agencies, people and sites that I was most influenced by in 2015
 
 ## API
 - [Using the HTML5 History API](https://css-tricks.com/using-the-html5-history-api/)
-
 
 
 
@@ -358,7 +356,7 @@ Just tyring to get better with handling merge conflicts
 ### Chrome
 - [Chrome Devtools Tips and Tricks Part I](http://codepen.io/TheodoreVorillas/blog/chrome-devtools-tips-and-tricks)
 - [Chrome Devtools Tips and Tricks Part II](http://codepen.io/TheodoreVorillas/blog/chrome-devtools-part-2)
-- [15 Must-Know Chrome DevTools Tips and Tricks](http://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks/)
+
 
 
 
@@ -525,7 +523,6 @@ Just tyring to get better with handling merge conflicts
 - [:+1: Getting Started with Backbone](https://code.tutsplus.com/courses/getting-started-with-backbone)
 
 
-
 ### Browserify
 - [Browserify handbook](https://github.com/substack/browserify-handbook)
 - [Browserify Articles](http://browserify.org/articles.html)
@@ -603,13 +600,6 @@ A SIMPLE WEBSITE IN NODE.JS WITH EXPRESS, JADE AND STYLUS](http://www.clock.co.u
 
 
 
-
-### FrontEnd Masters
-- [:+1: Choosing a JavaScript Framework](https://frontendmasters.com/courses/javascript-frameworks-showdown/)
-- [Advanced JavaScript](https://frontendmasters.com/courses/advanced-javascript/?u=40bd001563085fc35165329ea1ff5c5ecbdbbeef)
-- [JS.Next: ES6](https://frontendmasters.com/courses/jsnext-es6/?u=40bd001563085fc35165329ea1ff5c5ecbdbbeef)
-- [JavaScript: From Fundamentals to Functional JS](https://frontendmasters.com/courses/js-fundamentals-to-functional/?u=40bd001563085fc35165329ea1ff5c5ecbdbbeef)
-- [Building Web Apps with Node.js](https://frontendmasters.com/courses/building-web-apps-with-node-js/?u=40bd001563085fc35165329ea1ff5c5ecbdbbeef)
 
 
 ### Handlebars
@@ -706,7 +696,6 @@ A SIMPLE WEBSITE IN NODE.JS WITH EXPRESS, JADE AND STYLUS](http://www.clock.co.u
 
 
 
-
 ### NPM
 - [how-to-npm](https://www.npmjs.com/package/how-to-npm) A module to teach you how to module!
 - [Publishing your jQuery plugin to npm, the quick and dirty way](http://blog.npmjs.org/post/111475741445/publishing-your-jquery-plugin-to-npm-the-quickhttp://blog.npmjs.org/post/111475741445/publishing-your-jquery-plugin-to-npm-the-quick)
@@ -717,8 +706,11 @@ A SIMPLE WEBSITE IN NODE.JS WITH EXPRESS, JADE AND STYLUS](http://www.clock.co.u
 
 
 ### NODE.js
-- [Node for the Front-End Developer](https://code.tutsplus.com/courses/node-for-the-front-end-developer)
+<<<<<<< HEAD
 - [Node.js From Scratch](https://code.tutsplus.com/courses/nodejs-from-scratch)
+=======
+- [Node for the Front-End Developer](https://code.tutsplus.com/courses/node-for-the-front-end-developer)
+>>>>>>> dev
 - [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 - [Getting a new node project started with npm](http://www.wolfe.id.au/2014/02/01/getting-a-new-node-project-started-with-npm/)
 - [Getting Started With Node And Express](http://ericleads.com/2013/05/getting-started-with-node-and-express/)
@@ -726,11 +718,6 @@ A SIMPLE WEBSITE IN NODE.JS WITH EXPRESS, JADE AND STYLUS](http://www.clock.co.u
 - [5 + 1 Utility libraries to use along with Node.js](http://codepen.io/TheodoreVorillas/blog/utility-libraries-with-nodejs)
 - [:+1: RequireBin](http://requirebin.com/)
 - [Understanding directory references in Node.js](http://www.hacksparrow.com/understanding-directory-references-in-node-js.html)
-
-
-#### Exports
-- [Export This: Interface Design Patterns for Node.js Modules](http://bites.goodeggs.com/posts/export-this/http://bites.goodeggs.com/posts/export-this/)
-- [Understanding module.exports and exports in Node.js](http://www.sitepoint.com/understanding-module-exports-exports-node-js/http://www.sitepoint.com/understanding-module-exports-exports-node-js/)
 
 
 
@@ -889,15 +876,20 @@ An easier, faster way to build apps with React and JavaScript.
 
 
 
+<<<<<<< HEAD
 ### SystemJS
 - [SystemJS](https://github.com/systemjs/systemjs)
-
-
+=======
 
 ### Testing
+>>>>>>> dev
+
+
+
+
 - [Testing with Karma and Jasmine](http://codepen.io/timbergus/timbergus/testing-with-karma-and-jasminehttp://codepen.io/timbergus/timbergus/testing-with-karma-and-jasmine)
 - [Testing JavaScript with PhantomJS](https://code.tutsplus.com/tutorials/testing-javascript-with-phantomjs--net-28243)
-- [Testing with tdfjs](http://codepen.io/32bitkid/blog/testing-with-tdfjs)
+
 
 
 
@@ -1048,6 +1040,7 @@ PostCSS yall!
 
 
 
+
 ### Stylus
 This is my favorite pre-processor. I use Sass and LESS to, but Stylus is more fun and logical to me.
 
@@ -1115,12 +1108,14 @@ I hate powerpoint and keynote. But I am loving Bespoke!
 
 ## Social Media
 - [Responsible Social Share Links](https://jonsuh.com/blog/social-share-links/)
-
 ## Teamwork
 
 
 
 
+
+
+<<<<<<< HEAD
 
 
 
@@ -1136,6 +1131,8 @@ SVG patterns for Data Visualization](http://riccardoscalco.github.io/textures/)
 
 
 ## Teamwork
+=======
+>>>>>>> dev
 - [The Specialist-Generalist Balance](http://alistapart.com/article/the-specialist-generalist-balancehttp://alistapart.com/article/the-specialist-generalist-balance)
 
 
@@ -1351,7 +1348,6 @@ I'm starting to have second thoughts about Jekyll. I enjoy the break from WP. I 
 ### Node
 - [NODE SCHOOL](http://nodeschool.io/index.html)
 - [Creating Your First Desktop App With HTML, JS and Node-WebKit](http://tutorialzine.com/2015/01/your-first-node-webkit-app/)
-- [Creating an NPM-driven Website](http://tutorialzine.com/2015/03/npm-driven-website/http://tutorialzine.com/2015/03/npm-driven-website/)
 
 
 ### Parse.js
