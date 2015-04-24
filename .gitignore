@@ -1,2 +1,4 @@
 _site
 .orig
+node_modules
+*.log
