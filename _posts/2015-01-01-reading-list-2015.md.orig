@@ -150,12 +150,15 @@ Here are the agencies, people and sites that I was most influenced by in 2015
 
 
 
+<<<<<<< HEAD
+## Codepen
+- [CodePen Chicago](https://nvite.com/CodePenChicago/abfd)
+=======
 
 ## CodePen
 - [First CodePen Chicago Meetup](http://codepen.io/poopsplat/blog/first-codepen-chicago-meetup)
 
-## Codepen
-- [CodePen Chicago](https://nvite.com/CodePenChicago/abfd)
+>>>>>>> dev
 
 
 
@@ -163,8 +166,6 @@ Here are the agencies, people and sites that I was most influenced by in 2015
 - [Speed Up Your Deployment Workflow with Codeship and ParallelCI](https://scotch.io/tutorials/speed-up-your-deployment-workflow-with-codeship-and-parallelcihttps://scotch.io/tutorials/speed-up-your-deployment-workflow-with-codeship-and-parallelci)
 - [Codeship: Continuous Integration and Delivery Made Simple](https://code.tutsplus.com/tutorials/codeship-continuous-integration-and-delivery-made-simple--cms-23517https://code.tutsplus.com/tutorials/codeship-continuous-integration-and-delivery-made-simple--cms-23517)
 - [Codeship: Deployment Pipelines and ParallelCI for Faster Results](https://code.tutsplus.com/tutorials/codeship-deployment-pipelines-and-parallelci-for-faster-results--cms-23540)
-
-
 
 
 
@@ -201,7 +202,6 @@ Here are the agencies, people and sites that I was most influenced by in 2015
 - [Can CSS Be Too Modular?](http://csswizardry.com/2015/03/can-css-be-too-modular/http://csswizardry.com/2015/03/can-css-be-too-modular/)
 - [Immutable CSS](http://csswizardry.com/2015/03/immutable-css/http://csswizardry.com/2015/03/immutable-css/)
 - [Browser representatives on CSS performance](http://benfrain.com/browser-representatives-on-css-performance/)
-
 
 
 
@@ -627,6 +627,7 @@ A fast and modern static website engine
 
 - [Printing text in JS](http://codepen.io/nszp/codekit-blog/printing-text-in-js)
 
+
 ### AMOK
 - [AMOK](http://amokjs.com/) No Reload — Live Editing for JavaScript
 
@@ -951,7 +952,6 @@ Node.js CMS & Web Application Platform
 
 
 
-
 ### Oauth
 - [Implement OAuth into your Express, Koa or Hapi applications using Grant](https://scotch.io/tutorials/implement-oauth-into-your-express-koa-or-hapi-applications-using-grant)
 
@@ -1079,16 +1079,19 @@ A REACT- LIKE, 3.5KB USER INTERFACE LIBRARY
 - [RiotControl](https://github.com/jimsparkman/RiotControl)
 - [riotify](https://github.com/jhthorsen/riotify)
 
+
+
+
+
 ### Single page websites
+
+
 - [Making a Single Page App Without a Framework](http://tutorialzine.com/2015/02/single-page-app-without-a-framework/)
 
 
 
 
 ### SystemJS
-
-
-
 - [SystemJS](https://github.com/systemjs/systemjs)
 
 
