@@ -33,4 +33,17 @@ Answer honestly:
 
 Is your navigation making the client a $1 more this year
 
-If no, then chill the fuck out when I change your comps when coding. 
+If no, then chill the fuck out when I change your comps when coding.
+
+
+
+
+
+
+
+
+
+
+The DEV gets the final call
+
+We are at the end of the fucking line.
