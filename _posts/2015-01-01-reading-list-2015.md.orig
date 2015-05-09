@@ -211,7 +211,6 @@ Here are the agencies, people and sites that I was most influenced by in 2015
 
 
 
-
 ### CurrentColor
 - [Extending the Color Cascade with the CSS currentColor Variable](http://blogs.adobe.com/dreamweaver/2015/02/extending-the-color-cascade-with-the-css-currentcolor-variable.html#.VPPlHFPF-yP)
 
@@ -1169,19 +1168,24 @@ A REACT- LIKE, 3.5KB USER INTERFACE LIBRARY
 
 
 ## Jekyll
-
-I'm starting to have second thoughts about Jekyll. I enjoy the break from WP. I love the integriation with Git and Sass and CoffeeScript out of the box. But these site generation times are killing me. I'm learning that Jekyll is great for small sites with simple logic. I'm still looking for a way to fix these performance issues.
-
-Currently, I am using Gulp for compiling the Sass.
-
-Next, I will be looking into CloudCannon for providing a CMS to a Jekyll site.
-
+<<<<<<< HEAD
 - [Jekyll, Github Pages, and Cloudflare for PageSpeed Win](https://scotch.io/tutorials/jekyll-github-pages-and-cloudflare-for-pagespeed-win)
 - [Eight lessons learned hacking on GitHub Pages for six months](https://github.com/blog/1992-eight-lessons-learned-hacking-on-github-pages-for-six-months)
 - [JekyllConf](http://jekyllconf.com/)
 
 ### Hosting
 - [CloudCannon](http://cloudcannon.com/)
+=======
+
+I'm starting to have second thoughts about Jekyll. I enjoy the break from WP. I love the integriation with Git and Sass and CoffeeScript out of the box. But these site generation times are killing me. I'm learning that Jekyll is great for small sites with simple logic. I'm still looking for a way to fix these performance issues.
+
+Currently, I am using Gulp for compiling the Sass.
+>>>>>>> dev
+
+Next, I will be looking into CloudCannon for providing a CMS to a Jekyll site.
+
+- [Jekyll, Github Pages, and Cloudflare for PageSpeed Win](https://scotch.io/tutorials/jekyll-github-pages-and-cloudflare-for-pagespeed-win)
+- [How GitHub uses GitHub to document GitHub](https://github.com/blog/1939-how-github-uses-github-to-document-github)
 
 
 - [Fun Jekyll Tricks](http://www.madebymarket.com/blog/dev/fun-jekyll-tricks.html)
@@ -1389,7 +1393,6 @@ I hate powerpoint and keynote. But I am loving Bespoke!
 
 
 
-
 ## SVG
 - [illustrio](https://designer.illustrio.com/)
 - [:+1: Transform your illustration into smart SVG](https://medium.com/@benev/transform-your-illustration-into-smart-svg-51b505f908f0https://medium.com/@benev/transform-your-illustration-into-smart-svg-51b505f908f0) This is AWESOME!
@@ -1503,10 +1506,14 @@ Tom’s Own Minimal Language. I hate XML. I like JSON. I love YAML. And I just s
 
 ## WordPress
 - [Why WordPress Sucks, and what you can do about it](http://lostechies.com/bradcarleton/2014/01/22/why-wordpress-sucks-and-what-you-can-do-about-it/)
-
-
-
+<<<<<<< HEAD
 - [Using the WP-API to Fetch Posts](https://css-tricks.com/using-the-wp-api-to-fetch-posts/)
+=======
+
+
+
+>>>>>>> dev
+
 
 ## WP Engine
 - [WPEngine GIT](http://wpengine.com/git/)
