@@ -6,6 +6,10 @@
 
 WEB DEVELOPER MANIFESTO
 
+
+1. A comp is not final ever!
+After a static design is agreed upon, the design and layout will remain in flux during development. This is necessary in order to improve actual usability now that the site is dynamic now. And to prevent against blackhole design specs. In other words, we are not going to spend a ton of time on superfluous details.
+
 1. We wil not make stuff that is a pain in the fucking ass under tight deadlines
 Time and Money are being burned with wreckless abandon when we have to Dev designs that are SUPERFLUOUS. It doesn't even matter how complicated they are. All SUPERFLUOUS designs are a fucking waste UNLESS there is ample time
 
