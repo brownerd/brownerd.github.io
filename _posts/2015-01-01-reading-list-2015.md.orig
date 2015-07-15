@@ -92,6 +92,10 @@ Here are the agencies, people and sites that I was most influenced by in 2015
 - [The painful journey of painless deployments](https://www.airpair.com/docker/posts/the-painful-journey-of-painless-deployments)
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
 
 
 ## API
@@ -194,6 +198,7 @@ Here are the agencies, people and sites that I was most influenced by in 2015
 
 
 ### Animations
+<<<<<<< HEAD
 
 ### Animation
 
@@ -202,6 +207,11 @@ Here are the agencies, people and sites that I was most influenced by in 2015
 
 - [An Introduction to the CSS will-change Property](http://www.sitepoint.com/introduction-css-will-change-property/)
 
+=======
+- [Giving Animations Life](https://medium.com/tictail-makers/giving-animations-life-8b20165224c5)
+- [Making the transition from animating in After Effects to CSS.](https://medium.com/@ryan_brownhill/after-effects-to-css-79225c1d767e)
+
+>>>>>>> master
 
 - [AniCollection](http://anicollection.github.io/#/)
 - [FLIP Your Animations](http://aerotwist.com/blog/flip-your-animations/)
@@ -212,11 +222,8 @@ Here are the agencies, people and sites that I was most influenced by in 2015
 - [CSS animatable properties](http://oli.jp/2010/css-animatable-properties/)
 - [Animatable](http://leaverou.github.io/animatable/)
 
-
 #### Callbacks
 - [Detecting CSS Animation and Transition End with JavaScript](http://osvaldas.info/detecting-css-animation-transition-end-with-javascript)
-
-
 
 
 #### Bezier Curves - plugins
@@ -336,7 +343,6 @@ I generally hate grids, but I'm listing these to remember them.
 - [filamentgroup/elementary](https://github.com/filamentgroup/elementary)
 
 - [Container Queries: Once More Unto the Breach](http://alistapart.com/article/container-queries-once-more-unto-the-breach)
-
 
 
 
@@ -740,12 +746,14 @@ SVG patterns for Data Visualization](http://riccardoscalco.github.io/textures/)
 - [Card Expansion Effect with SVG clipPath](http://tympanus.net/codrops/2015/06/18/card-expansion-effect-svg-clippath/)
 - [:+1: Trianglify](http://qrohlf.com/trianglify/)
 
+<<<<<<< HEAD
 - [SVG PORN FOR DEVS](http://gilbarbara.github.io/logos/)
-
+=======
 
 ### SVG Filters
 - [SVG Filters](http://jorgeatgu.github.io/svg-filters/)
 
+>>>>>>> master
 
 ## iOS
 - [11 Insanely Great iOS Developers Sites](https://medium.com/ios-apprentice/11-insanely-great-ios-developers-sites-95686a523ea8)
@@ -1118,7 +1126,6 @@ Node.js CMS & Web Application Platform
 
 ### Package.json
 - [package.json AN INTERACTIVE GUIDE](http://browsenpm.org/package.json)
-
 
 
 
@@ -1666,9 +1673,9 @@ I hate powerpoint and keynote. But I am loving Bespoke!
 - [Command Line Primer Primer](http://codepen.io/jonitrythall/blog/command-line-primer-primer)
 - [How to Be a Terminal Pro](https://code.tutsplus.com/courses/how-to-be-a-terminal-pro)
 - [COMMAND LINE POWER USER](http://commandlinepoweruser.com/)
+
+
 ### BASH
-
-
 - [bpkg](http://www.bpkg.io/) Bash Package Manager
 - [:+1: People ask you for the Wi-Fi password. Answer quickly]http://thechangelog.com/people-ask-wi-fi-password-answer-quickly/
 - [Bash IT](https://github.com/Bash-it/bash-it)
@@ -1714,7 +1721,6 @@ Tom’s Own Minimal Language. I hate XML. I like JSON. I love YAML. And I just s
 
 
 
-
 ## Vagrant
 - [Stop what you're doing, and learn Vagrant today - An introduction](https://www.youtube.com/watch?v=crvJ2C7Hr_ghttps://www.youtube.com/watch?v=crvJ2C7Hr_g)
 - [Getting Started with Vagrant Push](https://scotch.io/tutorials/getting-started-with-vagrant-pushhttps://scotch.io/tutorials/getting-started-with-vagrant-push)
@@ -1730,12 +1736,14 @@ Tom’s Own Minimal Language. I hate XML. I like JSON. I love YAML. And I just s
 - [Stop what you're doing, and learn Vagrant today - An introduction](https://www.youtube.com/watch?v=crvJ2C7Hr_ghttps://www.youtube.com/watch?v=crvJ2C7Hr_g)
 - [Classical Inheritance is Obsolete - How to Think in Prototypal OO](https://vimeo.com/69255635)
 - [Making Badass Developers - Kathy Sierra (Serious Pony) keynote](https://www.youtube.com/watch?v=FKTxC9pl-WM)
+<<<<<<< HEAD
 - [Inspirational Videos For Designers – The Big Collection](http://thenuschool.com/inspirational-videos-for-designers-the-full-collection/)
+=======
 - [Recreating a dialup modem in javascript | JSConf US 2015](https://www.youtube.com/watch?v=UKa20yPzGbU)
-
 
 - [Love Unity](https://vimeo.com/132993463)
 
+>>>>>>> master
 
 
 
