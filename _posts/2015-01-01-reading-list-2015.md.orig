@@ -165,6 +165,11 @@ Here are the agencies, people and sites that I was most influenced by in 2015
 - [CodePen Chicago](https://nvite.com/CodePenChicago/abfd)
 
 
+<<<<<<< HEAD
+## CI (Continuous Integration)
+
+- [You don't realize your code sucks. Travis and Scrutinizer FTW.](https://www.airpair.com/continuous-integration/posts/your-code-sucks-travis-and-scrutinizer-ftw)
+=======
 
 
 
@@ -177,8 +182,9 @@ Here are the agencies, people and sites that I was most influenced by in 2015
 
 
 
-## CI (Continuous Integration)
-- [You don't realize your code sucks. Travis and Scrutinizer FTW.](https://www.airpair.com/continuous-integration/posts/your-code-sucks-travis-and-scrutinizer-ftw)
+
+## Continuous Integration
+>>>>>>> master
 
 ### Circle CI
 - [Circle CI](https://circleci.com/)
@@ -193,8 +199,8 @@ Here are the agencies, people and sites that I was most influenced by in 2015
 - [Codeship: Deployment Pipelines and ParallelCI for Faster Results](https://code.tutsplus.com/tutorials/codeship-deployment-pipelines-and-parallelci-for-faster-results--cms-23540)
 
 - [Continuous Delivery: Codeship, Gulp rsync, Nginx, DigitalOcean](https://blog.mattia-asti.it/codeship-gulp-digitalocean-deploy/)
-- [Deploy via FTP, SFTP, SCP, RSYNC and SSH](https://codeship.com/documentation/continuous-deployment/deployment-with-ftp-sftp-scp/)
 
+- [Deploy via FTP, SFTP, SCP, RSYNC and SSH](https://codeship.com/documentation/continuous-deployment/deployment-with-ftp-sftp-scp/)
 
 - [Front End Deployment For The Rest Of Us](http://medoingthings.com/writing/2015/03/front-end-deployment-for-the-rest-of-us)
 
@@ -378,6 +384,7 @@ I generally hate grids, but I'm listing these to remember them.
 - [filamentgroup/elementary](https://github.com/filamentgroup/elementary)
 
 - [Container Queries: Once More Unto the Breach](http://alistapart.com/article/container-queries-once-more-unto-the-breach)
+
 
 
 
@@ -1201,6 +1208,7 @@ Node.js CMS & Web Application Platform
 
 
 
+
 ### People
 
 #### Eric Elliot
@@ -1252,6 +1260,7 @@ Node.js CMS & Web Application Platform
 OGM! This is the best resource for me right now for learnig React!
 
 -[React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
+
 
 
 #### REAPP
@@ -1626,9 +1635,13 @@ PostCSS yall!
 - [Why I Don’t Use Compass Anymore](http://www.sitepoint.com/dont-use-compass-anymore/http://www.sitepoint.com/dont-use-compass-anymore/)
 - [Transitioning to SCSS at Scale](https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/) What a process. Intersting AST stuff.
 - [Sass Mixins vs Extends: The Data](https://tech.bellycard.com/blog/sass-mixins-vs-extends-the-data/https://tech.bellycard.com/blog/sass-mixins-vs-extends-the-data/)
+<<<<<<< HEAD
 - [Understanding Sass Lists](http://hugogiraudel.com/2013/07/15/understanding-sass-lists/)
-- [What's wrong with Sass](http://garthdb.com/writings/whats-wrong-with-sass/)
 - [Loops and Mixins in SASS and Stylus](http://blog.andrewmart.in/2014/04/05/loops-and-mixins-in-sass/)
+=======
+- [What's wrong with Sass](http://garthdb.com/writings/whats-wrong-with-sass/)
+>>>>>>> master
+
 
 
 
@@ -1717,10 +1730,14 @@ I hate powerpoint and keynote. But I am loving Bespoke!
 - [Should I Use Relative or Absolute URLs? - Whiteboard Friday](https://moz.com/blog/relative-vs-absolute-urls-whiteboard-friday)
 - [Why We Can't Do Keyword Research Like It's 2010 - Whiteboard Friday](https://moz.com/blog/cant-do-keyword-research-like-its-2010-whiteboard-friday)
 - [Is Brand a Google Ranking Factor? - Whiteboard Friday](https://moz.com/blog/is-brand-a-google-ranking-factor-whiteboard-friday)
+<<<<<<< HEAD
 - [The Linkbait Bump: How Viral Content Creates Long-Term Lift in Organic Traffic - Whiteboard Friday](https://moz.com/blog/linkbait-bump-viral-content-lifts-organic-traffic-whiteboard-friday)
-
+=======
 - [Controlling Search Engine Crawlers for Better Indexation and Rankings - Whiteboard Friday](https://moz.com/blog/controlling-search-engine-crawlers-for-better-indexation-and-rankings-whiteboard-friday)
 
+
+
+>>>>>>> master
 
 
 
@@ -1780,7 +1797,11 @@ I hate powerpoint and keynote. But I am loving Bespoke!
 - [Command Line Primer Primer](http://codepen.io/jonitrythall/blog/command-line-primer-primer)
 - [How to Be a Terminal Pro](https://code.tutsplus.com/courses/how-to-be-a-terminal-pro)
 - [COMMAND LINE POWER USER](http://commandlinepoweruser.com/)
+<<<<<<< HEAD
+### BASH
+=======
 - [Gotty](https://github.com/yudai/gotty)
+>>>>>>> master
 
 
 - [bpkg](http://www.bpkg.io/) Bash Package Manager
@@ -1819,7 +1840,6 @@ Tom’s Own Minimal Language. I hate XML. I like JSON. I love YAML. And I just s
 
 - [Great Font Combinations](http://designmodo.com/great-font-combinations/)
 - [A History of Typeface Styles & Type Classification](http://blog.spoongraphics.co.uk/articles/a-history-of-typeface-styles-type-classification)
-
 
 
 
@@ -1869,7 +1889,7 @@ Tom’s Own Minimal Language. I hate XML. I like JSON. I love YAML. And I just s
 
 ## WP Wordpress
 - [Why WordPress Sucks, and what you can do about it](http://lostechies.com/bradcarleton/2014/01/22/why-wordpress-sucks-and-what-you-can-do-about-it/)
-- [imgix-wordpress](https://github.com/imgix/imgix-wordpress)
+
 
 ### API
 - [Using the WP-API to Fetch Posts](https://css-tricks.com/using-the-wp-api-to-fetch-posts/)

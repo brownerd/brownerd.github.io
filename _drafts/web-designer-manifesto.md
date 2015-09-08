@@ -11,10 +11,10 @@ WEB DESIGN MANIFESTO
 
 1. I will stop thinking that my designs will make the client's business succeed
 
-1. I will stop thinking that 
+1. I will stop thinking that
 
 
-1. We wil not make stuff that is a pain in the fucking ass under tight deadlines
+1. We will not make stuff that is a pain in the fucking ass under tight deadlines
 Time and Money are being burned with wreckless abandon when we have to Dev designs that are SUPERFLUOUS. It doesn't even matter how complicated they are. All SUPERFLUOUS designs are a fucking waste UNLESS there is ample time
 
 1. We will not give conservative estimates

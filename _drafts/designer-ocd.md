@@ -2,6 +2,15 @@
 title: Designer OCD and how to deal with it
 ---
 
+I agree. I got my start as a designer, and I think that designers are OCD. We are bothered to death by visual detials at others could care less about. This makes us good at managing identity, layout, typography…design stuff. But it usually comes at the cost of forgetting that a design decision also needs to be a business decision.
+
+If design changes the world, then do that full time and see if your designs keep you in business. Design is piece of the pie, but only money will keep you in business. So before we start thinking that our designs will change the world, we need to ask ourelves if our design will even make a $1 worth of impact on the client’s bottom line. If no, then your designs aren’t changing anything. Let’s put our OCD aside for a second and do what the client wants for once.
+
+
+https://medium.com/@jenniferdaniel/a-new-yorker-walks-into-a-san-francisco-start-up-6926651b8254
+
+
+
 Every designer has Obsessive Compulsive Disorder (OCD). We agonize over pixels, placement, and proportions. We feel disgusted if things are out of order or nonsensical. We can't rest until all of our designs are APPROVED by us. We feel defeated/pissed when a client/boss/anyone trumps our excellent design knowledge.
 
 Yes—this is unhealthy.
