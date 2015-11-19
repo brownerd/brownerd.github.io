@@ -2,7 +2,7 @@
 ---
 
 
-
+- [Younus Abdalla](http://younusabdalla.com/)
 - [Elizabet Oliveira](http://www.miukimiu.com/)
 - [Joe Blau](https://joeblau.com/)
 - [Mike King](http://codepen.io/micjamking/)
@@ -12,6 +12,8 @@
 - [Tiffiny Rayside](http://codepen.io/tmrDevelops/)
 - [Travis Miller](http://www.travismillerweb.com/)
 - [Chari Clark](CodeSchool)
+- [Kamon Ayeva](http://contentgardening.com/en/)
+- [Dipta J. Basu](http://codepen.io/diptajbasu/)
 
 
 - [14-Year-Old Boy Arrested For Bringing Homemade Clock To School](http://techcrunch.com/2015/09/16/14-year-old-boy-arrested-for-bringing-homemade-clock-to-school/) Ahmed Mohamed - Stay awesome!
