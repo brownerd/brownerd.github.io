@@ -14,6 +14,7 @@
 - [Chari Clark](CodeSchool)
 - [Kamon Ayeva](http://contentgardening.com/en/)
 - [Dipta J. Basu](http://codepen.io/diptajbasu/)
+- [CHRIS NWAMBA](https://twitter.com/chrizt_n) http://codepen.io/christiannwamba/
 
 
 - [14-Year-Old Boy Arrested For Bringing Homemade Clock To School](http://techcrunch.com/2015/09/16/14-year-old-boy-arrested-for-bringing-homemade-clock-to-school/) Ahmed Mohamed - Stay awesome!
