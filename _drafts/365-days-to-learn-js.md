@@ -28,13 +28,21 @@ So, I’m going to start keeping a journal of my JS learning. I’m doing this b
 
 
 
-## 1 - Oct 19 - Testing
+## 1 - Oct 9 - Testing
+
+On deck:
+
+- Grep testing with TAPE via Eric Elliots post on Medium
 
 This testing stuff has made zero sense to me until today. Following Eric Elliot has helped a ton in many ways with learning more about JS best practices. His advice about simply using TAPE has made this TDD concept startable. I'll pass on all that Mocha, Chai, Jasmine stuff right now.
 
 After reviewing all of these resources below, I was able to get a couple tests working.
 
+
+Resources:
+
 - [Testing Client/Server JavaScript](https://www.youtube.com/watch?v=lLqCXLYCqTI)
+- [Zuul](https://www.npmjs.com/package/zuul) Browser testing
 - [TDD in ES6 & React Webcast](https://ericelliottjs.com/product/tdd-es6-react/)
 - [TDD in ES6 and React Examples](https://github.com/ericelliott/tdd-es6-react)
 - [Tape testing guide](https://ci.testling.com/guide/tape)
@@ -46,28 +54,120 @@ I need to get out of this info absorption period and into the coding period.
 I have a bunch of resources that I want to watch/read before I start making shit. I'm trying to get a bunch of basics and base skills in order first.
 
 
-## 2 - DATE - TITLE
-## 3 - DATE - TITLE
-## 4 - DATE - TITLE
-## 5 - DATE - TITLE
-## 6 - DATE - TITLE
-## 7 - DATE - TITLE
-## 8 - DATE - TITLE
-## 9 - DATE - TITLE
-## 10 - DATE - TITLE
-## 11 - DATE - TITLE
-## 12 - DATE - TITLE
-## 13 - DATE - TITLE
-## 14 - DATE - TITLE
-## 15 - DATE - TITLE
-## 16 - DATE - TITLE
-## 17 - DATE - TITLE
-## 18 - DATE - TITLE
-## 19 - DATE - TITLE
-## 20 - DATE - TITLE
-## 21 - DATE - TITLE
-## 22 - DATE - TITLE
-## 23 - DATE - TITLE
+Notes:
+
+- Even though I said that I'm just starting out, and that I suck at JS, I am still listing some higher lever stuff above. How did I learn about strings, arrays, objects, functions, variables, conditionals and the other super basic stuff that takes a while to grasp? I learned all of this from CSS. I learned all of these programming basics from using Stylus and Jade on Codepen and a few client projects. I might even recommend learning these fundamentals first through Preprocessors because you can see the visual effects of the programming.
+
+- I need to start thinking of little apps that I can make at every level of JS skill. My problem is that I don't know what to make. Yes, I want to build an awesome App with React, but I'm far from that at the moment.
+
+
+---
+
+
+## 2 - Oct 10 - Wrestling to set up tests still
+
+On deck:
+
+- Methods (setup Wudojo, Testing and Code Coverage)
+- Get simple recursion down
+- Start FrontEndMasters videos
+
+
+Resources:
+
+- [TAP & Tape, the awesome way to test JavaScript](http://www.macwright.org/2014/03/11/tape-is-cool.html)
+- [Testling](https://www.npmjs.com/package/testling)
+
+- [Isparta](https://www.npmjs.com/package/isparta) Istanbul for ES6
+- [Coverify](https://www.npmjs.com/package/coverify)
+- [Argg](https://www.npmjs.com/package/argg)
+- [Istanbul](https://www.npmjs.com/package/istanbul)
+
+- [Faucet](https://www.npmjs.com/package/faucet)
+
+- [Advanced unit testing tools for Node.js](http://blog.wercker.com/2014/12/23/Testing-in-Node.html)
+- [proxyquire](https://github.com/thlorenz/proxyquire)
+- [smokestack](https://github.com/hughsk/smokestack)
+
+- [Buckle Up with Tape…](https://medium.com/@MarcFly1103/buckle-up-with-tape-1bd5e9e828#.v13xh9ohu)
+- [React to Changes with Pure Components](https://medium.com/@MarcFly1103/react-to-changes-with-pure-components-caa761836e9f#.nzjlnoe7x)
+
+- [JavaScript Modules the ES6 Way](https://24ways.org/2014/javascript-modules-the-es6-way/)
+- [ES6 Modules (ES2015) - Import and Export](https://egghead.io/lessons/ecmascript-6-es6-modules-es2015-import-and-export)
+
+- [Frontend development with webpack, json-server, tape and NPM — Pt. 1](https://medium.com/@pcruz7/frontend-development-with-webpack-json-server-tape-and-npm-pt-1-62c7601b62c1#.hdd8gh7bf)
+- [Favicons](https://www.npmjs.com/package/favicons)
+- [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
+- [JavaScript Developer Survey Results](https://ponyfoo.com/articles/javascript-developer-survey-results)
+
+- [Watch](https://www.npmjs.com/package/watch)
+- [JSDOM](https://www.npmjs.com/package/jsdom)
+- [jsdom + jQuery in 5 lines with node.js](http://blog.nodejitsu.com/jsdom-jquery-in-5-lines-on-nodejs/)
+- [Testing React on Jsdom](http://jaketrent.com/post/testing-react-with-jsdom/)
+- [Cheerio](http://cheeriojs.github.io/cheerio/)
+- [Quick Start to Docker for Node.js Developers](http://blog.flybase.io/2015/12/10/docker-intro-for-node-developers/) This might be good to remember one day
+- [#70: Deployment](http://blog.codepen.io/2015/12/09/70-deployment/)
+- [JS Charting: Google Sheets](https://davidwalsh.name/js-charting-google-sheets)
+- [Intrinsic Placeholders with the Picture Element](http://daverupert.com/2015/12/intrinsic-placeholders-with-picture/)
+
+- [Universal React Boilerplate](https://github.com/cloverfield-tools/universal-react-boilerplate)
+
+
+Notes:
+
+- The TDD cycle goes like this: Test > Fail > Pass > Refactor.
+- No more than 40 SLOC per file (source lines of code)
+
+- Wrestled with getting a different TAPE test to run from another author. It was a Babel error. I had to add a Babelrc file. I did, but I save it in the wrong place by accident.
+
+- Ok. Got Tape working for Unit Testing. I got Isparta working for CodeCoverage.
+
+
+Ideas:
+
+- ASCII art photo maker
+    - https://davidwalsh.name/convert-image-ascii-art
+    - Uses webcam
+    - Allows user to download image
+    - [console-png](https://www.npmjs.com/package/console-png)
+
+- Remake Album covers
+  - http://www.10x2015.com/
+
+
+
+---
+
+
+## 3 - Oct 21 - Make some shit
+
+
+---
+
+
+## 4 - Oct 11 - TITLE
+## 5 - Oct 12 - TITLE
+## 6 - Oct 13 - TITLE
+## 7 - Oct 14 - TITLE
+## 8 - Oct 15 - TITLE
+## 9 - Oct 16 - TITLE
+## 10 - Oct 17 - TITLE
+## 11 - Oct 18 - TITLE
+## 12 - Oct 19 - TITLE
+## 13 - Oct 20 - TITLE
+## 14 - Oct 21 - TITLE
+## 15 - Oct 22 - TITLE
+## 16 - Oct 23 - TITLE
+## 17 - Oct 24 - TITLE
+## 18 - Oct 25 - TITLE
+## 19 - Oct 26 - TITLE
+## 20 - Oct 27 - TITLE
+## 21 - Oct 28 - TITLE
+## 22 - Oct 29 - TITLE
+## 23 - Oct 30 - TITLE
+
+---
+
 ## 24 - DATE - TITLE
 ## 25 - DATE - TITLE
 ## 26 - DATE - TITLE
