@@ -66,11 +66,15 @@ Notes:
 
 ## 2 - Oct 10 - Wrestling to set up tests still
 
-On deck:
+Expected:
 
 - Methods (setup Wudojo, Testing and Code Coverage)
 - Get simple recursion down
 - Start FrontEndMasters videos
+
+Actual:
+
+- Worked all grepping TAPE, CodeCoverage, ESLINT and running NPM scripts
 
 
 Resources:
@@ -139,32 +143,256 @@ Ideas:
 ---
 
 
-## 3 - Oct 21 - Make some shit
+## 3 - Oct 11 - Make some shit
+
+Expected:
+
+- Methods (setup Wudojo, Testing and Code Coverage)
+
+
+Actual:
+
+- Hung up on this all day. I couldn't get one of the yargs to work (-d). Turns out that -d means something else to NPM. Took all day to figure out that this was the issue. Fuck.
+
+
+Left Over:
+
+- Methods (setup Wudojo, Testing and Code Coverage)
+- Get simple recursion down
+- Start FrontEndMasters videos
+
+
+Resources:
+
+- [How to Spice up Your Slack Channel with Hubot](http://www.sitepoint.com/spice-up-your-slack-channel-with-hubot/)
+- [Making Accessibility Simpler, With Ally.js](http://www.smashingmagazine.com/2015/12/making-accessibility-simpler/)
+- [ally.js](http://allyjs.io/) JavaScript library to help modern web applications with accessibility concerns by making accessibility simpler
+
+- [Nina - I Wish I Knew How It Would Feel To Be Free](https://vid.me/KMBe)
+- [NINA SIMONE - I Wish I Knew How It Would Feel To Be Free (extended ending)](https://www.youtube.com/watch?v=N4CbuE6--as)
+- [SO TRANSPORTED
+Listening to Nina Simone](https://www.youtube.com/watch?v=N4CbuE6--as)
 
 
 ---
 
 
-## 4 - Oct 11 - TITLE
-## 5 - Oct 12 - TITLE
-## 6 - Oct 13 - TITLE
-## 7 - Oct 14 - TITLE
-## 8 - Oct 15 - TITLE
-## 9 - Oct 16 - TITLE
-## 10 - Oct 17 - TITLE
-## 11 - Oct 18 - TITLE
-## 12 - Oct 19 - TITLE
-## 13 - Oct 20 - TITLE
-## 14 - Oct 21 - TITLE
-## 15 - Oct 22 - TITLE
-## 16 - Oct 23 - TITLE
-## 17 - Oct 24 - TITLE
-## 18 - Oct 25 - TITLE
-## 19 - Oct 26 - TITLE
-## 20 - Oct 27 - TITLE
-## 21 - Oct 28 - TITLE
-## 22 - Oct 29 - TITLE
-## 23 - Oct 30 - TITLE
+## 4 - Oct 12 - Saturday (Help Jabari and Getting Methods repo working)
+
+
+Left Over:
+
+- Methods (setup Wudojo, Testing and Code Coverage)
+- Get simple recursion down
+- Start FrontEndMasters videos
+
+
+Expected:
+
+- Help Jabari with HTML CSS
+- Methods (setup Wudojo, Testing and Code Coverage)
+
+
+Actual:
+
+- Methods (setup Wudojo, Testing and Code Coverage). Got it working. Got intitial testing set up.
+
+Resources:
+
+Ideas:
+
+---
+
+
+## 5 - Oct 13 - Sunday (Service Workers)
+
+Left Over:
+
+- Methods (setup Wudojo, Testing and Code Coverage)
+- Get simple recursion down
+- Start FrontEndMasters videos
+
+Expected:
+
+- Methods (setup Wudojo, Testing and Code Coverage)
+
+Actual:
+
+- Methods (setup Wudojo, Testing and Code Coverage) got through 9 functions and unit tests in the string methods
+
+Left Over:
+
+- Methods (setup Wudojo, Testing and Code Coverage)
+
+Resources:
+
+- [From Jekyll to Ghost](http://bitsofco.de/from-jekyll-to-ghost/)
+- [Why I'm Excited About Native CSS Variables](http://philipwalton.com/articles/why-im-excited-about-native-css-variables/) Interesting. I didn't know this about native CSS
+- [Battling BEM – 5 common problems and how to avoid them](https://medium.com/fed-or-dead/battling-bem-5-common-problems-and-how-to-avoid-them-5bbd23dee319#.va22h3e0s) Good points. I still think it can be further optimized
+- [Labella.js](http://twitter.github.io/labella.js/with_text.html) This looks pretty cool
+- [Twitter’s Heart Animation in Full CSS](https://medium.com/@OxyDesign/twitter-s-heart-animation-in-full-css-b1c00ca5b774#.un5s7roqv) So cool
+- [A QUICK REMINDER ON HOW AND WHY TO USE LABELS IN FORMS TO MAKE THEM MORE ACCESSIBLE](https://www.christianheilmann.com/2015/12/04/a-quick-reminder-on-how-and-why-to-use-labels-in-forms-to-make-them-more-accessible/)
+- [microm](https://github.com/zzarcon/microm)
+
+- [ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
+- [ServiceWorker and Progressive Networking](https://ponyfoo.com/articles/progressive-networking-serviceworker)
+
+
+
+Ideas:
+
+---
+
+
+## 6 - Oct 14 - Monday (Crush open browser tabs)
+
+Expected:
+
+- Read and close all those browser tabs full of the stuff that I been meaning to get to
+
+- Methods (setup Wudojo, Testing and Code Coverage)
+
+Actual:
+
+- Watched a bunch of videos from CSS Conf
+- Helped Jabari with his final
+
+Left Over:
+
+- Methods (setup Wudojo, Testing and Code Coverage)
+
+Resources:
+
+- [Tim Holman - Fun.css](https://www.youtube.com/watch?v=lvxLb2zy5Hs)
+- [Sarah Drasner - Complex Responsive Animations](https://www.youtube.com/watch?v=09_8edPAsR8)
+- [Colin Megill - Inline Styles are About to Kill CSS](https://www.youtube.com/watch?v=NoaxsCi13yQ)
+- [Lea Verou - The Missing Slice](https://www.youtube.com/watch?v=s4HdeJctq-A)
+- [Working with SVG, A Primer by Sara Soueidan](https://www.youtube.com/watch?v=uKNX23lvnPo)
+- [Chris Coyier - The Wonderful World of SVG](https://www.youtube.com/watch?v=tsGa-gcckwY)
+
+Ideas:
+
+- Make browser dances like Harlem Shake
+
+---
+## 7 - Oct 15 - Tuesday (String Methods all day)
+
+
+
+Expected:
+
+- Methods (setup Wudojo, Testing and Code Coverage)
+
+
+Actual:
+
+- Methods (setup Wudojo, Testing and Code Coverage) - almost finished Strings
+
+Left Over:
+
+
+Resources:
+
+- [Ryan Seddon - Performance Beyond the Page Load](https://www.youtube.com/watch?v=WAj1yjL7btA)
+- [Pageload Perf Audits with DevTools Filmstrip in Chrome](https://www.youtube.com/watch?v=tCfF6HI0JKs)
+- [196: CROSSOVER WITH HTTP 203](http://shoptalkshow.com/episodes/196-crossover-with-http-203/)
+
+Ideas:
+
+
+---
+
+## 8 - Oct 16 - Wednesday (Array methods all day)
+
+Expected:
+
+- Methods (setup Wudojo, Testing and Code Coverage) Finish strings and get rolling on arrays
+
+Actual:
+
+Left Over:
+
+Resources:
+
+Ideas:
+
+- React site with True Vertical Rhythm + images and stuff
+- Style guide. Just code as usual. Code view only shows on click event. Shows HTML and CSS. Can this be done without the Comment clutter?
+
+---
+
+## 9 - Oct 17 - TITLE
+Expected:
+
+Actual:
+
+Left Over:
+
+Resources:
+
+Ideas:
+
+---
+
+## 10 - Oct 18 - TITLE
+
+Expected:
+
+Actual:
+
+Left Over:
+
+Resources:
+
+Ideas:
+
+
+---
+
+
+## 11 - Oct 19 - TITLE
+
+Expected:
+
+Actual:
+
+Left Over:
+
+Resources:
+
+Ideas:
+
+
+---
+
+
+## 12 - Oct 20 - TITLE
+
+Expected:
+
+Actual:
+
+Left Over:
+
+Resources:
+
+Ideas:
+
+
+---
+
+
+## 13 - Oct 21 - TITLE
+## 14 - Oct 22 - TITLE
+## 15 - Oct 23 - TITLE
+## 16 - Oct 24 - TITLE
+## 17 - Oct 25 - TITLE
+## 18 - Oct 26 - TITLE
+## 19 - Oct 27 - TITLE
+## 20 - Oct 28 - TITLE
+## 21 - Oct 29 - TITLE
+## 22 - Oct 30 - TITLE
+## 23 - Oct 31 - TITLE
 
 ---
 
@@ -510,3 +738,15 @@ Ideas:
 ## 363 - DATE - TITLE
 ## 364 - DATE - TITLE
 ## 365 - Oct 19 - Done
+
+
+
+Expected:
+
+Actual:
+
+Left Over:
+
+Resources:
+
+Ideas:
