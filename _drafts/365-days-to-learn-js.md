@@ -260,6 +260,8 @@ Actual:
 Left Over:
 
 - Methods (setup Wudojo, Testing and Code Coverage)
+- Get simple recursion down
+- Start FrontEndMasters videos
 
 Resources:
 
@@ -289,6 +291,8 @@ Actual:
 - Methods (setup Wudojo, Testing and Code Coverage) - almost finished Strings
 
 Left Over:
+- Get simple recursion down
+- Start FrontEndMasters videos
 
 
 Resources:
@@ -309,40 +313,102 @@ Expected:
 - Methods (setup Wudojo, Testing and Code Coverage) Finish strings and get rolling on arrays
 
 Actual:
+- Methods project - half way done with Arrays
 
 Left Over:
+- Get simple recursion down
+- Get forEach and other FP down in regards to Arrays and Objects
+- Start FrontEndMasters videos
 
 Resources:
+
+- [Must Watch Videos on Service Workers](https://changelog.com/must-watch-videos-service-workers/)
+- [Activate Service Workers Faster](https://davidwalsh.name/service-worker-claim)
+- [ECMAScript.next: Array.from() and Array.of()](http://www.2ality.com/2011/07/array-from.html)
+- [Creating Your First Desktop App With HTML, JS and Electron](http://tutorialzine.com/2015/12/creating-your-first-desktop-app-with-html-js-and-electron/)
+- [The Array native every(), filter(), map(), some(), forEach() methods](https://coderwall.com/p/_ggh2w/the-array-native-every-filter-map-some-foreach-methods)
+- [JavaScript - Array every() Method](http://www.tutorialspoint.com/javascript/array_every.htm)
 
 Ideas:
 
 - React site with True Vertical Rhythm + images and stuff
 - Style guide. Just code as usual. Code view only shows on click event. Shows HTML and CSS. Can this be done without the Comment clutter?
-
+- Show multiple ways to double the elements in an array
+    - `fromDouble = (arr) => Array.from(arr, x => x + x);`
+    - forEach version
 ---
 
-## 9 - Oct 17 - TITLE
+## 9 - Oct 17 - Thursday - Arrays
+
 Expected:
+- Methods project - Finish Arrays
+
 
 Actual:
+- Methods project - Finish Arrays
 
 Left Over:
+- Get simple recursion down
+- Get forEach and other FP down in regards to Arrays and Objects
+- Start FrontEndMasters videos
+
 
 Resources:
+- [My positive experience as a woman in tech](http://lea.verou.me/2015/12/my-positive-experience-as-a-woman-in-tech/)
+- [Understanding the CSS Modules Methodology](http://www.sitepoint.com/understanding-css-modules-methodology/)
+- [isMounted is an Antipattern](https://facebook.github.io/react/blog/2015/12/16/ismounted-antipattern.html)
+- [Better font events with the native font loading API](http://blog.typekit.com/2015/12/16/better-font-events-with-the-native-font-loading-api/)
+- [webfontloader](https://github.com/typekit/webfontloader)
+- [CSS Font Loading](http://caniuse.com/#feat=font-loading)
+- [Array.prototype.map() versus Array.prototype.forEach()](http://tiffanybbrown.com/2012/10/15/array-prototype-map-versus-array-prototype-foreach/)
+- [An in-Depth Look at CORS](http://www.sitepoint.com/an-in-depth-look-at-cors/)
+- [ES6 Arrow Functions in Depth](https://ponyfoo.com/articles/es6-arrow-functions-in-depth)
 
 Ideas:
+- Look over nathan s' slider
+
 
 ---
 
-## 10 - Oct 18 - TITLE
+## 10 - Oct 18 - Firday
 
 Expected:
+- Methods project - Finish Dates
 
 Actual:
 
 Left Over:
+- Get simple recursion down
+- Get forEach and other FP down in regards to Arrays and Objects
+- Start FrontEndMasters videos
+
+
 
 Resources:
+- [#187: Redux, React, and Functional JavaScript with Dan Abramov](https://changelog.com/187/)
+- [Understanding JavaScript Function Invocation and "this"](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
+- [The Difference Between Call and Apply in Javascript](http://hangar.runway7.net/javascript/difference-call-apply)
+- [JS: Split vs. Splice](http://lucybain.com/blog/2015/js-split-vs-splice/)
+- [JS: When would you use document.write()?](http://lucybain.com/blog/2015/js-document-write/)
+- [JS: host vs. native objects](http://lucybain.com/blog/2014/host-vs-native/)
+- [JS: anonymous functions](http://lucybain.com/blog/2014/anonymous-functions/)
+- [JS: what is a closure?
+](http://lucybain.com/blog/2014/closures/)
+- [JS: explain Function.prototype.bind](http://lucybain.com/blog/2014/function-prototype-bind/)
+- [JS prototypal inheritance](http://lucybain.com/blog/2014/prototypal-inheritance/)
+- [JS "this"](http://lucybain.com/blog/2014/explaination-of-this/)
+- [JS: event delegation](http://lucybain.com/blog/2014/event-delegation/)
+- [Preparing for ECMAScript 6: Destructuring Assignment](http://www.sitepoint.com/preparing-ecmascript-6-destructuring-assignment/)
+- [JS: .call vs. .apply](http://www.sitepoint.com/preparing-ecmascript-6-destructuring-assignment/)
+- [JS: How does JSONP work?](http://lucybain.com/blog/2015/how-does-jsonp-work/)
+- [In programming, what is an object?](http://lucybain.com/blog/2015/in-programming-what-is-an-object/)
+- [JS: What datatypes are supported in Javascript?](http://lucybain.com/blog/2015/js-data-types/)
+- [JS: What is Javascript namespacing? How and where is it used?](http://lucybain.com/blog/2015/js-namespacing/)
+- [JS Immediately Invoked Function Expressions
+](http://lucybain.com/blog/2014/immediately-invoked-function-expression/)
+- [Next up: Front end](http://lucybain.com/blog/2014/front-end/)
+
+
 
 Ideas:
 

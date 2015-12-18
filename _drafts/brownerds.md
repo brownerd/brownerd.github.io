@@ -1,7 +1,7 @@
 ---
 ---
 
-
+- [James Mickens Associate Professor of Computer Science](https://www.seas.harvard.edu/directory/mickens)
 - [Younus Abdalla](http://younusabdalla.com/)
 - [Elizabet Oliveira](http://www.miukimiu.com/)
 - [Joe Blau](https://joeblau.com/)
@@ -15,7 +15,7 @@
 - [Kamon Ayeva](http://contentgardening.com/en/)
 - [Dipta J. Basu](http://codepen.io/diptajbasu/)
 - [CHRIS NWAMBA](https://twitter.com/chrizt_n)
-- [Ire Aderinokun is a UI Designer and Front-End Developer](http://www.ireaderinokun.com/) 
+- [Ire Aderinokun is a UI Designer and Front-End Developer](http://www.ireaderinokun.com/)
 
 http://codepen.io/christiannwamba/
 
