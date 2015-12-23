@@ -370,7 +370,7 @@ Ideas:
 
 ---
 
-## 10 - Oct 18 - Firday
+## 10 - Oct 18 - Friday
 
 Expected:
 - Methods project - Finish Dates
@@ -416,13 +416,18 @@ Ideas:
 ---
 
 
-## 11 - Oct 19 - TITLE
+## 11 - Oct 19 - Saturday (New desk and cleanup)
 
 Expected:
+- Set up new standing desk
 
 Actual:
 
 Left Over:
+- Get simple recursion down
+- Get forEach and other FP down in regards to Arrays and Objects
+- Start FrontEndMasters videos
+
 
 Resources:
 
@@ -432,15 +437,24 @@ Ideas:
 ---
 
 
-## 12 - Oct 20 - TITLE
+## 12 - Oct 20 - Sunday (clean up)
 
 Expected:
+
+- Cleaning office
 
 Actual:
 
 Left Over:
+- Get simple recursion down
+- Get forEach and other FP down in regards to Arrays and Objects
+- Start FrontEndMasters videos
+
 
 Resources:
+- [Forget Mobile-First & Desktop-First, it's Time to Think Element-First](http://codepen.io/tomhodgins/post/forget-mobile-first-desktop-first-it-s-time-to-think-element-first)
+- [Animating Clipped Elements In SVG](http://www.smashingmagazine.com/2015/12/animating-clipped-elements-svg/)
+- [Tree-shaking with webpack 2 and Babel 6](http://www.2ality.com/2015/12/webpack-tree-shaking.html)
 
 Ideas:
 
@@ -448,9 +462,108 @@ Ideas:
 ---
 
 
-## 13 - Oct 21 - TITLE
-## 14 - Oct 22 - TITLE
+## 13 - Oct 21 - Monday (Eric Elliot's Programming Javascript Applications)
+
+Expected:
+- Read Programming Javascript Applications
+
+-
+
+Actual:
+
+- Read Programming Javascript Applications
+
+Left Over:
+- Get simple recursion down
+- Get forEach and other FP down in regards to Arrays and Objects
+- Start FrontEndMasters videos
+
+
+Resources:
+
+- [Tree-shaking with webpack 2 and Babel 6](http://www.2ality.com/2015/12/webpack-tree-shaking.html)
+- [Functors: I was WRONG! - FunFunFunction #11](https://www.youtube.com/watch?v=DisD9ftUyCk)
+
+
+
+---
+## 14 - Oct 22 - Tuesday (Switch to Eloquent Javascript)
+
+
+
+Websites are like Bad Breath. You don’t always know that your's stinks until someone tells you
+
+
+I swithed to EloquentJS to learn some lower lever stuff first. Plus, I'm gonna read it anyway, since everyone recommends it
+
+
+Expected:
+- Read Eloquent Javascript
+
+
+Actual:
+
+- Read Eloquent Javascript
+
+Actual:
+
+Left Over:
+- Get simple recursion down
+- Get forEach and other FP down in regards to Arrays and Objects
+- Nested Loops need practice
+- Get comfortable creating useful closures
+- Start FrontEndMasters videos
+
+
+Resources:
+
+- [197: WITH STACY KVERNMO](http://shoptalkshow.com/episodes/197-with-stacy-kvernmo/)
+
+
+
+Ideas:
+
+- ASCII art photo maker
+    - https://davidwalsh.name/convert-image-ascii-art
+    - Uses webcam
+    - Allows user to download image
+    - [console-png](https://www.npmjs.com/package/console-png)
+
+- Remake Album covers
+  - http://www.10x2015.com/
+
+- Methods (setup Wudojo, Testing and Code Coverage)
+- Get simple recursion down
+- Start FrontEndMasters videos
+- Make browser dances like Harlem Shake
+- React site with True Vertical Rhythm + images and stuff
+- Style guide. Just code as usual. Code view only shows on click event. Shows HTML and CSS. Can this be done without the Comment clutter?
+- Show multiple ways to double the elements in an array
+    - `fromDouble = (arr) => Array.from(arr, x => x + x);`
+    - forEach version
+
+- Look over nathan s' slider
+- Visualizing JS - Make a shift, unshift, pop, push, slice, splice visualizer with mnemonic devices
+- Visualizing JS - Make a functoon maker that shows all the thing you can dump into arguments (string, array, obj, fn, number)
+
+
+---
+
 ## 15 - Oct 23 - TITLE
+
+
+Expected:
+
+Actual:
+
+Left Over:
+
+Resources:
+
+Ideas:
+
+---
+
 ## 16 - Oct 24 - TITLE
 ## 17 - Oct 25 - TITLE
 ## 18 - Oct 26 - TITLE
@@ -816,3 +929,5 @@ Left Over:
 Resources:
 
 Ideas:
+
+---
