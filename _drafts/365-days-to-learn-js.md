@@ -620,8 +620,11 @@ Ideas:
     - forEach version
 
 - Look over nathan s' slider
-- Visualizing JS - Make a shift, unshift, pop, push, slice, splice visualizer with mnemonic devices
-- Visualizing JS - Make a functoon maker that shows all the thing you can dump into arguments (string, array, obj, fn, number)
+- Visualizing JS - Make a shift, unshift, pop, push, slice, splice, substr, substring visualizer with mnemonic devices
+- Visualizing JS - Make a function maker that shows all the thing you can dump into arguments (string, array, obj, fn, number)
+- WDYGT (What did you Google today)
+
+
 ---
 
 
@@ -630,9 +633,16 @@ Ideas:
 
 Travel to Dominican Republic
 
+---
+
+
 ## 19 - Oct 27 - Sunday
 
 Exploring Dominican Republic
+
+
+---
+
 
 ## 20 - Oct 28 - Monday
 
@@ -642,9 +652,21 @@ Resources:
 
 - [Javascript Fatigue](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.ec3gtcs9h)
 - [Plop](https://github.com/amwmedia/plop)
+- [Should I use React.createClass, ES6 Classes or stateless functional components?](http://jamesknelson.com/should-i-use-react-createclass-es6-classes-or-stateless-functional-components/)
+- [The future of bundling JavaScript modules](http://www.2ality.com/2015/12/bundling-modules-future.html)
+- [Reimagining Single-Page Applications With Progressive Enhancement](http://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/)
+- [Interface Animation. The Force of Motion](https://medium.com/@tubikstudio/interface-animation-the-force-of-motion-598b84734e69#.xyqo7f500)
+- [DOCSEARCH](http://community.algolia.com/docsearch/)
+- [dummy text](http://dummytext.com/)
+- ["Real" Mixins with JavaScript Classes](http://justinfagnani.com/2015/12/21/real-mixins-with-javascript-classes/)
 
 
-## 21 - Oct 29 - TITLE
+
+
+---
+
+
+## 21 - Oct 29 - Tuesday
 ## 22 - Oct 30 - TITLE
 ## 23 - Oct 31 - TITLE
 
