@@ -494,7 +494,7 @@ Resources:
 Websites are like Bad Breath. You don’t always know that your's stinks until someone tells you
 
 
-I swithed to EloquentJS to learn some lower lever stuff first. Plus, I'm gonna read it anyway, since everyone recommends it
+I switched to EloquentJS to learn some lower lever stuff first. Plus, I'm gonna read it anyway. Everyone seems to recommends it.
 
 
 Expected:
@@ -506,6 +506,31 @@ Actual:
 - Read Eloquent Javascript
 
 Actual:
+- Read Eloquent Javascript
+
+Left Over:
+
+
+Resources:
+
+- [197: WITH STACY KVERNMO](http://shoptalkshow.com/episodes/197-with-stacy-kvernmo/)
+
+
+
+Ideas:
+
+
+
+---
+
+## 15 - Oct 23 - Wednesday - (watch kelleys and camstl reunion)
+
+
+Expected:
+- Read Eloquent Javascript
+
+Actual:
+- Read Eloquent Javascript
 
 Left Over:
 - Get simple recursion down
@@ -513,12 +538,64 @@ Left Over:
 - Nested Loops need practice
 - Get comfortable creating useful closures
 - Start FrontEndMasters videos
+- Object to Array / Array to Object
+
+Resources:
+
+- [Convert Array to Object](http://stackoverflow.com/questions/4215737/convert-array-to-object)
+- [Boiling Down Arrays with Array#reduce](http://adripofjavascript.com/blog/drips/boiling-down-arrays-with-array-reduce.html)
+- [a better way to convert JS object to array](http://stackoverflow.com/questions/6857468/a-better-way-to-convert-js-object-to-array)
+
+
+Ideas:
+
+
+---
+
+## 16 - Oct 24 - Thursday (x-mas eve)
+
+
+Expected:
+- Read Eloquent Javascript
+
+Actual:
+
+
+Left Over:
 
 
 Resources:
 
-- [197: WITH STACY KVERNMO](http://shoptalkshow.com/episodes/197-with-stacy-kvernmo/)
+- [Let's Make a Test Framework](http://dailyjs.com/2010/11/04/framework-part-37/)
 
+
+Ideas:
+
+
+
+## 17 - Oct 25 - Firday (x-mas)
+
+Expected:
+- x-mas
+
+Actual:
+- x-mas
+
+Left Over:
+- Get simple recursion down
+- Get forEach and other FP down in regards to Arrays and Objects
+- Nested Loops need practice
+- Get comfortable creating useful closures
+- Start FrontEndMasters videos
+- Object to Array / Array to Object
+
+Resources:
+
+- [how to count words in p tag in javascript?](http://stackoverflow.com/questions/28243115/how-to-count-words-in-p-tag-in-javascript)
+
+- [Node.textContent](https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent)
+
+- [JavaScript: What's the difference between textContent, innerHTML, innerText, nodeValue?](http://xahlee.info/js/js_textContent_innerHTML_innerText_nodeValue.html)
 
 
 Ideas:
@@ -545,30 +622,28 @@ Ideas:
 - Look over nathan s' slider
 - Visualizing JS - Make a shift, unshift, pop, push, slice, splice visualizer with mnemonic devices
 - Visualizing JS - Make a functoon maker that shows all the thing you can dump into arguments (string, array, obj, fn, number)
-
-
 ---
 
-## 15 - Oct 23 - TITLE
 
 
-Expected:
+## 18 - Oct 26 - Saturday
 
-Actual:
+Travel to Dominican Republic
 
-Left Over:
+## 19 - Oct 27 - Sunday
+
+Exploring Dominican Republic
+
+## 20 - Oct 28 - Monday
+
+Still in D.R. Checking Email and RSS feed
 
 Resources:
 
-Ideas:
+- [Javascript Fatigue](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.ec3gtcs9h)
+- [Plop](https://github.com/amwmedia/plop)
 
----
 
-## 16 - Oct 24 - TITLE
-## 17 - Oct 25 - TITLE
-## 18 - Oct 26 - TITLE
-## 19 - Oct 27 - TITLE
-## 20 - Oct 28 - TITLE
 ## 21 - Oct 29 - TITLE
 ## 22 - Oct 30 - TITLE
 ## 23 - Oct 31 - TITLE
