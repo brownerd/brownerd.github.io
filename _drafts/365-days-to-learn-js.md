@@ -658,21 +658,43 @@ Resources:
 - [Interface Animation. The Force of Motion](https://medium.com/@tubikstudio/interface-animation-the-force-of-motion-598b84734e69#.xyqo7f500)
 - [DOCSEARCH](http://community.algolia.com/docsearch/)
 - [dummy text](http://dummytext.com/)
-- ["Real" Mixins with JavaScript Classes](http://justinfagnani.com/2015/12/21/real-mixins-with-javascript-classes/)
-
-
+- ["Real" Mixins with JavaScript Classes](http://justinfagnani.com/2015/12/21/real-mixins-with-javascript-classes/)3
 
 
 ---
 
 
 ## 21 - Oct 29 - Tuesday
-## 22 - Oct 30 - TITLE
-## 23 - Oct 31 - TITLE
+
+
+Resources:
+
+- [Expressive CSS](http://johnpolacek.github.io/expressive-css/) - No disrespect, but I don't think utility classes are the solution.
+- [HACKS](https://hacks.mozilla.org/2015/12/beyond-offline/)
+- [Generating SVG With React](http://www.smashingmagazine.com/2015/12/generating-svg-with-react/)
+- [Should I use a video as a background?](https://css-tricks.com/should-i-use-a-video-as-a-background/)
 
 ---
 
-## 24 - DATE - TITLE
+## 22 - Oct 30 - Wednesday (Sailing to Catilina)
+
+Sailed. Came home with 20 misquito bites. Got sick towards the end of the night.
+
+---
+
+## 23 - Oct 31 - Thursday (Sick. New Years Eve)
+
+Sick.
+
+---
+
+## 24 - DATE - Friday
+
+Resources:
+
+- [Revisiting Firefox’s DevTools](http://www.smashingmagazine.com/2015/12/revisiting-firefox-devtools/)
+
+---
 ## 25 - DATE - TITLE
 ## 26 - DATE - TITLE
 ## 27 - DATE - TITLE
