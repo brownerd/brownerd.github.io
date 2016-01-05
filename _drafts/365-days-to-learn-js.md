@@ -693,9 +693,24 @@ Sick.
 Resources:
 
 - [Revisiting Firefox’s DevTools](http://www.smashingmagazine.com/2015/12/revisiting-firefox-devtools/)
+- [How to Build the Right Traffic Metrics Dashboard for 2016 - Whiteboard Friday](https://moz.com/blog/build-the-right-traffic-metrics-dashboard-2016-whiteboard-friday)
+- [Your Salary Is Not The Limit Of Your Income.](https://medium.com/life-learning/your-salary-is-not-the-limit-of-your-income-2211b95546d2#.8ddis9vcz)
+- [Hi, my name is Jon.](http://www.jonwestenberg.com/)
+
 
 ---
-## 25 - DATE - TITLE
+
+## 25 - DATE - Saturday (Raji sick)
+
+Raji barffed last night
+
+Resources:
+
+- [A Baseline for Front-End [JS] Developers, 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015)
+
+
+
+
 ## 26 - DATE - TITLE
 ## 27 - DATE - TITLE
 ## 28 - DATE - TITLE
