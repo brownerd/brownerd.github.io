@@ -28,7 +28,7 @@ So, I’m going to start keeping a journal of my JS learning. I’m doing this b
 
 
 
-## 1 - Oct 9 - Testing
+## DAY 1 - Oct 9 - Testing
 
 On deck:
 
@@ -36,10 +36,10 @@ On deck:
 
 This testing stuff has made zero sense to me until today. Following Eric Elliot has helped a ton in many ways with learning more about JS best practices. His advice about simply using TAPE has made this TDD concept startable. I'll pass on all that Mocha, Chai, Jasmine stuff right now.
 
-After reviewing all of these resources below, I was able to get a couple tests working.
+After reviewing all of these Reading below, I was able to get a couple tests working.
 
 
-Resources:
+Reading:
 
 - [Testing Client/Server JavaScript](https://www.youtube.com/watch?v=lLqCXLYCqTI)
 - [Zuul](https://www.npmjs.com/package/zuul) Browser testing
@@ -51,7 +51,7 @@ Resources:
 
 I need to get out of this info absorption period and into the coding period.
 
-I have a bunch of resources that I want to watch/read before I start making shit. I'm trying to get a bunch of basics and base skills in order first.
+I have a bunch of Reading that I want to watch/read before I start making shit. I'm trying to get a bunch of basics and base skills in order first.
 
 
 Notes:
@@ -64,7 +64,7 @@ Notes:
 ---
 
 
-## 2 - Oct 10 - Wrestling to set up tests still
+## DAY 2 - Oct 10 - Wrestling to set up tests still
 
 Expected:
 
@@ -77,7 +77,7 @@ Actual:
 - Worked all grepping TAPE, CodeCoverage, ESLINT and running NPM scripts
 
 
-Resources:
+Reading:
 
 - [TAP & Tape, the awesome way to test JavaScript](http://www.macwright.org/2014/03/11/tape-is-cool.html)
 - [Testling](https://www.npmjs.com/package/testling)
@@ -143,7 +143,7 @@ Ideas:
 ---
 
 
-## 3 - Oct 11 - Make some shit
+## DAY 3 - Oct 11 - Make some shit
 
 Expected:
 
@@ -162,7 +162,7 @@ Left Over:
 - Start FrontEndMasters videos
 
 
-Resources:
+Reading:
 
 - [How to Spice up Your Slack Channel with Hubot](http://www.sitepoint.com/spice-up-your-slack-channel-with-hubot/)
 - [Making Accessibility Simpler, With Ally.js](http://www.smashingmagazine.com/2015/12/making-accessibility-simpler/)
@@ -177,7 +177,7 @@ Listening to Nina Simone](https://www.youtube.com/watch?v=N4CbuE6--as)
 ---
 
 
-## 4 - Oct 12 - Saturday (Help Jabari and Getting Methods repo working)
+## DAY 4 - Oct 12 - Saturday (Help Jabari and Getting Methods repo working)
 
 
 Left Over:
@@ -197,14 +197,14 @@ Actual:
 
 - Methods (setup Wudojo, Testing and Code Coverage). Got it working. Got intitial testing set up.
 
-Resources:
+Reading:
 
 Ideas:
 
 ---
 
 
-## 5 - Oct 13 - Sunday (Service Workers)
+## DAY 5 - Oct 13 - Sunday (Service Workers)
 
 Left Over:
 
@@ -224,7 +224,7 @@ Left Over:
 
 - Methods (setup Wudojo, Testing and Code Coverage)
 
-Resources:
+Reading:
 
 - [From Jekyll to Ghost](http://bitsofco.de/from-jekyll-to-ghost/)
 - [Why I'm Excited About Native CSS Variables](http://philipwalton.com/articles/why-im-excited-about-native-css-variables/) Interesting. I didn't know this about native CSS
@@ -244,7 +244,7 @@ Ideas:
 ---
 
 
-## 6 - Oct 14 - Monday (Crush open browser tabs)
+## DAY 6 - Oct 14 - Monday (Crush open browser tabs)
 
 Expected:
 
@@ -263,7 +263,7 @@ Left Over:
 - Get simple recursion down
 - Start FrontEndMasters videos
 
-Resources:
+Reading:
 
 - [Tim Holman - Fun.css](https://www.youtube.com/watch?v=lvxLb2zy5Hs)
 - [Sarah Drasner - Complex Responsive Animations](https://www.youtube.com/watch?v=09_8edPAsR8)
@@ -277,7 +277,7 @@ Ideas:
 - Make browser dances like Harlem Shake
 
 ---
-## 7 - Oct 15 - Tuesday (String Methods all day)
+## DAY 7 - Oct 15 - Tuesday (String Methods all day)
 
 
 
@@ -295,7 +295,7 @@ Left Over:
 - Start FrontEndMasters videos
 
 
-Resources:
+Reading:
 
 - [Ryan Seddon - Performance Beyond the Page Load](https://www.youtube.com/watch?v=WAj1yjL7btA)
 - [Pageload Perf Audits with DevTools Filmstrip in Chrome](https://www.youtube.com/watch?v=tCfF6HI0JKs)
@@ -306,7 +306,7 @@ Ideas:
 
 ---
 
-## 8 - Oct 16 - Wednesday (Array methods all day)
+## DAY 8 - Oct 16 - Wednesday (Array methods all day)
 
 Expected:
 
@@ -320,7 +320,7 @@ Left Over:
 - Get forEach and other FP down in regards to Arrays and Objects
 - Start FrontEndMasters videos
 
-Resources:
+Reading:
 
 - [Must Watch Videos on Service Workers](https://changelog.com/must-watch-videos-service-workers/)
 - [Activate Service Workers Faster](https://davidwalsh.name/service-worker-claim)
@@ -338,7 +338,7 @@ Ideas:
     - forEach version
 ---
 
-## 9 - Oct 17 - Thursday - Arrays
+## DAY 9 - Oct 17 - Thursday - Arrays
 
 Expected:
 - Methods project - Finish Arrays
@@ -353,7 +353,7 @@ Left Over:
 - Start FrontEndMasters videos
 
 
-Resources:
+Reading:
 - [My positive experience as a woman in tech](http://lea.verou.me/2015/12/my-positive-experience-as-a-woman-in-tech/)
 - [Understanding the CSS Modules Methodology](http://www.sitepoint.com/understanding-css-modules-methodology/)
 - [isMounted is an Antipattern](https://facebook.github.io/react/blog/2015/12/16/ismounted-antipattern.html)
@@ -370,7 +370,7 @@ Ideas:
 
 ---
 
-## 10 - Oct 18 - Friday
+## DAY 10 - Oct 18 - Friday
 
 Expected:
 - Methods project - Finish Dates
@@ -384,7 +384,7 @@ Left Over:
 
 
 
-Resources:
+Reading:
 - [#187: Redux, React, and Functional JavaScript with Dan Abramov](https://changelog.com/187/)
 - [Understanding JavaScript Function Invocation and "this"](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
 - [The Difference Between Call and Apply in Javascript](http://hangar.runway7.net/javascript/difference-call-apply)
@@ -416,7 +416,7 @@ Ideas:
 ---
 
 
-## 11 - Oct 19 - Saturday (New desk and cleanup)
+## DAY 11 - Oct 19 - Saturday (New desk and cleanup)
 
 Expected:
 - Set up new standing desk
@@ -429,7 +429,7 @@ Left Over:
 - Start FrontEndMasters videos
 
 
-Resources:
+Reading:
 
 Ideas:
 
@@ -437,7 +437,7 @@ Ideas:
 ---
 
 
-## 12 - Oct 20 - Sunday (clean up)
+## DAY 12 - Oct 20 - Sunday (clean up)
 
 Expected:
 
@@ -451,7 +451,7 @@ Left Over:
 - Start FrontEndMasters videos
 
 
-Resources:
+Reading:
 - [Forget Mobile-First & Desktop-First, it's Time to Think Element-First](http://codepen.io/tomhodgins/post/forget-mobile-first-desktop-first-it-s-time-to-think-element-first)
 - [Animating Clipped Elements In SVG](http://www.smashingmagazine.com/2015/12/animating-clipped-elements-svg/)
 - [Tree-shaking with webpack 2 and Babel 6](http://www.2ality.com/2015/12/webpack-tree-shaking.html)
@@ -462,7 +462,7 @@ Ideas:
 ---
 
 
-## 13 - Oct 21 - Monday (Eric Elliot's Programming Javascript Applications)
+## DAY 13 - Oct 21 - Monday (Eric Elliot's Programming Javascript Applications)
 
 Expected:
 - Read Programming Javascript Applications
@@ -479,7 +479,7 @@ Left Over:
 - Start FrontEndMasters videos
 
 
-Resources:
+Reading:
 
 - [Tree-shaking with webpack 2 and Babel 6](http://www.2ality.com/2015/12/webpack-tree-shaking.html)
 - [Functors: I was WRONG! - FunFunFunction #11](https://www.youtube.com/watch?v=DisD9ftUyCk)
@@ -487,7 +487,7 @@ Resources:
 
 
 ---
-## 14 - Oct 22 - Tuesday (Switch to Eloquent Javascript)
+## DAY 14 - Oct 22 - Tuesday (Switch to Eloquent Javascript)
 
 
 
@@ -511,7 +511,7 @@ Actual:
 Left Over:
 
 
-Resources:
+Reading:
 
 - [197: WITH STACY KVERNMO](http://shoptalkshow.com/episodes/197-with-stacy-kvernmo/)
 
@@ -523,7 +523,7 @@ Ideas:
 
 ---
 
-## 15 - Oct 23 - Wednesday - (watch kelleys and camstl reunion)
+## DAY 15 - Oct 23 - Wednesday - (watch kelleys and camstl reunion)
 
 
 Expected:
@@ -540,7 +540,7 @@ Left Over:
 - Start FrontEndMasters videos
 - Object to Array / Array to Object
 
-Resources:
+Reading:
 
 - [Convert Array to Object](http://stackoverflow.com/questions/4215737/convert-array-to-object)
 - [Boiling Down Arrays with Array#reduce](http://adripofjavascript.com/blog/drips/boiling-down-arrays-with-array-reduce.html)
@@ -552,7 +552,7 @@ Ideas:
 
 ---
 
-## 16 - Oct 24 - Thursday (x-mas eve)
+## DAY 16 - Oct 24 - Thursday (x-mas eve)
 
 
 Expected:
@@ -564,7 +564,7 @@ Actual:
 Left Over:
 
 
-Resources:
+Reading:
 
 - [Let's Make a Test Framework](http://dailyjs.com/2010/11/04/framework-part-37/)
 
@@ -573,7 +573,7 @@ Ideas:
 
 
 
-## 17 - Oct 25 - Firday (x-mas)
+## DAY 17 - Oct 25 - Firday (x-mas)
 
 Expected:
 - x-mas
@@ -589,7 +589,7 @@ Left Over:
 - Start FrontEndMasters videos
 - Object to Array / Array to Object
 
-Resources:
+Reading:
 
 - [how to count words in p tag in javascript?](http://stackoverflow.com/questions/28243115/how-to-count-words-in-p-tag-in-javascript)
 
@@ -629,14 +629,14 @@ Ideas:
 
 
 
-## 18 - Oct 26 - Saturday
+## DAY 18 - Oct 26 - Saturday
 
 Travel to Dominican Republic
 
 ---
 
 
-## 19 - Oct 27 - Sunday
+## DAY 19 - Oct 27 - Sunday
 
 Exploring Dominican Republic
 
@@ -644,11 +644,11 @@ Exploring Dominican Republic
 ---
 
 
-## 20 - Oct 28 - Monday
+## DAY 20 - Oct 28 - Monday
 
 Still in D.R. Checking Email and RSS feed
 
-Resources:
+Reading:
 
 - [Javascript Fatigue](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.ec3gtcs9h)
 - [Plop](https://github.com/amwmedia/plop)
@@ -664,10 +664,10 @@ Resources:
 ---
 
 
-## 21 - Oct 29 - Tuesday
+## DAY 21 - Oct 29 - Tuesday
 
 
-Resources:
+Reading:
 
 - [Expressive CSS](http://johnpolacek.github.io/expressive-css/) - No disrespect, but I don't think utility classes are the solution.
 - [HACKS](https://hacks.mozilla.org/2015/12/beyond-offline/)
@@ -676,21 +676,21 @@ Resources:
 
 ---
 
-## 22 - Oct 30 - Wednesday (Sailing to Catilina)
+## DAY 22 - Oct 30 - Wednesday (Sailing to Catilina)
 
 Sailed. Came home with 20 misquito bites. Got sick towards the end of the night.
 
 ---
 
-## 23 - Oct 31 - Thursday (Sick. New Years Eve)
+## DAY 23 - Oct 31 - Thursday (Sick. New Years Eve)
 
 Sick.
 
 ---
 
-## 24 - DATE - Friday
+## DAY 24 - Jan 1 - Friday
 
-Resources:
+Reading:
 
 - [Revisiting Firefox’s DevTools](http://www.smashingmagazine.com/2015/12/revisiting-firefox-devtools/)
 - [How to Build the Right Traffic Metrics Dashboard for 2016 - Whiteboard Friday](https://moz.com/blog/build-the-right-traffic-metrics-dashboard-2016-whiteboard-friday)
@@ -700,357 +700,441 @@ Resources:
 
 ---
 
-## 25 - DATE - Saturday (Raji sick)
+## DAY 25 - Jan 2 - Saturday (Raji sick)
 
 Raji barffed last night
 
-Resources:
+Reading:
 
 - [A Baseline for Front-End [JS] Developers, 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015)
 
 
+## DAY 26 - Jan 3 - Sunday (Travel home to STL)
+
+Played minecraft all flight. Man, its a super cool game!
+
+---
+
+## DAY 27 - Jan 4 - Monday (Slow start)
 
 
-## 26 - DATE - TITLE
-## 27 - DATE - TITLE
-## 28 - DATE - TITLE
-## 29 - DATE - TITLE
-## 30 - DATE - TITLE
-## 31 - DATE - TITLE
-## 32 - DATE - TITLE
-## 33 - DATE - TITLE
-## 34 - DATE - TITLE
-## 35 - DATE - TITLE
-## 36 - DATE - TITLE
-## 37 - DATE - TITLE
-## 38 - DATE - TITLE
-## 39 - DATE - TITLE
-## 40 - DATE - TITLE
-## 41 - DATE - TITLE
-## 42 - DATE - TITLE
-## 43 - DATE - TITLE
-## 44 - DATE - TITLE
-## 45 - DATE - TITLE
-## 46 - DATE - TITLE
-## 47 - DATE - TITLE
-## 48 - DATE - TITLE
-## 49 - DATE - TITLE
-## 50 - DATE - TITLE
-## 51 - DATE - TITLE
-## 52 - DATE - TITLE
-## 53 - DATE - TITLE
-## 54 - DATE - TITLE
-## 55 - DATE - TITLE
-## 56 - DATE - TITLE
-## 57 - DATE - TITLE
-## 58 - DATE - TITLE
-## 59 - DATE - TITLE
-## 60 - DATE - TITLE
-## 61 - DATE - TITLE
-## 62 - DATE - TITLE
-## 63 - DATE - TITLE
-## 64 - DATE - TITLE
-## 65 - DATE - TITLE
-## 66 - DATE - TITLE
-## 67 - DATE - TITLE
-## 68 - DATE - TITLE
-## 69 - DATE - TITLE
-## 70 - DATE - TITLE
-## 71 - DATE - TITLE
-## 72 - DATE - TITLE
-## 73 - DATE - TITLE
-## 74 - DATE - TITLE
-## 75 - DATE - TITLE
-## 76 - DATE - TITLE
-## 77 - DATE - TITLE
-## 78 - DATE - TITLE
-## 79 - DATE - TITLE
-## 80 - DATE - TITLE
-## 81 - DATE - TITLE
-## 82 - DATE - TITLE
-## 83 - DATE - TITLE
-## 84 - DATE - TITLE
-## 85 - DATE - TITLE
-## 86 - DATE - TITLE
-## 87 - DATE - TITLE
-## 88 - DATE - TITLE
-## 89 - DATE - TITLE
-## 90 - DATE - TITLE
-## 91 - DATE - TITLE
-## 92 - DATE - TITLE
-## 93 - DATE - TITLE
-## 94 - DATE - TITLE
-## 95 - DATE - TITLE
-## 96 - DATE - TITLE
-## 97 - DATE - TITLE
-## 98 - DATE - TITLE
-## 99 - DATE - TITLE
-## 100 - DATE - TITLE
-## 101 - DATE - TITLE
-## 102 - DATE - TITLE
-## 103 - DATE - TITLE
-## 104 - DATE - TITLE
-## 105 - DATE - TITLE
-## 106 - DATE - TITLE
-## 107 - DATE - TITLE
-## 108 - DATE - TITLE
-## 109 - DATE - TITLE
-## 110 - DATE - TITLE
-## 111 - DATE - TITLE
-## 112 - DATE - TITLE
-## 113 - DATE - TITLE
-## 114 - DATE - TITLE
-## 115 - DATE - TITLE
-## 116 - DATE - TITLE
-## 117 - DATE - TITLE
-## 118 - DATE - TITLE
-## 119 - DATE - TITLE
-## 120 - DATE - TITLE
-## 121 - DATE - TITLE
-## 122 - DATE - TITLE
-## 123 - DATE - TITLE
-## 124 - DATE - TITLE
-## 125 - DATE - TITLE
-## 126 - DATE - TITLE
-## 127 - DATE - TITLE
-## 128 - DATE - TITLE
-## 129 - DATE - TITLE
-## 130 - DATE - TITLE
-## 131 - DATE - TITLE
-## 132 - DATE - TITLE
-## 133 - DATE - TITLE
-## 134 - DATE - TITLE
-## 135 - DATE - TITLE
-## 136 - DATE - TITLE
-## 137 - DATE - TITLE
-## 138 - DATE - TITLE
-## 139 - DATE - TITLE
-## 140 - DATE - TITLE
-## 141 - DATE - TITLE
-## 142 - DATE - TITLE
-## 143 - DATE - TITLE
-## 144 - DATE - TITLE
-## 145 - DATE - TITLE
-## 146 - DATE - TITLE
-## 147 - DATE - TITLE
-## 148 - DATE - TITLE
-## 149 - DATE - TITLE
-## 150 - DATE - TITLE
-## 151 - DATE - TITLE
-## 152 - DATE - TITLE
-## 153 - DATE - TITLE
-## 154 - DATE - TITLE
-## 155 - DATE - TITLE
-## 156 - DATE - TITLE
-## 157 - DATE - TITLE
-## 158 - DATE - TITLE
-## 159 - DATE - TITLE
-## 160 - DATE - TITLE
-## 161 - DATE - TITLE
-## 162 - DATE - TITLE
-## 163 - DATE - TITLE
-## 164 - DATE - TITLE
-## 165 - DATE - TITLE
-## 166 - DATE - TITLE
-## 167 - DATE - TITLE
-## 168 - DATE - TITLE
-## 169 - DATE - TITLE
-## 170 - DATE - TITLE
-## 171 - DATE - TITLE
-## 172 - DATE - TITLE
-## 173 - DATE - TITLE
-## 174 - DATE - TITLE
-## 175 - DATE - TITLE
-## 176 - DATE - TITLE
-## 177 - DATE - TITLE
-## 178 - DATE - TITLE
-## 179 - DATE - TITLE
-## 180 - DATE - TITLE
-## 181 - DATE - TITLE
-## 182 - DATE - TITLE
-## 183 - DATE - TITLE
-## 184 - DATE - TITLE
-## 185 - DATE - TITLE
-## 186 - DATE - TITLE
-## 187 - DATE - TITLE
-## 188 - DATE - TITLE
-## 189 - DATE - TITLE
-## 190 - DATE - TITLE
-## 191 - DATE - TITLE
-## 192 - DATE - TITLE
-## 193 - DATE - TITLE
-## 194 - DATE - TITLE
-## 195 - DATE - TITLE
-## 196 - DATE - TITLE
-## 197 - DATE - TITLE
-## 198 - DATE - TITLE
-## 199 - DATE - TITLE
-## 200 - DATE - TITLE
-## 201 - DATE - TITLE
-## 202 - DATE - TITLE
-## 203 - DATE - TITLE
-## 204 - DATE - TITLE
-## 205 - DATE - TITLE
-## 206 - DATE - TITLE
-## 207 - DATE - TITLE
-## 208 - DATE - TITLE
-## 209 - DATE - TITLE
-## 210 - DATE - TITLE
-## 211 - DATE - TITLE
-## 212 - DATE - TITLE
-## 213 - DATE - TITLE
-## 214 - DATE - TITLE
-## 215 - DATE - TITLE
-## 216 - DATE - TITLE
-## 217 - DATE - TITLE
-## 218 - DATE - TITLE
-## 219 - DATE - TITLE
-## 220 - DATE - TITLE
-## 221 - DATE - TITLE
-## 222 - DATE - TITLE
-## 223 - DATE - TITLE
-## 224 - DATE - TITLE
-## 225 - DATE - TITLE
-## 226 - DATE - TITLE
-## 227 - DATE - TITLE
-## 228 - DATE - TITLE
-## 229 - DATE - TITLE
-## 230 - DATE - TITLE
-## 231 - DATE - TITLE
-## 232 - DATE - TITLE
-## 233 - DATE - TITLE
-## 234 - DATE - TITLE
-## 235 - DATE - TITLE
-## 236 - DATE - TITLE
-## 237 - DATE - TITLE
-## 238 - DATE - TITLE
-## 239 - DATE - TITLE
-## 240 - DATE - TITLE
-## 241 - DATE - TITLE
-## 242 - DATE - TITLE
-## 243 - DATE - TITLE
-## 244 - DATE - TITLE
-## 245 - DATE - TITLE
-## 246 - DATE - TITLE
-## 247 - DATE - TITLE
-## 248 - DATE - TITLE
-## 249 - DATE - TITLE
-## 250 - DATE - TITLE
-## 251 - DATE - TITLE
-## 252 - DATE - TITLE
-## 253 - DATE - TITLE
-## 254 - DATE - TITLE
-## 255 - DATE - TITLE
-## 256 - DATE - TITLE
-## 257 - DATE - TITLE
-## 258 - DATE - TITLE
-## 259 - DATE - TITLE
-## 260 - DATE - TITLE
-## 261 - DATE - TITLE
-## 262 - DATE - TITLE
-## 263 - DATE - TITLE
-## 264 - DATE - TITLE
-## 265 - DATE - TITLE
-## 266 - DATE - TITLE
-## 267 - DATE - TITLE
-## 268 - DATE - TITLE
-## 269 - DATE - TITLE
-## 270 - DATE - TITLE
-## 271 - DATE - TITLE
-## 272 - DATE - TITLE
-## 273 - DATE - TITLE
-## 274 - DATE - TITLE
-## 275 - DATE - TITLE
-## 276 - DATE - TITLE
-## 277 - DATE - TITLE
-## 278 - DATE - TITLE
-## 279 - DATE - TITLE
-## 280 - DATE - TITLE
-## 281 - DATE - TITLE
-## 282 - DATE - TITLE
-## 283 - DATE - TITLE
-## 284 - DATE - TITLE
-## 285 - DATE - TITLE
-## 286 - DATE - TITLE
-## 287 - DATE - TITLE
-## 288 - DATE - TITLE
-## 289 - DATE - TITLE
-## 290 - DATE - TITLE
-## 291 - DATE - TITLE
-## 292 - DATE - TITLE
-## 293 - DATE - TITLE
-## 294 - DATE - TITLE
-## 295 - DATE - TITLE
-## 296 - DATE - TITLE
-## 297 - DATE - TITLE
-## 298 - DATE - TITLE
-## 299 - DATE - TITLE
-## 300 - DATE - TITLE
-## 301 - DATE - TITLE
-## 302 - DATE - TITLE
-## 303 - DATE - TITLE
-## 304 - DATE - TITLE
-## 305 - DATE - TITLE
-## 306 - DATE - TITLE
-## 307 - DATE - TITLE
-## 308 - DATE - TITLE
-## 309 - DATE - TITLE
-## 310 - DATE - TITLE
-## 311 - DATE - TITLE
-## 312 - DATE - TITLE
-## 313 - DATE - TITLE
-## 314 - DATE - TITLE
-## 315 - DATE - TITLE
-## 316 - DATE - TITLE
-## 317 - DATE - TITLE
-## 318 - DATE - TITLE
-## 319 - DATE - TITLE
-## 320 - DATE - TITLE
-## 321 - DATE - TITLE
-## 322 - DATE - TITLE
-## 323 - DATE - TITLE
-## 324 - DATE - TITLE
-## 325 - DATE - TITLE
-## 326 - DATE - TITLE
-## 327 - DATE - TITLE
-## 328 - DATE - TITLE
-## 329 - DATE - TITLE
-## 330 - DATE - TITLE
-## 331 - DATE - TITLE
-## 332 - DATE - TITLE
-## 333 - DATE - TITLE
-## 334 - DATE - TITLE
-## 335 - DATE - TITLE
-## 336 - DATE - TITLE
-## 337 - DATE - TITLE
-## 338 - DATE - TITLE
-## 339 - DATE - TITLE
-## 340 - DATE - TITLE
-## 341 - DATE - TITLE
-## 342 - DATE - TITLE
-## 343 - DATE - TITLE
-## 344 - DATE - TITLE
-## 345 - DATE - TITLE
-## 346 - DATE - TITLE
-## 347 - DATE - TITLE
-## 348 - DATE - TITLE
-## 349 - DATE - TITLE
-## 350 - DATE - TITLE
-## 351 - DATE - TITLE
-## 352 - DATE - TITLE
-## 353 - DATE - TITLE
-## 354 - DATE - TITLE
-## 355 - DATE - TITLE
-## 356 - DATE - TITLE
-## 357 - DATE - TITLE
-## 358 - DATE - TITLE
-## 359 - DATE - TITLE
-## 360 - DATE - TITLE
-## 361 - DATE - TITLE
-## 362 - DATE - TITLE
-## 363 - DATE - TITLE
-## 364 - DATE - TITLE
-## 365 - Oct 19 - Done
+Expected:
+- No sure
+
+
+Actual:
+- Minecraft. Hooked hard.
+
+
+Reading:
+- [Why Angular 2 Is DOA](http://ilikekillnerds.com/2016/01/why-angular-2-is-doa/)
+
+---
+
+
+## DAY 28 - Jan 5 - Tuesday
+
+
+
+Expected:
+- Get through RSS stuff
+
+
+Actual:
+-
+
+
+Left Over:
+- Get simple recursion down
+- Get forEach and other FP down in regards to Arrays and Objects
+- Nested Loops need practice
+- Get comfortable creating useful closures
+- Start FrontEndMasters videos
+- Object to Array / Array to Object
+
+
+Reading:
+
+- [How to Become a Better Node.js Developer in 2016](https://blog.risingstack.com/how-to-become-a-better-node-js-developer-in-2016/)
+- [What React Stateless Components Are Missing](http://jaketrent.com/post/react-stateless-components-missing/)
+- [Animating the viewBox](http://codepen.io/Mamboleoo/post/animating-the-viewbox)
+- [10 Predictions for 2016 in SEO & Web Marketing](https://moz.com/blog/10-predictions-for-2016-in-seo-web-marketing)
+- [Knex.js](http://knexjs.org/) Knex.js is a "batteries included" SQL query builder for Postgres, MySQL, MariaDB, SQLite3, and Oracle designed to be flexible, portable, and fun to use.
+- [React Webpack CookBook](http://christianalfoni.github.io/react-webpack-cookbook/)
+- [How Tabs Should Work](https://24ways.org/2015/how-tabs-should-work/)
+- [getting getImageData()](http://codepen.io/rachsmith/post/getting-getimagedata)
+- [A Guide To ES6 Classes](http://ilikekillnerds.com/2015/02/a-guide-to-es6-classes/)
+
+
+Ideas:
+
+- ASCII art photo maker
+    - https://davidwalsh.name/convert-image-ascii-art
+    - Uses webcam
+    - Allows user to download image
+    - [console-png](https://www.npmjs.com/package/console-png)
+
+- Remake Album covers
+  - http://www.10x2015.com/
+
+- Methods (setup Wudojo, Testing and Code Coverage)
+- Get simple recursion down
+- Start FrontEndMasters videos
+- Make browser dances like Harlem Shake
+- React site with True Vertical Rhythm + images and stuff
+- Style guide. Just code as usual. Code view only shows on click event. Shows HTML and CSS. Can this be done without the Comment clutter?
+- Show multiple ways to double the elements in an array
+    - `fromDouble = (arr) => Array.from(arr, x => x + x);`
+    - forEach version
+
+- Look over nathan s' slider
+- Visualizing JS - Make a shift, unshift, pop, push, slice, splice, substr, substring visualizer with mnemonic devices
+- Visualizing JS - Make a function maker that shows all the thing you can dump into arguments (string, array, obj, fn, number)
+- WDYGT (What did you Google today)
+
+---
+
+## DAY 29 - Jan  - TITLE
+## DAY 30 - Jan  - TITLE
+## DAY 31 - Jan  - TITLE
+## DAY 32 - Jan  - TITLE
+## DAY 33 - Jan  - TITLE
+## DAY 34 - Jan  - TITLE
+## DAY 35 - Jan  - TITLE
+## DAY 36 - Jan  - TITLE
+## DAY 37 - Jan  - TITLE
+## DAY 38 - Jan  - TITLE
+## DAY 39 - Jan  - TITLE
+## DAY 40 - Jan  - TITLE
+## DAY 41 - Jan  - TITLE
+## DAY 42 - Jan  - TITLE
+## DAY 43 - Jan  - TITLE
+## DAY 44 - Jan  - TITLE
+## DAY 45 - Jan  - TITLE
+## DAY 46 - Jan  - TITLE
+## DAY 47 - Jan  - TITLE
+## DAY 48 - Jan  - TITLE
+## DAY 49 - Jan  - TITLE
+## DAY 50 - Jan  - TITLE
+## DAY 51 - Jan  - TITLE
+## DAY 52 - Jan  - TITLE
+## DAY 53 - Jan  - TITLE
+
+---
+
+
+## DAY 54 - DATE - TITLE
+## DAY 55 - DATE - TITLE
+## DAY 56 - DATE - TITLE
+## DAY 57 - DATE - TITLE
+## DAY 58 - DATE - TITLE
+## DAY 59 - DATE - TITLE
+## DAY 60 - DATE - TITLE
+## DAY 61 - DATE - TITLE
+## DAY 62 - DATE - TITLE
+## DAY 63 - DATE - TITLE
+## DAY 64 - DATE - TITLE
+## DAY 65 - DATE - TITLE
+## DAY 66 - DATE - TITLE
+## DAY 67 - DATE - TITLE
+## DAY 68 - DATE - TITLE
+## DAY 69 - DATE - TITLE
+## DAY 70 - DATE - TITLE
+## DAY 71 - DATE - TITLE
+## DAY 72 - DATE - TITLE
+## DAY 73 - DATE - TITLE
+## DAY 74 - DATE - TITLE
+## DAY 75 - DATE - TITLE
+## DAY 76 - DATE - TITLE
+## DAY 77 - DATE - TITLE
+## DAY 78 - DATE - TITLE
+## DAY 79 - DATE - TITLE
+## DAY 80 - DATE - TITLE
+## DAY 81 - DATE - TITLE
+## DAY 82 - DATE - TITLE
+## DAY 83 - DATE - TITLE
+## DAY 84 - DATE - TITLE
+## DAY 85 - DATE - TITLE
+## DAY 86 - DATE - TITLE
+## DAY 87 - DATE - TITLE
+## DAY 88 - DATE - TITLE
+## DAY 89 - DATE - TITLE
+## DAY 90 - DATE - TITLE
+## DAY 91 - DATE - TITLE
+## DAY 92 - DATE - TITLE
+## DAY 93 - DATE - TITLE
+## DAY 94 - DATE - TITLE
+## DAY 95 - DATE - TITLE
+## DAY 96 - DATE - TITLE
+## DAY 97 - DATE - TITLE
+## DAY 98 - DATE - TITLE
+## DAY 99 - DATE - TITLE
+## DAY 100 - DATE - TITLE
+## DAY 101 - DATE - TITLE
+## DAY 102 - DATE - TITLE
+## DAY 103 - DATE - TITLE
+## DAY 104 - DATE - TITLE
+## DAY 105 - DATE - TITLE
+## DAY 106 - DATE - TITLE
+## DAY 107 - DATE - TITLE
+## DAY 108 - DATE - TITLE
+## DAY 109 - DATE - TITLE
+## DAY 110 - DATE - TITLE
+## DAY 111 - DATE - TITLE
+## DAY 112 - DATE - TITLE
+## DAY 113 - DATE - TITLE
+## DAY 114 - DATE - TITLE
+## DAY 115 - DATE - TITLE
+## DAY 116 - DATE - TITLE
+## DAY 117 - DATE - TITLE
+## DAY 118 - DATE - TITLE
+## DAY 119 - DATE - TITLE
+## DAY 120 - DATE - TITLE
+## DAY 121 - DATE - TITLE
+## DAY 122 - DATE - TITLE
+## DAY 123 - DATE - TITLE
+## DAY 124 - DATE - TITLE
+## DAY 125 - DATE - TITLE
+## DAY 126 - DATE - TITLE
+## DAY 127 - DATE - TITLE
+## DAY 128 - DATE - TITLE
+## DAY 129 - DATE - TITLE
+## DAY 130 - DATE - TITLE
+## DAY 131 - DATE - TITLE
+## DAY 132 - DATE - TITLE
+## DAY 133 - DATE - TITLE
+## DAY 134 - DATE - TITLE
+## DAY 135 - DATE - TITLE
+## DAY 136 - DATE - TITLE
+## DAY 137 - DATE - TITLE
+## DAY 138 - DATE - TITLE
+## DAY 139 - DATE - TITLE
+## DAY 140 - DATE - TITLE
+## DAY 141 - DATE - TITLE
+## DAY 142 - DATE - TITLE
+## DAY 143 - DATE - TITLE
+## DAY 144 - DATE - TITLE
+## DAY 145 - DATE - TITLE
+## DAY 146 - DATE - TITLE
+## DAY 147 - DATE - TITLE
+## DAY 148 - DATE - TITLE
+## DAY 149 - DATE - TITLE
+## DAY 150 - DATE - TITLE
+## DAY 151 - DATE - TITLE
+## DAY 152 - DATE - TITLE
+## DAY 153 - DATE - TITLE
+## DAY 154 - DATE - TITLE
+## DAY 155 - DATE - TITLE
+## DAY 156 - DATE - TITLE
+## DAY 157 - DATE - TITLE
+## DAY 158 - DATE - TITLE
+## DAY 159 - DATE - TITLE
+## DAY 160 - DATE - TITLE
+## DAY 161 - DATE - TITLE
+## DAY 162 - DATE - TITLE
+## DAY 163 - DATE - TITLE
+## DAY 164 - DATE - TITLE
+## DAY 165 - DATE - TITLE
+## DAY 166 - DATE - TITLE
+## DAY 167 - DATE - TITLE
+## DAY 168 - DATE - TITLE
+## DAY 169 - DATE - TITLE
+## DAY 170 - DATE - TITLE
+## DAY 171 - DATE - TITLE
+## DAY 172 - DATE - TITLE
+## DAY 173 - DATE - TITLE
+## DAY 174 - DATE - TITLE
+## DAY 175 - DATE - TITLE
+## DAY 176 - DATE - TITLE
+## DAY 177 - DATE - TITLE
+## DAY 178 - DATE - TITLE
+## DAY 179 - DATE - TITLE
+## DAY 180 - DATE - TITLE
+## DAY 181 - DATE - TITLE
+## DAY 182 - DATE - TITLE
+## DAY 183 - DATE - TITLE
+## DAY 184 - DATE - TITLE
+## DAY 185 - DATE - TITLE
+## DAY 186 - DATE - TITLE
+## DAY 187 - DATE - TITLE
+## DAY 188 - DATE - TITLE
+## DAY 189 - DATE - TITLE
+## DAY 190 - DATE - TITLE
+## DAY 191 - DATE - TITLE
+## DAY 192 - DATE - TITLE
+## DAY 193 - DATE - TITLE
+## DAY 194 - DATE - TITLE
+## DAY 195 - DATE - TITLE
+## DAY 196 - DATE - TITLE
+## DAY 197 - DATE - TITLE
+## DAY 198 - DATE - TITLE
+## DAY 199 - DATE - TITLE
+## DAY 200 - DATE - TITLE
+## DAY 201 - DATE - TITLE
+## DAY 202 - DATE - TITLE
+## DAY 203 - DATE - TITLE
+## DAY 204 - DATE - TITLE
+## DAY 205 - DATE - TITLE
+## DAY 206 - DATE - TITLE
+## DAY 207 - DATE - TITLE
+## DAY 208 - DATE - TITLE
+## DAY 209 - DATE - TITLE
+## DAY 210 - DATE - TITLE
+## DAY 211 - DATE - TITLE
+## DAY 212 - DATE - TITLE
+## DAY 213 - DATE - TITLE
+## DAY 214 - DATE - TITLE
+## DAY 215 - DATE - TITLE
+## DAY 216 - DATE - TITLE
+## DAY 217 - DATE - TITLE
+## DAY 218 - DATE - TITLE
+## DAY 219 - DATE - TITLE
+## DAY 220 - DATE - TITLE
+## DAY 221 - DATE - TITLE
+## DAY 222 - DATE - TITLE
+## DAY 223 - DATE - TITLE
+## DAY 224 - DATE - TITLE
+## DAY 225 - DATE - TITLE
+## DAY 226 - DATE - TITLE
+## DAY 227 - DATE - TITLE
+## DAY 228 - DATE - TITLE
+## DAY 229 - DATE - TITLE
+## DAY 230 - DATE - TITLE
+## DAY 231 - DATE - TITLE
+## DAY 232 - DATE - TITLE
+## DAY 233 - DATE - TITLE
+## DAY 234 - DATE - TITLE
+## DAY 235 - DATE - TITLE
+## DAY 236 - DATE - TITLE
+## DAY 237 - DATE - TITLE
+## DAY 238 - DATE - TITLE
+## DAY 239 - DATE - TITLE
+## DAY 240 - DATE - TITLE
+## DAY 241 - DATE - TITLE
+## DAY 242 - DATE - TITLE
+## DAY 243 - DATE - TITLE
+## DAY 244 - DATE - TITLE
+## DAY 245 - DATE - TITLE
+## DAY 246 - DATE - TITLE
+## DAY 247 - DATE - TITLE
+## DAY 248 - DATE - TITLE
+## DAY 249 - DATE - TITLE
+## DAY 250 - DATE - TITLE
+## DAY 251 - DATE - TITLE
+## DAY 252 - DATE - TITLE
+## DAY 253 - DATE - TITLE
+## DAY 254 - DATE - TITLE
+## DAY 255 - DATE - TITLE
+## DAY 256 - DATE - TITLE
+## DAY 257 - DATE - TITLE
+## DAY 258 - DATE - TITLE
+## DAY 259 - DATE - TITLE
+## DAY 260 - DATE - TITLE
+## DAY 261 - DATE - TITLE
+## DAY 262 - DATE - TITLE
+## DAY 263 - DATE - TITLE
+## DAY 264 - DATE - TITLE
+## DAY 265 - DATE - TITLE
+## DAY 266 - DATE - TITLE
+## DAY 267 - DATE - TITLE
+## DAY 268 - DATE - TITLE
+## DAY 269 - DATE - TITLE
+## DAY 270 - DATE - TITLE
+## DAY 271 - DATE - TITLE
+## DAY 272 - DATE - TITLE
+## DAY 273 - DATE - TITLE
+## DAY 274 - DATE - TITLE
+## DAY 275 - DATE - TITLE
+## DAY 276 - DATE - TITLE
+## DAY 277 - DATE - TITLE
+## DAY 278 - DATE - TITLE
+## DAY 279 - DATE - TITLE
+## DAY 280 - DATE - TITLE
+## DAY 281 - DATE - TITLE
+## DAY 282 - DATE - TITLE
+## DAY 283 - DATE - TITLE
+## DAY 284 - DATE - TITLE
+## DAY 285 - DATE - TITLE
+## DAY 286 - DATE - TITLE
+## DAY 287 - DATE - TITLE
+## DAY 288 - DATE - TITLE
+## DAY 289 - DATE - TITLE
+## DAY 290 - DATE - TITLE
+## DAY 291 - DATE - TITLE
+## DAY 292 - DATE - TITLE
+## DAY 293 - DATE - TITLE
+## DAY 294 - DATE - TITLE
+## DAY 295 - DATE - TITLE
+## DAY 296 - DATE - TITLE
+## DAY 297 - DATE - TITLE
+## DAY 298 - DATE - TITLE
+## DAY 299 - DATE - TITLE
+## DAY 300 - DATE - TITLE
+## DAY 301 - DATE - TITLE
+## DAY 302 - DATE - TITLE
+## DAY 303 - DATE - TITLE
+## DAY 304 - DATE - TITLE
+## DAY 305 - DATE - TITLE
+## DAY 306 - DATE - TITLE
+## DAY 307 - DATE - TITLE
+## DAY 308 - DATE - TITLE
+## DAY 309 - DATE - TITLE
+## DAY 310 - DATE - TITLE
+## DAY 311 - DATE - TITLE
+## DAY 312 - DATE - TITLE
+## DAY 313 - DATE - TITLE
+## DAY 314 - DATE - TITLE
+## DAY 315 - DATE - TITLE
+## DAY 316 - DATE - TITLE
+## DAY 317 - DATE - TITLE
+## DAY 318 - DATE - TITLE
+## DAY 319 - DATE - TITLE
+## DAY 320 - DATE - TITLE
+## DAY 321 - DATE - TITLE
+## DAY 322 - DATE - TITLE
+## DAY 323 - DATE - TITLE
+## DAY 324 - DATE - TITLE
+## DAY 325 - DATE - TITLE
+## DAY 326 - DATE - TITLE
+## DAY 327 - DATE - TITLE
+## DAY 328 - DATE - TITLE
+## DAY 329 - DATE - TITLE
+## DAY 330 - DATE - TITLE
+## DAY 331 - DATE - TITLE
+## DAY 332 - DATE - TITLE
+## DAY 333 - DATE - TITLE
+## DAY 334 - DATE - TITLE
+## DAY 335 - DATE - TITLE
+## DAY 336 - DATE - TITLE
+## DAY 337 - DATE - TITLE
+## DAY 338 - DATE - TITLE
+## DAY 339 - DATE - TITLE
+## DAY 340 - DATE - TITLE
+## DAY 341 - DATE - TITLE
+## DAY 342 - DATE - TITLE
+## DAY 343 - DATE - TITLE
+## DAY 344 - DATE - TITLE
+## DAY 345 - DATE - TITLE
+## DAY 346 - DATE - TITLE
+## DAY 347 - DATE - TITLE
+## DAY 348 - DATE - TITLE
+## DAY 349 - DATE - TITLE
+## DAY 350 - DATE - TITLE
+## DAY 351 - DATE - TITLE
+## DAY 352 - DATE - TITLE
+## DAY 353 - DATE - TITLE
+## DAY 354 - DATE - TITLE
+## DAY 355 - DATE - TITLE
+## DAY 356 - DATE - TITLE
+## DAY 357 - DATE - TITLE
+## DAY 358 - DATE - TITLE
+## DAY 359 - DATE - TITLE
+## DAY 360 - DATE - TITLE
+## DAY 361 - DATE - TITLE
+## DAY 362 - DATE - TITLE
+## DAY 363 - DATE - TITLE
+## DAY 364 - DATE - TITLE
+## DAY 365 - Oct 19 - Done
 
 
 
@@ -1060,7 +1144,7 @@ Actual:
 
 Left Over:
 
-Resources:
+Reading:
 
 Ideas:
 
