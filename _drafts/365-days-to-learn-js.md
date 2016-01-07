@@ -696,6 +696,7 @@ Reading:
 - [How to Build the Right Traffic Metrics Dashboard for 2016 - Whiteboard Friday](https://moz.com/blog/build-the-right-traffic-metrics-dashboard-2016-whiteboard-friday)
 - [Your Salary Is Not The Limit Of Your Income.](https://medium.com/life-learning/your-salary-is-not-the-limit-of-your-income-2211b95546d2#.8ddis9vcz)
 - [Hi, my name is Jon.](http://www.jonwestenberg.com/)
+- [#189: JSON API with Yehuda Katz](https://changelog.com/189/)
 
 
 ---
@@ -764,6 +765,17 @@ Reading:
 - [How Tabs Should Work](https://24ways.org/2015/how-tabs-should-work/)
 - [getting getImageData()](http://codepen.io/rachsmith/post/getting-getimagedata)
 - [A Guide To ES6 Classes](http://ilikekillnerds.com/2015/02/a-guide-to-es6-classes/)
+- [Introducing d3-scale](https://medium.com/@mbostock/introducing-d3-scale-61980c51545f#.vj440v76s)
+- [React without undue complications](https://medium.com/@davidvlsea/react-without-undue-complications-f3490403fdc0#.51h1kbrxx)
+- [DuoTone themes](http://simurai.com/projects/2016/01/01/duotone-themes/)
+- [Setting up ES6](https://leanpub.com/setting-up-es6)
+- [Introducing the WP REST API](http://code.tutsplus.com/tutorials/introducing-the-wp-rest-api--cms-24533)
+- [JavaScript Fundamentals: JSON Explained](http://thenewcode.com/339/JavaScript-Fundamentals-JSON-Explained)
+- [30 days, 30 demos](http://mattdesl.svbtle.com/codevember)
+- [2015 Year End Review](http://blog.codepen.io/2016/01/01/2015-year-end-review/)
+- [Is the Hamburger Menu a Problem?](https://medium.com/readme-mic/is-the-hamburger-menu-a-problem-d606d40a105f#.6ii8or5fy)
+- [Looking back on 2015: six exciting web technologies](http://www.2ality.com/2016/01/web-technologies-2015.html)
+
 
 
 Ideas:
