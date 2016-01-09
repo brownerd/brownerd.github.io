@@ -733,7 +733,7 @@ Reading:
 ---
 
 
-## DAY 28 - Jan 5 - Tuesday
+## DAY 28 - Jan 5 - Tuesday (Amir got sick)
 
 
 
@@ -742,7 +742,9 @@ Expected:
 
 
 Actual:
--
+- Read tons of stuff in my RSS reed from last wee
+- Lost of MineCraft
+- Amir got sick
 
 
 Left Over:
@@ -776,9 +778,85 @@ Reading:
 - [Is the Hamburger Menu a Problem?](https://medium.com/readme-mic/is-the-hamburger-menu-a-problem-d606d40a105f#.6ii8or5fy)
 - [Looking back on 2015: six exciting web technologies](http://www.2ality.com/2016/01/web-technologies-2015.html)
 
+---
+
+## DAY 29 - Jan 6 - Wednesday (Amir home from school)
+
+
+
+Expected:
+- Hang out with Amir
+
+
+Actual:
+- Played with Amir: legos, Kano, MineCraft
+
+
+---
+
+## DAY 30 - Jan 7 - Thursday (Slow start, trying to get back to speed)
+
+
+Expected:
+- Fun Fun Function videos
+- Get back to Eloquent JS
+
+
+Actual:
+- Watched FFF videos
+- Started reading Eloquent JS again
+
+
+Reading:
+- [Questions and Answers - FunFunFunction #12](https://www.youtube.com/watch?v=TbLvrszqi_8)
+- [Streams - FunFunFunction #13](https://www.youtube.com/watch?v=UD2dZw9iHCc)
+
+
+---
+
+
+## DAY 31 - Jan 8 - Friday (Amir Sick again)
+
+Expected:
+- Eloquent JS if possible
+
+
+Actual:
+- Made legos
+- Lenses for Carl
+
+
+Left Over:
+- Get simple recursion down
+- Get forEach and other FP down in regards to Arrays and Objects
+- Nested Loops need practice
+- Get comfortable creating useful closures
+- Start FrontEndMasters videos
+- Object to Array / Array to Object
+
+
+Reading:
+- [Simple Guide to Finding a JavaScript Memory Leak in Node.js]
+(http://www.alexkras.com/simple-guide-to-finding-a-javascript-memory-leak-in-node-js/)
+- [hello.js](https://adodson.com/hello.js/#hellojs)
+- [This Week's Playlist
+12.13.15](http://thisweeksplaylist.co/)
+- [Quick Tip: Stop Writing Loops and Start Thinking with Maps](http://www.sitepoint.com/quick-tip-stop-writing-loops-start-thinking-with-maps/)
 
 
 Ideas:
+- Games...I gotta look into this too
+
+
+- [This Week's Playlist Concept](http://thisweeksplaylist.co/)
+- [Airport Codes](http://airportcod.es/)
+
+
+- JS stop watch for Rubi
+  - Start and stop with spacebar
+  - clear
+  - record top times
+  - post to whatever
 
 - ASCII art photo maker
     - https://davidwalsh.name/convert-image-ascii-art
@@ -804,12 +882,26 @@ Ideas:
 - Visualizing JS - Make a function maker that shows all the thing you can dump into arguments (string, array, obj, fn, number)
 - WDYGT (What did you Google today)
 
+- Layout (popularly bad habits)
+  - Excessive columns and containers
+  - Excessive sidebars
+  - Multi-column footers with bullshit in them
+  - nav bars with site logo in the middle
+  - Shit popularized by WP themes
+
+- A better WYSIWYG editor
+
+
+
 ---
 
-## DAY 29 - Jan  - TITLE
-## DAY 30 - Jan  - TITLE
-## DAY 31 - Jan  - TITLE
-## DAY 32 - Jan  - TITLE
+
+## DAY 32 - Jan 9 - Saturday (?)
+
+
+
+---
+
 ## DAY 33 - Jan  - TITLE
 ## DAY 34 - Jan  - TITLE
 ## DAY 35 - Jan  - TITLE
