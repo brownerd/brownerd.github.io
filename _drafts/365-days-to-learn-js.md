@@ -826,6 +826,55 @@ Actual:
 - Lenses for Carl
 
 
+Reading:
+- [Simple Guide to Finding a JavaScript Memory Leak in Node.js]
+(http://www.alexkras.com/simple-guide-to-finding-a-javascript-memory-leak-in-node-js/)
+- [hello.js](https://adodson.com/hello.js/#hellojs)
+- [This Week's Playlist
+12.13.15](http://thisweeksplaylist.co/)
+- [Quick Tip: Stop Writing Loops and Start Thinking with Maps](http://www.sitepoint.com/quick-tip-stop-writing-loops-start-thinking-with-maps/)
+
+
+---
+
+
+## DAY 32 - Jan 9 - Saturday (Amir still a little sick)
+
+Expected:
+- Eloquent JS if possible
+
+
+Actual:
+- Family time
+
+
+---
+
+## DAY 33 - Jan 10 - Sunday (Family day)
+
+Expected:
+- Eloquent JS if possible
+
+
+Actual:
+- Family time
+
+
+
+---
+
+## DAY 34 - Jan 11 - Monday (Watching Raji)
+
+
+Expected:
+- Not much
+
+- Eloquent JS if possible
+
+Actual:
+- Watched Raji
+
+
 Left Over:
 - Get simple recursion down
 - Get forEach and other FP down in regards to Arrays and Objects
@@ -836,12 +885,7 @@ Left Over:
 
 
 Reading:
-- [Simple Guide to Finding a JavaScript Memory Leak in Node.js]
-(http://www.alexkras.com/simple-guide-to-finding-a-javascript-memory-leak-in-node-js/)
-- [hello.js](https://adodson.com/hello.js/#hellojs)
-- [This Week's Playlist
-12.13.15](http://thisweeksplaylist.co/)
-- [Quick Tip: Stop Writing Loops and Start Thinking with Maps](http://www.sitepoint.com/quick-tip-stop-writing-loops-start-thinking-with-maps/)
+- [Programming is not important - FunFunFunction #13](https://www.youtube.com/watch?v=5qkupdkdzAc)
 
 
 Ideas:
@@ -893,17 +937,7 @@ Ideas:
 
 
 
----
 
-
-## DAY 32 - Jan 9 - Saturday (?)
-
-
-
----
-
-## DAY 33 - Jan  - TITLE
-## DAY 34 - Jan  - TITLE
 ## DAY 35 - Jan  - TITLE
 ## DAY 36 - Jan  - TITLE
 ## DAY 37 - Jan  - TITLE
