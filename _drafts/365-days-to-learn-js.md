@@ -23,7 +23,7 @@ So, I’m going to start keeping a journal of my JS learning. I’m doing this b
 - Made a tool called Wudojo to learn JS
 - Started to use ESLINT
 - Found FunFunFunction and watched all the video
-- Started reading all of Eric Elliots posts on Medium
+- Started Read/Watched all of Eric Elliots posts on Medium
 - Looked into Node a little bit
 
 
@@ -36,10 +36,10 @@ On deck:
 
 This testing stuff has made zero sense to me until today. Following Eric Elliot has helped a ton in many ways with learning more about JS best practices. His advice about simply using TAPE has made this TDD concept startable. I'll pass on all that Mocha, Chai, Jasmine stuff right now.
 
-After reviewing all of these Reading below, I was able to get a couple tests working.
+After reviewing all of these Read/Watched below, I was able to get a couple tests working.
 
 
-Reading:
+Read/Watched:
 
 - [Testing Client/Server JavaScript](https://www.youtube.com/watch?v=lLqCXLYCqTI)
 - [Zuul](https://www.npmjs.com/package/zuul) Browser testing
@@ -51,7 +51,7 @@ Reading:
 
 I need to get out of this info absorption period and into the coding period.
 
-I have a bunch of Reading that I want to watch/read before I start making shit. I'm trying to get a bunch of basics and base skills in order first.
+I have a bunch of Read/Watched that I want to watch/read before I start making shit. I'm trying to get a bunch of basics and base skills in order first.
 
 
 Notes:
@@ -77,7 +77,7 @@ Actual:
 - Worked all grepping TAPE, CodeCoverage, ESLINT and running NPM scripts
 
 
-Reading:
+Read/Watched:
 
 - [TAP & Tape, the awesome way to test JavaScript](http://www.macwright.org/2014/03/11/tape-is-cool.html)
 - [Testling](https://www.npmjs.com/package/testling)
@@ -162,7 +162,7 @@ Left Over:
 - Start FrontEndMasters videos
 
 
-Reading:
+Read/Watched:
 
 - [How to Spice up Your Slack Channel with Hubot](http://www.sitepoint.com/spice-up-your-slack-channel-with-hubot/)
 - [Making Accessibility Simpler, With Ally.js](http://www.smashingmagazine.com/2015/12/making-accessibility-simpler/)
@@ -197,7 +197,7 @@ Actual:
 
 - Methods (setup Wudojo, Testing and Code Coverage). Got it working. Got intitial testing set up.
 
-Reading:
+Read/Watched:
 
 Ideas:
 
@@ -224,7 +224,7 @@ Left Over:
 
 - Methods (setup Wudojo, Testing and Code Coverage)
 
-Reading:
+Read/Watched:
 
 - [From Jekyll to Ghost](http://bitsofco.de/from-jekyll-to-ghost/)
 - [Why I'm Excited About Native CSS Variables](http://philipwalton.com/articles/why-im-excited-about-native-css-variables/) Interesting. I didn't know this about native CSS
@@ -263,7 +263,7 @@ Left Over:
 - Get simple recursion down
 - Start FrontEndMasters videos
 
-Reading:
+Read/Watched:
 
 - [Tim Holman - Fun.css](https://www.youtube.com/watch?v=lvxLb2zy5Hs)
 - [Sarah Drasner - Complex Responsive Animations](https://www.youtube.com/watch?v=09_8edPAsR8)
@@ -295,7 +295,7 @@ Left Over:
 - Start FrontEndMasters videos
 
 
-Reading:
+Read/Watched:
 
 - [Ryan Seddon - Performance Beyond the Page Load](https://www.youtube.com/watch?v=WAj1yjL7btA)
 - [Pageload Perf Audits with DevTools Filmstrip in Chrome](https://www.youtube.com/watch?v=tCfF6HI0JKs)
@@ -320,7 +320,7 @@ Left Over:
 - Get forEach and other FP down in regards to Arrays and Objects
 - Start FrontEndMasters videos
 
-Reading:
+Read/Watched:
 
 - [Must Watch Videos on Service Workers](https://changelog.com/must-watch-videos-service-workers/)
 - [Activate Service Workers Faster](https://davidwalsh.name/service-worker-claim)
@@ -353,7 +353,7 @@ Left Over:
 - Start FrontEndMasters videos
 
 
-Reading:
+Read/Watched:
 - [My positive experience as a woman in tech](http://lea.verou.me/2015/12/my-positive-experience-as-a-woman-in-tech/)
 - [Understanding the CSS Modules Methodology](http://www.sitepoint.com/understanding-css-modules-methodology/)
 - [isMounted is an Antipattern](https://facebook.github.io/react/blog/2015/12/16/ismounted-antipattern.html)
@@ -384,7 +384,7 @@ Left Over:
 
 
 
-Reading:
+Read/Watched:
 - [#187: Redux, React, and Functional JavaScript with Dan Abramov](https://changelog.com/187/)
 - [Understanding JavaScript Function Invocation and "this"](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
 - [The Difference Between Call and Apply in Javascript](http://hangar.runway7.net/javascript/difference-call-apply)
@@ -429,7 +429,7 @@ Left Over:
 - Start FrontEndMasters videos
 
 
-Reading:
+Read/Watched:
 
 Ideas:
 
@@ -451,7 +451,7 @@ Left Over:
 - Start FrontEndMasters videos
 
 
-Reading:
+Read/Watched:
 - [Forget Mobile-First & Desktop-First, it's Time to Think Element-First](http://codepen.io/tomhodgins/post/forget-mobile-first-desktop-first-it-s-time-to-think-element-first)
 - [Animating Clipped Elements In SVG](http://www.smashingmagazine.com/2015/12/animating-clipped-elements-svg/)
 - [Tree-shaking with webpack 2 and Babel 6](http://www.2ality.com/2015/12/webpack-tree-shaking.html)
@@ -479,7 +479,7 @@ Left Over:
 - Start FrontEndMasters videos
 
 
-Reading:
+Read/Watched:
 
 - [Tree-shaking with webpack 2 and Babel 6](http://www.2ality.com/2015/12/webpack-tree-shaking.html)
 - [Functors: I was WRONG! - FunFunFunction #11](https://www.youtube.com/watch?v=DisD9ftUyCk)
@@ -511,7 +511,7 @@ Actual:
 Left Over:
 
 
-Reading:
+Read/Watched:
 
 - [197: WITH STACY KVERNMO](http://shoptalkshow.com/episodes/197-with-stacy-kvernmo/)
 
@@ -540,7 +540,7 @@ Left Over:
 - Start FrontEndMasters videos
 - Object to Array / Array to Object
 
-Reading:
+Read/Watched:
 
 - [Convert Array to Object](http://stackoverflow.com/questions/4215737/convert-array-to-object)
 - [Boiling Down Arrays with Array#reduce](http://adripofjavascript.com/blog/drips/boiling-down-arrays-with-array-reduce.html)
@@ -564,7 +564,7 @@ Actual:
 Left Over:
 
 
-Reading:
+Read/Watched:
 
 - [Let's Make a Test Framework](http://dailyjs.com/2010/11/04/framework-part-37/)
 
@@ -589,7 +589,7 @@ Left Over:
 - Start FrontEndMasters videos
 - Object to Array / Array to Object
 
-Reading:
+Read/Watched:
 
 - [how to count words in p tag in javascript?](http://stackoverflow.com/questions/28243115/how-to-count-words-in-p-tag-in-javascript)
 
@@ -648,7 +648,7 @@ Exploring Dominican Republic
 
 Still in D.R. Checking Email and RSS feed
 
-Reading:
+Read/Watched:
 
 - [Javascript Fatigue](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.ec3gtcs9h)
 - [Plop](https://github.com/amwmedia/plop)
@@ -667,7 +667,7 @@ Reading:
 ## DAY 21 - Oct 29 - Tuesday
 
 
-Reading:
+Read/Watched:
 
 - [Expressive CSS](http://johnpolacek.github.io/expressive-css/) - No disrespect, but I don't think utility classes are the solution.
 - [HACKS](https://hacks.mozilla.org/2015/12/beyond-offline/)
@@ -690,7 +690,7 @@ Sick.
 
 ## DAY 24 - Jan 1 - Friday
 
-Reading:
+Read/Watched:
 
 - [Revisiting Firefox’s DevTools](http://www.smashingmagazine.com/2015/12/revisiting-firefox-devtools/)
 - [How to Build the Right Traffic Metrics Dashboard for 2016 - Whiteboard Friday](https://moz.com/blog/build-the-right-traffic-metrics-dashboard-2016-whiteboard-friday)
@@ -705,7 +705,7 @@ Reading:
 
 Raji barffed last night
 
-Reading:
+Read/Watched:
 
 - [A Baseline for Front-End [JS] Developers, 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015)
 
@@ -727,7 +727,7 @@ Actual:
 - Minecraft. Hooked hard.
 
 
-Reading:
+Read/Watched:
 - [Why Angular 2 Is DOA](http://ilikekillnerds.com/2016/01/why-angular-2-is-doa/)
 
 ---
@@ -756,7 +756,7 @@ Left Over:
 - Object to Array / Array to Object
 
 
-Reading:
+Read/Watched:
 
 - [How to Become a Better Node.js Developer in 2016](https://blog.risingstack.com/how-to-become-a-better-node-js-developer-in-2016/)
 - [What React Stateless Components Are Missing](http://jaketrent.com/post/react-stateless-components-missing/)
@@ -804,10 +804,10 @@ Expected:
 
 Actual:
 - Watched FFF videos
-- Started reading Eloquent JS again
+- Started Read/Watched Eloquent JS again
 
 
-Reading:
+Read/Watched:
 - [Questions and Answers - FunFunFunction #12](https://www.youtube.com/watch?v=TbLvrszqi_8)
 - [Streams - FunFunFunction #13](https://www.youtube.com/watch?v=UD2dZw9iHCc)
 
@@ -826,7 +826,7 @@ Actual:
 - Lenses for Carl
 
 
-Reading:
+Read/Watched:
 - [Simple Guide to Finding a JavaScript Memory Leak in Node.js]
 (http://www.alexkras.com/simple-guide-to-finding-a-javascript-memory-leak-in-node-js/)
 - [hello.js](https://adodson.com/hello.js/#hellojs)
@@ -865,14 +865,65 @@ Actual:
 
 ## DAY 34 - Jan 11 - Monday (Watching Raji)
 
+Watching Raji today since our nanny hurt her back.
+
 
 Expected:
 - Not much
-
 - Eloquent JS if possible
 
 Actual:
 - Watched Raji
+- Tried to work, but Raji wasn't havin' it.
+
+
+Read/Watched:
+- [Programming is not important - FunFunFunction #13](https://www.youtube.com/watch?v=5qkupdkdzAc)
+
+
+---
+
+## DAY 35 - Jan 12 - Tuesday (Meeting with EEC)
+
+
+Expected:
+- Eloquent JS if possible
+- Help Marc with his SquareSpace site
+
+Actual:
+- Still trying to catch up to RSS feed articles.
+- Helped Marc move his site to SquareSpace and fixed his email
+- Made a pen for David Bowie, RIP
+
+
+Read/Watched:
+- [065 Atom](http://build-podcast.com/atom/)
+- [This Weekend's DDoS attack and What's in a (C)Name?](https://www.netlify.com/blog/2016/01/12/ddos-attacks-and-dns-records.html)
+- [Top 10 Programming Languages to Learn in 2016](https://www.youtube.com/watch?v=Z56GLRXxh88)
+- [Higher order functions in ES6:
+Easy as a => b => c;](https://strongloop.com/strongblog/higher-order-functions-in-es6easy-as-a-b-c/)
+- [React on ES6+](http://babeljs.io/blog/2015/06/07/react-on-es6-plus/)
+- [swiss in css](http://swissincss.com/)
+- [Media Query Breaks Modularity, Use Container Query](http://d6u.github.io/react-container-query/)
+- [React Container Query](https://github.com/d6u/react-container-query)
+- [ColorFavs Home Sign upSign inPalettesColorsShowcase](http://www.colorfavs.com/)
+- [jstips](https://github.com/loverajoel/jstips)
+- [198: WITH ASHE DRYDEN](http://shoptalkshow.com/episodes/198-with-ashe-dryden/)
+- [OOP - switch revisited in JavaScript](http://www.nicoespeon.com/en/2015/01/oop-revisited-switch-in-js/)
+
+
+---
+
+
+## DAY 36 - Jan  - TITLE
+
+
+Expected:
+- Eloquent JS if possible
+
+
+Actual:
+
 
 
 Left Over:
@@ -884,11 +935,16 @@ Left Over:
 - Object to Array / Array to Object
 
 
-Reading:
-- [Programming is not important - FunFunFunction #13](https://www.youtube.com/watch?v=5qkupdkdzAc)
+Read/Watched:
+
+- [071: Health Insurance](http://blog.codepen.io/2016/01/07/071-health-insurance/)
 
 
 Ideas:
+
+
+- STL photos Stock image site (like unsplash) and STL photos chrome plugin (new photo on each tab [photographer's info, EXIF])
+
 - Games...I gotta look into this too
 
 
@@ -935,11 +991,9 @@ Ideas:
 
 - A better WYSIWYG editor
 
+---
 
 
-
-## DAY 35 - Jan  - TITLE
-## DAY 36 - Jan  - TITLE
 ## DAY 37 - Jan  - TITLE
 ## DAY 38 - Jan  - TITLE
 ## DAY 39 - Jan  - TITLE
@@ -1282,7 +1336,7 @@ Actual:
 
 Left Over:
 
-Reading:
+Read/Watched:
 
 Ideas:
 
