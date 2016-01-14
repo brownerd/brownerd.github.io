@@ -592,9 +592,7 @@ Left Over:
 Read/Watched:
 
 - [how to count words in p tag in javascript?](http://stackoverflow.com/questions/28243115/how-to-count-words-in-p-tag-in-javascript)
-
 - [Node.textContent](https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent)
-
 - [JavaScript: What's the difference between textContent, innerHTML, innerText, nodeValue?](http://xahlee.info/js/js_textContent_innerHTML_innerText_nodeValue.html)
 
 
@@ -650,10 +648,10 @@ Still in D.R. Checking Email and RSS feed
 
 Read/Watched:
 
-- [Javascript Fatigue](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.ec3gtcs9h)
+- [:+1: Javascript Fatigue](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.ec3gtcs9h)
 - [Plop](https://github.com/amwmedia/plop)
-- [Should I use React.createClass, ES6 Classes or stateless functional components?](http://jamesknelson.com/should-i-use-react-createclass-es6-classes-or-stateless-functional-components/)
-- [The future of bundling JavaScript modules](http://www.2ality.com/2015/12/bundling-modules-future.html)
+- [:+1: Should I use React.createClass, ES6 Classes or stateless functional components?](http://jamesknelson.com/should-i-use-react-createclass-es6-classes-or-stateless-functional-components/)
+- [:+1: The future of bundling JavaScript modules](http://www.2ality.com/2015/12/bundling-modules-future.html)
 - [Reimagining Single-Page Applications With Progressive Enhancement](http://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/)
 - [Interface Animation. The Force of Motion](https://medium.com/@tubikstudio/interface-animation-the-force-of-motion-598b84734e69#.xyqo7f500)
 - [DOCSEARCH](http://community.algolia.com/docsearch/)
@@ -694,8 +692,8 @@ Read/Watched:
 
 - [Revisiting Firefox’s DevTools](http://www.smashingmagazine.com/2015/12/revisiting-firefox-devtools/)
 - [How to Build the Right Traffic Metrics Dashboard for 2016 - Whiteboard Friday](https://moz.com/blog/build-the-right-traffic-metrics-dashboard-2016-whiteboard-friday)
-- [Your Salary Is Not The Limit Of Your Income.](https://medium.com/life-learning/your-salary-is-not-the-limit-of-your-income-2211b95546d2#.8ddis9vcz)
-- [Hi, my name is Jon.](http://www.jonwestenberg.com/)
+- [:+1: Your Salary Is Not The Limit Of Your Income.](https://medium.com/life-learning/your-salary-is-not-the-limit-of-your-income-2211b95546d2#.8ddis9vcz)
+- [:+1: Hi, my name is Jon.](http://www.jonwestenberg.com/)
 - [#189: JSON API with Yehuda Katz](https://changelog.com/189/)
 
 
@@ -769,10 +767,10 @@ Read/Watched:
 - [A Guide To ES6 Classes](http://ilikekillnerds.com/2015/02/a-guide-to-es6-classes/)
 - [Introducing d3-scale](https://medium.com/@mbostock/introducing-d3-scale-61980c51545f#.vj440v76s)
 - [React without undue complications](https://medium.com/@davidvlsea/react-without-undue-complications-f3490403fdc0#.51h1kbrxx)
-- [DuoTone themes](http://simurai.com/projects/2016/01/01/duotone-themes/)
+- [:+1: DuoTone themes](http://simurai.com/projects/2016/01/01/duotone-themes/)
 - [Setting up ES6](https://leanpub.com/setting-up-es6)
 - [Introducing the WP REST API](http://code.tutsplus.com/tutorials/introducing-the-wp-rest-api--cms-24533)
-- [JavaScript Fundamentals: JSON Explained](http://thenewcode.com/339/JavaScript-Fundamentals-JSON-Explained)
+- [:+1: JavaScript Fundamentals: JSON Explained](http://thenewcode.com/339/JavaScript-Fundamentals-JSON-Explained)
 - [30 days, 30 demos](http://mattdesl.svbtle.com/codevember)
 - [2015 Year End Review](http://blog.codepen.io/2016/01/01/2015-year-end-review/)
 - [Is the Hamburger Menu a Problem?](https://medium.com/readme-mic/is-the-hamburger-menu-a-problem-d606d40a105f#.6ii8or5fy)
@@ -809,7 +807,7 @@ Actual:
 
 Read/Watched:
 - [Questions and Answers - FunFunFunction #12](https://www.youtube.com/watch?v=TbLvrszqi_8)
-- [Streams - FunFunFunction #13](https://www.youtube.com/watch?v=UD2dZw9iHCc)
+- [:+1: Streams - FunFunFunction #13](https://www.youtube.com/watch?v=UD2dZw9iHCc)
 
 
 ---
@@ -829,7 +827,7 @@ Actual:
 Read/Watched:
 - [Simple Guide to Finding a JavaScript Memory Leak in Node.js]
 (http://www.alexkras.com/simple-guide-to-finding-a-javascript-memory-leak-in-node-js/)
-- [hello.js](https://adodson.com/hello.js/#hellojs)
+- [:+1: hello.js](https://adodson.com/hello.js/#hellojs)
 - [This Week's Playlist
 12.13.15](http://thisweeksplaylist.co/)
 - [Quick Tip: Stop Writing Loops and Start Thinking with Maps](http://www.sitepoint.com/quick-tip-stop-writing-loops-start-thinking-with-maps/)
@@ -898,7 +896,7 @@ Actual:
 
 Read/Watched:
 - [065 Atom](http://build-podcast.com/atom/)
-- [This Weekend's DDoS attack and What's in a (C)Name?](https://www.netlify.com/blog/2016/01/12/ddos-attacks-and-dns-records.html)
+- [:+1: This Weekend's DDoS attack and What's in a (C)Name?](https://www.netlify.com/blog/2016/01/12/ddos-attacks-and-dns-records.html)
 - [Top 10 Programming Languages to Learn in 2016](https://www.youtube.com/watch?v=Z56GLRXxh88)
 - [Higher order functions in ES6:
 Easy as a => b => c;](https://strongloop.com/strongblog/higher-order-functions-in-es6easy-as-a-b-c/)
@@ -907,18 +905,50 @@ Easy as a => b => c;](https://strongloop.com/strongblog/higher-order-functions-i
 - [Media Query Breaks Modularity, Use Container Query](http://d6u.github.io/react-container-query/)
 - [React Container Query](https://github.com/d6u/react-container-query)
 - [ColorFavs Home Sign upSign inPalettesColorsShowcase](http://www.colorfavs.com/)
-- [jstips](https://github.com/loverajoel/jstips)
+- [:+1: jstips](https://github.com/loverajoel/jstips)
 - [198: WITH ASHE DRYDEN](http://shoptalkshow.com/episodes/198-with-ashe-dryden/)
-- [OOP - switch revisited in JavaScript](http://www.nicoespeon.com/en/2015/01/oop-revisited-switch-in-js/)
+- [:+1: OOP - switch revisited in JavaScript](http://www.nicoespeon.com/en/2015/01/oop-revisited-switch-in-js/)
 
 
 ---
 
 
-## DAY 36 - Jan  - TITLE
+## DAY 36 - Jan 13 - Wednesday
 
 
 Expected:
+- Close more open tabs of content that I wanted to read/learn
+- Eloquent JS if possible
+
+
+Actual:
+- Helped CEAM with NationBuilder and Slack
+- Got a Pen picked on CodePen
+- Watched a bunch of videos from JSConf Budapest
+
+
+Read/Watched:
+
+- [071: Health Insurance](http://blog.codepen.io/2016/01/07/071-health-insurance/)
+- [What if the user was a function? by Andre Staltz at JSConf Budapest 2015](https://www.youtube.com/watch?v=1zj7M1LnJV4)
+- [Cycle.js](http://cycle.js.org/)
+- [How you can fix your community in one day by Anika Lindtner at JSConf Budapest 2015](https://www.youtube.com/watch?v=lDGiYPcg5qI)
+- [Asynchronous JavaScript at Netflix by Matthew Podwysowski at JSConf Budapest 2015](https://www.youtube.com/watch?v=a8W5VVGO-jA)
+- [Dancing with Robots by Julian Cheal at JSConf Budapest 2015](https://www.youtube.com/watch?v=zsJnsRGh8dE)
+- [We fail to follow SemVer – and why it needn’t matter by Stephan Bönnemann at JSConf Budapest 2015](https://www.youtube.com/watch?v=tc2UgG5L7WM)
+- [Getting started with three.js and WebGL by Jaume Sanchez Elias at JSConf Budapest 2015](https://www.youtube.com/watch?v=HwkGTYRopYg)
+- [Transform your codebase without breaking a sweat by Sufian Rhazi at JSConf Budapest 2015](https://www.youtube.com/watch?v=X8WgkMbEAVQ)
+- [072: Downtime](http://blog.codepen.io/2016/01/13/072-downtime/)
+
+
+---
+
+
+## DAY 37 - Jan 14 - Thursday ()
+
+
+Expected:
+- Close more open tabs of content that I wanted to read/learn
 - Eloquent JS if possible
 
 
@@ -937,10 +967,42 @@ Left Over:
 
 Read/Watched:
 
-- [071: Health Insurance](http://blog.codepen.io/2016/01/07/071-health-insurance/)
+- [Why WeWork.com uses a static generator and why you should too](http://engineering.wework.com/engineering/2015/12/08/why-wework-com-uses-a-static-generator-and-why-you-should-too/)
+- [CodeSmith](https://www.codesmith.io/) Might pick this over HackReactor
+- [Asynchronous I/O with Generators & Promises](https://ponyfoo.com/articles/asynchronous-i-o-with-generators-and-promises) Over my head at the moment
+- [ES6 classes have inner names](http://www.2ality.com/2016/01/classes-inner-names.html)
+- [Roots + netlify CMS](https://github.com/netlify-templates/roots-cms-example)
+- [:+1: Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [Koji Ishimoto: Evaluating Your Stylesheets - Lighting Talk - JSConf.Asia 2015](https://www.youtube.com/watch?v=YAhfsPyv7bw)
+- [Denis Radin: Rendering HTML via WebGL | JSConf EU 2015](https://www.youtube.com/watch?v=9oGQucDOaoY)
+- [:+1: Mark Dalgleish: The End of Global CSS - CSSConf.Asia 2015](https://www.youtube.com/watch?v=W17YAEmjeqY)
+- [Lachlan Priest: PostCSS - JS Your CSS - CSSConf.Asia 2015](https://www.youtube.com/watch?v=6jz6p7wqOpI&list=PL37ZVnwpeshHuiIn2HnJ965qO2k3aADqz&index=5)
+- [:+1: Andrey Sitnik - PostCSS: The Future After Sass and LESS](https://www.youtube.com/watch?v=1yUFTrAxTzg)
+- [:+1: JavaScript: Getting Closure - Mark Dalgleish](https://www.youtube.com/watch?v=KRm-h6vcpxs)
+- [Jessica Kerr - Functional Principles In React](https://www.youtube.com/watch?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_19&v=1uRC3hmKQnM)
+- [OverReactBeta](http://www.overreact.io/)
+- [A gentle introduction to React Motion](https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459#.mcmb5j9qw)
+- [
+Redux nowadays : From actions creators to sagas](http://riadbenguella.com/from-actions-creators-to-sagas-redux-upgraded/)
+- [React.js pure render performance anti-pattern](https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.cuc5kpdi0)
+- [Introducing Javascript Tips](https://github.com/loverajoel/jstips)
+- [Static Site E-Commerce (part 4): Integrating Snipcart with Roots](https://snipcart.com/blog/static-site-ecommerce-snipcart-roots-integration)
+- [:+1: Think twice about ES6 classes](http://christianalfoni.github.io/javascript/2015/01/01/think-twice-about-classes.html)
+
+
 
 
 Ideas:
+
+
+- Talk: History of BAD CSS [History of Style]. (Inline on each page > Flash > stylesheets > over qualification > Standards/ Validated > Imports > One line declarations > OOCSS > Utility Classes > Compass > SASS > SCSS > BEM > PostCSS > Inline CSS > CSS Modules)
+
+- Talk: History of UX. (DHTML > Flash > jQuery > CSS3 > GSAP)?
+
+- Toilet Paper In vs Out voter
+- Lefty or Righty Voter
+- Republican or Democrat or independent Voter
+- Love your Job vs Don't care about job
 
 
 - STL photos Stock image site (like unsplash) and STL photos chrome plugin (new photo on each tab [photographer's info, EXIF])
@@ -994,7 +1056,6 @@ Ideas:
 ---
 
 
-## DAY 37 - Jan  - TITLE
 ## DAY 38 - Jan  - TITLE
 ## DAY 39 - Jan  - TITLE
 ## DAY 40 - Jan  - TITLE
