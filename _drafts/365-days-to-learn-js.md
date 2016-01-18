@@ -944,7 +944,7 @@ Read/Watched:
 ---
 
 
-## DAY 37 - Jan 14 - Thursday ()
+## DAY 37 - Jan 14 - Thursday (Home with Raji)
 
 
 Expected:
@@ -953,16 +953,7 @@ Expected:
 
 
 Actual:
-
-
-
-Left Over:
-- Get simple recursion down
-- Get forEach and other FP down in regards to Arrays and Objects
-- Nested Loops need practice
-- Get comfortable creating useful closures
-- Start FrontEndMasters videos
-- Object to Array / Array to Object
+- Watched a ton of JSconf/CSSconf videos on YouTube
 
 
 Read/Watched:
@@ -990,10 +981,101 @@ Redux nowadays : From actions creators to sagas](http://riadbenguella.com/from-a
 - [:+1: Think twice about ES6 classes](http://christianalfoni.github.io/javascript/2015/01/01/think-twice-about-classes.html)
 
 
+---
+
+
+## DAY 38 - Jan 15 - Friday (Leave for SanDiego)
+
+Expected:
+- Travel to San Diego for Daniel's Wedding
+
+
+Actual:
+- Flew to SD
+
+
+Read/Watched:
+- [:+1: JavaScript ES6+: var, let, or const?](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75#.tykj7ai09)
+- [:+1: Master the JavaScript Interview: What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.xngdww2ve)
+- [Forget the Click Bait. Here’s What the JavaScript Job Market Really Looks Like in 2016.](https://medium.com/javascript-scene/forget-the-click-bait-here-s-what-the-javascript-job-market-really-looks-like-in-2016-ddfe0d39b467#.y5o40t9ab)
+
+
+---
+
+
+## DAY 39 - Jan 16 - Saturday (Daniels wedding day)
+
+
+Expected:
+- Hang with family
+
+
+Actual:
+- Spent all day with family
+
+
+Read/Watched:
+- [Cezary Tomczyk blog](http://www.ctomczyk.pl/why-i-switched-to-only-nodejs-npm-and-stopped-using-grunt/767/)
+- [Elevator Saga The elevator programming game](http://play.elevatorsaga.com/)
+- [DreamFactory](https://www.dreamfactory.com/) DreamFactory is an open source REST API backend for mobile, web, and IoT applications
+
+
+---
+
+
+## DAY 40 - Jan 18 - Sunday (Fly back home)
+
+Expected:
+- Travel home
+
+Actual:
+- Spent all day with family
+
+
+Read/Watched:
+- [#190: ZeroDB with MacLane Wilkison and Michael Egorov](https://changelog.com/190/)
+
+
+
+## DAY 41 - Jan 19 - Monday (MLK)
+
+
+Expected:
+- Hang with family
+
+
+Actual:
+- Spent all day with family
+
+
+Left Over:
+- Get simple recursion down
+- Get forEach and other FP down in regards to Arrays and Objects
+- Nested Loops need practice
+- Get comfortable creating useful closures
+- Start FrontEndMasters videos
+- Object to Array / Array to Object
+
+
+Read/Watched:
+- [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
+- [Labelling Form Elements](http://bitsofco.de/labelling-form-elements/)
 
 
 Ideas:
 
+- Learn Younis' stuff
+  - [Convoy](http://convoy.me/#/works)
+  - [Younus Abdalla](http://younusabdalla.com/) Look at side navigation
+  - [Proximity Menu off Canvas](http://codepen.io/YounusAbdalla/pen/EVbwRa)
+
+- brain.js - (using your brain to understand JS, Programming and life)
+
+
+- Managing images is FUCKED
+  - Are we really going to split an image into n a million fucking image sizes? Managing this in our code blows. And image bloat is insane.
+
+- Accesibility and Color Blindness settings toggle?
 
 - Talk: History of BAD CSS [History of Style]. (Inline on each page > Flash > stylesheets > over qualification > Standards/ Validated > Imports > One line declarations > OOCSS > Utility Classes > Compass > SASS > SCSS > BEM > PostCSS > Inline CSS > CSS Modules)
 
@@ -1056,10 +1138,7 @@ Ideas:
 ---
 
 
-## DAY 38 - Jan  - TITLE
-## DAY 39 - Jan  - TITLE
-## DAY 40 - Jan  - TITLE
-## DAY 41 - Jan  - TITLE
+
 ## DAY 42 - Jan  - TITLE
 ## DAY 43 - Jan  - TITLE
 ## DAY 44 - Jan  - TITLE
