@@ -1034,10 +1034,38 @@ Actual:
 
 Read/Watched:
 - [#190: ZeroDB with MacLane Wilkison and Michael Egorov](https://changelog.com/190/)
+- [http://www.zerodb.io/](http://www.zerodb.io/)
 
 
 
 ## DAY 41 - Jan 19 - Monday (MLK)
+
+
+Expected:
+- Hang with family
+
+
+Actual:
+- Spent all day with family
+
+
+Read/Watched:
+- [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
+- [Labelling Form Elements](http://bitsofco.de/labelling-form-elements/)
+- [How Teespring uses Canvas, SVG, and the DOM to Design T-Shirts](http://teespring.engineering/posts/how-teespring-uses-canvas-svg-dom-to-design-tshirts/)
+- [Feature.js](http://featurejs.com/) a feature detection library in 1kb
+- [Variables: The Backbone Of CSS Architecture](https://www.smashingmagazine.com/2016/01/variables-in-css-architecture/)
+- [rangeslider.js](https://andreruffert.github.io/rangeslider.js/)
+- [Entitled and angry - FunFunFunction #15](https://www.youtube.com/watch?v=LyQU1sdnAtM)
+- [CaseyNeistat](https://www.youtube.com/user/caseyneistat) Recommended by FunFunFunction
+- [How to fail webpack build on error](http://dev.topheman.com/how-to-fail-webpack-build-on-error/)
+- [Get Ready for the Future](https://medium.com/javascript-scene/get-ready-for-the-future-f4cf7610b985#.etavfbvtu)
+
+
+---
+
+
+## DAY 42 - Jan 20 - Tuesday (Lunch with Britton)
 
 
 Expected:
@@ -1058,8 +1086,13 @@ Left Over:
 
 
 Read/Watched:
-- [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
-- [Labelling Form Elements](http://bitsofco.de/labelling-form-elements/)
+- [#191: Elm and Functional Programming with Richard Feldman](https://changelog.com/191/3)
+- [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
+- [The Issue With Global Node Packages](https://www.smashingmagazine.com/2016/01/issue-with-global-node-npm-packages/)
+- [Object-Oriented JavaScript — A Deep Dive into ES6 Classes](http://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/)
+- [Moving along a curved path in CSS with layered animation](http://tobiasahlin.com/blog/curved-path-animations-in-css/)
+- [How I became a JavaScript developer …](http://dev.topheman.com/how-i-became-a-javascript-developer/)
+- [199: A LOOK BACK](http://shoptalkshow.com/episodes/199-a-look-back/)
 
 
 Ideas:
@@ -1138,8 +1171,6 @@ Ideas:
 ---
 
 
-
-## DAY 42 - Jan  - TITLE
 ## DAY 43 - Jan  - TITLE
 ## DAY 44 - Jan  - TITLE
 ## DAY 45 - Jan  - TITLE
