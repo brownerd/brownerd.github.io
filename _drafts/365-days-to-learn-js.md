@@ -1069,11 +1069,86 @@ Read/Watched:
 
 
 Expected:
-- Hang with family
+- Crush RSS articles
 
 
 Actual:
-- Spent all day with family
+- went to lunch with Britton
+- Closed a bunch of open articles to read
+- worked on js-brain a little bit
+
+
+Read/Watched:
+- [#191: Elm and Functional Programming with Richard Feldman](https://changelog.com/191/3)
+- [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
+- [The Issue With Global Node Packages](https://www.smashingmagazine.com/2016/01/issue-with-global-node-npm-packages/)
+- [Object-Oriented JavaScript — A Deep Dive into ES6 Classes](http://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/)
+- [Moving along a curved path in CSS with layered animation](http://tobiasahlin.com/blog/curved-path-animations-in-css/)
+- [How I became a JavaScript developer …](http://dev.topheman.com/how-i-became-a-javascript-developer/)
+- [199: A LOOK BACK](http://shoptalkshow.com/episodes/199-a-look-back/)
+- [Thimble](https://thimble.mozilla.org/en-US)
+- [Etiene da Cruz Dalcol: What I learned teaching programming to 150 beginners | JSConf EU 2015](https://www.youtube.com/watch?v=YuezRMnwyeI)
+
+
+---
+
+
+## DAY 43 - Jan 20 - Wednesday (shoveled show with Amir, got sick)
+
+
+Expected:
+- Got sick again.
+
+
+Actual:
+- Slept most of the day
+
+
+Read/Watched:
+- [Notes on setting up a JS project, circa 2016: Babel and ES6](http://rmurphey.com/blog/2016/01/20/notes-on-setting-up-js-project-2016-babel-es6)
+- [Notes on setting up a JS project, circa 2016: Webpack](http://rmurphey.com/blog/2016/01/19/notes-on-setting-up-js-project-2016-webpack)
+- [Episode 38 – Jacky Alciné](http://peopleofcolorintech.com/engineers/episode-38-jacky-alcine/)
+- [5 Tips For Writing A Job Story](https://medium.com/the-job-to-be-done/5-tips-for-writing-a-job-story-7c9092911fc9#.1zwnkcspw) Learning from a new way to define features and products.
+- [7 Essential JavaScript Functions](https://davidwalsh.name/essential-javascript-functions)
+- [AST Explorer](https://astexplorer.net/)
+
+
+
+---
+
+
+## DAY 44 - Jan 21 - Thursday (trying to close RSS articles and tabs)
+
+
+Expected:
+- Close tabs and RSS articles
+
+
+Actual:
+- Watched a bunch of awesome JS videos posted by Source Decoded
+
+
+Read/Watched:
+
+- [Composition vs. Inheritance](https://www.youtube.com/watch?v=dYUZiJEy0JE)
+- [:+1: Javascript is Easy](https://www.youtube.com/watch?v=zf_cb_Nw5zY&list=PLeL6uTxQ-uX_5BpOb2FDNgG6SxjCs59Kv) This is a fantastic intro series I watched everyone of them
+
+
+
+---
+
+
+## DAY 45 - Jan 22 - Friday (Amir had an earache)
+
+Expected:
+- Take Amir to doctor
+- Check for squirrels
+
+
+Actual:
+- Took Amir to Doctor, got meds
+- Checked for squirrels. caught 2
+- more Source Decoded videos
 
 
 Left Over:
@@ -1086,16 +1161,23 @@ Left Over:
 
 
 Read/Watched:
-- [#191: Elm and Functional Programming with Richard Feldman](https://changelog.com/191/3)
-- [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
-- [The Issue With Global Node Packages](https://www.smashingmagazine.com/2016/01/issue-with-global-node-npm-packages/)
-- [Object-Oriented JavaScript — A Deep Dive into ES6 Classes](http://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/)
-- [Moving along a curved path in CSS with layered animation](http://tobiasahlin.com/blog/curved-path-animations-in-css/)
-- [How I became a JavaScript developer …](http://dev.topheman.com/how-i-became-a-javascript-developer/)
-- [199: A LOOK BACK](http://shoptalkshow.com/episodes/199-a-look-back/)
+
+- [Array Functions: Map and Join](https://www.youtube.com/watch?v=49DF4k07uO8&index=2&list=PLeL6uTxQ-uX-rkhx_K51leyccoIW9-yg4)
+- [JavaScript At Scale — Achieving High Velocity](https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03#.ybvc1jwsh)
+- [5 jQuery.each() Function Examples](http://www.sitepoint.com/jquery-each-function-examples/)
+- [Pressure.js](https://yamartino.github.io/pressure/)
 
 
 Ideas:
+
+
+- StickerMule stickers (https://www.stickermule.com/user/1070710647/stickers)
+
+- Racism in IT (http://peopleofcolorintech.com/)
+  - Working with white people
+  - Being the only person of color at your job
+  - How racism is alive and well in IT
+  - IT, Racism and Conditional Statements
 
 - Learn Younis' stuff
   - [Convoy](http://convoy.me/#/works)
@@ -1168,12 +1250,11 @@ Ideas:
 
 - A better WYSIWYG editor
 
+
 ---
 
 
-## DAY 43 - Jan  - TITLE
-## DAY 44 - Jan  - TITLE
-## DAY 45 - Jan  - TITLE
+
 ## DAY 46 - Jan  - TITLE
 ## DAY 47 - Jan  - TITLE
 ## DAY 48 - Jan  - TITLE

@@ -17,6 +17,8 @@
 - [CHRIS NWAMBA](https://twitter.com/chrizt_n)
 - [Ire Aderinokun is a UI Designer and Front-End Developer](http://www.ireaderinokun.com/)
 
+- [Nerdy Negress](https://twitter.com/NerdyNegress)
+
 http://codepen.io/christiannwamba/
 
 
