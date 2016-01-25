@@ -2,11 +2,19 @@
 ---
 
 
+## Errors
+
+- [null, undefined, and undeclared](http://lucybain.com/blog/2014/null-undefined-undeclared/)
+- [TypeError](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError)
+
+---
+
 ## Function Invocation or "calling" a function
 A function is invocated using the parenthesis syntax `()`:
 
 invokeMe()
 
+---
 
 ## Higher Order Functions
 
@@ -22,6 +30,14 @@ References:
 Easy as a => b => c;](https://strongloop.com/strongblog/higher-order-functions-in-es6easy-as-a-b-c/)
 
 
+---
+
+## Hoisting
+
+- [JavaScript Hoisting Explained](http://www.i-programmer.info/programming/javascript/5364-javascript-hoisting-explained.html)
+
+---
+
 ## Inheritance - Class & Prototypal
 
 References:
@@ -29,7 +45,18 @@ References:
 - [Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9#.hk55asq9a)
 
 
+## I/O
 
+- [I/O - input/output](http://www.webopedia.com/TERM/I/I_O.html) Short for input/output (pronounced "eye-oh"). The term I/O is used to describe any program, operation or device that transfers data to or from a computer and to or from a peripheral device. Every transfer is an output from one device and an input into another. Devices such as keyboards and mouses are input-only devices while devices such as printers are output-only. A writable CD-ROM is both an input and an output device.
+
+---
+
+## Lambdas
+
+- [Javascript Jems - Lambda expressions](http://www.i-programmer.info/programming/javascript/1031-javascript-jems-lambda-expressions.html)
+
+
+---
 
 ## Object Literal
 

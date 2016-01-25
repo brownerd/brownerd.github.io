@@ -1149,6 +1149,33 @@ Actual:
 - Took Amir to Doctor, got meds
 - Checked for squirrels. caught 2
 - more Source Decoded videos
+- stumbled upon C9 Lectures with Erik Meijer
+
+
+Read/Watched:
+
+- [Array Functions: Map and Join](https://www.youtube.com/watch?v=49DF4k07uO8&index=2&list=PLeL6uTxQ-uX-rkhx_K51leyccoIW9-yg4)
+- [JavaScript At Scale — Achieving High Velocity](https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03#.ybvc1jwsh)
+- [5 jQuery.each() Function Examples](http://www.sitepoint.com/jquery-each-function-examples/)
+- [Pressure.js](https://yamartino.github.io/pressure/)
+- [:+1: :+1: C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals, Chapter 1 of 13](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-1)
+
+
+
+---
+
+
+## DAY 46 - Jan 23 - saturday()
+
+
+Expected:
+- C9 Lecture series videos
+- SLAW updates
+- Visit Jabari
+
+
+Actual:
+-
 
 
 Left Over:
@@ -1160,16 +1187,23 @@ Left Over:
 - Object to Array / Array to Object
 
 
+
 Read/Watched:
 
-- [Array Functions: Map and Join](https://www.youtube.com/watch?v=49DF4k07uO8&index=2&list=PLeL6uTxQ-uX-rkhx_K51leyccoIW9-yg4)
-- [JavaScript At Scale — Achieving High Velocity](https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03#.ybvc1jwsh)
-- [5 jQuery.each() Function Examples](http://www.sitepoint.com/jquery-each-function-examples/)
-- [Pressure.js](https://yamartino.github.io/pressure/)
+- [:+1: :+1: C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals, Chapter 1 of 13](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-1)
+
+- [Javascript Jems - Lambda expressions](http://www.i-programmer.info/programming/javascript/1031-javascript-jems-lambda-expressions.html)
+- [JavaScript Hoisting Explained](http://www.i-programmer.info/programming/javascript/5364-javascript-hoisting-explained.html)
+- [Some Pretty Splendid SVG Links](https://css-tricks.com/svg-funsville-links/)
+- [Motion with Meaning: Semantic Animation in Interface Design](http://alistapart.com/article/motion-with-meaning-semantic-animation-in-interface-design)
+- [Everything I know about responsive web typography with CSS](http://www.zell-weekeat.com/responsive-typography)
+- [Customize your Google Map Markers](http://pepsized.com/customize-your-google-map-markers/)
 
 
 Ideas:
 
+
+- Create a hoisting animation
 
 - StickerMule stickers (https://www.stickermule.com/user/1070710647/stickers)
 
@@ -1254,8 +1288,6 @@ Ideas:
 ---
 
 
-
-## DAY 46 - Jan  - TITLE
 ## DAY 47 - Jan  - TITLE
 ## DAY 48 - Jan  - TITLE
 ## DAY 49 - Jan  - TITLE
