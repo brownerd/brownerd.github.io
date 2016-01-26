@@ -1132,6 +1132,13 @@ Read/Watched:
 
 - [Composition vs. Inheritance](https://www.youtube.com/watch?v=dYUZiJEy0JE)
 - [:+1: Javascript is Easy](https://www.youtube.com/watch?v=zf_cb_Nw5zY&list=PLeL6uTxQ-uX_5BpOb2FDNgG6SxjCs59Kv) This is a fantastic intro series I watched everyone of them
+- [Javascript is Easy Part 2](https://www.youtube.com/watch?v=JC_d9QG6Y6U&list=PLeL6uTxQ-uX_5BpOb2FDNgG6SxjCs59Kv&index=2)
+- [Javascript Literals, Functions, and Constructors](https://www.youtube.com/watch?v=pKJG6u2kuFw&list=PLeL6uTxQ-uX_5BpOb2FDNgG6SxjCs59Kv&index=3)
+- [In Javascript, Everything Is (or acts like) An Object](https://www.youtube.com/watch?v=MfRkdm_rq5E&index=4&list=PLeL6uTxQ-uX_5BpOb2FDNgG6SxjCs59Kv)
+- [Not Everything Is An Object](https://www.youtube.com/watch?v=17s2qBhkDOs&index=5&list=PLeL6uTxQ-uX_5BpOb2FDNgG6SxjCs59Kv)
+- [Source Decoded 3: Javascript -- Prototypes, Prototypal Inheritance done right.](https://www.youtube.com/watch?v=Yvf_kUBZmXg&list=PLeL6uTxQ-uX_5BpOb2FDNgG6SxjCs59Kv&index=6)
+- [I Love *&@^#! JavaScript!](https://www.youtube.com/watch?v=84dZddrmZu8&index=7&list=PLeL6uTxQ-uX_5BpOb2FDNgG6SxjCs59Kv)
+- [Javascript Flow Control: Branching and Looping](https://www.youtube.com/watch?v=eDp0QXL4pY8&index=8&list=PLeL6uTxQ-uX_5BpOb2FDNgG6SxjCs59Kv)
 
 
 
@@ -1159,13 +1166,14 @@ Read/Watched:
 - [5 jQuery.each() Function Examples](http://www.sitepoint.com/jquery-each-function-examples/)
 - [Pressure.js](https://yamartino.github.io/pressure/)
 - [:+1: :+1: C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals, Chapter 1 of 13](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-1)
-
+- [Programming Patterns: What and How](https://www.youtube.com/watch?v=YBuvK-QDC-U&list=PLeL6uTxQ-uX8vR_QrQpgurSeom8K9wolV&index=1)
+- [The State Pattern, or State Machine](https://www.youtube.com/watch?v=e45RMc76884&index=2&list=PLeL6uTxQ-uX8vR_QrQpgurSeom8K9wolV)
 
 
 ---
 
 
-## DAY 46 - Jan 23 - saturday()
+## DAY 46 - Jan 23 - saturday( visit Jabari and date nite)
 
 
 Expected:
@@ -1175,7 +1183,79 @@ Expected:
 
 
 Actual:
--
+- C9 Lecture series videos
+- Visit Jabari
+- Date night
+
+
+
+Read/Watched:
+
+- [:+1: :+1: C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals, Chapter 1 of 13](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-1)
+
+- [Javascript Jems - Lambda expressions](http://www.i-programmer.info/programming/javascript/1031-javascript-jems-lambda-expressions.html)
+- [JavaScript Hoisting Explained](http://www.i-programmer.info/programming/javascript/5364-javascript-hoisting-explained.html)
+- [Some Pretty Splendid SVG Links](https://css-tricks.com/svg-funsville-links/)
+- [Motion with Meaning: Semantic Animation in Interface Design](http://alistapart.com/article/motion-with-meaning-semantic-animation-in-interface-design)
+- [Everything I know about responsive web typography with CSS](http://www.zell-weekeat.com/responsive-typography)
+- [Customize your Google Map Markers](http://pepsized.com/customize-your-google-map-markers/)
+
+
+---
+
+
+## DAY 47 - Jan 24 - Sunday(Tommy BDay party and family day)
+
+
+Expected:
+- SLAW updates
+- EEC Updates
+
+
+Actual:
+
+
+---
+
+
+## DAY 48 - Jan 25 - Monday
+
+
+Expected:
+- Will meeting
+- SLAW updates
+- EEC and CEE updates
+- C9 Lecture series videos
+
+Actual:
+- Will meeting
+- SLAW updates
+- EEC and CEE updates
+
+
+
+Read/Watched:
+
+- [:+1: Coffee vs. beer: which drink makes you more creative?](https://medium.com/swlh/coffee-vs-beer-which-drink-makes-you-more-creative-f7fcb3b786b1#.a0ntwv6hf)
+- [Prototypes in JavaScript - FunFunFunction #16](https://www.youtube.com/watch?v=riDVvXZ_Kb4)
+- [Preparing for ECMAScript 6: Symbols and Their Uses](http://www.sitepoint.com/preparing-ecmascript-6-symbols-uses/)
+- [200: RAPIDFIRE 54](http://shoptalkshow.com/episodes/200-rapidfire-54/#t=47:38)
+- [Learning JavaScript Native Functions and How to Use Them](https://scotch.io/tutorials/learning-javascript-native-functions-and-how-to-use-them)
+- [4 JavaScript Design Patterns You Should Know](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
+- [Promise of the Futures](https://www.youtube.com/watch?v=_ghej_y8Y5o&index=6&list=PLeL6uTxQ-uX8vR_QrQpgurSeom8K9wolV)
+- [Expression Trees](https://www.youtube.com/watch?v=SUDWjFuc_rM&index=4&list=PLeL6uTxQ-uX8vR_QrQpgurSeom8K9wolV)
+
+
+---
+
+## DAY 49 - Jan 26 - Tuesday(Apple Cords picked on Codepen)
+
+
+Expected:
+- Watch all these videos and close tabs
+
+Actual:
+- 
 
 
 Left Over:
@@ -1190,14 +1270,8 @@ Left Over:
 
 Read/Watched:
 
-- [:+1: :+1: C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals, Chapter 1 of 13](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-1)
+- [The Controversial State of JavaScript Tooling](https://ponyfoo.com/articles/controversial-state-of-javascript-tooling)
 
-- [Javascript Jems - Lambda expressions](http://www.i-programmer.info/programming/javascript/1031-javascript-jems-lambda-expressions.html)
-- [JavaScript Hoisting Explained](http://www.i-programmer.info/programming/javascript/5364-javascript-hoisting-explained.html)
-- [Some Pretty Splendid SVG Links](https://css-tricks.com/svg-funsville-links/)
-- [Motion with Meaning: Semantic Animation in Interface Design](http://alistapart.com/article/motion-with-meaning-semantic-animation-in-interface-design)
-- [Everything I know about responsive web typography with CSS](http://www.zell-weekeat.com/responsive-typography)
-- [Customize your Google Map Markers](http://pepsized.com/customize-your-google-map-markers/)
 
 
 Ideas:
@@ -1287,10 +1361,6 @@ Ideas:
 
 ---
 
-
-## DAY 47 - Jan  - TITLE
-## DAY 48 - Jan  - TITLE
-## DAY 49 - Jan  - TITLE
 ## DAY 50 - Jan  - TITLE
 ## DAY 51 - Jan  - TITLE
 ## DAY 52 - Jan  - TITLE
