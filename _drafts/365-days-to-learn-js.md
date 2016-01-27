@@ -1192,6 +1192,8 @@ Actual:
 Read/Watched:
 
 - [:+1: :+1: C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals, Chapter 1 of 13](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-1)
+- [C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals, Chapter 2 of 13](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-2)
+- [C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals, Chapter 3 of 13](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/C9-Lectures-Dr-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-3-of-13)
 
 - [Javascript Jems - Lambda expressions](http://www.i-programmer.info/programming/javascript/1031-javascript-jems-lambda-expressions.html)
 - [JavaScript Hoisting Explained](http://www.i-programmer.info/programming/javascript/5364-javascript-hoisting-explained.html)
@@ -1218,7 +1220,7 @@ Actual:
 ---
 
 
-## DAY 48 - Jan 25 - Monday
+## DAY 48 - Jan 25 - Monday(Meeting about Will and SLAW updates)
 
 
 Expected:
@@ -1255,7 +1257,7 @@ Expected:
 - Watch all these videos and close tabs
 
 Actual:
-- 
+-
 
 
 Left Over:
@@ -1271,6 +1273,72 @@ Left Over:
 Read/Watched:
 
 - [The Controversial State of JavaScript Tooling](https://ponyfoo.com/articles/controversial-state-of-javascript-tooling)
+- [074: Privacy](http://blog.codepen.io/2016/01/26/074-privacy/)
+- [Queryables are qurazy!](https://www.youtube.com/watch?v=BmOIOrcXCwA&list=PLeL6uTxQ-uX8vR_QrQpgurSeom8K9wolV&index=5)
+- [Learning Functional JavaScript: Recursive Thinking | packtpub.com](https://www.youtube.com/watch?v=N9V-aZ7Gj70)
+- [:+1: Javascript Tutorial 35: Working of Recursion](https://www.youtube.com/watch?v=ZnISXVZTZSQ)
+- [JavaScript Tutorial - Palindrome recursive program - change slice to substr](https://www.youtube.com/watch?v=meSFeLmFDag)
+- [walk the DOM tree](https://www.youtube.com/watch?v=WYKJuBg0244)
+- [Douglas Crockford: The Better Parts - JSConfUY 2014](https://www.youtube.com/watch?v=bo36MrBfTk4)
+    - Foot Guns
+    - Danger Driven Development
+    - time it takes to write it vs. time it takes to make it work well
+    - Splat opperator (Rest - when used on definition side, Spread when used on the call side)
+    - he doesn't use "this", "new", or "prototypal inheritance"
+    - ```js
+      // this is how Crockford makes objects:
+      function constructor(spec) {
+
+        var that = other_constructor(spec),
+            member,
+            method = function () {
+              // Spec, member, method
+            };
+
+        that.method = method;
+
+        return that;
+
+      }
+    ```
+
+  - [Douglas Crockford: Programming Style & Your Brain](https://www.youtube.com/watch?v=_EANG8ZZbRs)
+      - Computer programs are the most complicated thngs people make
+      - we should prefer forms that are error resistant
+      - 'goto' was reinvented as the 'switch' statement
+      - we spend most of our time correcting our mistakes, NOT writing code
+      - Medieval copiest introduced lowercase, word breaks and punctuation (these innovations helped reduce the error rate)
+      - use `x += 1` instead of `x++` or `++x`
+
+- [Managing Programmers by Douglas Crockford at Silicon Valley Code Camp](https://www.youtube.com/watch?v=NPlMcUxFOlY)
+    - Developers are creatives
+    - Programming is not manufacturing, thus using development metrics don't apply
+    - Negotiation is the only thing that determines salary! Haha! True
+    - we need to perfect the process of trial and error
+        - I argue that "perfect" is a system that reveals issues/bugs quickly AND has a process to fix them and inform others
+            - NOTHING fails silently! Booby Trap jobs
+
+    - Give Programmers "Directed Anarchy" Give them very clear requirements, and give them the authority, annatomy to figure out the best way to accomplish it--and get out of their way
+    - You can only know which programmers are good by reading their source code
+    - **Dailies** - Every day we do a code reading. (I love this idea)
+        - do we understand all of it
+        - if we do this every day, we will have a better idea of who knows what they're doing and who doesn't
+        - Goals - to make your code highly readable
+    - Hiring - bring them in and read code together
+      - a good hire will be able to discuss and read code
+      - if they cant communicate their code, then they're probably not a good fit
+      - Bring in a portfolio of code
+    - The 5 natural enemies of programers
+        - Complexity. Humans are not good at managing complexity. Knowledge and experience is the only thing that enables us to manage complexity
+            - You want to have continuing education. quality of work goes up
+        - Imperfection. Computer programs should be perfect. Software can change instantly from asset to liability (without even changing the code base). Don't pit the QA against the programmers. We need to test, but that isn't the end of it. Use software etomology. find a bug, and study it to understand it
+        - Time. time gets wasted doing Premature optimization, debugging, decision making paralysis. scheduling is tough, "we don't know know long it's going to take to sail to the new world." Most of what we are doing is "innovative", thus we are dealing with the unknown. Prorgammers don't get enough sleep.
+        - Mismanagement. Rushing employees, distracting them, adding new poeple in the middle, NOt starting over when it's needed. You need to protect your programmers. Tell them, "if it's stupid, we wont do it." we won't ship crap. Business reality.
+        - Themselves. Informed ignorance. cults and fads. teach them to be better people. remind them that we are creating for the PEOPLE, not just us. Programmers are creatives, not OFFICE PEOPLE. Find FLOW. No cubilces and Open plans. Let programmers use their own machines
+
+    - Performance reviews are a waste of time. Shouldn't wait a quarter to assess how it's going. this should be happening daily instead.
+    - Rotate everyone through customer service. Everyone needs empathy for how our users interact with out crap.
+    -
 
 
 
