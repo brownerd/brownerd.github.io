@@ -2,6 +2,15 @@
 ---
 
 
+
+## Closure
+
+
+
+---
+
+
+
 ## Errors
 
 - [null, undefined, and undeclared](http://lucybain.com/blog/2014/null-undefined-undeclared/)
@@ -9,10 +18,59 @@
 
 ---
 
+## Explicit
+
+`a = String(a)`
+
+---
+
+## Falsy
+
+values that evaluate to false
+
+0
+-0
+false
+null
+undefined
+NaN
+
+---
+
+## for loop
+
+Take 3 parts
+
+- initialization expression
+- contitional/test epression
+- update clause
+
+`for (i = 5; i < 10; i += 1) {...}`
+
+---
+
+## Function declaration
+
+`function chop () {}`
+
+---
+
+## Function Expression
+
+`var chop = function () {}`
+
+---
+
+
 ## Function Invocation or "calling" a function
 A function is invocated using the parenthesis syntax `()`:
 
 invokeMe()
+
+---
+
+
+## Declaritive
 
 ---
 
@@ -44,6 +102,20 @@ References:
 
 - [Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9#.hk55asq9a)
 
+
+---
+
+
+## Imperative
+
+
+---
+
+## Implicit
+
+`a = a + ""`
+
+---
 
 ## I/O
 
@@ -87,3 +159,57 @@ References:
 
 - [Object.create(): the New Way to Create Objects in JavaScript](http://www.htmlgoodies.com/beyond/javascript/object.create-the-new-way-to-create-objects-in-javascript.html)
 - [3 ways to define a JavaScript class](http://www.phpied.com/3-ways-to-define-a-javascript-class/)
+
+
+
+
+## Scope
+  - var is function scoped
+  - let and const are block scoped
+
+
+
+
+---
+
+
+## Side-effects
+
+Side effects happen when a fucntion modifies a value outside of it's self
+
+
+```js
+
+// function with a side-effect
+var x = 10;
+
+function sideEffect () {
+  // this will modify the value of x on the outer scope
+  x = x + 10;
+};
+sideEffect();
+console.log(x)
+
+// function without a side-effect
+function noSideEffect () {
+
+  // x is no longer 10 because the function above modified it.
+  // these side-effects can cause confusion
+  return x + 10;
+};
+
+console.log(noSideEffect())
+```
+
+
+---
+
+
+
+## Variable
+ 4 kinds of variable to use for assignment
+
+- var
+- let
+- const
+- function

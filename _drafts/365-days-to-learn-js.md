@@ -1257,17 +1257,8 @@ Expected:
 - Watch all these videos and close tabs
 
 Actual:
--
-
-
-Left Over:
-- Get simple recursion down
-- Get forEach and other FP down in regards to Arrays and Objects
-- Nested Loops need practice
-- Get comfortable creating useful closures
-- Start FrontEndMasters videos
-- Object to Array / Array to Object
-
+- Watched a bunch of videos by Crockford
+- Watched a bunch of videos about functional programming
 
 
 Read/Watched:
@@ -1338,100 +1329,154 @@ Read/Watched:
 
     - Performance reviews are a waste of time. Shouldn't wait a quarter to assess how it's going. this should be happening daily instead.
     - Rotate everyone through customer service. Everyone needs empathy for how our users interact with out crap.
-    -
+
+- [History of Programming Languages](http://cdn.oreillystatic.com/news/graphics/prog_lang_poster.pdf)
+    - Terse. a tweet
+    - OO makes code understandable by encapsulating moving parts.
+FP makes code understandable by minimizing moving parts. - Michael Feathers
+    - can use recursion to avoid having an iterator variable
+    - the value at that point of time is it's state
 
 
-
-Ideas:
-
-
-- Create a hoisting animation
-
-- StickerMule stickers (https://www.stickermule.com/user/1070710647/stickers)
-
-- Racism in IT (http://peopleofcolorintech.com/)
-  - Working with white people
-  - Being the only person of color at your job
-  - How racism is alive and well in IT
-  - IT, Racism and Conditional Statements
-
-- Learn Younis' stuff
-  - [Convoy](http://convoy.me/#/works)
-  - [Younus Abdalla](http://younusabdalla.com/) Look at side navigation
-  - [Proximity Menu off Canvas](http://codepen.io/YounusAbdalla/pen/EVbwRa)
-
-- brain.js - (using your brain to understand JS, Programming and life)
-
-
-- Managing images is FUCKED
-  - Are we really going to split an image into n a million fucking image sizes? Managing this in our code blows. And image bloat is insane.
-
-- Accesibility and Color Blindness settings toggle?
-
-- Talk: History of BAD CSS [History of Style]. (Inline on each page > Flash > stylesheets > over qualification > Standards/ Validated > Imports > One line declarations > OOCSS > Utility Classes > Compass > SASS > SCSS > BEM > PostCSS > Inline CSS > CSS Modules)
-
-- Talk: History of UX. (DHTML > Flash > jQuery > CSS3 > GSAP)?
-
-- Toilet Paper In vs Out voter
-- Lefty or Righty Voter
-- Republican or Democrat or independent Voter
-- Love your Job vs Don't care about job
-
-
-- STL photos Stock image site (like unsplash) and STL photos chrome plugin (new photo on each tab [photographer's info, EXIF])
-
-- Games...I gotta look into this too
-
-
-- [This Week's Playlist Concept](http://thisweeksplaylist.co/)
-- [Airport Codes](http://airportcod.es/)
-
-
-- JS stop watch for Rubi
-  - Start and stop with spacebar
-  - clear
-  - record top times
-  - post to whatever
-
-- ASCII art photo maker
-    - https://davidwalsh.name/convert-image-ascii-art
-    - Uses webcam
-    - Allows user to download image
-    - [console-png](https://www.npmjs.com/package/console-png)
-
-- Remake Album covers
-  - http://www.10x2015.com/
-
-- Methods (setup Wudojo, Testing and Code Coverage)
-- Get simple recursion down
-- Start FrontEndMasters videos
-- Make browser dances like Harlem Shake
-- React site with True Vertical Rhythm + images and stuff
-- Style guide. Just code as usual. Code view only shows on click event. Shows HTML and CSS. Can this be done without the Comment clutter?
-- Show multiple ways to double the elements in an array
-    - `fromDouble = (arr) => Array.from(arr, x => x + x);`
-    - forEach version
-
-- Look over nathan s' slider
-- Visualizing JS - Make a shift, unshift, pop, push, slice, splice, substr, substring visualizer with mnemonic devices
-- Visualizing JS - Make a function maker that shows all the thing you can dump into arguments (string, array, obj, fn, number)
-- WDYGT (What did you Google today)
-
-- Layout (popularly bad habits)
-  - Excessive columns and containers
-  - Excessive sidebars
-  - Multi-column footers with bullshit in them
-  - nav bars with site logo in the middle
-  - Shit popularized by WP themes
-
-- A better WYSIWYG editor
+- [Functional Programming is Terrible](https://www.youtube.com/watch?v=hzf3hTUKk8U)
+- [Learning Functional Programming without Growing a Neckbeard](https://www.youtube.com/watch?v=OOvL6QAxRK4)
 
 
 ---
 
-## DAY 50 - Jan  - TITLE
-## DAY 51 - Jan  - TITLE
-## DAY 52 - Jan  - TITLE
+## DAY 50 - Jan 27 - Wednesday(Functional programming videos)
+
+
+Expected:
+- Watch all these videos and close tabs
+
+Actual:
+- Watched a bunch of videos
+
+
+Left Over:
+- Get simple recursion down
+- Get forEach and other FP down in regards to Arrays and Objects
+- Nested Loops need practice
+- Get comfortable creating useful closures
+- Start FrontEndMasters videos
+- Object to Array / Array to Object
+- Understand memory leaks in JS
+
+
+Read/Watched:
+
+- [Functional Programming is Terrible](https://www.youtube.com/watch?v=hzf3hTUKk8U)
+- [Learning Functional Programming without Growing a Neckbeard](https://www.youtube.com/watch?v=OOvL6QAxRK4)
+- [Functional Programming from First Principles • Erik Meijer](https://www.youtube.com/watch?v=a-RAltgH8tw)
+- [:+1: Basics of Programming with JavaScript](https://frontendmasters.com/courses/javascript-basics/#v=7i6ouufkos&skip=1)
+    - Variables have no type. But the Value does have a type
+    - Static languages like C take a type on the variable
+    - I couldn't get the challenge to work. Yes some stuff worked, but i gave up after a while and just watched the video. I made it a bit more complicated than it needed to be compared to the solution.
+    - closure is when you intentionaly want for a function to remember stuff outside so it can remember it's state
+
+- [:+1: ES6 Fiddle](http://www.es6fiddle.net/)
+- [Organizing JavaScript Functionality](https://frontendmasters.com/courses/organizing-javascript/#v=905ut58g8k)
+    - ```js
+
+      // Module pattern
+      function hello(name) {
+        function speak () {
+          console.log(name);
+        }
+        return speak;
+      }
+
+
+      var fn = hello("Ben");
+      fn();
+
+
+      function who(firstName) {
+        function fullname(lastName) {
+            console.log(firstName, lastName);
+        }
+
+        function firstN() {
+        	return firstName;
+        }
+
+        var public_api = {
+          me: fullname ,
+          firstName: firstN
+        };
+
+        // Return a public API
+        return public_api
+      }
+
+      var o = who("ben");
+
+      o.me('gshep');
+
+      console.log(o.firstName())
+    ```
+- [Using Templating Engines to Streamline WordPress Theme Development](https://css-tricks.com/templating-languages-and-wordpress/)
+- [:+1: FLEXBOX FROGGY](http://flexboxfroggy.com/)
+- [A Serverless REST API in Minutes with the Serverless Framework](http://blog.codeship.com/a-serverless-rest-api-in-minutes/)
+
+
+---
+
+## DAY 51 - Jan 28 - Thursday (Kyle Simpson - FrontEnd Masters - Organizing JS)
+
+
+Expected:
+- Complete FrontEnd Masters - Organizing JS
+
+Actual:
+- Completed Organizing JS series on Front End masters
+
+
+Read/Watched:
+
+- [:+1: :+1: Organizing JavaScript Functionality](https://frontendmasters.com/courses/organizing-javascript/#v=turgv7pr52)
+- [HTTP/2 is here, now let's make it easy](http://www.thedotpost.com/2015/12/rebecca-murphey-http2-is-here-now-lets-make-it-easy)
+- [Teaching Kids Programming using Web Browsers and Real Robots](http://www.thedotpost.com/2015/12/tim-caswell-teaching-kids-programming-using-web-browsers-and-real-robots)
+- [How to Separate Your AWS Production and Development Accounts](http://blog.codeship.com/separate-aws-production-and-development-accounts/)
+
+
+---
+
+## DAY 52 - Jan 29 - Friday (FEM Coercion in JS)
+
+
+Expected:
+- Complete FrontEnd Masters - Coercion in JS
+
+Actual:
+-
+
+
+Left Over:
+- Get simple recursion down
+- Get forEach and other FP down in regards to Arrays and Objects
+- Nested Loops need practice
+- Get comfortable creating useful closures
+- Start FrontEndMasters videos
+- Object to Array / Array to Object
+- Understand memory leaks in JS
+
+
+
+Read/Watched:
+
+- [:+1: Coercion in JS](https://frontendmasters.com/courses/javascript-coercion/#v=y5abek5ney&skip=1)
+
+- [The Sad State of Entitled Web Developers](https://medium.com/swlh/the-sad-state-of-entitled-web-developers-e4f314764dd#.tctx72xxz)
+
+
+
+---
+
+
+
+
 ## DAY 53 - Jan  - TITLE
 
 ---
@@ -1751,15 +1796,86 @@ Ideas:
 ## DAY 365 - Oct 19 - Done
 
 
-
-Expected:
-
-Actual:
-
-Left Over:
-
-Read/Watched:
-
 Ideas:
 
----
+
+- Create a hoisting animation
+
+- StickerMule stickers (https://www.stickermule.com/user/1070710647/stickers)
+
+- Racism in IT (http://peopleofcolorintech.com/)
+  - Working with white people
+  - Being the only person of color at your job
+  - How racism is alive and well in IT
+  - IT, Racism and Conditional Statements
+
+- Learn Younis' stuff
+  - [Convoy](http://convoy.me/#/works)
+  - [Younus Abdalla](http://younusabdalla.com/) Look at side navigation
+  - [Proximity Menu off Canvas](http://codepen.io/YounusAbdalla/pen/EVbwRa)
+
+- brain.js - (using your brain to understand JS, Programming and life)
+
+
+- Managing images is FUCKED
+  - Are we really going to split an image into n a million fucking image sizes? Managing this in our code blows. And image bloat is insane.
+
+- Accesibility and Color Blindness settings toggle?
+
+- Talk: History of BAD CSS [History of Style]. (Inline on each page > Flash > stylesheets > over qualification > Standards/ Validated > Imports > One line declarations > OOCSS > Utility Classes > Compass > SASS > SCSS > BEM > PostCSS > Inline CSS > CSS Modules)
+
+- Talk: History of UX. (DHTML > Flash > jQuery > CSS3 > GSAP)?
+
+- Toilet Paper In vs Out voter
+- Lefty or Righty Voter
+- Republican or Democrat or independent Voter
+- Love your Job vs Don't care about job
+
+
+- STL photos Stock image site (like unsplash) and STL photos chrome plugin (new photo on each tab [photographer's info, EXIF])
+
+- Games...I gotta look into this too
+
+
+- [This Week's Playlist Concept](http://thisweeksplaylist.co/)
+- [Airport Codes](http://airportcod.es/)
+
+
+- JS stop watch for Rubi
+  - Start and stop with spacebar
+  - clear
+  - record top times
+  - post to whatever
+
+- ASCII art photo maker
+    - https://davidwalsh.name/convert-image-ascii-art
+    - Uses webcam
+    - Allows user to download image
+    - [console-png](https://www.npmjs.com/package/console-png)
+
+- Remake Album covers
+  - http://www.10x2015.com/
+
+- Methods (setup Wudojo, Testing and Code Coverage)
+- Get simple recursion down
+- Start FrontEndMasters videos
+- Make browser dances like Harlem Shake
+- React site with True Vertical Rhythm + images and stuff
+- Style guide. Just code as usual. Code view only shows on click event. Shows HTML and CSS. Can this be done without the Comment clutter?
+- Show multiple ways to double the elements in an array
+    - `fromDouble = (arr) => Array.from(arr, x => x + x);`
+    - forEach version
+
+- Look over nathan s' slider
+- Visualizing JS - Make a shift, unshift, pop, push, slice, splice, substr, substring visualizer with mnemonic devices
+- Visualizing JS - Make a function maker that shows all the thing you can dump into arguments (string, array, obj, fn, number)
+- WDYGT (What did you Google today)
+
+- Layout (popularly bad habits)
+  - Excessive columns and containers
+  - Excessive sidebars
+  - Multi-column footers with bullshit in them
+  - nav bars with site logo in the middle
+  - Shit popularized by WP themes
+
+- A better WYSIWYG editor
