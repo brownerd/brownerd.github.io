@@ -1088,7 +1088,7 @@ Read/Watched:
 - [199: A LOOK BACK](http://shoptalkshow.com/episodes/199-a-look-back/)
 - [Thimble](https://thimble.mozilla.org/en-US)
 - [Etiene da Cruz Dalcol: What I learned teaching programming to 150 beginners | JSConf EU 2015](https://www.youtube.com/watch?v=YuezRMnwyeI)
-
+- [073: Browsers](http://blog.codepen.io/2016/01/20/073-browsers/)
 
 ---
 
@@ -1467,9 +1467,18 @@ Left Over:
 Read/Watched:
 
 - [:+1: Coercion in JS](https://frontendmasters.com/courses/javascript-coercion/#v=y5abek5ney&skip=1)
-
 - [The Sad State of Entitled Web Developers](https://medium.com/swlh/the-sad-state-of-entitled-web-developers-e4f314764dd#.tctx72xxz)
-
+- [MediumEditor](https://yabwe.github.io/medium-editor/)
+- [Hookbin](https://hookbin.com/) Capture and inspect HTTP requests
+- [:+1: JavaScript Coercions Grid](http://getify.github.io/coercions-grid/)
+- [cms.js](https://github.com/cdmedia/cms.js)
+- [V8 JavaScript Engine](http://v8project.blogspot.com/2016/01/v8-release-49.html)
+- [Preact](http://developit.github.io/preact/)
+- [Why The Hell Would I Use Node.js?](http://blog.apcelent.com/why-use-nodejs-tutorial.html)
+- [Front-end Application Libraries and Component Architectures](http://developer.telerik.com/featured/front-end-application-frameworks-component-architectures/)
+- [New Feature: A JavaScript Console!](http://blog.codepen.io/2016/01/27/new-feature-javascript-console/) Hell yeah!
+- [Some Node Skills to Explore](http://jaketrent.com/post/node-skills-explore/)
+- [The Vital Guide to JavaScript Interviewing](http://www.toptal.com/javascript#hiring-guide)
 
 
 ---
@@ -1478,6 +1487,32 @@ Read/Watched:
 
 
 ## DAY 53 - Jan  - TITLE
+
+
+Expected:
+- Complete FrontEnd Masters - Coercion in JS
+
+Actual:
+-
+
+
+Left Over:
+- Get simple recursion down
+- Get forEach and other FP down in regards to Arrays and Objects
+- Nested Loops need practice
+- Get comfortable creating useful closures
+- Start FrontEndMasters videos
+- Object to Array / Array to Object
+- Understand memory leaks in JS
+
+
+
+Read/Watched:
+
+- [Thoughts about Privacy with Class, Prototype, Factory Function and Closure in JavaScript](https://medium.com/@OxyDesign/thoughts-about-privacy-with-class-prototype-factory-function-and-closure-in-javascript-cfae4c0a13c4#.83qjh2p4x)
+- [Why I work remotely (hint: it has nothing to do with productivity).](https://m.signalvnoise.com/why-i-work-remotely-hint-it-has-nothing-to-do-with-productivity-34ace30f74fc#.9stc3xaix)
+- [10 Things I Learned From the jQuery Source](http://www.paulirish.com/2010/10-things-i-learned-from-the-jquery-source/)
+- [Drew Wilson](http://drewwilson.com/)
 
 ---
 
@@ -1797,6 +1832,17 @@ Read/Watched:
 
 
 Ideas:
+
+- Do CodePen Interviews
+  - How did you get into writing code?
+  - How did you get into design?
+  - What do you wish you could be better at?
+  - What practices have you had to bail on?
+  - What are you psyched on?
+  - What would you do if you had the time for it?
+  - What is our average daily schedule?
+  - What are your coding pet peeves?
+  - What advice do you have for noobs?
 
 
 - Create a hoisting animation
