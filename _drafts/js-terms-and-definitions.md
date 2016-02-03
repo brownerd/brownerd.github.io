@@ -69,6 +69,15 @@ if (~foo.indexOf("f")) {
 }
 ```
 
+---
+
+
+
+## Factory Functions
+
+Don't need to use the "this" keyword
+
+
 
 
 
@@ -117,6 +126,13 @@ Take 3 parts
 A function is invocated using the parenthesis syntax `()`:
 
 invokeMe()
+
+---
+
+
+## Functor
+Is an object or data structor you can map over (- Brian Lonsdorf, FrontEndMasters)
+
 
 ---
 
@@ -292,6 +308,19 @@ References:
 
 - [Object.create(): the New Way to Create Objects in JavaScript](http://www.htmlgoodies.com/beyond/javascript/object.create-the-new-way-to-create-objects-in-javascript.html)
 - [3 ways to define a JavaScript class](http://www.phpied.com/3-ways-to-define-a-javascript-class/)
+
+
+---
+
+
+## Patterns
+
+- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+
+---
+
+## Polymorphic
 
 
 

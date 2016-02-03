@@ -6,7 +6,7 @@ I have 365 days to learn JS. This seems like a long time, but I feel like I'm sp
 I made a pen on CodePen called [
 Hellacolor, Flexbox, animation and music](http://codepen.io/brownerd/pen/doxPWQ) on August 23, 2015. It was the first time that this programming shit started to make sense. Up to this point, I never really had anything that needed programming over the past 8 years.
 
-I was a designer. Before that, a Photographer. And before that, a Social Worker. Where the fuck if this going. Point is, I've done a shit ton of design, html, css, wordpress, and jquery plugin installation. But only 3 times in 8 years have I ever had to make a little app with JS.
+I was/am a designer. Before that, a Photographer. And before that, a Social Worker. Where the fuck if this going. Point is, I've done a shit ton of design, html, css, wordpress, and jquery plugin installation. But only 3 times in 8 years have I ever had to make a little app with JS.
 
 I was always surprised that I was able to google my way through it, but I also knew that I had no fucking clue what I was doing. Yes, we can all hack it 'til we crack it. But, now, I want to know how to write JS.
 
@@ -23,16 +23,16 @@ So, I’m going to start keeping a journal of my JS learning. I’m doing this b
 - Made a tool called Wudojo to learn JS
 - Started to use ESLINT
 - Found FunFunFunction and watched all the video
-- Started Read/Watched all of Eric Elliots posts on Medium
+- Started Read/Watched all of Eric Elliott's posts on Medium
 - Looked into Node a little bit
 
 
 
-## DAY 1 - Oct 9 - Testing
+## DAY 1 - Dec 9 - Testing
 
 On deck:
 
-- Grep testing with TAPE via Eric Elliots post on Medium
+- Grep testing with TAPE via Eric Elliott's post on Medium
 
 This testing stuff has made zero sense to me until today. Following Eric Elliot has helped a ton in many ways with learning more about JS best practices. His advice about simply using TAPE has made this TDD concept startable. I'll pass on all that Mocha, Chai, Jasmine stuff right now.
 
@@ -64,7 +64,7 @@ Notes:
 ---
 
 
-## DAY 2 - Oct 10 - Wrestling to set up tests still
+## DAY 2 - Dec 10 - Wrestling to set up tests still
 
 Expected:
 
@@ -143,7 +143,7 @@ Ideas:
 ---
 
 
-## DAY 3 - Oct 11 - Make some shit
+## DAY 3 - Dec 11 - Make some shit
 
 Expected:
 
@@ -177,7 +177,7 @@ Listening to Nina Simone](https://www.youtube.com/watch?v=N4CbuE6--as)
 ---
 
 
-## DAY 4 - Oct 12 - Saturday (Help Jabari and Getting Methods repo working)
+## DAY 4 - Dec 12 - Saturday (Help Jabari and Getting Methods repo working)
 
 
 Left Over:
@@ -204,7 +204,7 @@ Ideas:
 ---
 
 
-## DAY 5 - Oct 13 - Sunday (Service Workers)
+## DAY 5 - Dec 13 - Sunday (Service Workers)
 
 Left Over:
 
@@ -244,7 +244,7 @@ Ideas:
 ---
 
 
-## DAY 6 - Oct 14 - Monday (Crush open browser tabs)
+## DAY 6 - Dec 14 - Monday (Crush open browser tabs)
 
 Expected:
 
@@ -277,7 +277,7 @@ Ideas:
 - Make browser dances like Harlem Shake
 
 ---
-## DAY 7 - Oct 15 - Tuesday (String Methods all day)
+## DAY 7 - Dec 15 - Tuesday (String Methods all day)
 
 
 
@@ -306,7 +306,7 @@ Ideas:
 
 ---
 
-## DAY 8 - Oct 16 - Wednesday (Array methods all day)
+## DAY 8 - Dec 16 - Wednesday (Array methods all day)
 
 Expected:
 
@@ -338,7 +338,7 @@ Ideas:
     - forEach version
 ---
 
-## DAY 9 - Oct 17 - Thursday - Arrays
+## DAY 9 - Dec 17 - Thursday - Arrays
 
 Expected:
 - Methods project - Finish Arrays
@@ -370,7 +370,7 @@ Ideas:
 
 ---
 
-## DAY 10 - Oct 18 - Friday
+## DAY 10 - Dec 18 - Friday
 
 Expected:
 - Methods project - Finish Dates
@@ -416,7 +416,7 @@ Ideas:
 ---
 
 
-## DAY 11 - Oct 19 - Saturday (New desk and cleanup)
+## DAY 11 - Dec 19 - Saturday (New desk and cleanup)
 
 Expected:
 - Set up new standing desk
@@ -437,7 +437,7 @@ Ideas:
 ---
 
 
-## DAY 12 - Oct 20 - Sunday (clean up)
+## DAY 12 - Dec 20 - Sunday (clean up)
 
 Expected:
 
@@ -462,7 +462,7 @@ Ideas:
 ---
 
 
-## DAY 13 - Oct 21 - Monday (Eric Elliot's Programming Javascript Applications)
+## DAY 13 - Dec 21 - Monday (Eric Elliot's Programming Javascript Applications)
 
 Expected:
 - Read Programming Javascript Applications
@@ -487,7 +487,7 @@ Read/Watched:
 
 
 ---
-## DAY 14 - Oct 22 - Tuesday (Switch to Eloquent Javascript)
+## DAY 14 - Dec 22 - Tuesday (Switch to Eloquent Javascript)
 
 
 
@@ -523,7 +523,7 @@ Ideas:
 
 ---
 
-## DAY 15 - Oct 23 - Wednesday - (watch kelleys and camstl reunion)
+## DAY 15 - Dec 23 - Wednesday - (watch kelleys and camstl reunion)
 
 
 Expected:
@@ -552,7 +552,7 @@ Ideas:
 
 ---
 
-## DAY 16 - Oct 24 - Thursday (x-mas eve)
+## DAY 16 - Dec 24 - Thursday (x-mas eve)
 
 
 Expected:
@@ -573,7 +573,7 @@ Ideas:
 
 
 
-## DAY 17 - Oct 25 - Firday (x-mas)
+## DAY 17 - Dec 25 - Firday (x-mas)
 
 Expected:
 - x-mas
@@ -627,14 +627,14 @@ Ideas:
 
 
 
-## DAY 18 - Oct 26 - Saturday
+## DAY 18 - Dec 26 - Saturday
 
 Travel to Dominican Republic
 
 ---
 
 
-## DAY 19 - Oct 27 - Sunday
+## DAY 19 - Dec 27 - Sunday
 
 Exploring Dominican Republic
 
@@ -642,7 +642,7 @@ Exploring Dominican Republic
 ---
 
 
-## DAY 20 - Oct 28 - Monday
+## DAY 20 - Dec 28 - Monday
 
 Still in D.R. Checking Email and RSS feed
 
@@ -662,7 +662,7 @@ Read/Watched:
 ---
 
 
-## DAY 21 - Oct 29 - Tuesday
+## DAY 21 - Dec 29 - Tuesday
 
 
 Read/Watched:
@@ -674,15 +674,39 @@ Read/Watched:
 
 ---
 
-## DAY 22 - Oct 30 - Wednesday (Sailing to Catilina)
+## DAY 22 - Dec 30 - Wednesday (Sailing to Catilina)
 
-Sailed. Came home with 20 misquito bites. Got sick towards the end of the night.
+Sailed. Came home with 20 mosquito bites. Got sick towards the end of the night.
 
 ---
 
-## DAY 23 - Oct 31 - Thursday (Sick. New Years Eve)
+## DAY 23 - Dec 31 - Thursday (Sick. New Years Eve)
 
 Sick.
+
+
+---
+
+
+
+### DEC in review
+
+
+- Hugely influenced by Eric Elliott’s articles on Medium.
+- I learned how to do testing with Tape.
+- I learned how to use package.json to make scripts instead of using Gulp.
+- Learned most of the methods provide in vanilla JS
+- Looked in to Service Workers. Still don’t know too much about it
+- Made an adjustable standing desk
+- Hugely influnced by Fun Fun Function. This an awesome programming podcast!
+- Started Eric Elliott’s Programming JS Applications, but bailed on it to learn more before continuing
+- Started Eloquent JS to learn more basics
+- Went to the Dominican Republic for winter vacation with the fam. We ALL got sick, so the trip ended up being pretty rough for everyone.
+- Lost all of my JS momentum while being in DR, sick with no time to code
+
+
+
+
 
 ---
 
@@ -740,7 +764,7 @@ Expected:
 
 
 Actual:
-- Read tons of stuff in my RSS reed from last wee
+- Read tons of stuff in my RSS reed from last week
 - Lost of MineCraft
 - Amir got sick
 
@@ -802,7 +826,7 @@ Expected:
 
 Actual:
 - Watched FFF videos
-- Started Read/Watched Eloquent JS again
+- Started Eloquent JS again
 
 
 Read/Watched:
@@ -1450,18 +1474,8 @@ Expected:
 - Complete FrontEnd Masters - Coercion in JS
 
 Actual:
--
-
-
-Left Over:
-- Get simple recursion down
-- Get forEach and other FP down in regards to Arrays and Objects
-- Nested Loops need practice
-- Get comfortable creating useful closures
-- Start FrontEndMasters videos
-- Object to Array / Array to Object
-- Understand memory leaks in JS
-
+- Fnished coercion video
+- read and closed open articles in browser tabs
 
 
 Read/Watched:
@@ -1486,14 +1500,86 @@ Read/Watched:
 
 
 
-## DAY 53 - Jan  - TITLE
+## DAY 53 - Jan 30 - Saturday (Fam time and bike ride)
 
 
 Expected:
-- Complete FrontEnd Masters - Coercion in JS
+- Fam time
 
 Actual:
--
+- took amir to play with cousins
+- rode bikes in forest park
+- date night
+- took bumshiqua to animal hospital (kidney failure)
+
+
+Read/Watched:
+
+
+
+---
+
+
+## DAY 54 - Jan 31 - Sunday (family day)
+
+
+Expected:
+- hang out at dad's house
+
+Actual:
+- chilled at dad's
+- read a few articles
+
+
+Read/Watched:
+
+
+- [I’m not smart, I just sat there for longer than you(https://medium.com/user-experience-design-1/i-m-not-smart-i-just-sat-there-for-longer-than-you-1f35b5246cbd#.mf5roidx0)]
+- [The final feature set of ECMAScript 2016 (ES7)](http://www.2ality.com/2016/01/ecmascript-2016.html)
+- [What To Expect From JavaScript In 2016 – Frameworks](http://developer.telerik.com/featured/what-to-expect-from-javascript-in-2016-frameworks/)
+- [React](http://toolsday.io/episodes/react.html)
+- [Debugging Node.js in Chrome DevTools](http://mattdesl.svbtle.com/debugging-nodejs-in-chrome-devtools)
+- [voxel.css makes 3D rendering easy](http://www.voxelcss.com/)
+- [Plug.js](http://andrewcourtice.github.io/plug.js/) Plug JS is a lightweight JavaScript dependency injection and object life-cycle management library
+- [ES2016 Features & ECMAScript as a Living Standard](https://ponyfoo.com/articles/es2016-features-and-ecmascript-as-a-living-standard)
+- [Is The Internet Killing Creativity?](https://www.smashingmagazine.com/2016/01/is-the-internet-killing-creativity/) Yes and No.
+- [2016 - the year of web streams](https://jakearchibald.com/2016/streams-ftw/)
+
+
+
+---
+
+### January Review
+
+- Very slow start getting back into the swing of things. Struggled to pick JS learning back up
+- Went hard with Minecraft PE survival mode for 7 days
+- FunFunFunction videos
+- Spent a ton of time trying to catch up with Old RSS articles that I wanted to read
+- Went to SanDiego for cousin’s wedding
+- Watched all of Source Decoded Videos on JS. fucking awesome!
+- Best friend, Jabari had to go to hospital for ulcerative colitis
+- Watched a ton of Douglas Rockford videos. Awesome!
+- Watched a bunch of Kyle Simpson videos on FrontEnd masters. Awesome!
+- Watched a bunch of Functional Programming videos by Erik Meijer. Awesome!
+- I didn’t push much code at all, but I did get some awesome exposure to JS from all the videos I watched
+
+
+
+---
+
+
+
+## DAY 55 - Feb 1 - Monday (Chimney checked for dead squirrel)
+
+Expected:
+- read and close RSS articles
+- pest control
+- dad's 70th bday dinner
+
+Actual:
+- read and close RSS articles
+- pest control
+- dad's 70th bday dinner
 
 
 Left Over:
@@ -1506,21 +1592,99 @@ Left Over:
 - Understand memory leaks in JS
 
 
-
 Read/Watched:
 
-- [Thoughts about Privacy with Class, Prototype, Factory Function and Closure in JavaScript](https://medium.com/@OxyDesign/thoughts-about-privacy-with-class-prototype-factory-function-and-closure-in-javascript-cfae4c0a13c4#.83qjh2p4x)
-- [Why I work remotely (hint: it has nothing to do with productivity).](https://m.signalvnoise.com/why-i-work-remotely-hint-it-has-nothing-to-do-with-productivity-34ace30f74fc#.9stc3xaix)
-- [10 Things I Learned From the jQuery Source](http://www.paulirish.com/2010/10-things-i-learned-from-the-jquery-source/)
-- [Drew Wilson](http://drewwilson.com/)
+
+- [Fast or Flexible? - FunFunFunction #17](https://www.youtube.com/watch?v=R39zdSLd8ic)
+- [ES2016 feature: Array.prototype.includes](http://www.2ality.com/2016/02/array-prototype-includes.html)
+- [ES2016 feature: exponentiation operator (**)](http://www.2ality.com/2016/02/exponentiation-operator.html)
+- [ES proposal: async functions](http://www.2ality.com/2016/02/async-functions.html)
+- [Manage Service Worker Caches with JavaScript](https://davidwalsh.name/service-worker-caches)
+- [WEBLeveling Up Your JavaScript](http://developer.telerik.com/featured/leveling-up-your-javascript/)
+- [Making A Service Worker: A Case Study](https://www.smashingmagazine.com/2016/02/making-a-service-worker/) I need to tackle service workers one of these days
+- [Build a Custom Photo Widget for Your Desktop with Node.js](https://scotch.io/tutorials/build-a-custom-photo-widget-for-your-desktop-with-node-js) This looks awesome! I gotta do this soon
+- [css-protips](https://github.com/AllThingsSmitty/css-protips)
+
+
 
 ---
 
 
-## DAY 54 - DATE - TITLE
-## DAY 55 - DATE - TITLE
-## DAY 56 - DATE - TITLE
-## DAY 57 - DATE - TITLE
+
+## DAY 56 - Feb 2 - Tuesday(Start functional programming course on FEM)
+
+Expected:
+- Watch functional JS video from FrontEndMasters
+- Call pest control people
+- grocery shop
+- monitor bumshiqua for eating
+
+Actual:
+- Watched functional JS video from FrontEndMasters
+- Called pest control people
+- grocery shoped
+- worked late at Starbucks
+- Updated Angel's site
+- Tech support for CEAM
+
+
+Read/Watched:
+
+
+- [Feature watch: ECMAScript 2017](http://www.2ality.com/2016/02/ecmascript-2017.html)
+- [How Enterprises Benefit from Node.js](https://blog.risingstack.com/how-enterprises-benefit-from-nodejs/)
+- [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/)
+- [The Sound Archive](http://www.thesoundarchive.com)
+    - ```js
+      var log = function (x) { console.log(x) ; return x; };
+
+    ```
+
+    - I like these DIY assertions used
+    ```js
+
+      // TEST HELPERS
+      // =====================
+      function inspectIt(x){
+        return (x.inspect && x.inspect()) || (x.toString && x.toString()) || x.valueOf(); //hacky for teachy.
+      }
+
+      function assertEqual(x,y){
+        if(x !== y){ throw("expected "+x+" to equal "+y); }
+      }
+      function assertDeepEqual(x,y){
+        if(x.val !== y.val) throw("expected "+inspectIt(x)+" to equal "+inspectIt(y));
+      }
+    ```
+    - j
+---
+
+
+## DAY 57 - Feb 3 - Wednesday (Cat to new vet)
+
+Expected:
+- Finish Functional JS
+- get bumshiqua's meds and paper work for Kindgbury animal hospital
+
+Actual:
+-
+
+
+Left Over:
+- Get simple recursion down
+- Get forEach, map, filter, reduce, curry and other FP down in regards to Arrays and Objects
+- Nested Loops need practice
+- Get comfortable creating useful closures
+- Start FrontEndMasters videos
+- Object to Array / Array to Object
+- Understand memory leaks in JS
+- better understand "test interface, not its implementation"
+
+
+
+Read/Watched:
+
+
 ## DAY 58 - DATE - TITLE
 ## DAY 59 - DATE - TITLE
 ## DAY 60 - DATE - TITLE
@@ -1832,6 +1996,31 @@ Read/Watched:
 
 
 Ideas:
+
+
+
+- Similar to BrainJS (i need a new name for this BTW) what if we could express dating/match making through code for nerds and make a UI for everyone else to understand
+
+
+- Yeah, most websites look the same...so do cars. Also, back in the day, more was Photoshop centric. Design was 1st. Dev was second and management was third.
+
+But now, we live in a world where EVERY FUCKING ASPECT of a webpage needs to be easy to modify. Dev can't be landlocked by design.
+
+
+Great read. I'm old as shit, so let me say this...Photoshop used to rule in early web design. Unique design was what we did to stand out. BUT that shit wasn't manageable, performant, efficient or sustainable in the long run!  Real truth—design is NOT everything. Design is one part of the challenge of making something rad, scaleable, performant and manageable.
+
+I don't think that the internet is killing (visual) creativity. It's just that we have so much fucking boilerplate these days. 10 years ago we had to design everything because there either was no boilerplate or existing boilerplate was absolute crap. I'd argue that there is a lot of good web design out there today but it's so prevalent that it feels lame.
+
+Being old as shit, I can say that it felt like there was a lot more creative freedom 10 years ago. Shit, Flash ruled back then. Design was so out of control that we made you wait 30s to see all the hot Flash bullshit that we made. And if it wasn't Flash it was a website that was handcuffed to Photoshop generated assets. Design ruled.
+
+But then SEO got hot and killed Flash. SEO hunger accelerated the content creation and content management needs. Now fighting for ranking trumped fighting for design.
+
+Then mobile happened and design time had to be split into desktop, tablet and mobile views.
+
+Then BootStrap happened an
+
+I'd argue that the technical requirements of the web make designing for it a moving target.
+
 
 - Do CodePen Interviews
   - How did you get into writing code?
