@@ -230,6 +230,10 @@ if (foo == false) {           // true, but don't ever do this
 var baz = foo || "foo";       // "foo"
 ```
 
+---
+
+## Iterator
+A pull Mechanism ( - Jafar, Front End Masters Asynchronous JS lecture )
 
 ---
 
@@ -239,13 +243,25 @@ var baz = foo || "foo";       // "foo"
 
 ---
 
+
+## Generator
+
+- A push and a pull mechanism ( - Jafar, Front End Masters Asynchronous JS lecture )
+
+
+---
+
 ## Lambdas
 
 - [Javascript Jems - Lambda expressions](http://www.i-programmer.info/programming/javascript/1031-javascript-jems-lambda-expressions.html)
 
 
+---
 
 
+## .map()
+
+.map() transforms an object, and returns a new transfromed object
 
 ---
 
@@ -312,6 +328,15 @@ References:
 
 ---
 
+## Observable
+
+A collection that arrives over time ( - Jafar, Front End Masters Asynchronous JS lecture )
+
+- a push mechanism
+
+
+
+--
 
 ## Patterns
 
@@ -322,7 +347,10 @@ References:
 
 ## Polymorphic
 
+---
 
+## Predicate
+A predicate is a function that accepts an item in the array, and returns a boolean indicating whether the item should be retained in the new array. ( - Jafar, Front End Masters Asynchronous JS lecture )
 
 ---
 
@@ -342,6 +370,11 @@ References:
 ---
 
 
+## Projection
+
+Applying a function to a value and creating a new value is called a projection ( - Jafar, Front End Masters Asynchronous JS lecture )
+
+---
 
 ## Scope
   - var is function scoped

@@ -1656,38 +1656,100 @@ Read/Watched:
         if(x.val !== y.val) throw("expected "+inspectIt(x)+" to equal "+inspectIt(y));
       }
     ```
-    - j
+    - Rad, but still over my head. Yet it all made much more sense this time around.
+
 ---
 
 
-## DAY 57 - Feb 3 - Wednesday (Cat to new vet)
+## DAY 57 - Feb 3 - Wednesday (Cat to new vet / Bumshiqua died before the check-up)
 
 Expected:
 - Finish Functional JS
-- get bumshiqua's meds and paper work for Kindgbury animal hospital
+- get bumshiqua's meds and paper work for Kingsbury animal hospital
 
 Actual:
--
+- Cat died just minutes before her scheduled pickup. Bumshiqua was the best cat ever. Gonna miss her.
+- Finished Functional JS on FrontEnd Masters
 
 
-Left Over:
-- Get simple recursion down
-- Get forEach, map, filter, reduce, curry and other FP down in regards to Arrays and Objects
-- Nested Loops need practice
-- Get comfortable creating useful closures
-- Start FrontEndMasters videos
-- Object to Array / Array to Object
-- Understand memory leaks in JS
-- better understand "test interface, not its implementation"
+Read/Watched:
+
+- [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/)
+- [Unit Testing JavaScript (with CoffeeScript)](https://frontendmasters.com/courses/unit-testing-javascript/)
+- [Ramda JS](http://ramdajs.com/0.19.1/docs/)
+
+
+---
+
+## DAY 58 - Feb 4 - Thursday (Raji home today. Dev Lunch with Brittan)
+
+Expected:
+- Watch Raji
+- Dev lunch with Brittan
+- Watch Unit Testing video on FrontEnd Masters
+
+Actual:
+- Watched Raji
+- Went to Dev lunch with Brittan
+- Watched Unit Testing video on FrontEnd Masters
+- Started Asynchronous Programming in JavaScript (with Rx.js Observables) on FrontEnd Masters
+
+
+Read/Watched:
+
+- [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/)
+- [Unit Testing JavaScript (with CoffeeScript)](https://frontendmasters.com/courses/unit-testing-javascript/)
+- [Introducing Block Decorations](http://blog.atom.io/2016/02/03/introducing-block-decorations.html)
+- [Lineman.js](http://linemanjs.com/)
+- [How I Modularize JS patterns using Browserify and Vue.js](http://codepen.io/CosX/post/how-i-modularize-js-patterns-using-browserify-and-vue-js)
+- [ES proposal: Object.getOwnPropertyDescriptors()](http://www.2ality.com/2016/02/object-getownpropertydescriptors.html)
+- [Asynchronous Programming in JavaScript (with Rx.js Observables)](https://frontendmasters.com/courses/asynchronous-javascript/)
+
+---
+
+## DAY 59 - Feb 5 - Friday(Watching Raji again. Lunch with Dad, Async JS)
+
+Expected:
+- Watch Raji
+- Dev lunch with Dad
+- Watch Async JS video on FrontEnd Masters
+
+Actual:
+- Watched Raji
+- Went to Dev lunch with Dad
+- Watched Async JS video on FrontEnd Masters
 
 
 
 Read/Watched:
 
+- [Can SEOs Stop Worrying About Keywords and Just Focus on Topics? - Whiteboard Friday](https://moz.com/blog/can-seos-stop-worrying-keywords-focus-topics-whiteboard-friday)
+- [Asynchronous Programming in JavaScript (with Rx.js Observables)](https://frontendmasters.com/courses/asynchronous-javascript/)
 
-## DAY 58 - DATE - TITLE
-## DAY 59 - DATE - TITLE
-## DAY 60 - DATE - TITLE
+
+---
+
+## DAY 60 - Feb 6 - Saturday(More Asycn JS, took Amir to Eric's BDay Party)
+
+Expected:
+- Take Amir to Eric's BDay Party
+- Watch Async JS video on FrontEnd Masters
+
+Actual:
+- T0ke Amir to Eric's BDay Party
+- Watched Async JS video on FrontEnd Masters
+
+
+
+Read/Watched:
+
+- [Asynchronous Programming in JavaScript (with Rx.js Observables)](https://frontendmasters.com/courses/asynchronous-javascript/)
+
+
+
+---
+
+
 ## DAY 61 - DATE - TITLE
 ## DAY 62 - DATE - TITLE
 ## DAY 63 - DATE - TITLE
@@ -1711,6 +1773,25 @@ Read/Watched:
 ## DAY 81 - DATE - TITLE
 ## DAY 82 - DATE - TITLE
 ## DAY 83 - DATE - TITLE
+
+---
+
+### Feb in review
+
+- Went hard on the tuts at Front End Masters
+- Beloved cat, bumshiqua, died at the beginning of this month
+- Learning that I need to focus more on becoming a good programmer than just learning a JS an some frameworks. Of course I want to know JS and some frameworks, but looking in to FP, Elm and Haskell is showing more about programming that I didn't know existed
+- It's been great learning more about the History of programming from Eric Meijer's
+- There is no way I could have passed an entry test into hack reactor a few months ago. I probably still couldn't do it today. There is no Zero to Hero path in 3 months when you don't have core programming experience. Also, I couldn't imagine getting into a hack reator like program just to learn what I've gain in the past 3 months. Yes I feel like I've learned a ton, but I still don't even know how to even write a simple App.
+- There's just so much to see in js. Yes, i want to get better at writing this stuff. Yet watching these video helps to fill in sooo much context.
+- It's painful seeing all this shit first the first time. I don't have enough experience with this stuff to make sense of it. So, I slog through a tut, watch a video, write the code and hope, that one day, it will all make sense.
+
+
+
+
+---
+
+
 ## DAY 84 - DATE - TITLE
 ## DAY 85 - DATE - TITLE
 ## DAY 86 - DATE - TITLE
@@ -1995,8 +2076,22 @@ Read/Watched:
 ## DAY 365 - Oct 19 - Done
 
 
-Ideas:
 
+Left Over:
+- Get simple recursion down
+- Get forEach, map, filter, reduce, curry and other FP down in regards to Arrays and Objects
+- Nested Loops need practice
+- Get comfortable creating useful closures
+- Start FrontEndMasters videos
+- Object to Array / Array to Object
+- Understand memory leaks in JS
+- better understand "test interface, not its implementation"
+
+
+
+
+Ideas:
+- -0 to 0
 
 
 - Similar to BrainJS (i need a new name for this BTW) what if we could express dating/match making through code for nerds and make a UI for everyone else to understand
