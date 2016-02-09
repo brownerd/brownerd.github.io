@@ -1729,7 +1729,7 @@ Read/Watched:
 
 ---
 
-## DAY 60 - Feb 6 - Saturday(More Asycn JS, took Amir to Eric's BDay Party)
+## DAY 60 - Feb 6 - Saturday(More Async JS, took Amir to Eric's BDay Party)
 
 Expected:
 - Take Amir to Eric's BDay Party
@@ -1744,15 +1744,81 @@ Actual:
 Read/Watched:
 
 - [Asynchronous Programming in JavaScript (with Rx.js Observables)](https://frontendmasters.com/courses/asynchronous-javascript/)
+- [90s cursor effects](https://github.com/tholman/90s-cursor-effects/tree/master/js)
+- [Advanced Search Form](https://codyhouse.co/gem/advanced-search-form/)
+- [JavaScript by Examples](https://github.com/bmkmanoj/js-by-examples)
+
 
 
 
 ---
 
 
-## DAY 61 - DATE - TITLE
-## DAY 62 - DATE - TITLE
-## DAY 63 - DATE - TITLE
+## DAY 61 - Feb 7 - Sunday(Fam day, super bowl)
+
+Expected:
+- Brunch at Dad's
+- Watch Super Bowl
+
+Actual:
+- Brunch at Dad's
+- Watch Super Bowl
+
+
+
+Read/Watched:
+
+
+---
+
+
+## DAY 62 - Feb 8 - Monday(crush open tabs an rss articles)
+
+Expected:
+- crush open tabs an rss articles
+
+Actual:
+- Closed some tabs
+- Wrestling with a sinus infection, had to rest most of the day
+
+
+
+Read/Watched:
+- [Coders are herd animals - FunFunFunction #18](https://www.youtube.com/watch?v=lrf6xuFq1Ms)
+- [:+1: JavaScript String Replace Magic](http://codersblock.com/blog/javascript-string-replace-magic/)
+- [JavaScript by Examples](https://github.com/bmkmanoj/js-by-examples)
+- [Better bundles with Rollup](http://javascriptplayground.com/blog/2016/02/better-bundles-rollup)
+- [:+1: Tonic](https://tonicdev.com/)Tonic is node prototyping. Tonic notebooks are interactive playgrounds connected to a complete node environment right in your browser.
+- [Validating Data With JSON-Schema, Part 1](http://code.tutsplus.com/tutorials/validating-data-with-json-schema-part-1--cms-25343)
+- [Validating Data With JSON-Schema, Part 2](http://code.tutsplus.com/tutorials/validating-data-with-json-schema-part-2--cms-25640)
+- [Want to speed up `npm install`? Disable the progress bar for a massive speed boost ](https://twitter.com/gavinjoyce/status/691783314261331969)
+- [075: Rachel](http://blog.codepen.io/2016/02/02/075-rachel/)
+
+
+
+---
+
+## DAY 63 - Feb 9 - Tuesday(crush open tabs an rss articles)
+
+
+Expected:
+- crush open tabs an rss articles
+
+Actual:
+
+
+
+
+Read/Watched:
+- [Toolsday](http://toolsday.io/) React - this site had problems playing
+- [The Way out](http://www.thrashermagazine.com/articles/videos/jim-greco-s-the-way-out-video/) Rad
+- [React Redux with Dan Abramov - Google+](https://plus.google.com/events/c3eh9rttau2l8qidg9i1qevdd6s)
+
+
+
+---
+
+
 ## DAY 64 - DATE - TITLE
 ## DAY 65 - DATE - TITLE
 ## DAY 66 - DATE - TITLE
@@ -2089,9 +2155,31 @@ Left Over:
 
 
 
+Revisit:
+
+- [90s cursor effects](https://github.com/tholman/90s-cursor-effects/tree/master/js)
+- [Advanced Search Form](https://codyhouse.co/gem/advanced-search-form/)
+- [JavaScript by Examples](https://github.com/bmkmanoj/js-by-examples)
+
+
+
 
 Ideas:
-- -0 to 0
+
+- Web vs Print typography
+    - Indentation vs new line (Both work, but one would require much more paper, thus more money)
+    - Margins - it's where your thumbs and notes go. No smearing printed ink
+    - CPL - Research proves that CPL doesn't aid Readability at. The CPL arguement needs to die. I think that CPL is more of an aesthetic argument than readability arguemnt. I think that different mediums (reading book, textbook, newspaper, photo book) had different CPLs. I'd argue that all printed mediums tried to fit the most text possible on a page to reduce material costs and to provide as standard as a reading experience as possible.
+        - [Characters per line](https://en.wikipedia.org/wiki/Characters_per_line)
+        - [The Effects of Line Length on Reading Online News](http://web.archive.org/web/20150619221256/http://psychology.wichita.edu/surl/usabilitynews/72/LineLength.asp)
+    - font size
+    - Typeface vs Font
+    - Line-height
+
+    - Make CPL tool
+
+
+- -0 to 0 (going from no JS or Programming skills to read to basic skills)
 
 
 - Similar to BrainJS (i need a new name for this BTW) what if we could express dating/match making through code for nerds and make a UI for everyone else to understand
