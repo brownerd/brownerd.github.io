@@ -6,17 +6,59 @@
 ## Closure
 
 
+---
 
 
---
+## Compose
 
-## Declaritive
+ to place together - Rich Hickey (http://www.infoq.com/presentations/Simple-Made-Easy)
+
+---
+
+## Declarative
+
+Tell the compiler "what" to do instead of "how" to do it.
+
+This is a definition that still confuses me. It requires you to know both styles to understand the difference.
+
+I might say that declarative programming is a layer of abstraction that allows you to program in "concepts" (using function helpers that do the lower level stuff for you). Where imperative programming is similar to writing all the lower level stuff.
+
+I still think that this is confusing. Here are some examples
+
+```js
+const arr = [1, 2, 3]
+
+// Declarative
+const declarativeDouble = arr.map(item => item * 2)
+
+console.log(declarativeDouble)  // [2, 3, 6]
+
+
+// Imperative
+const imperativeDouble = list => {
+  var result = []
+  for (var i = 0, l = list.length; i < l; i++) {
+    result.push(list[i] * 2)
+  }
+  return result
+}
+
+console.log(imperativeDouble(arr))  // [2, 3, 6]
+```
+
+---
+
+## Encapsulation
+
+Encapsulation is about hiding implementation details
+- http://blog.jenkster.com/2015/12/what-is-functional-programming.html
+
+
+
 
 
 
 ---
-
-
 
 ## Errors
 
@@ -126,6 +168,31 @@ Take 3 parts
 A function is invocated using the parenthesis syntax `()`:
 
 invokeMe()
+
+---
+
+## Functional programming
+
+Functional programming is about writing pure functions, about removing hidden inputs and outputs as far as we can, so that as much of our code as possible just describes a relationship between inputs and outputs.
+
+Let's not hide what a piece of code needs, nor what results it will yield. If a piece of code needs something to run correctly, let it say so. If it does something useful, let it declare it as an output. When we do this, our code will be clearer. Complexity will come to the surface, where we can break it down and deal with it.
+
+A functional programming language is one that supports and encourages programming without side-effects.
+
+Or more specifically: A functional language actively helps you eliminate side-effects wherever possible, and tightly control them wherever it's not.
+
+Or more dramatically: A functional language is actively hostile to side-effects. Side-effects are complexity and complexity is bugs and bugs are the devil. A functional language will help you be hostile to side-effects too. Together you will beat them into submission.
+
+ http://blog.jenkster.com/2015/12/what-is-functional-programming.html
+
+
+  A functional language is a language that has functions as first-class citizens, enforces referential transparency by eliminating assignment, and maintains data history with persistent data structures.
+
+http://blog.8thlight.com/uncle-bob/2013/01/02/FPBE2-Whys-it-called-functional.html
+
+
+Functional programming is about programming using mathematical/pure functions. Where the same input(agrument) always returns the same output - Erik Meijer
+
 
 ---
 
@@ -255,13 +322,36 @@ A pull Mechanism ( - Jafar, Front End Masters Asynchronous JS lecture )
 
 - [Javascript Jems - Lambda expressions](http://www.i-programmer.info/programming/javascript/1031-javascript-jems-lambda-expressions.html)
 
+A lambda expression is a delegate - Erik Meijer
+Lambda expressions give you closures - Erik Meijer
+With Lambda expressions you can capture things in the outer scope. Lambdas are about closures - Erik Meijer
+
+
 
 ---
 
+## Loop
+
+A tool for iteration that requires three parts:
+
+1. State
+2. Condition
+3. Increment
+
+
+---
 
 ## .map()
 
 .map() transforms an object, and returns a new transfromed object
+
+---
+
+
+## Monads
+
+
+
 
 ---
 
@@ -334,7 +424,7 @@ A collection that arrives over time ( - Jafar, Front End Masters Asynchronous JS
 
 - a push mechanism
 
-
+An Observable is a lot like an Event. Like an Event, an Observable is a sequence of values that a data producer pushes to the consumer. However unlike an Event, an Observable can signal to a listener that it has completed, and will send no more data.
 
 --
 
@@ -376,6 +466,23 @@ Applying a function to a value and creating a new value is called a projection (
 
 ---
 
+## Pure-function
+A function is called 'pure' if all its inputs are declared as inputs - none of them are hidden - and likewise all its outputs are declared as outputs.
+http://blog.jenkster.com/2015/12/what-is-functional-programming.html
+
+
+
+
+---
+
+## referential transparency
+When a function is called twice with the same parameters, and ALWAYS returns the same result.
+
+
+
+---
+
+
 ## Scope
   - var is function scoped
   - let and const are block scoped
@@ -388,10 +495,18 @@ Applying a function to a value and creating a new value is called a projection (
 
 ## Side-effects
 
-Side effects happen when a fucntion modifies a value outside of it's self
+Side effects happen when a function modifies a value outside of it's self
 
+Side-effects aren't about "hiding implementation details" - they're about hiding the code's relationship with the outside world. A function with side-causes has undocumented assumptions about what external factors it's depending on. A function with side-effects has undocumented assumptions about what external factors it's going to change.
+
+If there were an I-Spy book of side-effects, the two easiest targets to spot would be functions that take no arguments, and functions that return no value.
+
+http://blog.jenkster.com/2015/12/what-is-functional-programming.html
 
 ```js
+// I'm not sure about these examples any more. I need to clarify this after learning a little FP
+
+
 
 // function with a side-effect
 var x = 10;
@@ -404,11 +519,11 @@ sideEffect();
 console.log(x)
 
 // function without a side-effect
-function noSideEffect () {
+function noSideEffect (y) {
 
   // x is no longer 10 because the function above modified it.
   // these side-effects can cause confusion
-  return x + 10;
+  return y + 10;
 };
 
 console.log(noSideEffect())
@@ -433,6 +548,13 @@ and more
 ---
 
 
+## type inference
+That means that you don't have to explicitly label every piece of code with a type because the type system can intelligently figure out a lot about it
+- http://learnyouahaskell.com/introduction#about-this-tutorial
+
+
+
+---
 ## typeof
 
 the result is always expressed as a string inside quotation marks

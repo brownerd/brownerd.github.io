@@ -1705,6 +1705,7 @@ Read/Watched:
 - [ES proposal: Object.getOwnPropertyDescriptors()](http://www.2ality.com/2016/02/object-getownpropertydescriptors.html)
 - [Asynchronous Programming in JavaScript (with Rx.js Observables)](https://frontendmasters.com/courses/asynchronous-javascript/)
 
+
 ---
 
 ## DAY 59 - Feb 5 - Friday(Watching Raji again. Lunch with Dad, Async JS)
@@ -1766,9 +1767,6 @@ Actual:
 
 
 
-Read/Watched:
-
-
 ---
 
 
@@ -1805,7 +1803,7 @@ Expected:
 - crush open tabs an rss articles
 
 Actual:
-
+- Watched a crap ton of videos
 
 
 
@@ -1813,15 +1811,122 @@ Read/Watched:
 - [Toolsday](http://toolsday.io/) React - this site had problems playing
 - [The Way out](http://www.thrashermagazine.com/articles/videos/jim-greco-s-the-way-out-video/) Rad
 - [React Redux with Dan Abramov - Google+](https://plus.google.com/events/c3eh9rttau2l8qidg9i1qevdd6s)
+- [JavaScript Air Episode 001: Learning and Developing JavaScript](https://www.youtube.com/watch?v=uDtkEEIBsz4)
+    - Teaching is nature's way of letting you know how sloppy your understanding is - Ashley Williams
+- [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)
+    - Simple - one fold or one twist. We get ease of understanding, debugging and extending.
+    - Easy - close at hand. Easy is a relative term. It's easy if you already know it. It's hard if you don't.
+    - What's true about every bug? it passed all the tests!
+    - If you ignore complexity, you will slow down in the long run
+    - We have to make things simple by making things easy
+    - We look at new tool for benefits, but we rarely take into account the downsides.
+    - State and Objects are complex, values are simple
+    - Methods are complex and functions are simple, namespaces are simple
+    - vars are complex
+    - inheritance is complex, polymorphism is simple
+    - syntax is complex
+    - Data is simlpe
+    - Actors are complex
+    - ORM is complex
+    - Conditionals are complex, rules can be simpler
+    - Complect - is bad.  to intertwine or braid.
+    - Compose - to place together
+    - Having state in your program is never simple because is complects value and time.
+    - vars and refs don't make state simple
+    - inheritance is complect
+    - vars complect values and time
+    - functions are stateless methods
+    - Simplicity often means that you will have more things, nicely alligned
+    - But you wont have fewer things knotted together
+
+- [Growing a Language, by Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0)
+    - A small language with warts will beat a well designed language, because users will not wait for the right thing. they will use the language that is quick and cheap
+    - a language should plan for growth (vocabulary and rules)
+    - a library adds vocabulary
+    - The Cathedral and the Bazaar
+    - more users find more bugs
+    - a design should make choices now, but leave room for choices later
+
+- [Programming is terrible—Lessons learned from a life wasted. EMF2012](https://www.youtube.com/watch?v=csyL9EC0S0c)
+- [JavaScript Air Episode 003: Functional and Immutable Design Patterns in JavaScript](https://www.youtube.com/watch?v=82M9fKe7hiw)
+- [Episode 003: Functional and Immutable Design Patterns in JavaScript](http://javascriptair.com/episodes/2015-12-30/)
+- [What Is Functional Programming?](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
+
+
+---
+
+
+## DAY 64 - Feb 10 - Wednesday()
+
+Expected:
+- Watch Async JS video on FrontEnd Masters
+
+
+Actual:
+- took a deep dive in to watching other functional programming videos
+- Watched Async JS video on FrontEnd Masters and did tut
+
+
+Read/Watched:
+
+- [Which Programming Languages Are Functional?](http://blog.jenkster.com/2015/12/which-programming-languages-are-functional.html)
+- [OO vs FP](http://blog.cleancoder.com/uncle-bob/2014/11/24/FPvsOO.html)
+- [:+1: The Programmer's Oath](http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
+- [Functional programming patterns for the non-mathematician (cut)](https://www.youtube.com/watch?v=AvgwKjTPMmM)
+- [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
+- [Fantasy Land Specification](https://github.com/fantasyland/fantasy-land)
+- [React 2014 : Erik Meijer - What does it mean to be Reactive?](https://www.youtube.com/watch?v=sTSQlYX5DU0)
+- [Asynchronous Programming in JavaScript (with Rx.js Observables)](https://frontendmasters.com/courses/asynchronous-javascript/)
+
+---
+
+
+## DAY 65 - Feb 11 - Thursday(Async JS, SLAW meeting)
+
+
+Expected:
+- Watch Async JS video on FrontEnd Masters
+- Meeting with SLAW
+
+Actual:
+- Watched Async JS video on FrontEnd Masters and did tut
+- Met at SLAW for grant meeting
+- started a Haskell tutorial
+
+
+Read/Watched:
+
+- [Asynchronous Programming in JavaScript (with Rx.js Observables)](https://frontendmasters.com/courses/asynchronous-javascript/)
+- [Learn You a Haskell for Great Good! ](http://learnyouahaskell.com/introduction#about-this-tutorial)
+- [Haskell Platform](https://www.haskell.org/platform/)
+- [Haskell Platform 7.10.3 for Mac OS X](file:///Library/Haskell/doc/start.html)
+
+---
+
+
+## DAY 66 - Feb 12 - Friday(Haskell Tut, starteted tracking Tyme)
+
+Expected:
+- Continue with Async JS video on FrontEnd Masters
+- Continue with haskell tut
+
+Actual:
+- Watched Async JS video on FrontEnd Masters and did tut
+- Met at SLAW for grant meeting
+
+
+Read/Watched:
+
+- [Learn You a Haskell for Great Good! ](http://learnyouahaskell.com/introduction#about-this-tutorial)
+- [Haskell](https://www.haskell.org/)
+- [Starting with Haskell](https://www.schoolofhaskell.com/school/starting-with-haskell)
+- [Asynchronous Programming in JavaScript (with Rx.js Observables)](https://frontendmasters.com/courses/asynchronous-javascript/)
 
 
 
 ---
 
 
-## DAY 64 - DATE - TITLE
-## DAY 65 - DATE - TITLE
-## DAY 66 - DATE - TITLE
 ## DAY 67 - DATE - TITLE
 ## DAY 68 - DATE - TITLE
 ## DAY 69 - DATE - TITLE
