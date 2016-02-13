@@ -208,6 +208,19 @@ Is an object or data structor you can map over (- Brian Lonsdorf, FrontEndMaster
 
  in JavaScript, objects essentially are hashtables; i.e., collections of name-value pairs
 
+---
+
+## Hindley-Milner Type Signatures
+
+Once you’re doing everything in pointfree, it does leave the question, of how to communicate to other programmers what type of parameter they should pass to your function. To facilitate this, functional programmers have developed a special notation for specifying what types of parameter a function takes, and what it returns. The notation is called Hindley-Milner type signatures. We write them as comments where we define the function. Let’s look at some examples:
+```js
+// instruction :: String -> String
+var instruction = function(verb) {
+    return verb + ' me';
+}
+```
+
+- http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-style/
 
 ---
 
@@ -470,7 +483,10 @@ Applying a function to a value and creating a new value is called a projection (
 A function is called 'pure' if all its inputs are declared as inputs - none of them are hidden - and likewise all its outputs are declared as outputs.
 http://blog.jenkster.com/2015/12/what-is-functional-programming.html
 
+Calling the function with the same inputs always returns the same output.
+Calling the function produces no side-effects: No network calls; no files read or written; no database queries; no DOM elements modified; no global variables modified; and no console output. Nothing.
 
+- http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-style/
 
 
 ---
@@ -503,6 +519,20 @@ If there were an I-Spy book of side-effects, the two easiest targets to spot wou
 
 http://blog.jenkster.com/2015/12/what-is-functional-programming.html
 
+
+Side effects may include, but are not limited to:
+
+- changing the file system
+- inserting a record into a database
+- making an http call
+- mutations
+- printing to the screen / logging
+- obtaining user input
+- querying the DOM
+- accessing system state”
+
+- Excerpt From: drboolean. “mostly-adequate-guide.” iBooks.
+
 ```js
 // I'm not sure about these examples any more. I need to clarify this after learning a little FP
 
@@ -520,9 +550,6 @@ console.log(x)
 
 // function without a side-effect
 function noSideEffect (y) {
-
-  // x is no longer 10 because the function above modified it.
-  // these side-effects can cause confusion
   return y + 10;
 };
 

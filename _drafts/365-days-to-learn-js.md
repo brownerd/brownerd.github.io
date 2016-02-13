@@ -1921,8 +1921,14 @@ Read/Watched:
 - [Haskell](https://www.haskell.org/)
 - [Starting with Haskell](https://www.schoolofhaskell.com/school/starting-with-haskell)
 - [Asynchronous Programming in JavaScript (with Rx.js Observables)](https://frontendmasters.com/courses/asynchronous-javascript/)
-
-
+- [Array From](https://davidwalsh.name/array-from)
+- [A GENTLE INTRODUCTION TO FUNCTIONAL JAVASCRIPT: PART 1](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/)
+- [A GENTLE INTRODUCTION TO FUNCTIONAL JAVASCRIPT: PART 2](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-arrays/)
+- [A GENTLE INTRODUCTION TO FUNCTIONAL JAVASCRIPT: PART 3](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-functions/)
+- [A GENTLE INTRODUCTION TO FUNCTIONAL JAVASCRIPT: PART 4](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-style/)
+- [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
+  - I still con't get my brain about Currying and Partial Application. I'm not getting how these optimizations work. I trust that they do, my brain just doesn't see the path yet. Ugh.
+  - 
 
 ---
 
