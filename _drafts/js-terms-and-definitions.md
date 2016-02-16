@@ -2,8 +2,57 @@
 ---
 
 
+## ~~
+
+coerce a string into a number
+
+
+That `~~`` is a double NOT bitwise operator. It is used as a faster substitute for Math.floor().
+
+```js
+~(5.5)   // => -6
+~(-6)    // => 5
+~~5.5    // => 5  (same as Math.floor(5.5))
+~~(-5.5) // => -5 (NOT the same as Math.floor(-5.5), which would give -6 )
+```
+
+http://stackoverflow.com/questions/5971645/what-is-the-double-tilde-operator-in-javascript
+
+http://www.joezimjs.com/javascript/great-mystery-of-the-tilde/
+
+
+
+---
+
+## Category Theory
+
+In category theory, we have something called... a category. It is defined as a collection with the following components:
+
+- A collection of objects
+- A collection of morphisms
+- A notion of composition on the morphisms
+- A distinguished morphism called identity
+
+Category theory is abstract enough to model many things, but let's apply this to types and functions, which is what we care about at the moment.
+
+- Excerpt From: drboolean. “mostly-adequate-guide.” iBooks.
+
+
+
+---
 
 ## Closure
+
+
+
+
+
+---
+
+
+## Coercion
+
+Forcing a primitive into another primitive. Like turnig a String into a Number.  
 
 
 ---
@@ -12,6 +61,16 @@
 ## Compose
 
  to place together - Rich Hickey (http://www.infoq.com/presentations/Simple-Made-Easy)
+
+ ```js
+ var compose = function(f,g) {
+  return function(x) {
+    return f(g(x));
+  };
+};
+```
+
+Excerpt From: drboolean. “mostly-adequate-guide.” iBooks.
 
 ---
 
@@ -339,6 +398,13 @@ A lambda expression is a delegate - Erik Meijer
 Lambda expressions give you closures - Erik Meijer
 With Lambda expressions you can capture things in the outer scope. Lambdas are about closures - Erik Meijer
 
+---
+
+## Lifting
+
+“a function can be surrounded by map, which transforms it from a non-functory function to a functory one, in informal terms. We call this process lifting. Functions tend to be better off working with normal data types rather than container types, then lifted into the right container as deemed necessary. This leads to simpler, more reusable functions that can be altered to work with any functor on demand.”
+
+Excerpt From: drboolean. “mostly-adequate-guide.” iBooks.
 
 
 ---
@@ -363,7 +429,9 @@ A tool for iteration that requires three parts:
 
 ## Monads
 
+“Monads are pointed functors that can flatten”
 
+Excerpt From: drboolean. “mostly-adequate-guide.” iBooks. 
 
 
 ---
@@ -444,6 +512,15 @@ An Observable is a lot like an Event. Like an Event, an Observable is a sequence
 ## Patterns
 
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+---
+
+
+## Point-free
+Functions without arguments.
+
+Instead of hard coding our data/arguments into the function, we use Currying instead.
+
 
 
 ---

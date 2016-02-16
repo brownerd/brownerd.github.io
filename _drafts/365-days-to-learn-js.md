@@ -1856,7 +1856,7 @@ Read/Watched:
 ---
 
 
-## DAY 64 - Feb 10 - Wednesday()
+## DAY 64 - Feb 10 - Wednesday(FP and Reactive JS)
 
 Expected:
 - Watch Async JS video on FrontEnd Masters
@@ -1904,15 +1904,18 @@ Read/Watched:
 ---
 
 
-## DAY 66 - Feb 12 - Friday(Haskell Tut, starteted tracking Tyme)
+## DAY 66 - Feb 12 - Friday(Haskell Tut, started tracking Tyme)
 
 Expected:
 - Continue with Async JS video on FrontEnd Masters
 - Continue with haskell tut
 
 Actual:
-- Watched Async JS video on FrontEnd Masters and did tut
-- Met at SLAW for grant meeting
+- Read a little Haskell tut
+- Clead the house
+- Read a 4 part FP in JS article
+- Found and started to read Mostly adequate guide to FP (in javascript)
+
 
 
 Read/Watched:
@@ -1928,14 +1931,75 @@ Read/Watched:
 - [A GENTLE INTRODUCTION TO FUNCTIONAL JAVASCRIPT: PART 4](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-style/)
 - [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
   - I still con't get my brain about Currying and Partial Application. I'm not getting how these optimizations work. I trust that they do, my brain just doesn't see the path yet. Ugh.
-  - 
+  -
+
+- [CodePen v2 API](http://cpv2api.com/)
+- [TonicDev](https://tonicdev.com)
+- [Love Notes](https://spotify-valentines.com/)
+- [himawari.js](https://github.com/jakiestfu/himawari.js)
+- [:+1: Oil Change & Pizza](http://danielmall.com/articles/oil-change-pizza/)
+- [diff-so-fancy](https://github.com/stevemao/diff-so-fancy)
+
 
 ---
 
 
-## DAY 67 - DATE - TITLE
-## DAY 68 - DATE - TITLE
-## DAY 69 - DATE - TITLE
+## DAY 67 - Feb 13 - Saturday(FP w/ DrB, Owen visits, Gandhis Visit, clean house)
+
+
+Expected:
+- Clean
+- Nerd with Jabari
+- Trivia night
+- Pick up Gandhis
+
+
+Actual:
+- Cleaned
+- Caught up with Jabari
+- Went to trivia night
+- Picked up the Gandhis
+
+
+---
+
+
+## DAY 68 - Feb 14 - Sunday(Family Day, VDay)
+
+Expected:
+- Family day all day
+
+
+Actual:
+- Family day all day
+- Lots of minecrat
+
+
+---
+
+## DAY 69 - Feb 15 - Monday(FP book, FEM Async tut, Presidents day)
+
+Expected:
+- FP book
+- Async tut
+
+
+Actual:
+- FP book
+- Went sledding with Amir and Viren
+- Made lunch for everyone
+
+
+
+Read/Watched:
+
+- [Vyacheslav Egorov - LXJS 2013 - Performance and benchmarking](https://www.youtube.com/watch?v=65-RbBwZQdU)
+- [Hoogle](https://www.haskell.org/hoogle/)
+
+
+---
+
+
 ## DAY 70 - DATE - TITLE
 ## DAY 71 - DATE - TITLE
 ## DAY 72 - DATE - TITLE
@@ -1961,9 +2025,10 @@ Read/Watched:
 - It's been great learning more about the History of programming from Eric Meijer's
 - There is no way I could have passed an entry test into hack reactor a few months ago. I probably still couldn't do it today. There is no Zero to Hero path in 3 months when you don't have core programming experience. Also, I couldn't imagine getting into a hack reator like program just to learn what I've gain in the past 3 months. Yes I feel like I've learned a ton, but I still don't even know how to even write a simple App.
 - There's just so much to see in js. Yes, i want to get better at writing this stuff. Yet watching these video helps to fill in sooo much context.
-- It's painful seeing all this shit first the first time. I don't have enough experience with this stuff to make sense of it. So, I slog through a tut, watch a video, write the code and hope, that one day, it will all make sense.
+- It's painful seeing all this shit for the first time. I don't have enough experience with this stuff to make sense of it. So, I slog through a tut, watch a video, write the code and hope, that one day, it will all make sense.
 
-
+- Started looking in to RxJS through FrontEndMasters. This is an amazing series. Jafar does an excellent job teaching Async JS and RxJS!
+- Started looking in to FP more. Still confusing, but getting clearer. I feel like FP in JS is what Standard was to CSS and HTML. Wild Westing JS is going away. FP is the practice that is going to replace all the spaghetti code practices.
 
 
 ---
