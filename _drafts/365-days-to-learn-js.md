@@ -1985,7 +1985,7 @@ Expected:
 
 
 Actual:
-- FP book
+- FP book finished. Ugh! Brain burned.
 - Went sledding with Amir and Viren
 - Made lunch for everyone
 
@@ -1999,8 +1999,52 @@ Read/Watched:
 
 ---
 
+# DAY 70 - Feb 16 - Tuesday(Async JS tut FEM, SLAW board meeting)
 
-## DAY 70 - DATE - TITLE
+Expected:
+- Async tut
+- Go to board meeting
+
+
+Actual:
+- Async tut finished
+- went to board meeting
+
+
+
+Read/Watched:
+
+- [Retiring Python as a Teaching Language](http://prog21.dadgum.com/203.html)
+- [ESLint v2.0.0 released](http://eslint.org/blog/2016/02/eslint-v2.0.0-released)
+- [MailMunch](http://www.mailmunch.co/)
+- [Asynchronous Programming in JavaScript (with Rx.js Observables)](https://frontendmasters.com/courses/asynchronous-javascript/)
+
+
+---
+
+
+## DAY 70 - Feb 17 - Wednesday(Safety and Emmissions + new plates)
+
+Expected:
+-
+
+
+Actual:
+-
+
+
+
+Read/Watched:
+
+- [A Simple Explanation Of 'The Internet Of Things'](http://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/#58d39fda6828)
+- [077: Remote](http://blog.codepen.io/2016/02/16/077-remote/)
+
+
+
+---
+
+
+
 ## DAY 71 - DATE - TITLE
 ## DAY 72 - DATE - TITLE
 ## DAY 73 - DATE - TITLE
@@ -2030,6 +2074,10 @@ Read/Watched:
 - Started looking in to RxJS through FrontEndMasters. This is an amazing series. Jafar does an excellent job teaching Async JS and RxJS!
 - Started looking in to FP more. Still confusing, but getting clearer. I feel like FP in JS is what Standard was to CSS and HTML. Wild Westing JS is going away. FP is the practice that is going to replace all the spaghetti code practices.
 
+- Read a book about FP in JS by Dr. Boolean. It does make more sense, but I'm still confused. I just don't understand how to simple get up and running with it. I'm also confused on how to navigate what to use and when to use it. I love the HM function syntax, but I'm still confused on how to do that corectly also. Gotta a long way to go before this clicks.
+
+
+- 'Almost every workflow in a web application starts with an event, continues with an HTTP request, and results in a state change. Now we know how to express the first two tasks elegantly.' Acync JS Jafar
 
 ---
 

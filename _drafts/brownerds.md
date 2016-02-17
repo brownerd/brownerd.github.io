@@ -16,6 +16,7 @@
 - [Dipta J. Basu](http://codepen.io/diptajbasu/)
 - [CHRIS NWAMBA](https://twitter.com/chrizt_n)
 - [Ire Aderinokun is a UI Designer and Front-End Developer](http://www.ireaderinokun.com/)
+- [aleia walker](http://aleiawalker.com/)
 
 - [David Moore](https://dribbble.com/Dalexmoore)
 

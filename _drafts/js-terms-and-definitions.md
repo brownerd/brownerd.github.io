@@ -431,7 +431,7 @@ A tool for iteration that requires three parts:
 
 “Monads are pointed functors that can flatten”
 
-Excerpt From: drboolean. “mostly-adequate-guide.” iBooks. 
+Excerpt From: drboolean. “mostly-adequate-guide.” iBooks.
 
 
 ---
@@ -530,6 +530,9 @@ Instead of hard coding our data/arguments into the function, we use Currying ins
 ---
 
 ## Predicate
+
+a predicate is a test function. it test items for true or false and returns the items that pass the test.
+
 A predicate is a function that accepts an item in the array, and returns a boolean indicating whether the item should be retained in the new array. ( - Jafar, Front End Masters Asynchronous JS lecture )
 
 ---
@@ -552,7 +555,11 @@ A predicate is a function that accepts an item in the array, and returns a boole
 
 ## Projection
 
-Applying a function to a value and creating a new value is called a projection ( - Jafar, Front End Masters Asynchronous JS lecture )
+Applying a function to a value and creating a new value is called a projection
+
+// projection function is a function that you apply to every result and you forward that along
+
+( - Jafar, Front End Masters Asynchronous JS lecture )
 
 ---
 
