@@ -434,6 +434,18 @@ A tool for iteration that requires three parts:
 Excerpt From: drboolean. “mostly-adequate-guide.” iBooks.
 
 
+
+
+---
+
+
+## MVC (Model, View, Controller)
+
+A pattern for creating software
+
+Model: Represents domain-specific knowledge and data
+
+
 ---
 
 

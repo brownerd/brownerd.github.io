@@ -2023,10 +2023,39 @@ Read/Watched:
 ---
 
 
-## DAY 70 - Feb 17 - Wednesday(Safety and Emmissions + new plates)
+## DAY 70 - Feb 17 - Wednesday(Safety and Emmission + new plates, Started FreeCodeCamp)
 
 Expected:
--
+- Safety and Emmission test, get new stickers for plates
+- more JS learning
+
+Actual:
+- got new stickers for plates
+- read a bunch of articles
+- listened to a few podcasts
+- started FreeCodeCamp
+
+
+
+Read/Watched:
+
+- [A Simple Explanation Of 'The Internet Of Things'](http://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/#58d39fda6828)
+- [077: Remote](http://blog.codepen.io/2016/02/16/077-remote/)
+- [203: WITH RACHEL NABORS AND DAN WILSON](http://shoptalkshow.com/episodes/203-with-rachel-nabors-and-dan-wilson/)
+- [The future of loading CSS](https://jakearchibald.com/2016/link-in-body/)
+- [#195: Free Code Camp with Quincy Larson](https://changelog.com/195/)
+- [Free Code Camp](http://www.freecodecamp.com/) Just came across this on The ChangeLog. I figured I'd give it a try. 1, there is some stuff that I want to know. 2, I want to know if it is a good tool for teaching people.
+- [03   Creating A Scalable JavaScript Application Architecture Nicholas Zakas](https://www.youtube.com/watch?v=b5pFv9NB9fs)
+- [Vyacheslav Egorov: mö.js - explaining js vm in js](https://www.youtube.com/watch?v=y8hVeKMD_oM)
+- [What exactly is a full stack developer anyway](https://www.youtube.com/watch?v=4YvwO-Fibcc)
+
+
+---
+
+## DAY 71 - Feb 18 - Thrusday(FCC)
+
+Expected:
+- FCC
 
 
 Actual:
@@ -2036,16 +2065,12 @@ Actual:
 
 Read/Watched:
 
-- [A Simple Explanation Of 'The Internet Of Things'](http://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/#58d39fda6828)
-- [077: Remote](http://blog.codepen.io/2016/02/16/077-remote/)
-
 
 
 ---
 
 
 
-## DAY 71 - DATE - TITLE
 ## DAY 72 - DATE - TITLE
 ## DAY 73 - DATE - TITLE
 ## DAY 74 - DATE - TITLE
@@ -2078,6 +2103,8 @@ Read/Watched:
 
 
 - 'Almost every workflow in a web application starts with an event, continues with an HTTP request, and results in a state change. Now we know how to express the first two tasks elegantly.' Acync JS Jafar
+
+- Started the Free Code Camp. It's supposed to take a year to complete. I'm going to try to finish it ASAP. It's been fun getting back to coding. It's 
 
 ---
 
