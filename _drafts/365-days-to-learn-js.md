@@ -2059,11 +2059,115 @@ Expected:
 
 
 Actual:
--
+- FCC
 
 
 
 Read/Watched:
+
+
+Notes FCC:
+
+- I thought that the Tribute and Portfolio page challenges would be a major struggle for a noob. I think that layout can be taught easier with out bootstrap. I think that the process of creating 3 element pages and 3 element components repetitively would be a better lead up to the Tribute and Portfolio challenges.
+
+- Convert Celsius to Fahrenheit challenge presents a huge jump in understanging. We haven't even seen functions yet.
+
+- I think that one of the challenges should force you to use Gitter to get the answer figured out. This way you learn how to get through stuff you've never seen before. Even if there was a simple life line button.
+
+- Still, there is nothing like getting used to the Apps, extensions and tooling needed to do web dev. I guess that's coming later.
+
+- Like how new Tuts have a "new" label next to them
+
+- I was cloudy on Access MultiDimensional Arrays With Indexes. Clear now.
+
+---
+
+
+## DAY 72 - Feb 19 - Friday(travel to Cancun for Dad's BDay)
+
+Expected:
+- Travel
+- Chill
+
+
+Actual:
+- Got up at 3:30am. Flew to Cancun. Eat a ton of food. Hung out with family and friends.
+
+
+
+Read/Watched:
+
+- nothing
+
+---
+
+## DAY 73 - Feb 20 - Saturday()
+
+
+Expected:
+- Hang with fam
+
+
+Actual:
+- Saw the stars
+- biked to beach
+- ordered room service
+- caught up on RSS feed
+- went to beach
+
+
+
+Read/Watched:
+
+- [Bricks.js](http://callmecavs.com/bricks.js/)
+- [Layzr.js](http://callmecavs.com/layzr.js/) A small, fast, and modern library for lazy loading images.
+- [Jump.js](http://callmecavs.com/jump.js/) A small, modern, dependency-free smooth scrolling library by callmecavs.
+- [outset](https://github.com/callmecavs/outset)
+- [Maximize.js](https://github.com/callmecavs/maximize.js) A tiny wrapper for cross-browser requestFullscreen (not the entire Fullscreen API).
+- [Jax.js](https://github.com/callmecavs/jax.js) A tiny AJAX wrapper for GET requests.
+- [Hurry.js](https://github.com/callmecavs/hurry.js) An optimized curry function, for enabling full and partial function application.
+- [Codology](http://codeology.braintreepayments.com/featured)
+- [Sliding Panels Template()](https://codyhouse.co/gem/sliding-panels-template/)
+- [Theme switcher using CSS custom properties](https://justmarkup.com/log/2016/02/theme-switcher-using-css-custom-properties/)
+- [Introducing: The Ultimate CSS Survey](http://www.sitepoint.com/introducing-ultimate-css-survey/)
+- [:+1: Understanding the box model by building a navigation bar](http://www.chenhuijing.com/blog/that-navigation-bar-design/) This is a great lesson for people trying to learn the box model
+- [This is ZenPen](http://www.zenpen.io/)
+- [Speeding Up Npm 3](http://ilikekillnerds.com/2016/02/speeding-up-npm-3/)
+- [#CodePenChicago Feb, 2016](http://codepen.io/poopsplat/post/codepenchicago-feb-2016)
+- [Understanding Flex Grow & Shrink](http://codepen.io/aharvard/post/a-way-to-understand-flex-grow-shrink)
+- [:+1: How to Use Six Google Analytics Reports to Complete a Website Content Audit](https://moz.com/ugc/how-to-use-six-google-analytics-reports-to-complete-a-website-content-audit)
+- [FCC: Personal Portfolio Webpage](http://codepen.io/brownerd/pen/BjEMyQ) Pen picked for the day.
+- [:+1: Ajax/jQuery.getJSON Simple Example](http://www.sitepoint.com/ajaxjquery-getjson-simple-example/)
+- [Love for Paris ](http://codepen.io/brownerd/pen/zvyQYL) Another picked pen
+- [Superhero.js](http://superherojs.com/)
+- [react-designer](http://fatiherikli.github.io/react-designer/)
+- [What I think of Meteor.js #javascript #programming](https://anchor.fm/w/997FF6)
+
+
+
+
+
+---
+
+## DAY 74 - Feb 21 - Sunday(BDay party for Dad)
+
+
+Expected:
+- Hang with fam
+
+
+Actual:
+- biked to beach for sunrise
+- caught up on RSS articles
+
+Read/Watched:
+
+- [My Animated GIF Workflow](http://wesbos.com/animated-gif-workflow/)
+- [Watch: A Lesson on React Props, Defaults and Modules](http://www.sitepoint.com/watch-a-lesson-on-react-props-defaults-and-modules/)
+- [Neil Gaiman 2012 Commencement Speech "Make Good Art"](https://www.youtube.com/watch?v=plWexCID-kA&feature=youtu.be)
+- [Ellen DeGeneres University Commencement Address (2009 Speech to College Students)](https://www.youtube.com/watch?v=glauQaj0x6I)
+- [Ali G Harvard Commencement Speech](https://www.youtube.com/watch?v=_5qryIjyQJE)
+
 
 
 
@@ -2071,10 +2175,21 @@ Read/Watched:
 
 
 
-## DAY 72 - DATE - TITLE
-## DAY 73 - DATE - TITLE
-## DAY 74 - DATE - TITLE
-## DAY 75 - DATE - TITLE
+## DAY 75 - Feb 22 - Monday(Travel back home)
+
+Expected:
+- Travel home
+
+
+Actual:
+- Traveled home
+
+Read/Watched:
+- [Always rewrite EVERYTHING! - FunFunFunction #20](https://www.youtube.com/watch?v=XcUUY8ziTuk&feature=youtu.be)
+
+
+
+
 ## DAY 76 - DATE - TITLE
 ## DAY 77 - DATE - TITLE
 ## DAY 78 - DATE - TITLE
@@ -2104,7 +2219,11 @@ Read/Watched:
 
 - 'Almost every workflow in a web application starts with an event, continues with an HTTP request, and results in a state change. Now we know how to express the first two tasks elegantly.' Acync JS Jafar
 
-- Started the Free Code Camp. It's supposed to take a year to complete. I'm going to try to finish it ASAP. It's been fun getting back to coding. It's 
+- Started the Free Code Camp. It's supposed to take a year to complete. I'm going to try to finish it ASAP. It's been fun getting back to coding.
+
+And I'm hauling through these first tutorials because I know all this stuff already. Yet, I think that I'd still be a bit lost if I was doing these with no previous experience. I forget how part of learning is just waiting for it all to make sense. I had a hard time grepping modulo when I first came across it.
+
+When learning, it's important to repeat the concepts over and over. It sucks when the author throws one curve ball edge case after the other. FCC is good at keeping tuts concise, repetitive and gradually paced.
 
 ---
 
