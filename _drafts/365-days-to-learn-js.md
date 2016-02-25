@@ -2183,16 +2183,296 @@ Expected:
 
 Actual:
 - Traveled home
+- Read some articles
+- did some FCC
 
 Read/Watched:
 - [Always rewrite EVERYTHING! - FunFunFunction #20](https://www.youtube.com/watch?v=XcUUY8ziTuk&feature=youtu.be)
+- [2016: The Year React Native Eats Mobile Development](https://medium.com/@clayallsopp/2016-the-year-react-native-eats-mobile-development-83e8482f78a6#.4p4080324)
+- [Managing Typography on Large Apps](http://csswizardry.com/2016/02/managing-typography-on-large-apps)
+- [Three D’s of Web Development #1: Declarative vs. Imperative](http://developer.telerik.com/featured/three-ds-of-web-development-1-declarative-vs-imperative/)
+- [WEBThree D’s of Web Development #2: Data-Binding](http://developer.telerik.com/featured/three-ds-of-web-development-data-binding/)
+- [Proposal: “Statements as Expressions” using do](https://ponyfoo.com/articles/proposal-statements-as-expressions-using-do)
+
+
+
+FCC notes:
+- Counting Cards tripped me up. It took a while to understand what I was supposed to do.
 
 
 
 
-## DAY 76 - DATE - TITLE
-## DAY 77 - DATE - TITLE
-## DAY 78 - DATE - TITLE
+
+
+
+## DAY 76 - Feb 23 - Tuesday(FCC) and Minal's parents leave
+Expected:
+- Travel home
+
+
+Actual:
+- Traveled home
+
+Read/Watched:
+
+
+FCC notes:
+```js
+  // I'm happy this works. Nested loops TOTALLY confuse the shit out of me.
+  //
+function multiplyAll(arr) {
+  var product = 1;
+  // Only change code below this line
+  arr.map(function (item) {
+    item.map(function (i) {
+      product *= i;
+    });
+  });
+
+  // Only change code above this line
+  return product;
+}
+
+// Modify values below to test your code
+multiplyAll([[1,2],[3,4],[5,6,7]]);
+
+
+// or use reduce twice
+function multiplyAll(arr) {
+
+  var result =
+    arr.reduce(function (acc, curr) {
+      return acc.concat(curr);
+    }).reduce(function(a,b) {
+      return a * b;
+    });
+
+  return result;
+
+}
+
+// Modify values below to test your code
+console.log(multiplyAll([[1,2],[3,4],[5,6,7]]));
+
+```
+
+
+
+```js
+// Iterate with JavaScript While Loops
+var i = 0;
+while ( i < 5) {
+  myArray.push(i);
+  i++;
+}
+
+
+var n = 5;
+while (n--) {
+  myArray.unshift(n);
+}
+```
+
+```js
+// Profile Lookup
+// I'm not sure if this is the best way to do it, but it works. I was able to give conditional results by the errors that resulted.
+
+
+function lookUp(firstName, prop){
+// Only change code below this line
+
+
+  var result = null;
+  contacts.
+    filter(function (item) {
+      var name;
+      var props;
+
+      if (item.firstName === firstName) {
+        return item;
+      }
+    }).
+    forEach(function (property) {
+      result = property[prop];
+    });
+
+  if (result === null) {
+    return "No such contact";
+  } else if (result === undefined) {
+    return "No such property";
+  } else {
+    return result;
+  }
+// Only change code above this line
+}
+
+
+```
+
+```js
+
+// Factorialize a Number
+
+// Factorial using For loop
+function factorializeFor(num) {
+
+  var product = 1;
+  for (var i = num; i > 0; i--) {
+    product *= i;
+  }
+  return product;
+}
+
+
+// Factorial using While loop
+function factorializeWhile(num) {
+
+  var product = num;
+  while (num-- > 1) {
+    product *= num;
+  }
+  return product;
+}
+
+
+// Factorial using self
+function factorializeSelf(num) {
+
+  if (num === 0) {
+    return 1;
+  } else {
+    return num * factorializeSelf(num - 1);
+  }
+}
+
+console.log(factorializeFor(5));
+console.log(factorializeWhile(5));
+console.log(factorializeSelf(5));
+
+```
+
+```js
+
+// Check for Palindromes
+// What a pain in the ass! But I learned a lot.
+
+function palindrome(str) {
+  // Good luck!
+  var sanitize = str.replace(/[\W,_]/gi, '').toLowerCase();
+  var rev = sanitize.split('').reverse().join('');
+  if (sanitize === rev) {
+    return true;
+  } else {
+    return false;
+  }
+}
+
+
+
+palindrome("eye");
+```
+
+```js
+// Find the length of the longest word in a string
+
+function findLongestWord(str) {
+  var arr = str.split(' ');
+  var longest = arr.reduce(function(acc, curr) {
+    return acc.length > curr.length ? acc : curr;
+  }, 0);
+
+  return longest.length;
+}
+
+console.log(findLongestWord("The quick brown fox jumped over the lazy dog"));
+```
+
+---
+
+
+
+## DAY 77 - Feb 24 - Wednesday(FCC)
+
+Expected:
+- FCC
+- HW night
+
+
+Actual:
+- FCC
+- And worked late night at Starbucks
+- Watched Steve Jobs movie
+
+Read/Watched:
+
+- [Simplify Maths With Soulver](http://computers.tutsplus.com/tutorials/simplify-maths-with-soulver--cms-21649)
+- [Responsive <canvas> elements](http://codepen.io/kaliedarik/post/responsive-canvas-elements)
+- [Misconceptions of Tooling in JavaScript](http://javascriptplayground.com/blog/2016/02/the-react-webpack-tooling-problem)
+- [Extracting and Inserting Text with JavaScript’s textContent](http://thenewcode.com/489/Extracting-and-Inserting-Text-with-JavaScripts-textContent)
+- [Adding To a Page with JavaScript’s insertAdjacentHTML](http://thenewcode.com/387/Adding-To-a-Page-with-JavaScripts-insertAdjacentHTML)
+- [Using appendChild and insertBefore](http://thenewcode.com/938/Using-appendChild-and-insertBefore)
+
+- [The Current State of Telephone Links](https://css-tricks.com/the-current-state-of-telephone-links/)
+- [CSS vs. JS: Selecting Elements](http://codepen.io/tomhodgins/pen/qbeojB)
+- [SF Static Web-Tech](http://www.staticwebtech.com/)
+- [A Quick Overview of `object-fit` and `object-position`](https://css-tricks.com/on-object-fit-and-object-position/)
+
+
+
+
+FCC notes:
+
+```js
+// Titlecase
+function titleCase(str) {
+
+  return str.split(' ').map(function (item) {
+      return item.charAt(0).toUpperCase() + item.slice(1).toLowerCase();
+    }).join(' ');
+
+}
+
+console.log(titleCase("I'm a little tea pot"));
+
+// I had this mostly done. I didn't know that I could minipulate the string two ways in one return using item.charAt(0).toUpperCase() + item.substring(1).toLowerCase()
+
+//http://www.bennadel.com/blog/2159-using-slice-substring-and-substr-in-javascript.htm
+//http://stackoverflow.com/questions/31495239/title-case-a-sentence
+//
+
+```
+
+
+---
+
+## DAY 78 - Feb 24 - Thursday
+
+Expected:
+- Coffee with Kylia
+- FCC
+
+
+Actual:
+- Met with Kylia before she left for Cali
+- FCC
+
+Read/Watched:
+
+
+FCC notes:
+
+```js
+
+
+
+```
+
+
+
+---
+
+
+
 ## DAY 79 - DATE - TITLE
 ## DAY 80 - DATE - TITLE
 ## DAY 81 - DATE - TITLE

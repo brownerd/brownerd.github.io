@@ -21,6 +21,12 @@ http://stackoverflow.com/questions/5971645/what-is-the-double-tilde-operator-in-
 http://www.joezimjs.com/javascript/great-mystery-of-the-tilde/
 
 
+---
+
+## Attribute
+
+An attribute is a property of an object
+\- http://www.freecodecamp.com/challenges/make-object-properties-private
 
 ---
 
@@ -427,6 +433,12 @@ A tool for iteration that requires three parts:
 ---
 
 
+## Method
+A method is a function of an object
+- http://www.freecodecamp.com/challenges/make-object-properties-private
+
+---
+
 ## Monads
 
 “Monads are pointed functors that can flatten”
@@ -606,6 +618,13 @@ Calling the function with the same inputs always returns the same output.
 Calling the function produces no side-effects: No network calls; no files read or written; no database queries; no DOM elements modified; no global variables modified; and no console output. Nothing.
 
 - http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-style/
+
+---
+
+## Recursion
+
+- https://www.natashatherobot.com/factorials-javascript-recursion/
+- https://msdn.microsoft.com/en-us/library/wwbyhkx4(v=vs.94).aspx
 
 
 ---
