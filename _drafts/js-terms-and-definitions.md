@@ -23,6 +23,12 @@ http://www.joezimjs.com/javascript/great-mystery-of-the-tilde/
 
 ---
 
+## Arity
+
+Arity refers to the amount of parameters that a function has. The more parameters a functions has, the greater it's arity.
+
+---
+
 ## Attribute
 
 An attribute is a property of an object

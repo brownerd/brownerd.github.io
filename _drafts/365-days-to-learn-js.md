@@ -2445,7 +2445,7 @@ console.log(titleCase("I'm a little tea pot"));
 
 ---
 
-## DAY 78 - Feb 24 - Thursday
+## DAY 78 - Feb 24 - Thursday(Kylia, FCC)
 
 Expected:
 - Coffee with Kylia
@@ -2461,11 +2461,7 @@ Read/Watched:
 
 FCC notes:
 
-```js
 
-
-
-```
 
 
 
@@ -2473,8 +2469,52 @@ FCC notes:
 
 
 
-## DAY 79 - DATE - TITLE
-## DAY 80 - DATE - TITLE
+## DAY 79 - Feb 25 - Friday(FCC)
+
+
+Expected:
+- FCC
+- Rob's Bday
+
+
+Actual:
+- FCC
+- Caught up with the crew for Rob's bday
+
+
+Read/Watched:
+
+- [Overcoming Objections on Your Landing Pages - Whiteboard Friday](https://moz.com/blog/overcoming-objections-landing-pages-whiteboard-friday)
+- [Here’s How to Automate Google Analytics Reporting with Google Sheets](https://moz.com/ugc/heres-how-to-automate-google-analytics-reporting-with-google-sheets)
+- [Currying Functions in Javascript](http://codepen.io/Universalist/post/currying-functions-in-javascript)
+- [Currying in JavaScript](https://medium.com/@kbrainwave/currying-in-javascript-ce6da2d324fe#.795vmhgz6)
+- [A Beginner’s Guide to Currying in Functional JavaScript](http://www.sitepoint.com/currying-in-functional-javascript/)
+- [An Introduction to Functional JavaScript](http://www.sitepoint.com/introduction-functional-javascript/)
+- [Higher-Order Functions in JavaScript](http://www.sitepoint.com/higher-order-functions-javascript/)
+- [Recursion in Functional JavaScript](http://www.sitepoint.com/recursion-functional-javascript/)
+
+
+
+
+FCC notes:
+
+---
+
+
+## DAY 80 - Feb 27 - Saturday(FCC)
+Expected:
+- Coffee with Kylia
+- FCC
+
+
+Actual:
+- Met with Kylia before she left for Cali
+- FCC
+
+Read/Watched:
+
+- [Ajax and CodePen](http://blog.codepen.io/2013/09/23/ajax-codepen/)
+
 ## DAY 81 - DATE - TITLE
 ## DAY 82 - DATE - TITLE
 ## DAY 83 - DATE - TITLE
