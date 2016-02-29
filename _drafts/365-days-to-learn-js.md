@@ -2503,20 +2503,54 @@ FCC notes:
 
 ## DAY 80 - Feb 27 - Saturday(FCC)
 Expected:
-- Coffee with Kylia
 - FCC
 
 
 Actual:
-- Met with Kylia before she left for Cali
 - FCC
 
 Read/Watched:
 
 - [Ajax and CodePen](http://blog.codepen.io/2013/09/23/ajax-codepen/)
+- [Where am I?](http://codepen.io/wmora/pen/pIhLA?editors=0010)
+- [Populate Native HTML Datalist with AJAX](http://codepen.io/jplhomer/pen/pvkKs?editors=0010)
+- [forismatic.com](http://forismatic.com/en/api/)
+- [marketplace](https://market.mashape.com/andruxnet/random-famous-quotes)
+- [FullStory](https://fullstory.com/)
+- [Organizing JavaScript Functionality](https://frontendmasters.com/courses/organizing-javascript/)
 
-## DAY 81 - DATE - TITLE
-## DAY 82 - DATE - TITLE
+
+
+
+## DAY 81 - Feb 28 - Sunday(FCC, Fam day)
+
+Expected:
+- Fam day
+- FCC
+
+
+Actual:
+- Fam day
+- FCC
+
+Read/Watched:
+- [Organizing JavaScript Functionality](https://frontendmasters.com/courses/organizing-javascript/)
+
+## DAY 82 - Feb 29 - Monday(FCC, cleaning)
+
+Expected:
+- FCC
+- clean house
+
+
+Actual:
+- FCC
+
+Read/Watched:
+- [Monad - FunFunFunction #21](https://www.youtube.com/watch?v=9QveBbn7t_c)
+- [Organizing JavaScript Functionality](https://frontendmasters.com/courses/organizing-javascript/)
+
+
 ## DAY 83 - DATE - TITLE
 
 ---
