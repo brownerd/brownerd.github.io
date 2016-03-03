@@ -2554,10 +2554,6 @@ Read/Watched:
 
 
 
-
-
-## DAY 83 - DATE - TITLE
-
 ---
 
 ### Feb in review
@@ -2576,7 +2572,7 @@ Read/Watched:
 - Read a book about FP in JS by Dr. Boolean. It does make more sense, but I'm still confused. I just don't understand how to simple get up and running with it. I'm also confused on how to navigate what to use and when to use it. I love the HM function syntax, but I'm still confused on how to do that corectly also. Gotta a long way to go before this clicks.
 
 
-- 'Almost every workflow in a web application starts with an event, continues with an HTTP request, and results in a state change. Now we know how to express the first two tasks elegantly.' Acync JS Jafar
+- 'Almost every workflow in a web application starts with an event, continues with an HTTP request, and results in a state change. Now we know how to express the first two tasks elegantly.' Async JS Jafar
 
 - Started the Free Code Camp. It's supposed to take a year to complete. I'm going to try to finish it ASAP. It's been fun getting back to coding.
 
@@ -2584,10 +2580,59 @@ And I'm hauling through these first tutorials because I know all this stuff alre
 
 When learning, it's important to repeat the concepts over and over. It sucks when the author throws one curve ball edge case after the other. FCC is good at keeping tuts concise, repetitive and gradually paced.
 
+- Finally starting to get the hang of JS. A lot of basics are starting to click. I was able to sprint through most of the algorithms in FCC basic. A couple months ago, I couldn't do any algorithms at CoderByte.
+
+- I'm starting to learn the AJAX stuff, and that is also an area that has always baffled me.
+
+- favorite resourcs this month are : Jafar's tut at FrontEndMasters, Kyle Simpson's Organizing JS tut at FrontEndMAsters, FunFunFunction podcast, FreeCodeCamp, JSBin and CodePen
+
+- looking forward to programming now that I have some basics to build from. I hope to get better at Vanilla JS. I hope to start picking up some frameworks this in March. Still need to get around to Canvas, D3, Node, React, VUE and more.
+
 ---
 
 
-## DAY 84 - DATE - TITLE
+## DAY 83 - March 1 - Tuesday(Run, FCC)
+
+Expected:
+- FCC
+- Run
+
+
+Actual:
+- FCC
+- Ran
+
+Read/Watched:
+
+- [Make Your Own Marco Mag](http://codepen.io/mpopv/pen/aNbqrq?editors=1010)
+- [html2canvas](https://html2canvas.hertzen.com/)
+- [079: Console](http://blog.codepen.io/2016/03/01/079-console/)
+
+## DAY 84 - March 2 - Wednesday(Run, FCC, oil change)
+
+Expected:
+- FCC
+- Run
+
+
+Actual:
+- FCC
+- Ran
+
+Read/Watched:
+
+- [POST Form Data with cURL](https://davidwalsh.name/curl-post-file)
+- [git tag](git tag - https://davidwalsh.name/git-tag)
+- [What’s New in jQuery 3](http://developer.telerik.com/featured/whats-new-in-jquery-3/)
+- [Native JavaScript Equivalents of jQuery Methods: Events, Ajax and Utilities](http://www.sitepoint.com/jquery-vs-raw-javascript-3-events-ajax/)
+- [A Guide to Vanilla Ajax Without jQuery](http://www.sitepoint.com/guide-vanilla-ajax-without-jquery/)
+- [Getting Started](https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started)
+- [How AJAX Request Works with Vanilla Javascript
+](http://ashishuideveloper.in/2015/05/how-ajax-request-works-with-vanilla-javascript/)
+- [You Don't Need jQuery!](http://blog.garstasio.com/you-dont-need-jquery/ajax/)
+
+
+
 ## DAY 85 - DATE - TITLE
 ## DAY 86 - DATE - TITLE
 ## DAY 87 - DATE - TITLE
@@ -2617,6 +2662,17 @@ When learning, it's important to repeat the concepts over and over. It sucks whe
 ## DAY 111 - DATE - TITLE
 ## DAY 112 - DATE - TITLE
 ## DAY 113 - DATE - TITLE
+
+
+---
+
+### March in review
+
+- Went snowboarding for the first time since 1999. Ugh.
+
+
+
+
 ## DAY 114 - DATE - TITLE
 ## DAY 115 - DATE - TITLE
 ## DAY 116 - DATE - TITLE
