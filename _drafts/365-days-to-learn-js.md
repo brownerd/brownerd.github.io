@@ -2629,7 +2629,13 @@ Read/Watched:
 - [Getting Started](https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started)
 - [How AJAX Request Works with Vanilla Javascript
 ](http://ashishuideveloper.in/2015/05/how-ajax-request-works-with-vanilla-javascript/)
-- [You Don't Need jQuery!](http://blog.garstasio.com/you-dont-need-jquery/ajax/)
+- [:+1: You Don't Need jQuery!: Ajax Requests](http://blog.garstasio.com/you-dont-need-jquery/ajax/)
+- [:+1: You Don't Need jQuery!: Events](http://blog.garstasio.com/you-dont-need-jquery/events/)
+- [:+1: You Don't Need jQuery! Selecting Elements](http://blog.garstasio.com/you-dont-need-jquery/selectors/)
+- [:+1: You Don't Need jQuery!: DOM Manipulation ](http://blog.garstasio.com/you-dont-need-jquery/dom-manipulation/)
+
+
+
 
 
 
@@ -2668,7 +2674,10 @@ Read/Watched:
 
 ### March in review
 
+- I am hooked on these FreeCodeCamp challenges. I fell like I've found a JS resource that is organized to take you from zero to hero in a straigt path.
+- [:+1: You Don't Need jQuery!: Ajax Requests](http://blog.garstasio.com/you-dont-need-jquery/ajax/) I'm loving this series. SOOO good.
 - Went snowboarding for the first time since 1999. Ugh.
+
 
 
 
