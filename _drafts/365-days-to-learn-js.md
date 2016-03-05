@@ -2633,15 +2633,91 @@ Read/Watched:
 - [:+1: You Don't Need jQuery!: Events](http://blog.garstasio.com/you-dont-need-jquery/events/)
 - [:+1: You Don't Need jQuery! Selecting Elements](http://blog.garstasio.com/you-dont-need-jquery/selectors/)
 - [:+1: You Don't Need jQuery!: DOM Manipulation ](http://blog.garstasio.com/you-dont-need-jquery/dom-manipulation/)
+-[:+1: You Don't Need jQuery!: Utilities](http://blog.garstasio.com/you-dont-need-jquery/utils/)
+
+---
+
+
+
+## DAY 85 - March 3 - Thursday(meetings all day)
+
+
+Expected:
+- Drop off letterhead to EEC
+- Take kids to doctor for checkups
+- DevLunch meeting
+- Kylia GoodBye meetup
+- Pick both kids up
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+
+- [Ajax race conditions](http://programmers.stackexchange.com/questions/148278/ajax-race-conditions)
+- [ajax request queue js](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=ajax%20request%20queue%20js)
+- [Obtain the user's current location ](https://developers.google.com/web/fundamentals/native-hardware/user-location/obtain-location?hl=en)
+
+
+## DAY 86 - March 4 - Friday(Ski trip)
+
+
+Expected:
+- travel
+
+
+Actual:
+- cleaned houe
+- made dinner for wifey and kids before leaving
+- travel
+
+Read/Watched:
+
+- [Writing better AJAX
+](https://medium.com/coding-design/writing-better-ajax-8ee4a7fb95f#.jx0v9duws) A guide towards writing better AJAX calls in jQuery
+- [Multiple Simultaneous Ajax Requests (with one callback) in jQuery](https://css-tricks.com/multiple-simultaneous-ajax-requests-one-callback-jquery/)
+- [Enzyme: JavaScript Testing utilities for React](https://medium.com/airbnb-engineering/enzyme-javascript-testing-utilities-for-react-a417e5e5090f#.9khyz230w)
+- [JavaScript Frameworks in 2016](http://www.clock.co.uk/blog/javascript-frameworks-in-2016)
+- [
+Performance of ES6 features relative to the ES5 baseline operations per second.](https://kpdecker.github.io/six-speed/)
+- [Debugging WordPress Projects in 60 Seconds](http://code.tutsplus.com/tutorials/debugging-wordpress-projects-in-60-seconds--cms-25570)
+- [Discovering Which Sites Your Target Audience Visits - Whiteboard Friday](https://moz.com/blog/discovering-which-sites-your-target-audience-visits-whiteboard-friday)
+- [#197: The Future of WordPress and Calypso with Matt Mullenweg](https://changelog.com/197/)
+- [:+1: Callback Hell](http://callbackhell.com/)
+- [:+1: JavaScript function hoisting by example](https://gist.github.com/maxogden/4bed247d9852de93c94c)
+
+
+---
+
+
+## DAY 87 - March 5 - Saturday(Board)
+'='
+Expected:
+- Ride
+
+
+Actual:
+- FCC
+- Ran
+
+Read/Watched:
+
+
+
+
+
+- [Templates are easy to change. Content usually isn’t.](https://css-tricks.com/class-up-templates-not-content/)
+
+
+----
 
 
 
 
 
 
-## DAY 85 - DATE - TITLE
-## DAY 86 - DATE - TITLE
-## DAY 87 - DATE - TITLE
 ## DAY 88 - DATE - TITLE
 ## DAY 89 - DATE - TITLE
 ## DAY 90 - DATE - TITLE

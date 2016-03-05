@@ -390,7 +390,11 @@ A pull Mechanism ( - Jafar, Front End Masters Asynchronous JS lecture )
 
 ## I/O
 
-- [I/O - input/output](http://www.webopedia.com/TERM/I/I_O.html) Short for input/output (pronounced "eye-oh"). The term I/O is used to describe any program, operation or device that transfers data to or from a computer and to or from a peripheral device. Every transfer is an output from one device and an input into another. Devices such as keyboards and mouses are input-only devices while devices such as printers are output-only. A writable CD-ROM is both an input and an output device.
+ I/O, e.g. downloading things, reading files, talking to databases, etc.
+
+ - http://callbackhell.com/
+
+- [I/O - input/output](http://www.webopedia.com/TERM/I/I_O.html) Short for input/output. The term I/O is used to describe any program, operation or device that transfers data to or from a computer and to or from a peripheral device. Every transfer is an output from one device and an input into another. Devices such as keyboards and mouses are input-only devices while devices such as printers are output-only. A writable CD-ROM is both an input and an output device.
 
 ---
 
