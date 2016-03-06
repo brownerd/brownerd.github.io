@@ -2699,13 +2699,10 @@ Expected:
 
 
 Actual:
-- FCC
-- Ran
+- Rode
+- Saw Carl for dinner
 
 Read/Watched:
-
-
-
 
 
 - [Templates are easy to change. Content usually isn’t.](https://css-tricks.com/class-up-templates-not-content/)
@@ -2714,11 +2711,27 @@ Read/Watched:
 ----
 
 
+## DAY 88 - March 6 - Sunday(Board)
+
+
+Expected:
+- Ride
+
+
+Actual:
+- Rode
+- Saw Carl for dinner
+
+Read/Watched:
+
+- [JavaScript Selectors: getElementById](http://thenewcode.com/527/JavaScript-Selectors-getElementById)
 
 
 
 
-## DAY 88 - DATE - TITLE
+---
+
+
 ## DAY 89 - DATE - TITLE
 ## DAY 90 - DATE - TITLE
 ## DAY 91 - DATE - TITLE
