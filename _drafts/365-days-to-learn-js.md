@@ -2669,7 +2669,7 @@ Expected:
 
 
 Actual:
-- cleaned houe
+- cleaned house
 - made dinner for wifey and kids before leaving
 - travel
 
@@ -2720,7 +2720,7 @@ Expected:
 
 Actual:
 - Rode
-- Saw Carl for dinner
+
 
 Read/Watched:
 
@@ -2732,9 +2732,70 @@ Read/Watched:
 ---
 
 
-## DAY 89 - DATE - TITLE
-## DAY 90 - DATE - TITLE
-## DAY 91 - DATE - TITLE
+## DAY 89 - March 7 - Monday(Travel home)
+
+
+
+
+---
+
+
+## DAY 90 - March 8 - Tuesday(Raji doctor, RSS)
+
+Expected:
+- Raji to doctor
+- RSS articles
+
+
+Actual:
+- took raji to doctor
+- Crushed articles from rss
+
+
+Read/Watched:
+
+- [Behind the Scenes - FunFunFunction #22](https://www.youtube.com/watch?v=gTk8nPj11Yk&feature=em-subs_digest)
+- [JavaScript Ep.17: lodash](https://www.youtube.com/watch?v=Ri6ICVUMVa8&list=TLUtib97WE2BAwNzAzMjAxNg)
+- [Build Podcast 066 ES2015](https://www.youtube.com/watch?v=A1HhhICKl2Q&feature=em-subs_digest)
+- [Design Patterns: Subscribe to change with the Observer pattern](http://codepen.io/ImagineProgramming/post/design-patterns-subscribe-to-change-with-the-observer-pattern)
+- [Why is Vertical Rhythm an Important Typography Practice?](http://zellwk.com/blog/why-vertical-rhythms/)
+- [
+Elrotex Brush Font](https://pixelbuddha.net/freebie/elrotex-brush-font)
+- [Tasty CSS-animated hamburgers](https://jonsuh.com/hamburgers/)
+- [React.js Program](http://www.reactjsprogram.com/)
+- [Create An Auto-Centered Responsive Google Map](http://thenewcode.com/359/Create-An-Auto-Centered-Responsive-Google-Map)
+- [Elm in 5 minutes](https://egghead.io/lessons/elm-elm-in-5-minutes)
+- [:+1: 066 ES2015](http://build-podcast.com/es2015/) includes: string functions startsWith, endsWith, includes, repeat and interpolation ${string}, for-of, arrays functions keys, find, findIndex, fill, map, set, promise and more...
+- [Return the response from ajax call ?](http://node-tricks.com/return-response-ajax-call/)
+
+
+
+---
+
+
+## DAY 91 - March 9 - Wednesday(Taxes, Meetings, FEM, FCC)
+
+Expected:
+- Prep Taxes
+- Meet with mark
+- FEM and FCC
+
+
+Actual:
+- Prepped Taxes
+- Met with mark
+- did FEM and FCC
+
+
+
+Read/Watched:
+
+- [PAPERCRAFT](http://jxnblk.com/papercraft/)
+
+
+---
+
+
 ## DAY 92 - DATE - TITLE
 ## DAY 93 - DATE - TITLE
 ## DAY 94 - DATE - TITLE
