@@ -2767,7 +2767,7 @@ Elrotex Brush Font](https://pixelbuddha.net/freebie/elrotex-brush-font)
 - [Elm in 5 minutes](https://egghead.io/lessons/elm-elm-in-5-minutes)
 - [:+1: 066 ES2015](http://build-podcast.com/es2015/) includes: string functions startsWith, endsWith, includes, repeat and interpolation ${string}, for-of, arrays functions keys, find, findIndex, fill, map, set, promise and more...
 - [Return the response from ajax call ?](http://node-tricks.com/return-response-ajax-call/)
-
+- [Functional-Lite JavaScript](https://frontendmasters.com/courses/functional-js-lite/)
 
 
 ---
@@ -2791,22 +2791,299 @@ Actual:
 Read/Watched:
 
 - [PAPERCRAFT](http://jxnblk.com/papercraft/)
+- [Functional-Lite JavaScript](https://frontendmasters.com/courses/functional-js-lite/)
+- [Understand JavaScript Callback Functions and Use Them](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
+- [Are you bad, good, better or best with Async JS? JS Tutorial: Callbacks, Promises, Generators](https://www.youtube.com/watch?v=obaSQBBWZLk)
+- [Javascript - How to Use Callbacks](https://www.youtube.com/watch?v=QqiNn3GfTMc)
+- [Javascript Generators - THEY CHANGE EVERYTHING - ES6 Generators Harmony Generators](https://www.youtube.com/watch?v=QO07THdLWQo&ebc=ANyPxKqg74TrJ8uVwZaAm9y3vGQeoCG88SJOGs3PUMDoior_L657BPEWk37WNhTAoSiJQSIohCcgQwljh5iLTVRG4eJxT096RA)
+- [Mastering JavaScript Callbacks](https://www.youtube.com/watch?v=qN0dkXj7jc0)
+- [What is Async JavaScript?](https://www.youtube.com/watch?v=y8xPMYwQ0U8)
+- [AJAX EXPLAINED](https://www.youtube.com/watch?v=Y9X0mQ41Dj4)
+- [Simple Ajax Tutorial](https://www.youtube.com/watch?v=qqRiDlm-SnY)
+- [Ajax](https://developer.mozilla.org/en-US/docs/AJAX)
+- [AJAX Getting Started](https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started)
+- [Using XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest)
+- [Ajax Mistakes](https://alexbosworth.backpackit.com/pub/67688)
+
+
+
 
 
 ---
 
 
-## DAY 92 - DATE - TITLE
-## DAY 93 - DATE - TITLE
-## DAY 94 - DATE - TITLE
-## DAY 95 - DATE - TITLE
-## DAY 96 - DATE - TITLE
-## DAY 97 - DATE - TITLE
-## DAY 98 - DATE - TITLE
-## DAY 99 - DATE - TITLE
-## DAY 100 - DATE - TITLE
-## DAY 101 - DATE - TITLE
-## DAY 102 - DATE - TITLE
+## DAY 92 - March 10 - Thursday(AJAX, Nato)
+
+
+Expected:
+- AJAX
+- Lunch with Nato
+- FCC
+
+
+Actual:
+- AJAX and Callbacks
+- Met with Nato
+- More FCC
+
+
+Read/Watched:
+- [Javascript - How to Use Callbacks](https://www.youtube.com/watch?v=QqiNn3GfTMc)
+- [#197: The Future of WordPress and Calypso with Matt Mullenweg](https://changelog.com/197/)
+
+
+
+
+
+---
+
+## DAY 93 - March 11 - Friday(Nick, FCC, AJAX, Promises)
+
+Expected:
+- AJAX
+- Lunch with Nick
+- FCC
+
+
+Actual:
+- AJAX and Callbacks
+- Met with Nick
+- More FCC
+
+
+Read/Watched:
+
+- [A Year Without jQuery](http://blog.wearecolony.com/a-year-without-jquery/)
+- [Moment.js](http://momentjs.com/)
+- [q](http://documentup.com/kriskowal/q/)
+- [MixItUp](https://mixitup.kunkalabs.com/)
+- [iScroll](http://iscrolljs.com/#intro)
+- [React v15.0 Release Candidate](https://facebook.github.io/react/blog/2016/03/07/react-v15-rc1.html)
+- [5 Tips To Improve Your JS with ES6 - Crater Conf Talk](https://www.youtube.com/watch?v=edq4dt98Mpg&index=1&list=PLtujUkEY1JlqE6KsIbQeShY3gLEylKnrr)
+
+---
+
+
+## DAY 94 -  March 12 - Saturday(Fam day)
+
+Expected:
+- AJAX
+- Lunch with Nato
+- FCC
+
+
+Actual:
+- AJAX and Callbacks
+- Met with Nato
+- More FCC
+
+
+Read/Watched:
+
+- [Pctogram](http://pictogram.agency/muir/)
+- [Balloon.css](http://kazzkiq.github.io/balloon.css/)
+- [Formidible Open Source](http://stack.formidable.com/)
+
+
+
+
+---
+
+
+## DAY 95 - March 13 - Sunday(Fam day)
+
+Expected:
+- fam day
+
+
+Actual:
+- fam day
+- minecraft with amir
+
+
+Read/Watched:
+
+- [The Unbearable Homogeneity of Design](https://medium.com/@morgane/the-unbearable-homogeneity-of-design-fe1a44d48f3d#.ozb6eskj5)
+- [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.ry9lffb46)
+- [Airbnb JavaScript Style Guide()](https://github.com/airbnb/javascript)
+
+
+
+---
+
+
+
+## DAY 96 - March 14 - Monday(Raji home)
+
+Expected:
+- Wathc Raji
+- AJAX
+- Lunch with Andy
+- FCC
+
+
+Actual:
+- Watched Raji
+- AJAX and Callbacks
+- Met with Andy
+- More FCC
+
+
+Read/Watched:
+
+- [Airbnb JavaScript Style Guide()](https://github.com/airbnb/javascript)
+- [Shotgun: JavaScript Video Experience](https://medium.com/javascript-scene/shotgun-javascript-video-experience-c8b6a7771d49#.g7n85jngb)
+- [Code Less & Achieve More with Arrays in Framer](https://medium.com/@designforhuman/code-less-achieve-more-with-arrays-in-framer-c43594d13d59#.ugcscsomu)
+- [React components lifecycle diagram](http://codepen.io/eduardoboucas/pen/jqWbdb)
+- [ZERO-CONFIGURATION REACT STATIC SITE GENERATOR](http://jxnblk.com/writing/posts/zero-configuration-react-static-site-generator/)
+- [The modulus operator %](http://codepen.io/brandonbrule/post/the-modulus-operator)
+- [Console.log Deep Objects](http://jaketrent.com/post/console-log-deep-objects/)
+- [Gitignore System Files](http://jaketrent.com/post/gitignore-system-files/)
+- [Datepickk.js](http://codepen.io/crsten/pen/XdjBXy)
+- [Setting Up Your Custom Domain](https://www.netlify.com/blog/2016/03/14/setting-up-your-custom-domain.html)
+
+
+
+
+
+---
+
+
+## DAY 97 - March 15 - Tuesday(Andrea, Mit Haus Weather)
+
+Expected:
+- Talk with Andrea about Artworks
+- Reading JS
+- FCC and AJAX
+
+
+Actual:
+- Talked with Andrea
+- Reading JS
+- More FCC and AJAX
+
+
+Read/Watched:
+
+- [Creating an SVG Icon System with React](https://css-tricks.com/creating-svg-icon-system-react/)
+- [:+1: JS Bits](https://github.com/vasanthk/js-bits)
+- [Learning JavaScript Native Functions and How to Use Them](https://scotch.io/tutorials/learning-javascript-native-functions-and-how-to-use-them)
+
+
+
+
+
+---
+
+
+## DAY 98 - March 16 - Wednesday(Denny, Mit Haus Weather)
+
+Expected:
+- Lunch with Denny
+- FCC and AJAX Mit Haus weather
+
+
+Actual:
+- Had lunch with Denny
+- More FCC and AJAX Mit Haus weather
+
+
+Read/Watched:
+
+
+
+---
+
+
+## DAY 99 - March 17 - Thursday(Lunch with Dad, MIT HAUS Weather)
+
+Expected:
+- Lunch with Dad
+- FCC and AJAX Mit Haus weather
+
+
+Actual:
+- Had lunch with Dad
+- More FCC and AJAX Mit Haus weather
+
+
+Read/Watched:
+
+- [Content & Display Patterns with Expressive CSS](http://johnpolacek.com/content-display-patterns/) I disagree
+- [JSON-LD: Building Meaningful Data APIs](http://blog.codeship.com/json-ld-building-meaningful-data-apis/)
+- [Responsive Instagram Embed w/ Support for LazySizes](http://codepen.io/kerns/pen/mPReGE?editors=0010)
+- [Atom 1.6 and 1.7 beta](http://blog.atom.io/2016/03/17/atom-1-6-and-1-7-beta.html)
+
+
+
+---
+
+## DAY 100 - March 18 - Friday(March Madness, SFF Logo)
+
+Expected:
+- March Madness with Dad
+- SFF logo with dad and Claire
+
+
+Actual:
+- March Madness with Dad
+- SFF logo with dad and Claire
+
+
+Read/Watched:
+
+
+---
+
+
+## DAY 101 - March 19 - Satruday(SFF Logo, Reading)
+
+Expected:
+- Work on SFF logo
+- Meet up with Jabari?
+
+
+Actual:
+- caught up with jabari
+- More FCC and AJAX Mit Haus weather
+
+
+Read/Watched:
+
+- [2 out of 3 developers are self-taught, and other insights from Stack Overflow’s 2016 survey of 50,000 developers](https://medium.freecodecamp.com/2-out-of-3-developers-are-self-taught-and-other-insights-from-stack-overflow-s-2016-survey-of-50-8cf0ee5d4c21#.hk3yas69n)
+- [Developer Survey Results
+2016](http://stackoverflow.com/research/developer-survey-2016)
+- [An early look at three high-impact ES6 features coming soon to Node.js](http://rethinkdb.com/blog/v849-es6-features/)
+- [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.y3xo9zvoy)
+- [Checkbox Trickery with CSS](http://codersblock.com/blog/checkbox-trickery-with-css/)
+- [:+1: Diggin into hip-hop](http://dihh.io/digs/l-the-head-toucha-its-all-over)
+
+
+---
+
+## DAY 102 - March 20 - Sunday()
+
+Expected:
+- Work on SFF logo
+- More FCC and AJAX Mit Haus weather
+
+
+Actual:
+- Had lunch with Dad
+- More FCC and AJAX Mit Haus weather
+
+
+Read/Watched:
+
+- [About rel=noopener](https://mathiasbynens.github.io/rel-noopener/)
+- [List.js](http://www.listjs.com/)
+
+
+
+---
+
+
+
 ## DAY 103 - DATE - TITLE
 ## DAY 104 - DATE - TITLE
 ## DAY 105 - DATE - TITLE
@@ -2827,6 +3104,8 @@ Read/Watched:
 - I am hooked on these FreeCodeCamp challenges. I fell like I've found a JS resource that is organized to take you from zero to hero in a straigt path.
 - [:+1: You Don't Need jQuery!: Ajax Requests](http://blog.garstasio.com/you-dont-need-jquery/ajax/) I'm loving this series. SOOO good.
 - Went snowboarding for the first time since 1999. Ugh.
+- Learning Vanilla AJAX requests has been challenging
+- Understangin Callbacks has been confusing too
 
 
 
@@ -3109,6 +3388,10 @@ Revisit:
 
 
 Ideas:
+
+- Swipeable navigation. it works just like a slider does. next nav categroy can be blurred out and clipped on the side.
+
+- STL MIT HAUS opening. All designs can be tweeked my viewers and sent or printed
 
 - Web vs Print typography
     - Indentation vs new line (Both work, but one would require much more paper, thus more money)
