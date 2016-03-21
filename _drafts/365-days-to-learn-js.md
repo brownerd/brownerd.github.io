@@ -3061,7 +3061,7 @@ Read/Watched:
 
 ---
 
-## DAY 102 - March 20 - Sunday()
+## DAY 102 - March 20 - Sunday(Fam day, Shep Fam Logo)
 
 Expected:
 - Work on SFF logo
@@ -3077,14 +3077,34 @@ Read/Watched:
 
 - [About rel=noopener](https://mathiasbynens.github.io/rel-noopener/)
 - [List.js](http://www.listjs.com/)
+- [Future of Web Development](http://codepen.io/jaredsmith/post/future-of-web-development-or-an-open-letter-to-advertising-agencies)
 
 
 
 ---
 
+## DAY 103 - March 21 - Monday(Fix Car, Apple Event)
+
+Expected:
+- Get car fixed
+- Watch Apple event
+- Make client updates
+- More FCC and AJAX Mit Haus weather
 
 
-## DAY 103 - DATE - TITLE
+Actual:
+- Had lunch with Dad
+- More FCC and AJAX Mit Haus weather
+
+
+Read/Watched:
+
+- [Awesome chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+
+---
+
+
+
 ## DAY 104 - DATE - TITLE
 ## DAY 105 - DATE - TITLE
 ## DAY 106 - DATE - TITLE
