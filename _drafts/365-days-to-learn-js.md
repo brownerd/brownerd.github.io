@@ -3100,6 +3100,22 @@ Actual:
 Read/Watched:
 
 - [Awesome chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+- [Cleaning Up a CSS Codebase](http://www.sitepoint.com/cleaning-up-a-css-codebase/)
+- [Sass Guidelines](http://sass-guidelin.es/)
+- [Framer & Sketch: An Intentional Workflow](https://medium.com/facebook-design/framer-sketch-an-intentional-workflow-f91ee2ee1cc1#.kku793iaj)
+- [Designing Moments](https://medium.com/facebook-design/designing-moments-2b5362430125#.65iv4fwpx)
+- [React App Decision Chart](https://trello.com/b/IovmLYzA/react-app-decision-chart)
+- [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.5soricwbn)
+- [Why Ramda?](http://fr.umio.us/why-ramda/)
+- [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+- [Functional UI and Components as Higher Order Functions](https://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions/)
+- [Functional UI and Components as Higher Order Functions](https://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions/)
+- [How to Create 10x Content - Whiteboard Friday](https://moz.com/blog/how-to-create-10x-content-whiteboard-friday)
+- [Questions and Answers - FunFunFunction #24](https://www.youtube.com/watch?v=i4Hic0O5JLk)
+- [Apple Special Event. March 21, 2016.](http://www.apple.com/apple-events/march-2016/)
+
+
+
 
 ---
 
