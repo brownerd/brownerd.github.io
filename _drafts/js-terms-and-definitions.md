@@ -588,7 +588,7 @@ Instead of hard coding our data/arguments into the function, we use Currying ins
 
 ## Predicate
 
-a predicate is a test function. it test items for true or false and returns the items that pass the test.
+A predicate is a test function that returns True or False. It test items for true or false and returns the items that pass the test.
 
 A predicate is a function that accepts an item in the array, and returns a boolean indicating whether the item should be retained in the new array. ( - Jafar, Front End Masters Asynchronous JS lecture )
 

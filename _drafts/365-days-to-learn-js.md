@@ -3093,8 +3093,7 @@ Expected:
 
 
 Actual:
-- Had lunch with Dad
-- More FCC and AJAX Mit Haus weather
+- all the above
 
 
 Read/Watched:
@@ -3121,7 +3120,26 @@ Read/Watched:
 
 
 
-## DAY 104 - DATE - TITLE
+## DAY 104 - March 22 - Tuesday(CEAM updates)
+
+Expected:
+- Make client updates
+- More FCC and AJAX Mit Haus weather
+
+
+Actual:
+- All the above
+
+
+Read/Watched:
+
+- [Functional Reactive Programming with Elm: An Introduction](http://www.sitepoint.com/functional-reactive-programming-elm-introduction/)
+- [:+1: Talk functional javascript!](https://www.youtube.com/watch?v=L7b7AW14rYE) Just a great overview of FP in JS from 2013
+
+---
+
+
+
 ## DAY 105 - DATE - TITLE
 ## DAY 106 - DATE - TITLE
 ## DAY 107 - DATE - TITLE
