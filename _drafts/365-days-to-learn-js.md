@@ -2553,7 +2553,6 @@ Read/Watched:
 - [Popularity of Preprocessors on CodePen](http://blog.codepen.io/2016/02/24/popularity-of-preprocessors-on-codepen/)
 
 
-
 ---
 
 ### Feb in review
@@ -3136,12 +3135,59 @@ Read/Watched:
 - [Functional Reactive Programming with Elm: An Introduction](http://www.sitepoint.com/functional-reactive-programming-elm-introduction/)
 - [:+1: Talk functional javascript!](https://www.youtube.com/watch?v=L7b7AW14rYE) Just a great overview of FP in JS from 2013
 
+
+---
+
+## DAY 105 - March 23 - Wednesday(CEAM)
+
+
+Expected:
+- Make client updates
+
+
+Actual:
+- All the above
+
+
+Read/Watched:
+
+- [Node Hero - Getting Started With Node.js](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
+- [FS Untitled](http://www.fontsmith.com/fs-untitled)
+- [Hover States](https://hoverstat.es/features/untitled-ttf)
+- [Ditching Jspm/System.js For Webpack](http://ilikekillnerds.com/2016/03/ditching-jspmsystem-js-webpack/)
+- [CSS Switches](http://codepen.io/daniesy/pen/VabvNJ)
+- [Understanding the Docker Ecosystem](http://blog.codeship.com/understanding-the-docker-ecosystem/)
+
+
+---
+
+## DAY 106 - March 24 - Thursday(CEAM, Webpack)
+
+Expected:
+- Make client updates
+- Get webpack working
+
+
+Actual:
+- All the above
+
+
+Read/Watched:
+
+
+- [Houdini: Maybe The Most Exciting Development In CSS You’ve Never Heard Of](https://www.smashingmagazine.com/2016/03/houdini-maybe-the-most-exciting-development-in-css-youve-never-heard-of/)
+- [CSS switch framework](http://codepen.io/Raidez/pen/WwjYPx)
+- [Scaleable color picker with touch and AMD support (MIT) http://bebraw.github.io/colorjoe/](https://github.com/bebraw/colorjoe)
+- [SURVIVEJS](http://survivejs.com/) Learn Webpack and React
+- [hjs-webpack](https://github.com/HenrikJoreteg/hjs-webpack)
+
+
+
+
 ---
 
 
 
-## DAY 105 - DATE - TITLE
-## DAY 106 - DATE - TITLE
 ## DAY 107 - DATE - TITLE
 ## DAY 108 - DATE - TITLE
 ## DAY 109 - DATE - TITLE
@@ -3159,7 +3205,10 @@ Read/Watched:
 - [:+1: You Don't Need jQuery!: Ajax Requests](http://blog.garstasio.com/you-dont-need-jquery/ajax/) I'm loving this series. SOOO good.
 - Went snowboarding for the first time since 1999. Ugh.
 - Learning Vanilla AJAX requests has been challenging
-- Understangin Callbacks has been confusing too
+- Understandind Callbacks has been confusing too
+- I spent a lot of time networking and catching up with friends and family that I've been putting on pause while I study this JS stuff
+- Just starting to dive back into build processess again. Man, I'm so rusty with all the webpack stuff!
+- My brother Mike might want to take a DevYear too. Just thinking about teaching too.
 
 
 
