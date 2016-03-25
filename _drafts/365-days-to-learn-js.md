@@ -3161,10 +3161,10 @@ Read/Watched:
 
 ---
 
-## DAY 106 - March 24 - Thursday(CEAM, Webpack)
+## DAY 106 - March 24 - Thursday(Webpack, Lunch with Tim)
 
 Expected:
-- Make client updates
+- Lunch with Tim
 - Get webpack working
 
 
@@ -3180,7 +3180,11 @@ Read/Watched:
 - [Scaleable color picker with touch and AMD support (MIT) http://bebraw.github.io/colorjoe/](https://github.com/bebraw/colorjoe)
 - [SURVIVEJS](http://survivejs.com/) Learn Webpack and React
 - [hjs-webpack](https://github.com/HenrikJoreteg/hjs-webpack)
-
+- [cssnano](http://cssnano.co/)
+- [Single Page Modules with Webpack](http://dontkry.com/posts/code/single-page-modules-with-webpack.html)
+- [How to code HTML with jade and webpack with hot reload](http://stackoverflow.com/questions/32396827/how-to-code-html-with-jade-and-webpack-with-hot-reload)
+- [Pack It Up, Pack It In](https://keyholesoftware.com/2015/03/31/pack-it-up-pack-it-in/)
+- [USING LOADERS](http://webpack.github.io/docs/using-loaders.html)
 
 
 
@@ -3188,7 +3192,41 @@ Read/Watched:
 
 
 
-## DAY 107 - DATE - TITLE
+## DAY 107 - March 25 - Friday(Cory, Mike, Webpack, Raji early)
+
+Expected:
+- Meet with Cory
+- Teach Mike
+- Get Raji Early
+- Webpack stuff
+
+
+Actual:
+- All the above
+
+
+Read/Watched:
+- [From Ember to React](https://medium.com/@eluciano11/from-ember-to-react-5c2faa0e8d10#.ixqb2ew9r)
+- [Hain](https://github.com/appetizermonster/hain)
+- [Why I Write Plain JavaScript Modules](https://ponyfoo.com/articles/why-i-write-plain-javascript-modules)
+- [webpack-howto](https://github.com/petehunt/webpack-howto)
+- [:+1: Add & Remove Classes With JavaScript Property classList](http://callmenick.com/post/add-remove-classes-with-javascript-property-classlist)
+- [Smarter CSS builds with Webpack](https://www.bensmithett.com/smarter-css-builds-with-webpack/)
+- [Humans of Silicon Valley](https://medium.com/@ericajoy/humans-of-silicon-valley-bf6c70f0ef6c#.plc2l9zf0)
+- [15 Interesting Frontend Libraries And Plugins For March 2016](http://tutorialzine.com/2016/03/15-interesting-frontend-libraries-and-plugins-for-march-2016/)
+- [slick](http://kenwheeler.github.io/slick/)
+- [How to Write Atom Packages Using Vanilla JavaScript](http://www.sitepoint.com/write-atom-packages-using-vanilla-javascript/)
+- [Functional Reactive Programming with Elm: An Introduction](http://www.sitepoint.com/functional-reactive-programming-elm-introduction/)
+
+
+
+
+
+
+
+---
+
+
 ## DAY 108 - DATE - TITLE
 ## DAY 109 - DATE - TITLE
 ## DAY 110 - DATE - TITLE

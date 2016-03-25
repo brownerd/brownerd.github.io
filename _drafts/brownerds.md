@@ -24,6 +24,8 @@
 
 http://codepen.io/christiannwamba/
 
+- [Humans of Silicon Valley](https://medium.com/@ericajoy/humans-of-silicon-valley-bf6c70f0ef6c#.plc2l9zf0)
+
 
 - [14-Year-Old Boy Arrested For Bringing Homemade Clock To School](http://techcrunch.com/2015/09/16/14-year-old-boy-arrested-for-bringing-homemade-clock-to-school/) Ahmed Mohamed - Stay awesome!
 - [I’m Ahmed. Except I’m Not Brown.](http://ihnatko.com/2015/09/16/im-achmed-except-im-not-brown/)
