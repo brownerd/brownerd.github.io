@@ -3217,9 +3217,31 @@ Read/Watched:
 - [slick](http://kenwheeler.github.io/slick/)
 - [How to Write Atom Packages Using Vanilla JavaScript](http://www.sitepoint.com/write-atom-packages-using-vanilla-javascript/)
 - [Functional Reactive Programming with Elm: An Introduction](http://www.sitepoint.com/functional-reactive-programming-elm-introduction/)
+- [082: Partnerships](https://blog.codepen.io/2016/03/22/082-partnerships/)
+- [Learn JavaScript: The best methods and resources according to 25 JavaScript experts](https://psdtowp.net/learn-javascript.html)
+- [fake-todos](https://github.com/bahmutov/fake-todos)
+- [Using webpack](https://glebbahmutov.com/blog/using-webpack/)
+- [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin)
+- [webpack example app](http://webpack.github.io/example-app/#)
 
 
+---
 
+## DAY 108 - March 26 - Saturday()
+
+Expected:
+- Botanical Garden with Meter
+- Webpack stuff
+
+
+Actual:
+- All the above
+
+Read/Watched:
+- [WEBPACK VISUALIZER](https://chrisbateman.github.io/webpack-visualizer/)
+- [Package install scripts vulnerability](http://blog.npmjs.org/post/141702881055/package-install-scripts-vulnerability)
+- [extract text plugin for webpack](https://github.com/webpack/extract-text-webpack-plugin)
+- [Zero to 60 in Software Development: How to Jumpstart Your Career - [Forward 4 Web Summit](https://www.youtube.com/watch?v=-qPh6I2hfjw)
 
 
 
@@ -3227,7 +3249,7 @@ Read/Watched:
 ---
 
 
-## DAY 108 - DATE - TITLE
+
 ## DAY 109 - DATE - TITLE
 ## DAY 110 - DATE - TITLE
 ## DAY 111 - DATE - TITLE
