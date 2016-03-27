@@ -3242,15 +3242,34 @@ Read/Watched:
 - [Package install scripts vulnerability](http://blog.npmjs.org/post/141702881055/package-install-scripts-vulnerability)
 - [extract text plugin for webpack](https://github.com/webpack/extract-text-webpack-plugin)
 - [Zero to 60 in Software Development: How to Jumpstart Your Career - [Forward 4 Web Summit](https://www.youtube.com/watch?v=-qPh6I2hfjw)
+- [Flag Stories](http://flagstories.co/)
+- [Viewport Unit Based Typography](http://zellwk.com/blog/viewport-based-typography/) Yeah, but...
+- [CONSOLE FRIGHT NIGHT](http://tholman.com/console-fright-night/)
+- [Image decorations for object-fit](http://fvsch.com/code/object-fit-decoration/)
+- [QUICK TIPS
+Dirty Tricks From The Dark Corners Of Front-End (Slides, PDF)](https://www.smashingmagazine.com/2016/03/dirty-tricks-dark-corners-front-end-slides-pdf/)
 
 
+---
+
+## DAY 109 - March 27 - Sunday()
+
+Expected:
+- Fam day
+
+
+
+Actual:
+- All the above
+
+Read/Watched:
+- [Calling Super Methods in Javascript](http://codepen.io/thinkbonobo/post/calling-super-methods-in-javascript)
+- [Getting real-life with Node](http://codepen.io/hans/post/node)
 
 
 ---
 
 
-
-## DAY 109 - DATE - TITLE
 ## DAY 110 - DATE - TITLE
 ## DAY 111 - DATE - TITLE
 ## DAY 112 - DATE - TITLE
@@ -3551,6 +3570,8 @@ Revisit:
 
 
 Ideas:
+
+- Daily Reading list maker, Desktop app or Chrome plugin. Select Article title, press hotkey, it writes selected text and page url to markdown doc. Or does it push it to Firebase?
 
 - Swipeable navigation. it works just like a slider does. next nav categroy can be blurred out and clipped on the side.
 
