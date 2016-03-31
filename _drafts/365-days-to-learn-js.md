@@ -3252,12 +3252,10 @@ Dirty Tricks From The Dark Corners Of Front-End (Slides, PDF)](https://www.smash
 
 ---
 
-## DAY 109 - March 27 - Sunday()
+## DAY 109 - March 27 - Sunday(Fam day)
 
 Expected:
 - Fam day
-
-
 
 Actual:
 - All the above
@@ -3270,11 +3268,90 @@ Read/Watched:
 ---
 
 
-## DAY 110 - DATE - TITLE
-## DAY 111 - DATE - TITLE
-## DAY 112 - DATE - TITLE
-## DAY 113 - DATE - TITLE
+## DAY 110 - March 28 - Monday(Duct clean, FCC)
 
+Expected:
+- Duct Clean
+- FCC
+
+
+Actual:
+- All the above
+
+Read/Watched:
+
+- [Losing motivation - FunFunFunction #25](https://www.youtube.com/watch?v=RQg_Q4HYYpg&feature=em-subs_digest)
+- [Object.keys](https://davidwalsh.name/object-keys)
+- [:+1: get rel from div](http://stackoverflow.com/questions/14423841/get-rel-from-div)
+- [Remove CSS class from element with JavaScript](http://stackoverflow.com/questions/2155737/remove-css-class-from-element-with-javascript-no-jquery)
+- [Easy Masonry Layout With Flexbox](http://thenewcode.com/844/Easy-Masonry-Layout-With-Flexbox)
+- [ES6 Promises](http://www.datchley.name/es6-promises/)
+- [Atom Reaches One Million Active Users](http://blog.atom.io/2016/03/28/atom-reaches-1m-users.html)
+- [Using Map and Reduce in Functional JavaScript](http://www.sitepoint.com/map-reduce-functional-javascript/)
+- [Filestack](https://www.filestack.com)
+- [The difference between Virtual DOM and DOM](http://reactkungfu.com/2015/10/the-difference-between-virtual-dom-and-dom/)
+
+
+---
+
+
+## DAY 111 - March 29 - Tuesday(Amir sick, played with Amir)
+
+Expected:
+- Hang with Amir
+
+
+Actual:
+- All the above
+
+Read/Watched:
+- [#198: Haskell Programming with Chris Allen and Julie Moronuki](https://changelog.com/198/)
+- [Haskellbook](http://haskellbook.com/)
+- [How to make Multi-Layered Parallax Illustration with CSS & Javascript](https://medium.com/@PatrykZabielski/how-to-make-multi-layered-parallax-illustration-with-css-javascript-2b56883c3f27#.3aqlmuz3z)
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+- [Integrating jQuery Chosen with Webpack using imports-loader](http://reactkungfu.com/2015/10/integrating-jquery-chosen-with-webpack-using-imports-loader/)
+- [:+1: Is there any way to git checkout previous branch?](http://stackoverflow.com/questions/7206801/is-there-any-way-to-git-checkout-previous-branch)
+- [Adobe XD – Review & Predictions](https://www.youtube.com/watch?v=KvQwBegnog8&feature=em-subs_digest)
+
+
+
+---
+
+
+
+## DAY 112 - March 30 - Wednesday()
+
+Expected:
+- Finish CSS  Weather app
+
+
+Actual:
+- Watched Rethinking Async with KS on FEM
+
+Read/Watched:
+- [Promises](https://www.promisejs.org/)
+- [ES6 Promises are here!](http://blog.shinetech.com/2015/05/08/es6-promises-are-here/)
+- [:+1: Rethinking Asynchronous JavaScript](https://frontendmasters.com/courses/rethinking-async-js/)
+- [A Beginner’s Guide to npm — the Node Package Manager](http://www.sitepoint.com/beginners-guide-node-package-manager/)
+
+
+---
+
+
+?? What is the definition of a  handler exactly??
+
+
+## DAY 113 - March 31 - Thrusday(Pick up car, FEM)
+
+Expected:
+- Hang with Amir
+
+
+Actual:
+- All the above
+
+Read/Watched:
+- [:+1: Rethinking Asynchronous JavaScript](https://frontendmasters.com/courses/rethinking-async-js/)
 
 ---
 
@@ -3288,7 +3365,7 @@ Read/Watched:
 - I spent a lot of time networking and catching up with friends and family that I've been putting on pause while I study this JS stuff
 - Just starting to dive back into build processess again. Man, I'm so rusty with all the webpack stuff!
 - My brother Mike might want to take a DevYear too. Just thinking about teaching too.
-
+- Dad agreed to help Mike with studying web development. Mike will be meeting with me to learn the basics until he can do them on his own.
 
 
 

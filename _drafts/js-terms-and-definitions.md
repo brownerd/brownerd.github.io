@@ -620,6 +620,20 @@ Applying a function to a value and creating a new value is called a projection
 
 ---
 
+## Promises
+
+Promises are about making asynchronous code retain most of the lost properties of synchronous code such as flat indentation and one exception channel.
+
+- [Promise Patterns & Anti-Patterns](http://www.datchley.name/promise-patterns-anti-patterns/)
+
+
+A promise is an object that encapsulates the result of an asynchronous operation.
+
+- [ES6 Promises are here!](http://blog.shinetech.com/2015/05/08/es6-promises-are-here/)
+
+
+---
+
 ## Pure-function
 A function is called 'pure' if all its inputs are declared as inputs - none of them are hidden - and likewise all its outputs are declared as outputs.
 http://blog.jenkster.com/2015/12/what-is-functional-programming.html
