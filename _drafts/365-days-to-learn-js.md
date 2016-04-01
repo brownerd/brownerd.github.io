@@ -3341,10 +3341,10 @@ Read/Watched:
 ?? What is the definition of a  handler exactly??
 
 
-## DAY 113 - March 31 - Thrusday(Pick up car, FEM)
+## DAY 113 - March 31 - Thrusday(Pick up car, FEM, Long talk with moms)
 
 Expected:
-- Hang with Amir
+- Rethinking Async
 
 
 Actual:
@@ -3352,6 +3352,7 @@ Actual:
 
 Read/Watched:
 - [:+1: Rethinking Asynchronous JavaScript](https://frontendmasters.com/courses/rethinking-async-js/)
+- [RxMarbles](http://rxmarbles.com/)
 
 ---
 
@@ -3366,11 +3367,37 @@ Read/Watched:
 - Just starting to dive back into build processess again. Man, I'm so rusty with all the webpack stuff!
 - My brother Mike might want to take a DevYear too. Just thinking about teaching too.
 - Dad agreed to help Mike with studying web development. Mike will be meeting with me to learn the basics until he can do them on his own.
+- Starting to feel a little mastery with JS basics. I feel like I can read js now.
+- I still have a ton to learn.
+- It looks like MIke will be joinig me in April to learn web dev too. I'm escited about this.
+
+
+---
+
+## DAY 114 - April 1 - Firday()
+
+
+Expected:
+- Finish Rethinking Async
+
+
+Actual:
+- All the above
+
+Read/Watched:
+- [Introducing React Storybook](https://voice.kadira.io/introducing-react-storybook-ec27f28de1e2#.i6ttas29c)
+- [React Storybook](https://github.com/kadirahq/react-storybook)
+- [Master the JavaScript Interview: What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.bxef288ug)
+- [The decorator pattern in JavaScript using closures, monkey patching, prototypes, proxies and 'middleware'](http://nickmeldrum.com/blog/decorators-in-javascript-using-monkey-patching-closures-prototypes-proxies-and-middleware)
+- [How Google May Analyze and Evaluate the Quality, Value, & Rank-Worthiness of Your Content - Whiteboard Friday](https://moz.com/blog/google-may-analyze-evaluate-quality-content-whiteboard-friday)
+- [Docco: Quick JavaScript Documentation](https://davidwalsh.name/javascript-documentation)
 
 
 
+---
 
-## DAY 114 - DATE - TITLE
+
+
 ## DAY 115 - DATE - TITLE
 ## DAY 116 - DATE - TITLE
 ## DAY 117 - DATE - TITLE
