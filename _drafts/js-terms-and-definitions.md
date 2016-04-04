@@ -622,6 +622,20 @@ Applying a function to a value and creating a new value is called a projection
 
 ## Promises
 
+It’s a trust that a promise is a wrapper for a piece of state (which predictably will transition from “pending” to either — not both — “resolved” or “rejected”) along with a completion-value (success message or error message). It’s a trust that once a promise is in a “resolved” or “rejected” state, along with that message, it cannot and will not change. It’s a trust that completed promises are immutable.
+
+You see, using promises is based on trust. And that trust is based on the state of the promise being protected from outside influence, except only by the creator.
+
+
+- https://blog.getify.com/promises-part-3/
+- https://blog.getify.com/promises-part-4/
+
+A promise is really just a container for a value. That value may be present now, or it may be a future value. But nevertheless, it’s just a value.
+
+Promises are like tiny, self-contained representations of state. They’re ultimately composable, which means your entire program can be represented by them. In that sense, the observation that Promises are really functional concepts — they’re monads — bears itself out.
+
+- https://blog.getify.com/promises-part-5/
+
 Promises are about making asynchronous code retain most of the lost properties of synchronous code such as flat indentation and one exception channel.
 
 - [Promise Patterns & Anti-Patterns](http://www.datchley.name/promise-patterns-anti-patterns/)

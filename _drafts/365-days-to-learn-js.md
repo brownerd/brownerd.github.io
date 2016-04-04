@@ -3374,7 +3374,7 @@ Read/Watched:
 
 ---
 
-## DAY 114 - April 1 - Firday()
+## DAY 114 - April 1 - Friday()
 
 
 Expected:
@@ -3391,15 +3391,58 @@ Read/Watched:
 - [The decorator pattern in JavaScript using closures, monkey patching, prototypes, proxies and 'middleware'](http://nickmeldrum.com/blog/decorators-in-javascript-using-monkey-patching-closures-prototypes-proxies-and-middleware)
 - [How Google May Analyze and Evaluate the Quality, Value, & Rank-Worthiness of Your Content - Whiteboard Friday](https://moz.com/blog/google-may-analyze-evaluate-quality-content-whiteboard-friday)
 - [Docco: Quick JavaScript Documentation](https://davidwalsh.name/javascript-documentation)
-
+- [Asynchronous.me](https://www.thibaudlopez.net/xhr/generator/1.3/)
+- [ES 5-6-7: From Callbacks to Promises to Generators to Async/await](https://medium.com/@rdsubhas/es6-from-callbacks-to-promises-to-generators-87f1c0cd8f2e#.i1npicsqj) Trying to grep this stuff. ugh.
+- [Comparing asynquence vs bluebird vs co vs httprequest vs lazy.js](https://npmcompare.com/compare/asynquence,bluebird,co,httprequest,lazy.js)
+- [Bluebird: promisify xhr request](http://codereview.stackexchange.com/questions/112304/bluebird-promisify-xhr-request)
+- [Bluebird Cancellation](http://bluebirdjs.com/docs/api/cancellation.html)
 
 
 ---
 
 
 
-## DAY 115 - DATE - TITLE
-## DAY 116 - DATE - TITLE
+## DAY 115 - April 2 - Saturday(Fam day)
+
+Expected:
+- Figure out Generators with promises with Asynquence
+
+
+Actual:
+- All the above
+
+Read/Watched:
+- [JavaScript Rounding Recipes](http://thenewcode.com/895/JavaScript-Rounding-Recipes)
+- [Founder Mantras](http://foundermantras.com/)
+- [MapHub beta](https://maphub.net/)
+- [Asynchronous APIs Using the Fetch API and ES6 Generators](http://www.sitepoint.com/asynchronous-apis-using-fetch-api-es6-generators/)
+
+
+
+---
+
+## DAY 116 - April 3 - Sunday(Fam day, Asynq)
+
+Expected:
+- Figure out Generators with promisies with Asynquence
+
+
+Actual:
+- All the above
+
+Read/Watched:
+- [Promises: The Sync Problem (part 1)](https://blog.getify.com/promises-part-1/)
+- [Promises: The Inversion Problem (part 2)](https://blog.getify.com/promises-part-2/)
+- [Promises: The Trust Problem (part 3)](https://blog.getify.com/promises-part-3/)
+- [Promises: The Extension Problem (part 4)](https://blog.getify.com/promises-part-4/)
+- [Promises: The LEGO problem (part 5)](https://blog.getify.com/promises-part-5/)
+- [asynquence: The Promises You Don’t Know Yet (Part 1)](https://davidwalsh.name/asynquence-part-1)
+- []
+
+
+---
+
+
 ## DAY 117 - DATE - TITLE
 ## DAY 118 - DATE - TITLE
 ## DAY 119 - DATE - TITLE
@@ -3427,6 +3470,17 @@ Read/Watched:
 ## DAY 141 - DATE - TITLE
 ## DAY 142 - DATE - TITLE
 ## DAY 143 - DATE - TITLE
+
+
+---
+
+### April in review
+
+- Learning this Async stuff has been tough
+- Trying to pick up Asynquence
+
+---
+
 ## DAY 144 - DATE - TITLE
 ## DAY 145 - DATE - TITLE
 ## DAY 146 - DATE - TITLE
