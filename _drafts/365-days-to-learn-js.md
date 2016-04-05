@@ -3424,7 +3424,7 @@ Read/Watched:
 ## DAY 116 - April 3 - Sunday(Fam day, Asynq)
 
 Expected:
-- Figure out Generators with promisies with Asynquence
+- Figure out Generators with promises with Asynquence
 
 
 Actual:
@@ -3443,8 +3443,53 @@ Read/Watched:
 ---
 
 
-## DAY 117 - DATE - TITLE
-## DAY 118 - DATE - TITLE
+## DAY 117 - April 4 - Monday(Advanced SVG, Intro to Node)
+
+
+Expected:
+- Figure out Generators with promises with Asynquence
+
+
+Actual:
+- Advanced SVG
+- Intro to Node
+- talked with Carl
+
+Read/Watched:
+-[How to Achieve 100/100 with the Google Page Speed Test Tool](https://moz.com/blog/how-to-achieve-100100-with-the-google-page-speed-test-tool)
+- [What are CSS Modules and why do we need them?](https://css-tricks.com/css-modules-part-1-need/)
+- [Advanced SVG Animation](https://frontendmasters.com/courses/svg-animation/)
+- [Real-Time Web with Node.js](https://frontendmasters.com/courses/realtime-html5-nodejs/)
+- [Location Detection](http://locationdetection.mobi/)
+
+
+---
+
+
+## DAY 118 - April 5 - Tuesday(Node Realtime HTML5, Raji Sick, Callbacks)
+
+
+Expected:
+- Node Realtime HTML5
+- Figure out Generators with promises with Asynquence
+
+
+Actual:
+- All the above
+
+Read/Watched:
+- [console.time & console.timeEnd](https://davidwalsh.name/console-time)
+- [HTTP/2 and You](http://javascriptplayground.com/blog/2016/03/http2-and-you/)
+- [Real-Time Web with Node.js](https://frontendmasters.com/courses/realtime-html5-nodejs/)
+- [Understand JavaScript Callback Functions and Use Them](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
+- [Understanding callback functions in Javascript](http://recurial.com/programming/understanding-callback-functions-in-javascript/)
+- [:+1: UNDERSTANDING JAVASCRIPT CALLBACKS](http://cwbuecheler.com/web/tutorials/2013/javascript-callbacks/)
+- [:+1: Callback Functions in JavaScript](http://www.impressivewebs.com/callback-functions-javascript/)
+
+
+---
+
+
 ## DAY 119 - DATE - TITLE
 ## DAY 120 - DATE - TITLE
 ## DAY 121 - DATE - TITLE
@@ -3728,6 +3773,8 @@ Revisit:
 
 
 Ideas:
+
+- what if we have web presentations like scientists and we were amped about everything we did and is possible?
 
 - Daily Reading list maker, Desktop app or Chrome plugin. Select Article title, press hotkey, it writes selected text and page url to markdown doc. Or does it push it to Firebase?
 
