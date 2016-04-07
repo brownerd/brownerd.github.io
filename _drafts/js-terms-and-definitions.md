@@ -86,6 +86,14 @@ Excerpt From: drboolean. “mostly-adequate-guide.” iBooks.
 
 ---
 
+## Debouncing and Throttling
+
+Debounce and throttle are two similar (but different!) techniques to control how many times we allow a function to be executed over time.
+
+- [:+1: Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
+
+---
+
 ## Declarative
 
 Tell the compiler "what" to do instead of "how" to do it.

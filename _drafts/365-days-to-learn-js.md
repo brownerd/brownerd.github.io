@@ -3496,7 +3496,6 @@ Read/Watched:
 
 ## DAY 119 - April 6 - Wednesday(AfrikyLolo, Node API)
 
-
 Expected:
 - Node Realtime HTML5
 - Figure out Generators with promises with Asynquence
@@ -3509,14 +3508,37 @@ Read/Watched:
 - [#210: WITH TOM GREEVER AND CHRISTY ENNIS-KLOOTE](http://shoptalkshow.com/episodes/210-tom-greever-christy-ennis-kloote/)
 - [Learn to Code: 13 Tips that Could Save You Years of Effort](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.m3yc2a4sz)
 - [Travis Neilson Interview: Working at Google, challenges, skills, teamwork, and staying inspired](https://www.youtube.com/watch?v=KOvKbxt3IBc&ebc=ANyPxKqwyNdF-mAa7ID4E0_MfCW7WWled0MHVmfknpxvRQPe4ccAPXM1ai0zO7r2jAO4V0plyXzWsw7dTWwEb_gxfvlQUsfQcQ)
+- [:+1: API Design with Node.js using Express](https://frontendmasters.com/courses/api-design-nodejs/)
 - [restify](http://restify.com/)
+- [Immutable Data and Functional JavaScript with Mori](http://www.sitepoint.com/immutable-data-functional-javascript-mori/)
+- [:+1: Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
+- [New Report Reveals How 931 Web Development Agencies Collaborate with Clients](https://scotch.io/bar-talk/new-report-reveals-how-931-web-development-agencies-collaborate-with-clients)
+- [React Authentication is Easy with Auth0](https://davidwalsh.name/react-authentication)
+- [Six Essential Photoshop Plugins](http://mediatemple.net/blog/news/six-essential-photoshop-plugins/)
+
+---
+
+
+## DAY 120 - April 7 - Thursday(DevLunch, NODE, AfrikyLolo)
+
+Expected:
+- Node Realtime HTML5
+- Figure out Generators with promises with Asynquence
+
+
+Actual:
+- All the above
+
+Read/Watched:
+- [API Design with Node.js using Express](https://frontendmasters.com/courses/api-design-nodejs/)
+
+
+
 
 
 ---
 
 
-
-## DAY 120 - DATE - TITLE
 ## DAY 121 - DATE - TITLE
 ## DAY 122 - DATE - TITLE
 ## DAY 123 - DATE - TITLE
