@@ -138,6 +138,25 @@ Encapsulation is about hiding implementation details
 
 ---
 
+## Events
+
+
+
+
+---
+
+## Event-driven programming
+Event-driven programming is a programming paradigm in which the flow of the program is determined by events such as user actions (mouse clicks, key presses), sensor outputs, or messages from other programs/threads.
+
+In practice, it means that applications act on events.
+
+- [Node Hero: Understanding Async Programming in Node.js](https://blog.risingstack.com/node-hero-async-programming-in-node-js/)
+
+
+
+
+---
+
 ## Explicit
 
 It's obvious from the code that you're doing it. (- Kyle Simpson)
@@ -491,6 +510,11 @@ Model: Represents domain-specific knowledge and data
 
 
 ## Node
+
+Nodejs is basically a way to run js outside the context of  the browser. Powered by V8. We can use node for many things like tooling and servers.
+
+- Scott Moss, FrontEndMasters (API design with node js)
+
 
 The main idea of Node.js: use non-blocking, event-driven I/O to remain lightweight and efficient in the face of data-intensive real-time applications that run across distributed devices.
 

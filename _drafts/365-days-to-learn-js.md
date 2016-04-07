@@ -3486,11 +3486,36 @@ Read/Watched:
 - [:+1: UNDERSTANDING JAVASCRIPT CALLBACKS](http://cwbuecheler.com/web/tutorials/2013/javascript-callbacks/)
 - [:+1: Callback Functions in JavaScript](http://www.impressivewebs.com/callback-functions-javascript/)
 
+- [Node Hero: Understanding Async Programming in Node.js](https://blog.risingstack.com/node-hero-async-programming-in-node-js/)
+- [Node.js Stream Playground](http://nodestreams.com/)
+
+
 
 ---
 
 
-## DAY 119 - DATE - TITLE
+## DAY 119 - April 6 - Wednesday(AfrikyLolo, Node API)
+
+
+Expected:
+- Node Realtime HTML5
+- Figure out Generators with promises with Asynquence
+
+
+Actual:
+- All the above
+
+Read/Watched:
+- [#210: WITH TOM GREEVER AND CHRISTY ENNIS-KLOOTE](http://shoptalkshow.com/episodes/210-tom-greever-christy-ennis-kloote/)
+- [Learn to Code: 13 Tips that Could Save You Years of Effort](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.m3yc2a4sz)
+- [Travis Neilson Interview: Working at Google, challenges, skills, teamwork, and staying inspired](https://www.youtube.com/watch?v=KOvKbxt3IBc&ebc=ANyPxKqwyNdF-mAa7ID4E0_MfCW7WWled0MHVmfknpxvRQPe4ccAPXM1ai0zO7r2jAO4V0plyXzWsw7dTWwEb_gxfvlQUsfQcQ)
+- [restify](http://restify.com/)
+
+
+---
+
+
+
 ## DAY 120 - DATE - TITLE
 ## DAY 121 - DATE - TITLE
 ## DAY 122 - DATE - TITLE
