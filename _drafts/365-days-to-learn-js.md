@@ -3531,16 +3531,65 @@ Actual:
 
 Read/Watched:
 - [API Design with Node.js using Express](https://frontendmasters.com/courses/api-design-nodejs/)
-
-
+- [:+1: httpie](https://github.com/jkbrzt/httpie)
+- [fetch API](https://davidwalsh.name/fetch)
 
 
 
 ---
 
 
-## DAY 121 - DATE - TITLE
-## DAY 122 - DATE - TITLE
+## DAY 121 - April 8 - Friday(NODE, FEM, Judson for lunch)
+
+Expected:
+- Node Realtime HTML5
+- Figure out Generators with promises with Asynquence, thunks and fetch
+
+
+Actual:
+- All the above
+
+Read/Watched:
+- [75: Best Practices Series: JavaScript](https://www.youtube.com/watch?v=5eHVqOdAuEY)
+- [Firecrasker Press](http://firecrackerpress.com/)
+- [Totally Tooling Tips: Service Worker Toolbox (S3 Mini Tip #2)](https://www.youtube.com/watch?v=gfHXekzD7p0&feature=em-subs_digest)
+- [083: Feature Requests](https://blog.codepen.io/2016/03/29/083-feature-requests/)
+- [Which Tech Should You Learn Now?](https://medium.com/javascript-scene/which-tech-should-you-learn-now-5705748c1b14#.dymq59c3t)
+- [4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them](https://auth0.com/blog/2016/01/26/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/)
+- [The Heads of State](http://theheadsofstate.com/)
+- [Web Development Reading List #132: The Challenges In Our Field, Debouncing And The Contain CSS Property](https://www.smashingmagazine.com/2016/04/web-development-reading-list-132/)
+- [Gidole](https://gidole.github.io/) Open source modern din
+- [CSS containment](https://justmarkup.com/log/2016/04/css-containment/)
+- [Next Rembrandt](https://www.nextrembrandt.com/)
+- [A Simple Web Developer’s Guide To Color](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/)
+- [Pure CSS Games with Counter-Increment](http://una.im/css-games/#💁)
+- [atrament.js](https://github.com/jakubfiala/atrament.js)
+- [A debugging thought process](https://remysharp.com/2016/04/04/a-debugging-thought-process)
+- [Almost complete guide to flexbox (without flexbox)](http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)
+- [AMAZING ACCESSIBILITY NEWS ALL AROUND…](https://www.christianheilmann.com/2016/04/08/amazing-accessibility-news-all-around/)
+
+
+
+---
+
+
+## DAY 122 - April 9 - Saturday(Fam day)
+
+Expected:
+- Node Realtime HTML5
+- Figure out Generators with promises with Asynquence
+
+
+Actual:
+- All the above
+
+Read/Watched:
+- [GitLab pages](https://pages.gitlab.io/)
+
+
+---
+
+
 ## DAY 123 - DATE - TITLE
 ## DAY 124 - DATE - TITLE
 ## DAY 125 - DATE - TITLE
@@ -3570,6 +3619,8 @@ Read/Watched:
 
 - Learning this Async stuff has been tough
 - Trying to pick up Asynquence
+- so, i'm loving how ALL this JS stuff is starting to make sense. Node.js is starting to make sense now. However, I'm now realizing how long it's going to take to get proficient with all these tools, frameworks and best practices.
+
 
 ---
 
@@ -3815,7 +3866,7 @@ Revisit:
 - [90s cursor effects](https://github.com/tholman/90s-cursor-effects/tree/master/js)
 - [Advanced Search Form](https://codyhouse.co/gem/advanced-search-form/)
 - [JavaScript by Examples](https://github.com/bmkmanoj/js-by-examples)
-
+- [atrament.js](https://github.com/jakubfiala/atrament.js)
 
 
 

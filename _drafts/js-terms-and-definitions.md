@@ -237,6 +237,12 @@ values that evaluate to false
 
 ---
 
+## Fetch
+
+
+
+---
+
 ## for loop
 
 Take 3 parts
@@ -466,6 +472,19 @@ A tool for iteration that requires three parts:
 ## .map()
 
 .map() transforms an object, and returns a new transfromed object
+
+---
+
+## Memory leaks
+
+In essence, memory leaks can be defined as memory that is not required by an application anymore that for some reason is not returned to the operating system or the pool of free memory.
+
+Leaks are the cause of whole class of problems: slowdowns, crashes, high latency, and even problems with other applications.
+
+The main cause for leaks in garbage collected languages are unwanted references.
+
+https://auth0.com/blog/2016/01/26/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/
+
 
 ---
 
