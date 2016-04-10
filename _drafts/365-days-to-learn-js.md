@@ -3585,12 +3585,30 @@ Actual:
 
 Read/Watched:
 - [GitLab pages](https://pages.gitlab.io/)
+- [Colorful Digit Clock](http://codepen.io/xgad/pen/YwgyQj?editors=0010)
+- [ES6+ code coverage with Babel plugin](http://dev.topheman.com/es6-code-coverage-with-babel-plugin/)
+- [Thoughts On Thunks](https://blog.getify.com/)
 
 
 ---
 
 
-## DAY 123 - DATE - TITLE
+## DAY 123 - April 10 - Sunday(Fam day)
+
+Expected:
+- Node Realtime HTML5
+- Figure out Generators with promises with Asynquence
+
+
+Actual:
+- All the above
+
+Read/Watched:
+- [ES6 module loading: More complicated than you think](https://www.nczonline.net/blog/2016/04/es6-module-loading-more-complicated-than-you-think/)
+
+
+---
+
 ## DAY 124 - DATE - TITLE
 ## DAY 125 - DATE - TITLE
 ## DAY 126 - DATE - TITLE
