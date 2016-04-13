@@ -3593,11 +3593,10 @@ Read/Watched:
 ---
 
 
-## DAY 123 - April 10 - Sunday(Fam day)
+## DAY 123 - April 10 - Sunday(Fam day, Node API)
 
 Expected:
-- Node Realtime HTML5
-- Figure out Generators with promises with Asynquence
+- Node API
 
 
 Actual:
@@ -3605,13 +3604,96 @@ Actual:
 
 Read/Watched:
 - [ES6 module loading: More complicated than you think](https://www.nczonline.net/blog/2016/04/es6-module-loading-more-complicated-than-you-think/)
+- [Promises](https://developers.google.com/web/fundamentals/primers/promises/)
+- [What is Firebase's comparison with Parse and MongoDB?](https://www.quora.com/What-is-Firebases-comparison-with-Parse-and-MongoDB)
+- [Cloudboost](https://www.cloudboost.io/)
+
 
 
 ---
 
-## DAY 124 - DATE - TITLE
-## DAY 125 - DATE - TITLE
-## DAY 126 - DATE - TITLE
+## DAY 124 - April 11 - Monday(MongoDB)
+
+Expected:
+- Mongo DB Tut
+
+
+Actual:
+- All the above
+
+Read/Watched:
+- [The magical marvels of MongoDB](http://campus.codeschool.com/courses/the-magical-marvels-of-mongodb/level/2/section/2/video/1)
+- [Fast code is NOT important - FunFunFunction #27](https://www.youtube.com/watch?v=PhUb7y9WZGs&list=TL6JxbTImrCxAxMTA0MjAxNg)
+- [pagecloud](https://pagecloud.com/)
+- [Better Node with ES6, Pt. I](https://scotch.io/tutorials/better-node-with-es6-pt-i)
+- [Static Sites for JavaScript Developers - Fluent 2016](https://www.youtube.com/watch?v=sMLs0o-LqQY)
+- [NativeScript](https://www.nativescript.org/)
+- [Docpad](http://docpad.org/)
+- [211: RAPIDFIRE 58](http://shoptalkshow.com/episodes/211-rapidfire-58/)
+- [CODE GENIUS - Cascading Shit Show by Jacob Thornton](https://www.youtube.com/watch?v=iniwPUEbPUM)
+
+
+---
+
+
+## DAY 125 - April 12 - Tuesday(NODE API, Caleb)
+
+
+Expected:
+- Node API
+- Lunch with Caleb
+
+
+Actual:
+- All the above
+
+Read/Watched:
+- [CODE GENIUS - Cascading Shit Show by Jacob Thornton](https://www.youtube.com/watch?v=iniwPUEbPUM)
+- [CODE GENIUS - Image Magic by James Somers](https://www.youtube.com/watch?v=hr42JjCRM-0&ebc=ANyPxKqGdkLtGGWW843F0EkhjZAnkFp0YvCD_AmX16ShLzrqDyyxe8dx5kcoUV7soKrXPdKBOzxmrOPZpd41WdZ8HSBWc2RRYQ)
+- [CODE GENIUS - 5 Minute Physics by David DeSandro](https://www.youtube.com/watch?v=n6FKT-KafRk&ebc=ANyPxKo1I5fd8mFWBG1722d0MqcH2cD_7l1jvpwPATcxqQJEKFLypIVywoyLdx6L-D9jlsZJfviUre7JNm2jvWgO4fNfNAyNaA)
+- [CODE GENIUS - Genius API Launch by John Crepezzi](https://www.youtube.com/watch?v=-TgXQQQdzWY)
+- [CODE GENIUS - Working with Minified JavaScript by John Crepezzi](https://www.youtube.com/watch?v=SuFNR7-XjKI)
+- [CODE GENIUS - Drawing Lines with Bresenham's Line Algorithm by Jenn Schiffer](https://www.youtube.com/watch?v=zytBpLlSHms)
+- [CODE GENIUS - Live-Coding a Server that Adds Genius Annotations to Any Website by Mat Brown](https://www.youtube.com/watch?v=5WuPFUoqxbI)
+- [Jenn Schiffer](http://jennmoney.biz/)
+- [Let’s Learn ES2015](https://css-tricks.com/lets-learn-es2015/)
+- [How to Make the SEO Case to Small Businesses - Whiteboard Friday](https://moz.com/blog/make-seo-case-small-businesses-whiteboard-friday)
+- [Is It A Good Idea? Things To Consider Before You MVP](http://ilikekillnerds.com/2016/04/good-idea-things-consider-mvp/)
+- [Are Progressive Web Apps the Future?](http://developer.telerik.com/featured/are-progressive-web-apps-future/)
+- [iCheck](http://icheck.fronteed.com/#features)
+- [Develop Quickly and Painlessly with lite-server](https://scotch.io/tutorials/develop-quickly-and-painlessly-with-lite-server)
+- [Understanding JavaScript Modules: Bundling & Transpiling](http://www.sitepoint.com/javascript-modules-bundling-transpiling/)
+- [085: Pagination](https://blog.codepen.io/2016/04/12/085-pagination/)
+- [100,000 Stars](http://stars.chromeexperiments.com/)
+
+
+
+
+
+
+
+---
+
+
+## DAY 126 - April 13 - Wednesday(Afriky Lolo, Duct cleaning and Cards game)
+
+
+Expected:
+- Afriky Lolo Photos
+- Duct cleaning
+- Cards game
+
+
+Actual:
+- All the above
+
+Read/Watched:
+
+
+
+---
+
+
 ## DAY 127 - DATE - TITLE
 ## DAY 128 - DATE - TITLE
 ## DAY 129 - DATE - TITLE
@@ -3889,6 +3971,9 @@ Revisit:
 
 
 Ideas:
+
+
+- Make a Notes app for devs. I love the MiniNotes app, but I hate that I can't do code formatting with it. It would be awesome to do one that just converts markdown
 
 - what if we have web presentations like scientists and we were amped about everything we did and is possible?
 

@@ -697,6 +697,16 @@ A promise is an object that encapsulates the result of an asynchronous operation
 - [ES6 Promises are here!](http://blog.shinetech.com/2015/05/08/es6-promises-are-here/)
 
 
+A promise can be:
+1. fulfilled - The action relating to the promise succeeded
+2. rejected - The action relating to the promise failed
+3. pending - Hasn’t fulfilled or rejected yet
+4. settled - Has fulfilled or rejected
+
+- [Promises](https://developers.google.com/web/fundamentals/primers/promises/)
+
+
+
 ---
 
 ## Pure-function
