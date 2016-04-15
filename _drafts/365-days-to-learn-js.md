@@ -3688,13 +3688,36 @@ Actual:
 - All the above
 
 Read/Watched:
+- [Renaming jade -> pug](https://github.com/pugjs/pug/issues/2184)
+- [Atom 1.7 and 1.8 beta](http://blog.atom.io/2016/04/12/atom-1-7-and-1-8-beta.html)
+- [Jade (now Pug) nuggets](https://glebbahmutov.com/blog/jade-pug-tips/)
+
 
 
 
 ---
 
 
-## DAY 127 - DATE - TITLE
+## DAY 127 - April 14 - Thursday(JSONP, RXjs)
+
+Expected:
+- Afriky Lolo Photos
+- Duct cleaning
+- Cards game
+
+
+Actual:
+- All the above
+
+Read/Watched:
+- [Rx.DOM.Request.jsonpRequest(url | settings)](https://xgrommx.github.io/rx-book/content/rxjs_bindings/dom/jsonp/jsonp_request.html)
+- [RxJS-DOM 7.0 - HTML DOM Bindings for the Reactive Extensions for JavaScript](https://github.com/Reactive-Extensions/RxJS-DOM)
+- [Asynchronous Programming in JavaScript (with Rx.js Observables)](https://frontendmasters.com/courses/asynchronous-javascript/)
+- [WP REST API: Internals and Customization](http://code.tutsplus.com/tutorials/wp-rest-api-internals-and-customization--cms-24945)
+- [polygoat](https://github.com/sonnyp/polygoat) Make a JavaScript function support both promise and callback styles.
+
+
+
 ## DAY 128 - DATE - TITLE
 ## DAY 129 - DATE - TITLE
 ## DAY 130 - DATE - TITLE
