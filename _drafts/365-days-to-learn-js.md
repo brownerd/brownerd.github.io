@@ -3702,8 +3702,7 @@ Read/Watched:
 
 Expected:
 - Afriky Lolo Photos
-- Duct cleaning
-- Cards game
+- FCC wikipedia FEM Async tut
 
 
 Actual:
@@ -3717,9 +3716,50 @@ Read/Watched:
 - [polygoat](https://github.com/sonnyp/polygoat) Make a JavaScript function support both promise and callback styles.
 
 
+---
 
-## DAY 128 - DATE - TITLE
-## DAY 129 - DATE - TITLE
+
+## DAY 128 - April 15 - Friday(Afriky lolo, FCC FEM, Lola)
+
+Expected:
+- Afriky Lolo Photos
+- Duct cleaning
+- Cards game
+
+
+Actual:
+- All the above
+
+Read/Watched:
+- [Linking Internally and Externally from Your Site - Dangers, Opportunities, Risk and Reward - Whiteboard Friday]
+(https://moz.com/blog/linking-internally-externally-from-your-site-whiteboard-friday)
+- [Unnatural Outbound Link Manual Actions from Google](http://www.thesempost.com/new-outbound-link-manual-action-sent-by-google/)
+- [:+1: React in 15ish minutes - Reactjs Tutorial - [Part 1 of 3] - Codepen.io](https://www.youtube.com/watch?v=PGUMRVowdv8)
+- [Why React Native is Better than Native for Your Mobile Application](https://www.youtube.com/watch?v=QQRDcYsN4xs&ebc=ANyPxKrjrcXR34IZeb5wJpdY974qSKtQTRN6YjGuw9GJMtf80jV05JKsm3HRnRhwQ4BW8BjFmmB6n3m8n4albHVTW6DXyxflYA)
+- [#13 CSS Magic with :empty, SnappySnippet and the 1X commandments of FE](http://codepen.io/ComeonCreative/post/13-css-magic-with-empty-snappysnippet-and-the-1x-commandments-of-fe)
+- [Just a simple checkbox](http://codepen.io/pamdayne/pen/vGRqLM)
+- [I, Website](https://css-tricks.com/i-website/)
+- [CDNs: Netlify's Secret Sauce](https://www.netlify.com/blog)
+- [Fluid Checkboxes](http://codepen.io/BjornRombaut/pen/pyLMxY)
+- [Freebies](https://www.market-me.fr/freebies/)
+
+---
+
+## DAY 129 - April 16 - Saturday(Amir school, )
+
+
+- [Tinker With a Neural Network](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.05667&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification)
+- [Fullstury](https://fullstory.com/)
+- [Classic Programmer Paintings](http://classicprogrammerpaintings.tumblr.com/)
+- [Automate your UX Design workflow with Framer.js, Gulp and Sketch](https://blog.prototypr.io/automate-your-ux-design-workflow-with-framer-js-gulp-and-sketch-cc2e8484e4b7#.f4w2oktfp)
+- [Hide menus when scrolling down. Vanilla Javascript](http://codepen.io/joacimnilsson/pen/KzoYjL?editors=0010)
+
+
+
+---
+
+
+
 ## DAY 130 - DATE - TITLE
 ## DAY 131 - DATE - TITLE
 ## DAY 132 - DATE - TITLE
