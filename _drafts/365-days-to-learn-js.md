@@ -3723,8 +3723,8 @@ Read/Watched:
 
 Expected:
 - Afriky Lolo Photos
-- Duct cleaning
-- Cards game
+- Wikipedia challenge
+- Lola comes over
 
 
 Actual:
@@ -3745,23 +3745,71 @@ Read/Watched:
 
 ---
 
-## DAY 129 - April 16 - Saturday(Amir school, )
+## DAY 129 - April 16 - Saturday(Fam day, Amir's school, rxjs )
+
+Expected:
+- Amir's school meeting
+- rxjs
 
 
+Actual:
+- All the above
+
+Read/Watched:
 - [Tinker With a Neural Network](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.05667&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification)
 - [Fullstury](https://fullstory.com/)
 - [Classic Programmer Paintings](http://classicprogrammerpaintings.tumblr.com/)
 - [Automate your UX Design workflow with Framer.js, Gulp and Sketch](https://blog.prototypr.io/automate-your-ux-design-workflow-with-framer-js-gulp-and-sketch-cc2e8484e4b7#.f4w2oktfp)
 - [Hide menus when scrolling down. Vanilla Javascript](http://codepen.io/joacimnilsson/pen/KzoYjL?editors=0010)
+- [:+1: Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
+- [encodeURIComponent()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent)
+- [The Reactive Extensions for JavaScript Bindings for DOM (RxJS-DOM) Examples](https://github.com/Reactive-Extensions/RxJS-DOM/tree/master/examples)
 
 
 
 ---
 
+## DAY 130 - April 17 - Sunday(Fam day)
+
+Expected:
+- grits
+- Wikipedia challenge
+- Fam day
 
 
-## DAY 130 - DATE - TITLE
-## DAY 131 - DATE - TITLE
+Actual:
+- All the above
+
+Read/Watched:
+- [RxVision](http://jaredforsyth.com/rxvision/)
+
+
+
+
+---
+
+## DAY 131 - April 18 - Monday()
+
+
+Expected:
+- Afriky Lolo Photos
+- Wikipedia challenge
+- Lola comes over
+
+
+Actual:
+- All the above
+
+Read/Watched:
+- [UXMyths](http://uxmyths.com/)
+- [Misused mobile UX patterns](https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570#.4euyt5lv9)
+- [Visualizing Reactive Streams: Hot and Cold Observables](https://jaredforsyth.com/2015/03/06/visualizing-reactive-streams-hot-and-cold/)
+- [Browse the Introduction to Reactive Programming course.](https://egghead.io/series/introduction-to-reactive-programming)
+- [:+1: Jake the Dog Gives a Piece of Worldly Advice](https://www.youtube.com/watch?v=DN43sCyEanA)
+
+
+---
+
 ## DAY 132 - DATE - TITLE
 ## DAY 133 - DATE - TITLE
 ## DAY 134 - DATE - TITLE
@@ -3783,6 +3831,8 @@ Read/Watched:
 - Learning this Async stuff has been tough
 - Trying to pick up Asynquence
 - so, i'm loving how ALL this JS stuff is starting to make sense. Node.js is starting to make sense now. However, I'm now realizing how long it's going to take to get proficient with all these tools, frameworks and best practices.
+- Started looking into RxJS, and it looks really awesome!
+- Mike started working with me this month. More on that later.
 
 
 ---

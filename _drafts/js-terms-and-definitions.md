@@ -133,9 +133,21 @@ Encapsulation is about hiding implementation details
 - http://blog.jenkster.com/2015/12/what-is-functional-programming.html
 
 
+---
 
+## encodeURIComponent
 
+- [encodeURIComponent()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent)
 
+```javascript
+// encodeURIComponent escapes all characters except the following: alphabetic, decimal digits, - _ . ! ~ * ' ( )
+
+var x = encodeURIComponent('hello there');
+console.log(x);
+
+// hello%20there
+// notice that the space gets replaced with %20
+```
 
 ---
 
@@ -446,6 +458,16 @@ A pull Mechanism ( - Jafar, Front End Masters Asynchronous JS lecture )
 A lambda expression is a delegate - Erik Meijer
 Lambda expressions give you closures - Erik Meijer
 With Lambda expressions you can capture things in the outer scope. Lambdas are about closures - Erik Meijer
+
+---
+
+## Lazy (computation)
+
+I don't know. Computation doesn't happen until it's needed?
+
+
+
+
 
 ---
 
