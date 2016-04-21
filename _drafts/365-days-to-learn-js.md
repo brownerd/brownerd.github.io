@@ -3344,7 +3344,7 @@ Read/Watched:
 ## DAY 113 - March 31 - Thrusday(Pick up car, FEM, Long talk with moms)
 
 Expected:
-- Rethinking Async
+- Rethnpminking Async
 
 
 Actual:
@@ -3782,36 +3782,98 @@ Actual:
 
 Read/Watched:
 - [RxVision](http://jaredforsyth.com/rxvision/)
-
-
-
-
----
-
-## DAY 131 - April 18 - Monday()
-
-
-Expected:
-- Afriky Lolo Photos
-- Wikipedia challenge
-- Lola comes over
-
-
-Actual:
-- All the above
-
-Read/Watched:
 - [UXMyths](http://uxmyths.com/)
 - [Misused mobile UX patterns](https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570#.4euyt5lv9)
 - [Visualizing Reactive Streams: Hot and Cold Observables](https://jaredforsyth.com/2015/03/06/visualizing-reactive-streams-hot-and-cold/)
 - [Browse the Introduction to Reactive Programming course.](https://egghead.io/series/introduction-to-reactive-programming)
 - [:+1: Jake the Dog Gives a Piece of Worldly Advice](https://www.youtube.com/watch?v=DN43sCyEanA)
+- [RxJS Beyond the Basics: Creating Observables from scratch](https://egghead.io/series/rxjs-beyond-the-basics-creating-observables-from-scratch)
+
 
 
 ---
 
-## DAY 132 - DATE - TITLE
-## DAY 133 - DATE - TITLE
+## DAY 131 - April 18 - Monday(Ty, RXjs, Cyclejs,)
+
+Expected:
+- Afriky Lolo Photos
+- Wikipedia challenge
+- Rxjs
+
+
+Actual:
+- Ty
+- Cyclejs
+- Rxjs
+
+Read/Watched:
+- [:+1: RxJS Beyond the Basics: Creating Observables from scratch](https://egghead.io/series/rxjs-beyond-the-basics-creating-observables-from-scratch)
+- [:+1: Step-by-Step Async JavaScript with RxJS](https://egghead.io/series/step-by-step-async-javascript-with-rxjs)
+- [Browse the Cycle.js Fundamentals course.](https://egghead.io/series/cycle-js-fundamentals)
+- [The Ever-Evolving Spectrum of the Web](https://css-tricks.com/ever-evolving-spectrum-web/)
+- [uploadcare](https://uploadcare.com/)
+
+---
+
+## DAY 132 - April 19 - Tuesday(Afriky lolo, lunch with matt)
+
+Expected:
+- Afriky Lolo Photos
+- Wikipedia challenge
+- Rxjs
+
+
+Actual:
+- all the above
+
+Read/Watched:
+- [Quick Tip: Get to Know the CSS Object Fit and Position Properties](http://tutorialzine.com/2016/04/quick-tip-get-to-know-css-object-fit-position/)
+- [buble](https://gitlab.com/Rich-Harris/buble)
+- [Kick-Start WordPress Development With Twig: Getting Started](http://code.tutsplus.com/articles/kick-start-wordpress-development-with-twig-getting-started--cms-25690)
+- [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
+- [MongoDB and MySQL Compared](https://www.mongodb.com/compare/mongodb-mysql)
+- [Catalogs change constantly. That’s an RDBMS nightmare.
+But it’s easy with MongoDB.](https://www.mongodb.com/use-cases/catalog)
+- [Store and serve any type of content,
+build any feature, serve it any way you like.
+From a single database.](https://www.mongodb.com/use-cases/content-management)
+
+
+
+
+
+---
+
+
+## DAY 133 - April 20 - Wednesday(Mike's first day, Afriky Lolo, Teaching)
+
+Expected:
+- Get Mike set up on his computer and start teaching
+- Finish Afriky Lolo images
+- Wikipedia challenge
+- Rxjs
+
+
+Actual:
+- all the above
+
+Read/Watched:
+- [The Way We Build  How rethinking the Airbnb app changed the way we approach design](http://airbnb.design/book-binge/)
+- [Really Good Emails](http://reallygoodemails.com/)
+- [CodePen Chicago: April 2016](http://codepen.io/poopsplat/post/codepen-chicago-april-2016)
+- [Build a Single Page Time Tracking App with Vue.js: Introduction](https://scotch.io/tutorials/build-a-single-page-time-tracking-app-with-vue-js-introduction)
+- [Vue webpack](http://vuejs-templates.github.io/webpack/index.html)
+- [Image Optimization with Cloudinary](https://davidwalsh.name/image-optimization-cloudinary)
+
+
+
+
+---
+
+
+
+
+
 ## DAY 134 - DATE - TITLE
 ## DAY 135 - DATE - TITLE
 ## DAY 136 - DATE - TITLE
