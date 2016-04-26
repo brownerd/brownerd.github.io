@@ -3837,7 +3837,7 @@ But it’s easy with MongoDB.](https://www.mongodb.com/use-cases/catalog)
 - [Store and serve any type of content,
 build any feature, serve it any way you like.
 From a single database.](https://www.mongodb.com/use-cases/content-management)
-
+- [Browse the Cycle.js Fundamentals course.](https://egghead.io/series/cycle-js-fundamentals)
 
 
 
@@ -3851,7 +3851,7 @@ Expected:
 - Get Mike set up on his computer and start teaching
 - Finish Afriky Lolo images
 - Wikipedia challenge
-- Rxjs
+- Rxjs finished
 
 
 Actual:
@@ -3864,21 +3864,149 @@ Read/Watched:
 - [Build a Single Page Time Tracking App with Vue.js: Introduction](https://scotch.io/tutorials/build-a-single-page-time-tracking-app-with-vue-js-introduction)
 - [Vue webpack](http://vuejs-templates.github.io/webpack/index.html)
 - [Image Optimization with Cloudinary](https://davidwalsh.name/image-optimization-cloudinary)
+- [Quick Tip: Function Expressions vs Function Declarations](http://www.sitepoint.com/function-expressions-vs-declarations/)
+- [:+1: hotel](https://github.com/typicode/hotel)
+- [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
+- [Browse the Cycle.js Fundamentals course.](https://egghead.io/series/cycle-js-fundamentals)
+
+
+---
+
+## DAY 134 - April 21 - Thursday(Mike day 2)
+
+Expected:
+- Get Mike set up on his computer and start teaching
+- Finish Afriky Lolo images
+- Wikipedia challenge
+- Rxjs
+
+
+Actual:
+- all the above
+
+Read/Watched:
+- [MySQL vs. MongoDB: Choosing a Data Management Solution](https://www.javacodegeeks.com/2015/07/mysql-vs-mongodb.html)
+- [Introduction to Node: The Fundamentals](https://egghead.io/series/introduction-to-node-the-fundamentals)
+- [Browse all Elm lessons](https://egghead.io/technologies/elm)
+- [Ajax without jQuery](https://web-design-weekly.com/2014/08/18/ajax-without-jquery/)
+- [:+1: Exactly What IS JSONP?](https://cameronspear.com/blog/exactly-what-is-jsonp/)
+
+
+---
+
+## DAY 135 - April 22 - Friday(Prince CodePen, Helped Mike, Mina)
+
+Expected:
+- Help mike with web dev
+- Helped aminah
+- worked on Prince pen
+
+
+Actual:
+- all the above
+
+Read/Watched:
+- [Animated line drawing in SVG](https://jakearchibald.com/2013/animated-line-drawing-svg/)
+- [How SVG Line Animation Works](https://css-tricks.com/svg-line-animation-works/)
+- [Your Own SVG Signature](http://webdesign.tutsplus.com/tutorials/sign-on-the-dotted-line-animating-your-own-svg-signature--cms-23846)
+- [CycleConf](https://glebbahmutov.com/blog/cycle-conf/)
+- [Cycle.js](http://cycle.js.org/)
+
+
+---
+
+## DAY 136 - April 23 - Saturday(Fam day, Ian Baseball, Leave Ember)
+
+
+Expected:
+- Fam day
+- Go to Ians baseball game
+- date night
+- transfer images from Ember to Pixave
+
+
+Actual:
+- all the above
+
+Read/Watched:
+
+
+- [Introduction to p5.js](http://code.tutsplus.com/tutorials/introduction-to-p5js--cms-25665)
+- [Node Hero - Your First Node.js HTTP Server](https://blog.risingstack.com/your-first-node-js-http-server/)
+
+---
+
+## DAY 137 - April 24 - Sunday(Fam day)
+
+Expected:
+- Fam day
+- Crush RSS
+
+
+Actual:
+- all the above
+
+Read/Watched:
+
+- [Flexbox Patterns](http://www.flexboxpatterns.com/home)
+- [Web designers, can you speak web?](https://www.chenhuijing.com/blog/speak-web/#👾)
+- [Styleguide](http://devbridge.github.io/Styleguide/) Living Styleguide Made Easy
+- [Showbox](https://showbox.com/#1)
+- [The Restart Page](http://www.therestartpage.com/)
+- [Priority Queue — Designing Ryanair’s Boarding Pass](https://medium.com/@aonghusdavoren/priority-queue-designing-ryanair-s-boarding-pass-a15895092211#.k1oqzbgpk)
+- [Designing UX Login Form and Process](https://uxplanet.org/designing-ux-login-form-and-process-8b17167ed5b9#.of7l6112i)
+- [:+1: OOUX: A Foundation for Interaction Design](http://alistapart.com/article/ooux-a-foundation-for-interaction-design)
+- [:+1: Web Font Loading Patterns](https://www.bramstein.com/writing/web-font-loading-patterns.html)
+- [:+1: MaintainableCSS](http://maintainablecss.com/)
+- [:+1: Modaal](http://www.humaan.com/modaal/)
+- [:+1: Flexbox Properties Demonstration](http://codepen.io/justd/full/yydezN/)
+- [CSS4 VARIABLES WITH FALLBACKS USING SASS](http://codepen.io/jakealbaugh/post/css4-variables-with-fallbacks-using-sass)
+- [:+1: mockaroo](https://www.mockaroo.com/) realistic data generator
+- [Parsing a CSV File With JavaScript](http://code.tutsplus.com/tutorials/parsing-a-csv-file-with-javascript--cms-25626)
+- [You might not need a CSS framework](https://hacks.mozilla.org/2016/04/you-might-not-need-a-css-framework/)
+- [Color Lisa](http://www.colorlisa.com/)
+- [Designing a Better Notes App](https://medium.com/sketch-app-sources/designing-a-better-notes-app-f082bb165c1#.vioejcj6g)
+- [Finally, CSS In JavaScript! Meet CSSX](https://www.smashingmagazine.com/2016/04/finally-css-javascript-meet-cssx/)
+- [CSSX - CSS in JavaScript](https://github.com/krasimir/cssx)
+- [Should I use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
+- [Introducing the new Framer](https://blog.framerjs.com/)
+- [A Guide to Proper Error Handling in JavaScript](http://www.sitepoint.com/proper-error-handling-javascript/)
+
+
+---
+
+## DAY 138 - April 25 - Monday()
+
+Expected:
+- Crush more articles
+
+
+Actual:
+- all the above
+
+Read/Watched:
+
+- [:+1: Exceptional Exception Handling in JavaScript](http://www.sitepoint.com/exceptional-exception-handling-in-javascript/)
+- [How to Use Environment Variables](https://scotch.io/tutorials/how-to-use-environment-variables)
+- [Writing unit tests for personal projects? - FunFunFunction #29](https://www.youtube.com/watch?v=ib2Pt9_zciA)
+- [Getting Started With Rx.js: A Gentle Introduction](http://www.barbarianmeetscoding.com/blog/2016/04/11/getting-started-with-rx-dot-js/)
+- [:+1: Falcor: One Model Everywhere - Jafar Husain](https://www.youtube.com/watch?v=rahKJCXXWCI)
+- [:+1: Lee Byron - Exploring GraphQL at react-europe 2015](https://www.youtube.com/watch?v=WQLzZf34FJ8)
+- [The New Desktop: Electron, React, & Pixel-Perfect Native-Feeling Experiences - Forward 4 Web Summit](https://www.youtube.com/watch?v=jRPUB-D1Wx0)
+- [86: DDoS - CodePen Blog](https://blog.codepen.io/2016/04/19/86-ddos/)
+- [Extra FP for RxJS](https://glebbahmutov.com/blog/extra-fp-for-rx/) Small functional tips for RxJS
+- [Functional JavaScript interview question](https://glebbahmutov.com/blog/functional-js-interview-question/)
+- [New: Editable Embeds](https://blog.codepen.io/2016/04/25/new-embeds/)
+- [:+1: JavaScript Testing: Unit vs Functional vs Integration Tests](http://www.sitepoint.com/javascript-testing-unit-functional-integration/)
+
+
+
 
 
 
 
 ---
 
-
-
-
-
-## DAY 134 - DATE - TITLE
-## DAY 135 - DATE - TITLE
-## DAY 136 - DATE - TITLE
-## DAY 137 - DATE - TITLE
-## DAY 138 - DATE - TITLE
 ## DAY 139 - DATE - TITLE
 ## DAY 140 - DATE - TITLE
 ## DAY 141 - DATE - TITLE

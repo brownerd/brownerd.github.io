@@ -126,6 +126,14 @@ console.log(imperativeDouble(arr))  // [2, 3, 6]
 ```
 
 ---
+## Dependency Injection
+
+Dependency Injection is a simple solution to inversion of control that involves injecting the dependencies into the components that require them. There are many reasons why this is beneficial to modern web applications.
+
+- [Three D’s of Web Development #3: Dependency Injection](http://developer.telerik.com/featured/three-ds-web-development-3-dependency-injection/)
+
+
+---
 
 ## Encapsulation
 
