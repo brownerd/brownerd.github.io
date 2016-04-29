@@ -3307,7 +3307,7 @@ Actual:
 Read/Watched:
 - [#198: Haskell Programming with Chris Allen and Julie Moronuki](https://changelog.com/198/)
 - [Haskellbook](http://haskellbook.com/)
-- [How to make Multi-Layered Parallax Illustration with CSS & Javascript](https://medium.com/@PatrykZabielski/how-to-make-multi-layered-parallax-illustration-with-css-javascript-2b56883c3f27#.3aqlmuz3z)
+- [How to make Multi-Layered Parallax Illustration with CSS & Javascript](https://medium.com/@PatrykZabielski/how-to-make-multi-layered-parallax-illustration-with-css-javascript-2b56883c3f27#.3aqlmuz3z)Cruch
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 - [Integrating jQuery Chosen with Webpack using imports-loader](http://reactkungfu.com/2015/10/integrating-jquery-chosen-with-webpack-using-imports-loader/)
 - [:+1: Is there any way to git checkout previous branch?](http://stackoverflow.com/questions/7206801/is-there-any-way-to-git-checkout-previous-branch)
@@ -4000,6 +4000,104 @@ Read/Watched:
 - [:+1: JavaScript Testing: Unit vs Functional vs Integration Tests](http://www.sitepoint.com/javascript-testing-unit-functional-integration/)
 
 
+---
+
+## DAY 139 - April 26 - Tuesday (More RSS, Vue tut, OLOO)
+
+Expected:
+- Crush more articles
+
+
+Actual:
+- all the above
+
+Read/Watched:
+- [Build a Single Page Time Tracking App with Vue.js, Part II](https://scotch.io/tutorials/build-a-single-page-time-tracking-app-with-vue-js-part-ii)
+- [Kyle Simpson's OLOO Pattern vs Prototype Design Pattern](http://stackoverflow.com/questions/29788181/kyle-simpsons-oloo-pattern-vs-prototype-design-pattern)
+
+```js
+
+//Constructor Form:
+function Foo() {}
+Foo.prototype.y = 11;
+
+function Bar() {}
+Bar.prototype = Object.create(Foo.prototype);
+Bar.prototype.z = 31;
+
+var x = new Bar();
+x.y + x.z;  // 42
+
+//OLOO Form:
+var FooObj = { y: 11 };
+
+var BarObj = Object.create(FooObj);
+BarObj.z = 31;
+
+var x = Object.create(BarObj);
+x.y + x.z;  // 42
+```
+
+- [class vs OLOO](https://gist.github.com/getify/d0cdddfa4673657a9941)
+- [oloo - Sanity Check: Object Creation Performance](https://blog.getify.com/tag/oloo/)
+- [“*this* & Object Prototypes”: OLOO and pseudo-polymorphic calls #111](https://github.com/getify/You-Dont-Know-JS/issues/111)
+- [NEW KID ON THE BLOCK: THE OLOO PATTERN](http://oscarlodriguez.io/the-oloo-pattern/)
+- [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch2.md)
+---
+
+
+## DAY 140 - April 27 - Wednesday(RSS, YDKJS)
+
+Expected:
+- Crush more articles
+- YDKJS
+
+
+Actual:
+- all the above
+
+Read/Watched:
+
+- [Going Off-the-Shelf: WordPress vs. Craft vs. Drupal vs. Shopify](https://www.viget.com/articles/going-off-the-shelf-your-guide-for-cms-options)
+- [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch2.md)
+- [https://starbnb.co/](https://starbnb.co/)
+- [Going Off-the-Shelf: WordPress vs. Craft vs. Drupal vs. Shopify](https://www.viget.com/articles/going-off-the-shelf-your-guide-for-cms-options)
+- [Want to learn React Native? Start here.](https://www.viget.com/articles/learn-you-a-react-native)
+- [What's new in Node v6?](https://blog.risingstack.com/whats-new-in-node-v6/)
+- [:+1: Mastering The Developer Tools Console](http://blog.teamtreehouse.com/mastering-developer-tools-console)
+- [:+1: Console Tips And Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks)
+- :+1: "Because JavaScript can be used without understanding, the understanding of the language is often never attained." - Kyle Simpson
+- [Visual Regression Testing with CSS Blend Modes](https://css-tricks.com/visual-regression-testing-css-blend-modes/)
+
+
+---
+
+## DAY 141 - April 28 - Thursday(RSS, LIvecodeing, YDKJS)
+
+
+Expected:
+- Crush more articles
+- YDKJS
+- Live coding webcast from CodeAcademy with Mike
+
+
+Actual:
+- all the above
+
+Read/Watched:
+
+- [The LLVM Compiler Infrastructure](http://llvm.org/)
+- [:+1: Being A Developer After 40](https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c#.vf2ws29lb)
+
+Leave REST aside and embrace Socket.io, ZeroMQ, RabbitMQ, Erlang, XMPP
+- [:+1: F*** You, I Quit — Hiring Is Broken](https://medium.com/@evnowandforever/f-you-i-quit-hiring-is-broken-bb8f3a48d324#.cy0a4iit4)
+- [Easily Convert CSS to React Inline Styles](http://staxmanade.com/2016/04/easily-convert-css-to-react-inline-styles/)
+- [CSStoReact](http://staxmanade.com/CssToReact/)
+- [Zero to GraphQL in 30 Minutes – Steven Luscher](https://www.youtube.com/watch?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_29&v=UBGzsb2UkeY)
+- [hack hands](https://hackhands.com/)
+- [RethinkDB](https://www.rethinkdb.com/)
+- [Linear Graphical UI Controls with HTML5, SVG and JavaScript](http://thenewcode.com/1076/Linear-Graphical-UI-Controls-with-HTML5-SVG-and-JavaScript)
+
 
 
 
@@ -4007,9 +4105,7 @@ Read/Watched:
 
 ---
 
-## DAY 139 - DATE - TITLE
-## DAY 140 - DATE - TITLE
-## DAY 141 - DATE - TITLE
+
 ## DAY 142 - DATE - TITLE
 ## DAY 143 - DATE - TITLE
 

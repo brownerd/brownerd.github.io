@@ -36,6 +36,39 @@ An attribute is a property of an object
 
 ---
 
+## automatic/implicit global variable creation
+
+By contrast, if the Engine is performing an LHS look-up and arrives at the top floor (global Scope) without finding it, and if the program is not running in "Strict Mode" [^note-strictmode], then the global Scope will create a new variable of that name in the global scope, and hand it back to Engine.
+
+
+
+
+---
+
+## Block
+
+In JavaScript, a block is defined by wrapping one or more statements inside a curly-brace pair { .. }
+
+**Note**: Unlike most other statements like console.log(amount);, a block statement does not need a semicolon (;) to conclude it.
+
+
+---
+
+## Built-in Types
+
+JavaScript provides a typeof operator that can examine a value and tell you what type it is:
+
+1. string
+2. number
+3. boolean
+4. null and undefined
+5. object
+6. symbol (new to ES6)
+
+
+
+---
+
 ## Category Theory
 
 In category theory, we have something called... a category. It is defined as a collection with the following components:
@@ -55,7 +88,9 @@ Category theory is abstract enough to model many things, but let's apply this to
 
 ## Closure
 
+Closure is when a function is able to remember and access its lexical scope even when that function is executing outside its lexical scope.
 
+- https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/ch5.md
 
 
 
@@ -83,6 +118,13 @@ Forcing a primitive into another primitive. Like turnig a String into a Number.
 ```
 
 Excerpt From: drboolean. “mostly-adequate-guide.” iBooks.
+
+---
+
+## Compound Assignment
+
+Compound Assignment: `+=``, `-=``, `*=`, and `/=` are compound operators that combine a math operation with assignment, as in `a += 2 (same as a = a + 2)``.
+
 
 ---
 
@@ -126,6 +168,26 @@ console.log(imperativeDouble(arr))  // [2, 3, 6]
 ```
 
 ---
+
+## delegation (behavior delegation)
+
+```js
+var foo = {
+    a: 42
+};
+
+// create `bar` and link it to `foo`
+var bar = Object.create( foo );
+
+bar.b = "hello world";
+
+bar.b;      // "hello world"
+bar.a;      // 42 <-- delegated to `foo`
+```
+
+
+
+---
 ## Dependency Injection
 
 Dependency Injection is a simple solution to inversion of control that involves injecting the dependencies into the components that require them. There are many reasons why this is beneficial to modern web applications.
@@ -163,6 +225,47 @@ console.log(x);
 
 - [null, undefined, and undeclared](http://lucybain.com/blog/2014/null-undefined-undeclared/)
 - [TypeError](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError)
+
+
+
+ReferenceError is Scope resolution-failure related, whereas TypeError implies that Scope resolution was successful, but that there was an illegal/impossible action attempted against the result.
+
+https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/ch1.md
+
+
+1. Error
+2. RangeError
+3. Syntax Error
+4. TypeError
+5. URIError
+6. EvalError
+- http://www.sitepoint.com/exceptional-exception-handling-in-javascript/
+
+---
+
+## Eval
+
+The eval(..) function in JavaScript takes a string as an argument, and treats the contents of the string as if it had actually been authored code at that point in the program. In other words, you can programmatically generate code inside of your authored code, and run the generated code as if it had been there at author time.
+
+
+
+```js
+function foo(str, a) {
+    eval( str ); // cheating!
+    console.log( a, b );
+}
+
+var b = 2;
+
+foo( "var b = 3;", 1 ); // 1, 3
+
+```
+
+
+
+
+
+
 
 ---
 
@@ -279,6 +382,10 @@ Take 3 parts
 
 `function chop () {}`
 
+Note: The easiest way to distinguish declaration vs. expression is the position of the word "function" in the statement (not just a line, but a distinct statement). If "function" is the very first thing in the statement, then it's a function declaration. Otherwise, it's a function expression.
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/ch3.md
+
 ---
 
 ## Function Expression
@@ -366,7 +473,41 @@ Easy as a => b => c;](https://strongloop.com/strongblog/higher-order-functions-i
 
 ## Hoisting
 
+What this leads to is that all declarations in a scope, regardless of where they appear, are processed first before the code itself is executed. You can visualize this as declarations (variables and functions) being "moved" to the top of their respective scopes, which we call "hoisting".
+
+
+function declarations are hoisted before normal variables
+
+f before v
+
+functions are first class
+- https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/ch4.md
+
+
 - [JavaScript Hoisting Explained](http://www.i-programmer.info/programming/javascript/5364-javascript-hoisting-explained.html)
+
+
+---
+
+## Host Object (document object)
+
+The most common non-JavaScript JavaScript you'll encounter is the DOM API. For example:
+
+var el = document.getElementById( "foo" );
+The document variable exists as a global variable when your code is running in a browser. It's not provided by the JS engine, nor is it particularly controlled by the JavaScript specification. It takes the form of something that looks an awful lot like a normal JS object, but it's not really exactly that.
+
+ It's a special object, often called a "host object."
+
+
+
+
+---
+
+## Inequality / relational comparison
+
+`<, >, <=, and >= `
+
+
 
 ---
 
@@ -474,8 +615,34 @@ With Lambda expressions you can capture things in the outer scope. Lambdas are a
 I don't know. Computation doesn't happen until it's needed?
 
 
+---
+
+## lexical scope
+
+Lexical scope means that scope is defined by author-time decisions of where functions are declared. The lexing phase of compilation is essentially able to know where and how all identifiers are declared, and thus predict how they will be looked-up during execution.
 
 
+In JavaScript, each function gets its own scope.
+
+Scope is basically a collection of variables as well as the rules for how those variables are accessed by name. Only code inside that function can access that function's scoped variables.
+
+Lexical scope rules say that code in one scope can access variables of either that scope or any scope outside of it.
+
+
+lexical scope is only defined by where the function was declared.
+
+Scope look-up stops once it finds the first match.
+
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md
+
+---
+
+## Lexing (tokenizing)
+
+lexing process examines a string of source code characters and assigns semantic meaning to the tokens as a result of some stateful parsing.
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/ch2.md
 
 ---
 
@@ -495,6 +662,16 @@ A tool for iteration that requires three parts:
 1. State
 2. Condition
 3. Increment
+
+or
+
+The for loop has three clauses:
+
+1. the **initialization** clause (var i=0),
+2. the **conditional test** clause (i <= 9),
+3. and the **update** clause (i = i + 1).
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md
 
 
 ---
@@ -611,6 +788,12 @@ References:
 - [Object.create(): the New Way to Create Objects in JavaScript](http://www.htmlgoodies.com/beyond/javascript/object.create-the-new-way-to-create-objects-in-javascript.html)
 - [3 ways to define a JavaScript class](http://www.phpied.com/3-ways-to-define-a-javascript-class/)
 
+---
+
+### Object Property Access:
+
+`.` as in `console.log()`.
+
 
 ---
 
@@ -690,6 +873,22 @@ A predicate is a function that accepts an item in the array, and returns a boole
 
 ---
 
+## Programming
+
+Here are some of the essential programming building blocks:
+
+You need operators to perform actions on values.
+You need values and types to perform different kinds of actions like math on numbers or output with strings.
+You need variables to store data (aka state) during your program's execution.
+You need conditionals like if statements to make decisions.
+You need loops to repeat tasks until a condition stops being true.
+You need functions to organize your code into logical and reusable chunks.
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md
+
+
+
+---
 
 ## Projection
 
@@ -767,8 +966,47 @@ When a function is called twice with the same parameters, and ALWAYS returns the
 
 
 ## Scope
-  - var is function scoped
-  - let and const are block scoped
+
+Scope is the set of rules that determines where and how a variable (identifier) can be looked-up. This look-up may be for the purposes of assigning to the variable, which is an LHS (left-hand-side) reference, or it may be for the purposes of retrieving its value, which is an RHS (right-hand-side) reference.
+
+LHS references result from assignment operations. Scope-related assignments can occur either with the = operator or by passing arguments to (assign to) function parameters.
+
+The JavaScript Engine first compiles code before it executes, and in so doing, it splits up statements like var a = 2; into two separate steps:
+
+First, var a to declare it in that Scope. This is performed at the beginning, before code execution.
+
+Later, a = 2 to look up the variable (LHS reference) and assign to it if found.
+
+Both LHS and RHS reference look-ups start at the currently executing Scope, and if need be (that is, they don't find what they're looking for there), they work their way up the nested Scope, one scope (floor) at a time, looking for the identifier, until they get to the global (top floor) and stop, and either find it, or don't.
+
+Unfulfilled RHS references result in ReferenceErrors being thrown. Unfulfilled LHS references result in an automatic, implicitly-created global of that name (if not in "Strict Mode" [^note-strictmode]), or a ReferenceError (if in "Strict Mode" [^note-strictmode]).
+
+```js
+//Quiz Answers
+
+function foo(a) {
+    var b = a;
+    return a + b;
+}
+
+var c = foo( 2 );
+```
+
+Identify all the LHS look-ups (there are 3!).
+
+c = .., a = 2 (implicit param assignment) and b = ..
+
+Identify all the RHS look-ups (there are 4!).
+
+foo(2.., = a;, a + .. and .. + b
+
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/ch1.md
+
+
+
+- var is function scoped
+- let and const are block scoped
 
 
 
@@ -822,6 +1060,30 @@ function noSideEffect (y) {
 
 console.log(noSideEffect())
 ```
+---
+## Strict Mode
+
+"Strict Mode" [^note-strictmode], which was added in ES5, has a number of different behaviors from normal/relaxed/lazy mode. One such behavior is that it disallows the automatic/implicit global variable creation.
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/ch1.md
+
+
+---
+## this
+
+If a function has a this reference inside it, that this reference usually points to an object. But which object it points to depends on how the function was called.
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch2.md
+
+---
+
+## Transpiling
+
+transforming + compiling = transpiling
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch2.md
+
+
 
 
 ---
@@ -844,6 +1106,7 @@ and more
 
 ## type inference
 That means that you don't have to explicitly label every piece of code with a type because the type system can intelligently figure out a lot about it
+
 - http://learnyouahaskell.com/introduction#about-this-tutorial
 
 
@@ -875,7 +1138,38 @@ the result is always expressed as a string inside quotation marks
 - const
 - function
 
+---
 
+## void 0
+
+void 0 (aka undefined)
+
+```js
+function foo(a = 2) {
+    console.log( a );
+}
+
+foo();      // 2
+foo( 42 );  // 42
+
+// Simple, right? Helpful, too! But it's new syntax that's invalid in pre-ES6 engines. So what will a transpiler do with that code to make it run in older environments?
+
+function foo() {
+    var a = arguments[0] !== (void 0) ? arguments[0] : 2;
+    console.log( a );
+}
+```
+
+
+---
+
+## Weak typing
+
+otherwise known as dynamic typing, allows a variable to hold any type of value at any time. It's typically cited as a benefit for program flexibility by allowing a single variable to represent a value no matter what type form that value may take at any given moment in the program's logic flow.
+
+JavaScript has typed values, not typed variables.
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md
 
 
 ---
