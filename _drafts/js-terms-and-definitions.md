@@ -65,6 +65,14 @@ JavaScript provides a typeof operator that can examine a value and tell you what
 5. object
 6. symbol (new to ES6)
 
+---
+
+
+## Call-stack
+
+call-stack (the stack of functions that have been called to get us to the current moment in execution
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch2.md
 
 
 ---
@@ -194,6 +202,14 @@ Dependency Injection is a simple solution to inversion of control that involves 
 
 - [Three D’s of Web Development #3: Dependency Injection](http://developer.telerik.com/featured/three-ds-web-development-3-dependency-injection/)
 
+---
+
+## Dunder
+
+double-underscore, specifically the leading one in properties like __proto__: "dunder"
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch5.md
+
 
 ---
 
@@ -218,6 +234,12 @@ console.log(x);
 // hello%20there
 // notice that the space gets replaced with %20
 ```
+---
+
+## "enumerable"
+basically means "will be included if the object's properties are iterated through
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch3.md
 
 ---
 
@@ -757,6 +779,15 @@ Where Node really shines is in building fast, scalable network applications, as 
 - [Why The Hell Would I Use Node.js?](http://blog.apcelent.com/why-use-nodejs-tutorial.html)
 
 ---
+
+# Object.keys(..)
+
+`Object.keys(..)`  returns an array of all enumerable properties, whereas `Object.getOwnPropertyNames(..)` returns an array of all properties, enumerable or not.
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch3.md
+
+---
+
 
 ## Object Literal
 

@@ -4072,7 +4072,7 @@ Read/Watched:
 
 ---
 
-## DAY 141 - April 28 - Thursday(RSS, LIvecodeing, YDKJS)
+## DAY 141 - April 28 - Thursday(RSS, Livecodeing, YDKJS)
 
 
 Expected:
@@ -4097,7 +4097,8 @@ Leave REST aside and embrace Socket.io, ZeroMQ, RabbitMQ, Erlang, XMPP
 - [hack hands](https://hackhands.com/)
 - [RethinkDB](https://www.rethinkdb.com/)
 - [Linear Graphical UI Controls with HTML5, SVG and JavaScript](http://thenewcode.com/1076/Linear-Graphical-UI-Controls-with-HTML5-SVG-and-JavaScript)
-
+- [:+1: You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
+- [:+1: You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 
 
 
@@ -4106,8 +4107,91 @@ Leave REST aside and embrace Socket.io, ZeroMQ, RabbitMQ, Erlang, XMPP
 ---
 
 
-## DAY 142 - DATE - TITLE
-## DAY 143 - DATE - TITLE
+## DAY 142 - April 29 - Friday(Printing, RSS, YDKJS)
+
+
+Expected:
+- Crush more articles
+- YDKJS
+
+
+
+Actual:
+- all the above
+
+Read/Watched:
+
+- [:+1: Working with Images in Stylesheets with PostCSS](https://css-tricks.com/images-in-postcss/)
+- [You Should Probably Blog in Markdown](http://mediatemple.net/blog/tips/you-should-probably-blog-in-markdown/)
+- [JavaScript Standard Style](http://standardjs.com/)
+- [DraftJS Plugins](https://www.draft-js-plugins.com)
+- [8 Old School SEO Practices That Are No Longer Effective - Whiteboard Friday](https://moz.com/blog/8-old-school-seo-practices-not-effective-whiteboard-friday)
+- [Chapter 2: this All Makes Sense Now!](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch2.md)
+
+
+```js
+// FUCK THIS
+//
+// 'this' is not
+
+// - The first common temptation is to assume this refers to the function itself.
+
+// -  The next most common misconception about the meaning of this is that it somehow refers to the function's scope.
+
+// - You cannot use a this reference to look something up in a lexical scope. It is not possible.
+
+
+
+// 'this' is
+
+// - this binding has nothing to do with where a function is declared, but has instead everything to do with the manner in which the function is called.
+
+// this is actually a binding that is made when a function is invoked, and what it references is determined entirely by the call-site where the function is called.
+
+
+function foo() {
+    console.log( this.a );
+}
+
+var obj = {
+    a: 2,
+    foo: foo
+};
+
+obj.foo(); // 2
+
+// Because obj is the this for the foo() call, this.a is synonymous with obj.a
+
+
+```
+
+---
+
+
+
+## DAY 143 - April 30 - Saturday(Fam day, reading)
+
+
+Expected:
+- Crush more articles
+- YDKJS
+
+
+
+Actual:
+- all the above
+
+Read/Watched:
+
+- [Why is hiring broken? It starts at the whiteboard.](https://medium.freecodecamp.com/why-is-hiring-broken-it-starts-at-the-whiteboard-34b088e5a5db#.4deuv5y1a)
+- [You Don't Know JS: this & Object Prototypes
+Chapter 3: Objects](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch3.md)
+- [Chapter 4: Mixing (Up) "Class" Objects](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch4.md)
+- [Chapter 5: Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch5.md)
+- [Jam API](https://github.com/gavindinubilo/jam-api)
+- [Making IFrames Responsive](http://bitsofco.de/iframe-responsive/)
+- [THE SECRETS OF MEDIEVAL FONTS](https://medievalbooks.nl/2016/04/29/the-secrets-of-medieval-fonts/)
+
 
 
 ---
@@ -4119,11 +4203,25 @@ Leave REST aside and embrace Socket.io, ZeroMQ, RabbitMQ, Erlang, XMPP
 - so, i'm loving how ALL this JS stuff is starting to make sense. Node.js is starting to make sense now. However, I'm now realizing how long it's going to take to get proficient with all these tools, frameworks and best practices.
 - Started looking into RxJS, and it looks really awesome!
 - Mike started working with me this month. More on that later.
+- Started reading "You Dont Know JavaScript." I wish I would have started to read this earlier. I was surprised to find out that the books aren't hundreds of pages long! This has been such a quick, thorough and accurate resource. Again, I wish I would have read this months ago.
+- I do feel like time is running out, and I'm not where I want to be. Yes, I've learned a ton. Yes, this all take a while to master. I just wish that I knew how to make everyting.
+- I've been worried about being able to take a HackReactor or CodeSmith course. It seems like that might be an impossibility. I gotta figure that out.
+- I feel like I'm also at the turning point where I now know enough vanilla js to begin learning frameworks
+- I need to get back to FreeCodeCamp also
+- I think that Mike is doing a great job
+- I think that we need to practice building the same thing each day until he has it down.
 
 
 ---
 
-## DAY 144 - DATE - TITLE
+## DAY 144 - May 1 - Sunday()
+
+
+- [particles.js](http://vincentgarreau.com/particles.js/)
+
+
+
+---
 ## DAY 145 - DATE - TITLE
 ## DAY 146 - DATE - TITLE
 ## DAY 147 - DATE - TITLE
@@ -4371,6 +4469,11 @@ Revisit:
 
 Ideas:
 
+- tools needed - i think it's hard to learn how to dev certain thing because there is no checklist for the tools needed to make certain things. It would be great if the tools, skills and understanding needed were listed for each tutorial.
+
+ex wrong: Make a Random Quote machine (use jQuery)
+
+ex better: Make a Random Quote machine (js, xhr, understand callbacks, thunks, json, working with json, error handling...)
 
 - Make a Notes app for devs. I love the MiniNotes app, but I hate that I can't do code formatting with it. It would be awesome to do one that just converts markdown
 
