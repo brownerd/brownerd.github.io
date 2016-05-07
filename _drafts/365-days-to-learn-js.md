@@ -4212,22 +4212,190 @@ Chapter 3: Objects](https://github.com/getify/You-Dont-Know-JS/blob/master/this%
 - I think that we need to practice building the same thing each day until he has it down.
 
 
+
+
+
+
+
+
 ---
 
-## DAY 144 - May 1 - Sunday()
+## DAY 144 - May 1 - Sunday(fam day, RSS, YDKJS)
+
+Expected:
+- Crush more articles
+- YDKJS
 
 
+
+Actual:
+- all the above
+
+Read/Watched:
 - [particles.js](http://vincentgarreau.com/particles.js/)
+- [Motion Design is the Future of UI](https://blog.prototypr.io/motion-design-is-the-future-of-ui-fc83ce55c02f#.r7uwnlkam)
+- [It's okay if you suck – I DO!](https://www.youtube.com/watch?v=IalgBQQKROU&feature=em-subs_digest)
+- [App Animations](http://www.appanimations.com/)
+- [The Kinetic UI](http://thekineticui.com/)
+
+- [Chapter 6: Behavior Delegation](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch6.md)
+
+```js
+var Task = {
+    setID: function(ID) { this.id = ID; },
+    outputID: function() { console.log( this.id ); }
+};
+
+// make `XYZ` delegate to `Task`
+var XYZ = Object.create( Task );
+
+XYZ.prepareTask = function(ID,Label) {
+    this.setID( ID );
+    this.label = Label;
+};
+
+XYZ.outputTaskDetails = function() {
+    this.outputID();
+    console.log( this.label );
+};
+
+// ABC = Object.create( Task );
+// ABC ... = ...
+
+```
+
+you want state to be on the delegators (XYZ, ABC), not on the delegate (Task).
+
+In behavior delegation, we do the opposite: we avoid if at all possible naming things the same at different levels of the [[Prototype]] chain (called shadowing -- see Chapter 5), because having those name collisions creates awkward/brittle syntax to disambiguate references (see Chapter 4), and we want to avoid that if we can.
+
+- [Appendix A: ES6 class](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/apA.md)
 
 
 
 ---
-## DAY 145 - DATE - TITLE
-## DAY 146 - DATE - TITLE
-## DAY 147 - DATE - TITLE
-## DAY 148 - DATE - TITLE
-## DAY 149 - DATE - TITLE
-## DAY 150 - DATE - TITLE
+## DAY 145 - May 2 - Monday(Hacked sites)
+
+Expected:
+- Crush more articles
+- YDKJS
+
+
+
+Actual:
+- fixing hacked sites
+
+Read/Watched:
+
+- [The Front-End Is…](https://medium.com/swlh/the-front-end-is-da4f34ae5e27#.qxz31vplr)
+- [Which Code Editors Are Devs Using: 2015 Edition](https://medium.com/@AllThingsSmitty/which-code-editors-are-devs-using-2015-edition-33b631d0df7c#.6hdkj3u5l)
+- [The Internet Economy](https://medium.com/@cdixon/the-internet-economy-fc43f3eff58a#.sd8y57fob)
+
+
+
+
+---
+
+
+## DAY 146 - May 3 - Tuesday(fixing hacked sites)
+
+Expected:
+- Fix hacked sites and transfer them to WPEngine
+
+
+Actual:
+- all the above
+
+Read/Watched:
+- [A Comparison of Animation Technologies](https://css-tricks.com/comparison-animation-technologies/)
+- [Beginning with 3D WebGL (pt. 4) - Animation](Beginning with 3D WebGL (pt. 4) - Animation)
+
+
+---
+
+## DAY 147 - May 4 - Wednesday(Mikes Bday, Fixing hacked sites)
+
+Expected:
+- Fix hacked sites and transfer them to WPEngine
+
+
+Actual:
+- all the above
+
+Read/Watched:
+- [ClojureScript for Skeptics - Derek Slager](https://www.youtube.com/watch?v=gsffg5xxFQI&ebc=ANyPxKqx-aRBg3ujfSjbN-X1mp2C1SWmW8kX95L1TYdNt5K4IUHI2jWnbFMjHmCVi0vT4rHs41BnqDhdfMyonyritpbUkwjcrg)
+- [UX: Infinite Scrolling vs. Pagination](https://uxplanet.org/ux-infinite-scrolling-vs-pagination-1030d29376f1#.vf9amducr)
+- [Getting good at FP](https://glebbahmutov.com/blog/getting-good-at-fp/)
+- [088: Early Stage](https://blog.codepen.io/2016/05/03/088-early-stage/)
+- [My favorite functional adaptors](https://glebbahmutov.com/blog/my-favorite-functional-adaptors/)
+- [Abandoning return values](https://glebbahmutov.com/blog/abandoning-return-values/)
+- [OO vs FP console log example](https://glebbahmutov.com/blog/oo-vs-fp-log-example/)
+
+
+
+---
+
+## DAY 148 - May 5 - Thursday(Moved CEESTL, SweetPotato, YDKJS, DevLunch )
+
+
+Expected:
+- Move CEESTL and SweetPotato to MediaTemple
+
+
+Actual:
+- all the above
+- Read some more YDKJS
+
+Read/Watched:
+
+- [The 50 Greatest Skate Logos](http://www.complex.com/style/2011/08/the-50-greatest-skate-logos/)
+- [Isomorphic React and SEO: The Benefits of a Single Page App on React JS](http://xbsoftware.com/blog/isomorphic-react-spa-benefits-seo/)
+- [Chapter 1: Types](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/ch1.md)
+- [WordPress Redirect Hack via Test0.com/Default7.com](https://blog.sucuri.net/2016/05/wordpress-redirect-hack-test0-default7.html)
+- [Chapter 2: Values](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/ch2.md)
+- [Chapter 3: Natives](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/ch3.md)
+- [We asked 15,000 people who they are, and how they’re learning to code](https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781#.qkteu2rn8)
+
+
+
+
+---
+
+
+## DAY 149 - May 6 - Friday(Mike Tut)
+
+Expected:
+- Mike firday peer coding tut
+- RSS
+- Read YDKJS
+
+
+Actual:
+- all the above
+
+Read/Watched:
+
+- [The Bare Necessities of User Experience](http://codepen.io/vinsongrant/post/the-bare-necessities-of-user-experience)
+- [Chapter 4: Coercion](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/ch4.md)
+
+---
+
+## DAY 150 - May 7 - Saturday(Fam day, YDKJS)
+
+Expected:
+- Fam day
+- Read YDKJS
+
+
+Actual:
+- all the above
+
+Read/Watched:
+
+- [Chapter 5: Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/ch5.md)
+
+
+---
+
 ## DAY 151 - DATE - TITLE
 ## DAY 152 - DATE - TITLE
 ## DAY 153 - DATE - TITLE
@@ -4251,6 +4419,20 @@ Chapter 3: Objects](https://github.com/getify/You-Dont-Know-JS/blob/master/this%
 ## DAY 171 - DATE - TITLE
 ## DAY 172 - DATE - TITLE
 ## DAY 173 - DATE - TITLE
+
+
+
+---
+
+### May in review
+
+
+
+---
+
+
+
+
 ## DAY 174 - DATE - TITLE
 ## DAY 175 - DATE - TITLE
 ## DAY 176 - DATE - TITLE

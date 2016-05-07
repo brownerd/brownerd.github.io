@@ -26,6 +26,19 @@ http://www.joezimjs.com/javascript/great-mystery-of-the-tilde/
 ## Arity
 
 Arity refers to the amount of parameters that a function has. The more parameters a functions has, the greater it's arity.
+---
+
+## Assignment Expressions
+
+```js
+var a = 3 * 6;
+var b = a;
+b;
+```
+The a = 3 * 6 and b = a assignments (minus the vars) are called assignment expressions.
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/ch5.md
+
 
 ---
 
@@ -56,14 +69,44 @@ In JavaScript, a block is defined by wrapping one or more statements inside a cu
 
 ## Built-in Types
 
-JavaScript provides a typeof operator that can examine a value and tell you what type it is:
+JavaScript defines seven built-in types:
 
-1. string
-2. number
+1. null
+2. undefined
 3. boolean
-4. null and undefined
-5. object
-6. symbol (new to ES6)
+4. number
+5. string
+6. object
+7. symbol -- added in ES6!
+
+*Note: All of these types except object are called "primitives".*
+
+The `typeof` operator inspects the type of the given value, and always returns one of seven string values -- surprisingly, there's not an exact 1-to-1 match with the seven built-in types we just listed.
+
+```js
+typeof undefined     === "undefined"; // true
+typeof true          === "boolean";   // true
+typeof 42            === "number";    // true
+typeof "42"          === "string";    // true
+typeof { life: 42 }  === "object";    // true
+
+typeof [1,2,3]       === "object"; // true
+
+// special way to check null values
+var a = null;
+
+(!a && typeof a      === "object"); // true
+
+
+// A function is a subtype of object. it's a callable object
+typeof function a(){ /* .. */ } === "function"; // true
+
+// added in ES6!
+typeof Symbol()      === "symbol";    // true
+
+```
+
+ - https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/ch1.md
 
 ---
 
@@ -144,6 +187,23 @@ Debounce and throttle are two similar (but different!) techniques to control how
 
 ---
 
+## declaration statements
+
+```js
+var a = 3 * 6;
+var b = a;
+b;
+```
+
+`var a = 3 * 6` and `var b = a` are called "declaration statements" because they each declare a variable (and optionally assign a value to it).
+
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/ch5.md
+
+
+
+---
+
 ## Declarative
 
 Tell the compiler "what" to do instead of "how" to do it.
@@ -201,6 +261,25 @@ bar.a;      // 42 <-- delegated to `foo`
 Dependency Injection is a simple solution to inversion of control that involves injecting the dependencies into the components that require them. There are many reasons why this is beneficial to modern web applications.
 
 - [Three D’s of Web Development #3: Dependency Injection](http://developer.telerik.com/featured/three-ds-web-development-3-dependency-injection/)
+
+---
+## Duck typing
+
+Another common, but perhaps less robust, pattern for type introspection, which many devs seem to prefer over instanceof, is called "duck typing". This term comes from the adage, "if it looks like a duck, and it quacks like a duck, it must be a duck".
+
+Example:
+
+```js
+if (a1.something) {
+    a1.something();
+}
+```
+
+Rather than inspecting for a relationship between a1 and an object that holds the delegatable something() function, we assume that the test for a1.something passing means a1 has the capability to call .something() (regardless of if it found the method directly on a1 or delegated to some other object). In and of itself, that assumption isn't so risky.
+
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch6.md
+
 
 ---
 
@@ -356,7 +435,19 @@ if (~foo.indexOf("f")) {
 
 ---
 
+## Expression Statement
 
+```js
+var a = 3 * 6;
+var b = a;
+b;
+```
+
+The third line contains just the expression b, but it's also a statement all by itself (though not a terribly interesting one!). This is generally referred to as an "expression statement."
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/ch5.md
+
+---
 
 ## Factory Functions
 
@@ -759,7 +850,20 @@ Model: Represents domain-specific knowledge and data
 - Error
 - Date
 
+String()
+Number()
+Boolean()
+Array()
+Object()
+Function()
+RegExp()
+Date()
+Error()
+Symbol() -- added in ES6!
 
+As you can see, these natives are actually built-in functions.
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/ch3.md
 
 
 ---
@@ -780,6 +884,44 @@ Where Node really shines is in building fast, scalable network applications, as 
 
 ---
 
+## Null check
+
+The coercion between null and undefined is safe and predictable, and no other values can give false positives in such a check. I recommend using this coercion to allow null and undefined to be indistinguishable and thus treated as the same value.
+
+For example:
+
+```js
+var a = doSomething();
+
+if (a == null) {
+    // ..
+}
+```
+
+The `a == null` check will pass only if doSomething() returns either null or undefined, and will fail with any other value, even other falsy values like 0, false, and "".
+
+The explicit form of the check, which disallows any such coercion, is (I think) unnecessarily much uglier (and perhaps a tiny bit less performant!):
+
+```js
+var a = doSomething();
+
+if (a === undefined || a === null) {
+    // ..
+}
+```
+
+In my opinion, the form `a == null` is yet another example where implicit coercion improves code readability, but does so in a reliably safe way.
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/ch4.md
+
+
+
+
+
+
+
+
+---
 # Object.keys(..)
 
 `Object.keys(..)`  returns an array of all enumerable properties, whereas `Object.getOwnPropertyNames(..)` returns an array of all properties, enumerable or not.
@@ -1039,8 +1181,39 @@ foo(2.., = a;, a + .. and .. + b
 - var is function scoped
 - let and const are block scoped
 
+---
 
+## Short Circuiting with conditionals
 
+In Chapter 4, we mentioned in a side note the "short circuiting" nature of operators like && and ||. Let's revisit that in more detail now.
+
+For both && and || operators, the right-hand operand will not be evaluated if the left-hand operand is sufficient to determine the outcome of the operation. Hence, the name "short circuited" (in that if possible, it will take an early shortcut out).
+
+For example, with a && b, b is not evaluated if a is falsy, because the result of the && operand is already certain, so there's no point in bothering to check b. Likewise, with a || b, if a is truthy, the result of the operand is already certain, so there's no reason to check b.
+
+This short circuiting can be very helpful and is commonly used:
+
+```js
+function doSomething(opts) {
+    if (opts && opts.cool) {
+        // ..
+    }
+}
+```
+
+The opts part of the opts && opts.cool test acts as sort of a guard, because if opts is unset (or is not an object), the expression opts.cool would throw an error. The opts test failing plus the short circuiting means that opts.cool won't even be evaluated, thus no error!
+
+Similarly, you can use || short circuiting:
+
+```js
+function doSomething(opts) {
+    if (opts.cache || primeCache()) {
+        // ..
+    }
+}
+```
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/ch5.md
 
 ---
 
@@ -1092,6 +1265,16 @@ function noSideEffect (y) {
 console.log(noSideEffect())
 ```
 ---
+
+## Statements, expressions
+
+Statements are sentences, expressions are phrases, and operators are conjunctions/punctuation.
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/ch5.md
+
+
+
+---
 ## Strict Mode
 
 "Strict Mode" [^note-strictmode], which was added in ES5, has a number of different behaviors from normal/relaxed/lazy mode. One such behavior is that it disallows the automatic/implicit global variable creation.
@@ -1134,6 +1317,16 @@ and more
 
 ---
 
+## type casting
+
+Converting a value from one type to another is often called "type casting," when done explicitly, and "coercion" when done implicitly (forced by the rules of how a value is used).
+
+However, in JavaScript, most people refer to all these types of conversions as coercion, so the way I prefer to distinguish is to say "implicit coercion" vs. "explicit coercion."
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/ch4.md
+
+
+---
 
 ## type inference
 That means that you don't have to explicitly label every piece of code with a type because the type system can intelligently figure out a lot about it
