@@ -176,6 +176,19 @@ Excerpt From: drboolean. “mostly-adequate-guide.” iBooks.
 
 Compound Assignment: `+=``, `-=``, `*=`, and `/=` are compound operators that combine a math operation with assignment, as in `a += 2 (same as a = a + 2)``.
 
+---
+
+## console
+
+The console object is provided by the hosting environment specifically so your code can interact with it for various development-related output tasks.
+
+In browsers, console hooks up to the developer tools' console display, whereas in node.js and other server-side JS environments, console is generally connected to the standard-output (stdout) and standard-error (stderr) streams of the JavaScript environment system process.
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/apA.md
+
+
+
+
 
 ---
 
@@ -280,6 +293,12 @@ Rather than inspecting for a relationship between a1 and an object that holds th
 
 - https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch6.md
 
+
+
+The general term for "type checks" that make assumptions about a value's "type" based on its shape (what properties are present) is called "duck typing"
+
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md
 
 ---
 
@@ -491,6 +510,23 @@ Take 3 parts
 
 ---
 
+## for .. of loop
+
+```js
+var a = [1,3,5,7,9];
+
+for (var v of a) {
+    console.log( v );
+}
+// 1 3 5 7 9
+```
+
+The for..of loop asks a for its iterator, and automatically uses it to iterate over a's values.
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch4.md
+
+---
+
 ## Function declaration
 
 `function chop () {}`
@@ -544,6 +580,17 @@ Functional programming is about programming using mathematical/pure functions. W
 ## Functor
 Is an object or data structor you can map over (- Brian Lonsdorf, FrontEndMasters)
 
+---
+
+## Gate
+
+
+The `if (a && b)` conditional around the baz() call is traditionally called a "gate," because we're not sure what order a and b will arrive, but we wait for both of them to get there before we proceed to open the gate (call baz()).
+
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch1.md
+
+
 
 ---
 
@@ -551,6 +598,17 @@ Is an object or data structor you can map over (- Brian Lonsdorf, FrontEndMaster
 ## Hashtables
 
  in JavaScript, objects essentially are hashtables; i.e., collections of name-value pairs
+
+
+---
+
+## Heap
+
+"heap" -- which is just a fancy term for a reserved spot in memory where variables can already be used without asking for more memory or releasing previously used memory
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch5.md
+
+
 
 ---
 
@@ -1108,6 +1166,9 @@ A promise can be:
 - [Promises](https://developers.google.com/web/fundamentals/primers/promises/)
 
 
+To avoid such nuanced nightmares, you should never rely on anything about the ordering/scheduling of callbacks across Promises. In fact, a good practice is not to code in such a way where the ordering of multiple callbacks matters at all. Avoid that if you can.
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md
 
 ---
 
@@ -1289,6 +1350,55 @@ If a function has a this reference inside it, that this reference usually points
 
 - https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch2.md
 
+
+---
+
+## Thunk
+
+Without getting bogged down in the historical nature, a narrow expression of a thunk in JS is a function that -- without any parameters -- is wired to call another function.
+
+In other words, you wrap a function definition around function call -- with any parameters it needs -- to defer the execution of that call, and that wrapping function is a thunk. When you later execute the thunk, you end up calling the original function.
+
+```js
+// Example
+function foo(x,y) {
+    return x + y;
+}
+
+function fooThunk() {
+    return foo( 3, 4 );
+}
+
+// later
+
+console.log( fooThunk() );  // 7
+```
+
+
+
+
+```js
+// Thunk maker fn
+function thunkify(fn) {
+    var args = [].slice.call( arguments, 1 );
+    return function(cb) {
+        args.push( cb );
+        return fn.apply( null, args );
+    };
+}
+
+var fooThunk = thunkify( foo, 3, 4 );
+
+// later
+
+fooThunk( function(sum) {
+    console.log( sum );     // 7
+} );
+```
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch4.md
+
+
 ---
 
 ## Transpiling
@@ -1346,6 +1456,15 @@ the result is always expressed as a string inside quotation marks
 - `typeof true;   // "boolean"`
 - `typeof {a: 1}; // "object"`
 - `typeof function() {alert(e)};    // "function"`
+
+---
+
+## undefined
+
+undefined means missing. That is, there's no difference between undefined and missing, at least as far as function arguments go.
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/ch2.md
+
 
 ---
 

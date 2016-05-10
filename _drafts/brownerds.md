@@ -21,6 +21,7 @@
 - [David Moore](https://dribbble.com/Dalexmoore)
 
 - [Nerdy Negress](https://twitter.com/NerdyNegress)
+- [Preethi Kasireddy]
 
 http://codepen.io/christiannwamba/
 

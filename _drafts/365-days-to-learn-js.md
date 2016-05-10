@@ -4392,12 +4392,50 @@ Actual:
 Read/Watched:
 
 - [Chapter 5: Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/ch5.md)
+- [Appendix A: Mixed Environment JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/apA.md)
+- [Chapter 1: Asynchrony: Now & Later](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch1.md)
+- [Chapter 2: Callbacks](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch2.md)
+- [CSS from the Future](http://zeke.sikelianos.com/css-from-the-future/)
+- [shots](https://github.com/bevacqua/shots)
+- [waybackpack](https://github.com/jsvine/waybackpack)
+
+---
+
+## DAY 151 - May 8  - Sunday(Super Mother's Day)
+
 
 
 ---
 
-## DAY 151 - DATE - TITLE
-## DAY 152 - DATE - TITLE
+
+## DAY 152 - May 9 - Monday()
+
+
+
+
+- [A Beginner's Guide to Espresso: Part 1](https://www.youtube.com/watch?v=-kd-zX-JOVU)
+- [A Beginner's Guide to Espresso: Part 2](https://www.youtube.com/watch?v=441CyJjIM9o)
+- [A Beginner's Guide to Espresso: Part 3](https://www.youtube.com/watch?v=rDJ9MX1y9S0)
+- [A Beginner's Guide to Espresso: Part 4](https://www.youtube.com/watch?v=xpGUC0Ld1UM)
+- [A Beginner's Guide to Espresso: Part 5](https://www.youtube.com/watch?v=RZDvYAoN9y0)
+- [The Importance of !important: Forcing Immutability in CSS](http://csswizardry.com/2016/05/the-importance-of-important/)
+- [An Ultimate Guide To CSS Pseudo-Classes And Pseudo-Elements](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/)
+- [Let’s Learn JavaScript Closures](https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44#.179ieuuuh)
+- [The Value of Multi-Typeface Design](https://blog.prototypr.io/the-value-of-multi-typeface-design-ccd67227b0ee#.i3308xoq1)
+- [Chapter 3: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md)
+- [Chapter 4: Generators](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch4.md)
+- [Chapter 5: Program Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch5.md)
+- [Chapter 6: Benchmarking & Tuning](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch6.md)
+- [Appendix A: asynquence Library](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/apA.md)
+- [Chapter 1: ES? Now & Future](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/ch1.md)
+
+
+
+
+
+---
+
+
 ## DAY 153 - DATE - TITLE
 ## DAY 154 - DATE - TITLE
 ## DAY 155 - DATE - TITLE
