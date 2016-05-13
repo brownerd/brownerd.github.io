@@ -4408,11 +4408,16 @@ Read/Watched:
 ---
 
 
-## DAY 152 - May 9 - Monday()
+## DAY 152 - May 9 - Monday(Read YDKJS)
+
+Expected:
+- Read YDKJS
 
 
+Actual:
+- all the above
 
-
+Read/Watched:
 - [A Beginner's Guide to Espresso: Part 1](https://www.youtube.com/watch?v=-kd-zX-JOVU)
 - [A Beginner's Guide to Espresso: Part 2](https://www.youtube.com/watch?v=441CyJjIM9o)
 - [A Beginner's Guide to Espresso: Part 3](https://www.youtube.com/watch?v=rDJ9MX1y9S0)
@@ -4436,10 +4441,97 @@ Read/Watched:
 ---
 
 
-## DAY 153 - DATE - TITLE
-## DAY 154 - DATE - TITLE
-## DAY 155 - DATE - TITLE
-## DAY 156 - DATE - TITLE
+## DAY 153 - May 10 - Tuesday(Mom's Bday, YDKJS)
+
+Expected:
+- Read YDKJS
+
+
+Actual:
+- made tshirt for arfiky lolo
+- made logos for CTeam
+- Read YDKJS
+- Cooked for fam and did mom's bday at our crib
+
+Read/Watched:
+
+- [Annotating Your (Critical) CSS](https://css-tricks.com/annotating-critical-css/)
+- [Getting Started with CSS Modules](https://css-tricks.com/css-modules-part-2-getting-started/)
+- [Chapter 2: Syntax](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/ch2.md)
+- [Chapter 3: Organization](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/ch3.md)
+- STARTED TO SPEED THROUGH THE REST OF THESE, due to fatigue and topics being too advanced for me at the moment. I still looked through them all. I just stopped trying to figure out how I'd use them.
+- [Chapter 4: Async Flow Control](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/ch4.md)
+- [Chapter 5: Collections](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/ch5.md)
+- [Chapter 6: API Additions](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/ch6.md)
+- [Chapter 7: Meta Programming](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/ch7.md)
+- [Chapter 8: Beyond ES6](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/ch8.md)
+- [Best Sublime Text 3 Themes of 2015 and 2016](https://scotch.io/bar-talk/best-sublime-text-3-themes-of-2015-and-2016)
+- [Simplified JS Jargon](http://jargon.js.org/)
+- [JavaScript Standard Moves to Yearly Release Schedule; Here is What’s New for ES16](http://thenewstack.io/whats-new-es2016/)
+- [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+
+---
+
+## DAY 154 - May 11 - Wednesday(JS Allogne, Power went out)
+
+Expected:
+- Read JS Allogne
+
+
+Actual:
+- Read JS Allogne
+- Power went out
+- started a testing environment for learning the concepts in JS Allogne
+
+Read/Watched:
+
+- [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+
+
+
+---
+
+## DAY 155 - May 12 - Thursday(Hella traffic, Civil War, Instagram new logo)
+
+Expected:
+- Read JS Allogne
+
+
+Actual:
+- Read JS Allogne
+- Saw Avengers Civil War
+- started a testing environment for learning the concepts in JS Allogne
+- Looked into Instagram's new logo
+
+Read/Watched:
+
+- [Get to Know the Page Visibility API](https://scotch.io/tutorials/get-to-know-the-page-visibility-api)
+- [Linode](https://www.linode.com/) Cloud Hosting for devs
+- [Best of Atom: Features, Plugins, Acting Like Sublime Text](https://scotch.io/bar-talk/best-of-atom-features-plugins-acting-like-sublime-text)
+- [:+1: BACK TO THE FUTURE TRILOGY BOX SET](http://www.dkngstudios.com/blog/2016/5/4/back-to-the-future-trilogy-box-set)
+
+
+---
+
+
+## DAY 156 - May 13 - Friday(Allogne, Deby)
+
+Expected:
+- Read JS Allogne
+
+
+Actual:
+- all the above
+
+Read/Watched:
+
+
+- [:+1: Generative Art with Node.js and Canvas](https://mattdesl.svbtle.com/generative-art-with-nodejs-and-canvas)
+- [On-Page SEO in 2016: The 8 Principles for Success - Whiteboard Friday](https://moz.com/blog/on-page-seo-8-principles-whiteboard-friday)
+
+
+---
+
 ## DAY 157 - DATE - TITLE
 ## DAY 158 - DATE - TITLE
 ## DAY 159 - DATE - TITLE

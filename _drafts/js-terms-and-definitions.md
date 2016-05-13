@@ -510,20 +510,102 @@ Take 3 parts
 
 ---
 
-## for .. of loop
+## For .. in loop
+
+loops over the indexes of an array
 
 ```js
-var a = [1,3,5,7,9];
+var a = ["a","b","c","d","e"];
 
-for (var v of a) {
-    console.log( v );
+for (var idx in a) {
+    console.log( idx );
 }
-// 1 3 5 7 9
+// 0 1 2 3 4
+```
+
+
+
+
+---
+
+## for .. of loop
+
+loops over the values in an array
+
+```js
+var a = ["a","b","c","d","e"];
+
+for (var val of a) {
+    console.log( val );
+}
+// "a" "b" "c" "d" "e"
 ```
 
 The for..of loop asks a for its iterator, and automatically uses it to iterate over a's values.
 
 - https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch4.md
+
+
+
+```js
+
+// Here's the pre-ES6 version of the for..of from that previous
+
+var a = ["a","b","c","d","e"],
+    k = Object.keys( a );
+
+for (var val, i = 0; i < k.length; i++) {
+    val = a[ k[i] ];
+    console.log( val );
+}
+// "a" "b" "c" "d" "e"
+
+```
+
+```js
+// The "hello" primitive string value is coerced/boxed to the String object wrapper equivalent, which is an iterable by default.
+
+for (var c of "hello") {
+    console.log( c );
+}
+// "h" "e" "l" "l" "o"
+
+```
+---
+
+## function combinator
+
+“A combinator is a higher-order function that uses only function application and earlier defined combinators to define a result from its arguments.”–Wikipedia
+
+If we were learning Combinatorial Logic, we’d start with the most basic combinators like S, K, and I, and work up from there to practical combinators. We’d learn that the fundamental combinators are named after birds following the example of Raymond Smullyan’s famous book To Mock a Mockingbird.
+
+In this book, we will be using a looser definition of “combinator:” Higher-order pure functions that take only functions as arguments and return a function. We won’t be strict about using only previously defined combinators in their construction.
+
+Let’s start with a useful combinator: Most programmers call it Compose, although the logicians call it the B combinator or “Bluebird.” Here is the typical15 programming implementation:
+
+```js
+const compose = (a, b) =>
+  (c) => a(b(c))
+```
+Let’s say we have:
+
+```js
+const addOne = (number) => number + 1;
+
+const doubleOf = (number) => number * 2;
+```
+
+With compose, anywhere you would write
+
+```js
+const doubleOfAddOne = (number) => doubleOf(addOne(number));
+```
+
+You could also write:
+
+```js
+const doubleOfAddOne = compose(doubleOf, addOne);
+```
 
 ---
 
@@ -534,6 +616,45 @@ The for..of loop asks a for its iterator, and automatically uses it to iterate o
 Note: The easiest way to distinguish declaration vs. expression is the position of the word "function" in the statement (not just a line, but a distinct statement). If "function" is the very first thing in the statement, then it's a function declaration. Otherwise, it's a function expression.
 
 - https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/ch3.md
+
+---
+
+## function decorators
+A function decorator is a higher-order function that takes one function as an argument, returns another function, and the returned function is a variation of the argument function. Here’s a ridiculously simple decorator:16
+
+```js
+const not = (fn) => (x) => !fn(x)
+```
+
+So instead of writing `!someFunction(42)`, we can write `not(someFunction)(42)`. Hardly progress. But like compose, we could write either:
+
+```js
+const something = (x) => x != null;
+```
+
+And elsewhere, write:
+
+```js
+const nothing = (x) => !something(x);
+```
+Or we could write:
+
+```js
+const nothing = not(something);
+```
+
+not is a function decorator because it modifies a function while remaining strongly related to the original function’s semantics. You’ll see other function decorators in the recipes, like once and maybe. Function decorators aren’t strict about being pure functions, so there’s more latitude for making decorators than combinators.
+
+
+other decorators:
+- not
+- once
+- maybe
+
+
+
+- https://leanpub.com/javascriptallongesix/read
+
 
 ---
 
@@ -670,8 +791,38 @@ The document variable exists as a global variable when your code is running in a
  It's a special object, often called a "host object."
 
 
+---
+
+## IndexOf trick
+
+One extremely common task JS developers need to perform is searching for a value inside an array of values. The way this has always been done is:
+
+```js
+var vals = [ "foo", "bar", 42, "baz" ];
+
+if (vals.indexOf( 42 ) >= 0) {
+    // found it!
+}
+```
+
+The reason for the >= 0 check is because indexOf(..) returns a numeric value of 0 or greater if found, or -1 if not found. In other words, we're using an index-returning function in a boolean context. But because -1 is truthy instead of falsy, we have to be more manual with our checks.
+
+In the Types & Grammar title of this series, I explored another pattern that I slightly prefer:
+
+```js
+var vals = [ "foo", "bar", 42, "baz" ];
+
+if (~vals.indexOf( 42 )) {
+    // found it!
+}
+```
+
+The `~`` operator here conforms the return value of `indexOf(..)` to a value range that is suitably boolean coercible. That is, -1 produces 0 (falsy), and anything else produces a non-zero (truthy) value, which is what we for deciding if we found the value or not.
+
+While I think that's an improvement, others strongly disagree. However, no one can argue that indexOf(..)'s searching logic is perfect. It fails to find NaN values in the array, for example.
 
 
+- https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/ch8.md
 ---
 
 ## Inequality / relational comparison
@@ -1055,7 +1206,11 @@ We have passed two arguments, "Hello" and "World". Inside the function, param1 w
 
 - http://www.freecodecamp.com/challenges/passing-values-to-functions-with-arguments#
 
+---
 
+## partial application
+
+Another basic building block is partial application. When a function takes multiple arguments, we “apply” the function to the arguments by evaluating it with all of the arguments, producing a value. But what if we only supply some of the arguments? In that case, we can’t get the final value, but we can get a function that represents part of our application.
 
 
 ---
@@ -1170,6 +1325,16 @@ To avoid such nuanced nightmares, you should never rely on anything about the or
 
 - https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md
 
+
+
+
+Let's clear up some misconceptions: Promises are not about replacing callbacks. Promises provide a trustable intermediary -- that is, between your calling code and the async code that will perform the task -- to manage callbacks.
+
+Another way of thinking about a Promise is as an event listener, on which you can register to listen for an event that lets you know when a task has completed. It's an event that will only ever fire once, but it can be thought of as an event nonetheless.
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/ch4.md
+
+
 ---
 
 ## Pure-function
@@ -1241,6 +1406,18 @@ foo(2.., = a;, a + .. and .. + b
 
 - var is function scoped
 - let and const are block scoped
+
+___
+
+## Shadowing
+
+When a variable has the same name as an ancestor environment’s binding, it is said to shadow the ancestor.
+
+- https://leanpub.com/javascriptallongesix/read
+
+If the property name foo ends up both on myObject itself and at a higher level of the [[Prototype]] chain that starts at myObject, this is called shadowing. The foo property directly on myObject shadows any foo property which appears higher in the chain, because the myObject.foo look-up would always find the foo property that's lowest in the chain.
+
+- https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch5.md
 
 ---
 
