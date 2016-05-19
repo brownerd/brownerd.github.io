@@ -51,11 +51,19 @@ https://dribbble.com/shots/2711630-Instagram-Icon-Redesign?1463088184
 
 
 
+https://medium.com/@bmamaril/an-ocd-critique-of-the-new-instagram-logo-ui-2c8f9917c651#.s7slljf7p
 
 
 
+https://dribbble.com/shots/2713657-?1463162154
 
+https://dribbble.com/shots/2713571-Thanks-platform?1463159882
 
+https://dribbble.com/shots/2713719-New-Instagram-Logo?1463163961
+
+https://dribbble.com/shots/2713782-App-Icon-Concept-Design?1463165517
+
+https://dribbble.com/shots/2714289-Instagram-Stop?1463191093
 
 
 

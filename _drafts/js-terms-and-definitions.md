@@ -452,6 +452,16 @@ if (~foo.indexOf("f")) {
 }
 ```
 
+
+---
+
+## Expression
+
+An expression is any valid unit of code that resolves to a value. —Mozilla Development Network: Expressions and operators
+
+
+
+
 ---
 
 ## Expression Statement
@@ -1228,6 +1238,17 @@ Functions without arguments.
 
 Instead of hard coding our data/arguments into the function, we use Currying instead.
 
+---
+
+## Plain Ol JavaScript Object (POJO)
+
+Any object created with object literal notation like this
+
+```js
+var myObj = {"name" : "Phil Dunphy"}
+```
+
+- http://blog.dreasgrech.com/2012/02/creating-pojos-in-javascript.html
 
 
 ---

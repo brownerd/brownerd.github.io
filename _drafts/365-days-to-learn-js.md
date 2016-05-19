@@ -4509,7 +4509,7 @@ Read/Watched:
 - [Linode](https://www.linode.com/) Cloud Hosting for devs
 - [Best of Atom: Features, Plugins, Acting Like Sublime Text](https://scotch.io/bar-talk/best-of-atom-features-plugins-acting-like-sublime-text)
 - [:+1: BACK TO THE FUTURE TRILOGY BOX SET](http://www.dkngstudios.com/blog/2016/5/4/back-to-the-future-trilogy-box-set)
-
+- [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
 
 ---
 
@@ -4521,22 +4521,130 @@ Expected:
 
 
 Actual:
-- all the above
+- Read JS Allogne
+- fixed Deby's hacked site and email account
 
 Read/Watched:
 
 
 - [:+1: Generative Art with Node.js and Canvas](https://mattdesl.svbtle.com/generative-art-with-nodejs-and-canvas)
 - [On-Page SEO in 2016: The 8 Principles for Success - Whiteboard Friday](https://moz.com/blog/on-page-seo-8-principles-whiteboard-friday)
-
+- [8
+12 Extremely Useful Hacks for JavaScript](https://blog.jscrambler.com/12-extremely-useful-hacks-for-javascript/)
+- [lemonad](https://github.com/fogus/lemonad)
+- [An OCD critique of the new Instagram logo/UI](https://medium.com/@bmamaril/an-ocd-critique-of-the-new-instagram-logo-ui-2c8f9917c651#.s7slljf7p)
+- [HipHopQuoted](https://hiphopquoted.com/)
+- [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
 
 ---
 
-## DAY 157 - DATE - TITLE
-## DAY 158 - DATE - TITLE
-## DAY 159 - DATE - TITLE
-## DAY 160 - DATE - TITLE
-## DAY 161 - DATE - TITLE
+## DAY 157 - May 14 - Saturday(Allogne, rss, fam)
+
+
+Expected:
+- Read JS Allogne
+
+
+Actual:
+- all the above
+
+Read/Watched:
+
+- [My Advice for First-Time Entrepreneurs](https://medium.com/@garyvee/my-advice-for-first-time-entrepreneurs-efb45e69967d#.gbhkwd3bo)
+- [HashNode](https://hashnode.com)
+- [StinkDigital](http://www.stinkdigital.com/about)
+- [Small Victories](http://www.smallvictori.es/)
+- [Truly Fluid Typography With vh And vw Units](https://www.smashingmagazine.com/2016/05/fluid-typography/)
+- [Neural Networks in Javascript](http://blog.webkid.io/neural-networks-in-javascript/)
+- [mindjs](http://www.mindjs.net/)
+- [brainjs](https://github.com/harthur-org/brain.js)
+- [Web Design Trends 2016: The Definitive Guide](https://www.uxpin.com/web-design-trends-2016-definitive-guide?section=intro)
+- [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+
+---
+
+## DAY 158 - May 15 - Sunday(fam, rss, allogne)
+
+Expected:
+- Read JS Allogne
+
+
+Actual:
+- all the above
+
+Read/Watched:
+
+ - [Os´ci`nes](http://oscin.es/)
+ - [The Design Process: A Pyramid](https://medium.freecodecamp.com/the-design-process-a-pyramid-c77135c177d4#.5mee7t92y)
+ - [Developers, Learn To Say No.](https://medium.com/@akosma/developers-learn-to-say-no-777fe571b38d#.aa1l2hlkp)
+ - [I’m a boring programmer (and proud of it)](https://m.signalvnoise.com/i-m-a-boring-programmer-and-proud-of-it-d4ac3dd2defe#.m2wpu42wh)
+- [‘The Art of Computer Programming’ by Donald Knuth](https://medium.freecodecamp.com/the-art-of-computer-programming-by-donald-knuth-82e275c8764f#.wr8n6b8gb)
+- [Handling whitespace in ES6 template literals](http://www.2ality.com/2016/05/template-literal-whitespace.html)
+- [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+
+---
+
+## DAY 159 - May 16 - Monday(Teach Mike)
+
+Expected:
+- Teach mike
+- Read JS Allogne
+
+
+Actual:
+- Made a 1 page site for mike to practice with
+- Make a project starter for mike to get started with
+
+Read/Watched:
+- [:+1: To Engineers Who Tried to Use Jade Template Engine and Can’t Get Started](http://webapplog.com/jade/)
+- [Three Skills Every New Programmer Should Learn](https://www.sitepoint.com/three-skills-every-new-programmer-should-learn/)
+- [:+1: Thems FOUTing words](http://codepen.io/andrewtibbetts/post/thems-fouting-words)
+- [10 Fresh Google Fonts Pairings That Work Perfectly Together](https://blog.prototypr.io/10-fresh-google-fonts-pairings-that-work-perfectly-together-cc61c91672a4#.30m34bmdp)
+- [Colorful colorful CodePen](http://codepen.io/johnchinjew/pen/GZLagy?editors=0010)
+- [ADAPTIVE BACKGROUNDS](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/)
+- [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+
+---
+
+
+## DAY 160 - May 17 - Tuesday(Mike, DDC, Allogne)
+
+Expected:
+- Teach mike
+- Read JS Allogne
+
+
+Actual:
+- [What's the Difference Between Java and JavaScript?](http://code.tutsplus.com/tutorials/whats-the-difference-between-java-and-javascript--cms-26194)
+- [Reducing JPG File size](https://medium.com/@duhroach/reducing-jpg-file-size-e5b27df3257c#.vpqesexf6)
+- [:+1: robots.txt: the ultimate guide](https://yoast.com/ultimate-guide-robots-txt/)
+- [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+
+Encapsulation and Extension
+> Encapsulation and Extension exist in a natural state of tension. A program with elaborate encapsulation resists breakage but can also be difficult to refactor in other ways. Be mindful of when it’s best to Compose and when it’s best to Extend.
+
+Closures
+> Closures tightly couple functions to the environments where they are created limiting their flexibility. Using this alleviates the coupling. Copying objects is but one example of where that flexibility is needed.
+---
+
+
+## DAY 161 - May 18 - Wednesday()
+
+Expected:
+- Teach mike
+- Read JS Allogne
+
+
+Actual:
+
+- [090: Evolution](https://blog.codepen.io/2016/05/18/090-evolution/)
+- [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+- [CSS coding techniques](https://hacks.mozilla.org/2016/05/css-coding-techniques/)
+- [Untangling Spaghetti Code: How to Write Maintainable JavaScript](https://www.sitepoint.com/write-maintainable-javascript/)
+- [Writing Unit Tests for Existing JavaScript](https://rmurphey.com/blog/2014/07/13/unit-tests)
+
+---
+
 ## DAY 162 - DATE - TITLE
 ## DAY 163 - DATE - TITLE
 ## DAY 164 - DATE - TITLE
@@ -4613,7 +4721,7 @@ Read/Watched:
 ## DAY 221 - DATE - TITLE
 ## DAY 222 - DATE - TITLE
 ## DAY 223 - DATE - TITLE
-## DAY 224 - DATE - TITLE
+## DAY 224-- - DATE - TITLE
 ## DAY 225 - DATE - TITLE
 ## DAY 226 - DATE - TITLE
 ## DAY 227 - DATE - TITLE
