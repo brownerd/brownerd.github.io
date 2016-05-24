@@ -133,7 +133,13 @@ Category theory is abstract enough to model many things, but let's apply this to
 
 - Excerpt From: drboolean. “mostly-adequate-guide.” iBooks.
 
+---
 
+## class
+
+the class keyword is a declarative way to write functions and prototypes.
+
+- https://leanpub.com/javascriptallongesix/read
 
 ---
 
@@ -247,6 +253,20 @@ const imperativeDouble = list => {
 
 console.log(imperativeDouble(arr))  // [2, 3, 6]
 ```
+---
+
+## delegation vs. forwarding
+Delegation and forwarding are both very similar. One metaphor that might help distinguish them is to think of receiving an email asking you to donate some money to a worthy charity.
+
+- If you forward the email to a friend, and the friend donates money, the friend is donating their own money and getting their own tax receipt.
+
+- If you delegate responding to your accountant, the accountant donates your money to the charity and you receive the tax receipt.
+
+In both cases, the other entity does the work when you receive the email.
+
+Delegation is a many-to-many relationship.
+
+- https://leanpub.com/javascriptallongesix/read
 
 ---
 
@@ -1034,6 +1054,60 @@ A method is a function of an object
 
 ---
 
+## Mixin
+
+The simplest possible metaobject in JavaScript is a mixin. Consider our naïve object:
+
+```js
+const sam = {
+  firstName: 'Sam',
+  lastName: 'Lowry',
+  fullName () {
+    return this.firstName + " " + this.lastName;
+  },
+  rename (first, last) {
+    this.firstName = first;
+    this.lastName = last;
+    return this;
+  }
+}
+```
+
+We can separate its domain properties from its behaviour:
+
+```js
+const sam = {
+  firstName: 'Sam',
+  lastName: 'Lowry'
+};
+
+const Person = {
+  fullName () {
+    return this.firstName + " " + this.lastName;
+  },
+  rename (first, last) {
+    this.firstName = first;
+    this.lastName = last;
+    return this;
+  }
+};
+```
+And use `Object.assign` to mix the behaviour in:
+
+```js
+Object.assign(sam, Person);
+
+sam.rename
+```
+  //=> [Function]
+This allows us to separate the behaviour from the properties in our code.
+
+Our Person object is a mixin, it provides functionality to be mixed into an object with a function like Object.assign. Mixins are not “copied” into objects in the sense of making brand new versions of each of their functions: Object.assign copies references to each function from the mixin into the target object.
+
+- https://leanpub.com/javascriptallongesix/read
+
+---
+
 ## Monads
 
 “Monads are pointed functors that can flatten”
@@ -1055,6 +1129,29 @@ Model: Represents domain-specific knowledge and data
 
 ---
 
+## Naive object
+
+We call this a “naïve” object. It has state and behaviour, but it lacks division of responsibility between its state and its behaviour.
+
+```js
+const sam = {
+  firstName: 'Sam',
+  lastName: 'Lowry',
+  fullName () {
+    return this.firstName + " " + this.lastName;
+  },
+  rename (first, last) {
+    this.firstName = first;
+    this.lastName = last;
+    return this;
+  }
+}
+```
+The simplest possible metaobject in JavaScript is a mixin.
+
+- https://leanpub.com/javascriptallongesix/read
+
+---
 
 ## Natives (FRONS BEAD)
 
@@ -1354,6 +1451,61 @@ Let's clear up some misconceptions: Promises are not about replacing callbacks. 
 Another way of thinking about a Promise is as an event listener, on which you can register to listen for an event that lets you know when a task has completed. It's an event that will only ever fire once, but it can be thought of as an event nonetheless.
 
 - https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/ch4.md
+
+---
+
+## Prototypes
+
+Prototypes late bind the method bodies and they late bind the identities of the methods being delegated. So you can add and remove methods to a prototype, and the behaviour of all of the objects bound to that prototype will be changed.
+
+We say that prototypes are open for extension, because you can extend their behaviour after creating objects with them. We say that mixins are closed for extension, because behaviour added to a mixin does not change any of the objects that have already incorporated it.
+
+
+- Late bound on method bodies, just like delegation through method proxies;
+
+- Late bound on the method identities, which is superior to delegation through method proxies;
+
+- Evaluated in the receiver’s context, just like delegation.
+
+- Open for extension, unlike mixins, forwarding, and explicit delegation.
+
+Prototypes are usually the first form of metaobject that many developers learn in JavaScript, and quite often the last.
+
+```js
+const Person = {
+  fullName () {
+    return this.firstName + " " + this.lastName;
+  },
+  rename (first, last) {
+    this.firstName = first;
+    this.lastName = last;
+    return this;
+  }
+};
+
+const sam = Object.create(Person);
+This associates behaviour with our object:
+
+sam.rename('sam', 'hill');
+sam.fullName();
+  //=> 'sam hill'
+```
+
+
+Let’s work from two principles:
+
+1. Any object can have an object as its prototype, and any object can be a prototype.
+
+2. he behaviour of an object consists of all of its own behaviour, plus all the behaviour of its prototype.
+
+
+
+
+
+- https://leanpub.com/javascriptallongesix/read
+
+
+
 
 
 ---

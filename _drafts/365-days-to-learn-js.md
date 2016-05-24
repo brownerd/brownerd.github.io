@@ -4615,6 +4615,9 @@ Expected:
 
 
 Actual:
+- ata
+
+Read/Watched:
 - [What's the Difference Between Java and JavaScript?](http://code.tutsplus.com/tutorials/whats-the-difference-between-java-and-javascript--cms-26194)
 - [Reducing JPG File size](https://medium.com/@duhroach/reducing-jpg-file-size-e5b27df3257c#.vpqesexf6)
 - [:+1: robots.txt: the ultimate guide](https://yoast.com/ultimate-guide-robots-txt/)
@@ -4628,7 +4631,7 @@ Closures
 ---
 
 
-## DAY 161 - May 18 - Wednesday()
+## DAY 161 - May 18 - Wednesday(RSS, Allogne, Teah Mike)
 
 Expected:
 - Teach mike
@@ -4636,21 +4639,121 @@ Expected:
 
 
 Actual:
+- ATA
 
+Read/Watched:
 - [090: Evolution](https://blog.codepen.io/2016/05/18/090-evolution/)
 - [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
 - [CSS coding techniques](https://hacks.mozilla.org/2016/05/css-coding-techniques/)
 - [Untangling Spaghetti Code: How to Write Maintainable JavaScript](https://www.sitepoint.com/write-maintainable-javascript/)
 - [Writing Unit Tests for Existing JavaScript](https://rmurphey.com/blog/2014/07/13/unit-tests)
+- [9 Reasons Your Site Should Be Static](9 Reasons Your Site Should Be Static)
+- [:+1: From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.ry6wqvqy3)
 
 ---
 
-## DAY 162 - DATE - TITLE
-## DAY 163 - DATE - TITLE
-## DAY 164 - DATE - TITLE
-## DAY 165 - DATE - TITLE
-## DAY 166 - DATE - TITLE
-## DAY 167 - DATE - TITLE
+## DAY 162 - May 19 - Thursday(Teach Mike HTML)
+
+Expected:
+- Teach mike
+- Read JS Allogne
+
+Actual:
+- all the above
+
+Read/Watched:
+- [Instagram's Abomination Part I](http://www.elischiff.com/blog/2016/5/18/instagrams-abomination-part-i)
+---
+
+## DAY 163 - May 20 - Friday(RSS, Teach Mike CSS)
+
+Expected:
+- Teach mike
+- Read JS Allogne
+
+
+Actual:
+- all the above
+
+Read/Watched:
+- [:+1: Javascript String & Regex](http://codepen.io/SamirB/post/javascript-string)
+- [Ease into Flexbox - Part 1](http://codepen.io/townivan/post/ease-into-flexbox-part1)
+- [Ease into Flexbox - Part 2](http://codepen.io/townivan/post/ease-into-flexbox-part2)
+- [Part 3: Proportional layout](http://codepen.io/townivan/post/ease-into-flexbox-part3)
+- [Git Hook – npm install if package.json is Modified](https://davidwalsh.name/git-hook-npm-install-package-json-modified)
+
+
+---
+
+## DAY 164 - May 21 - Saturday()
+
+Expected:
+- RSS
+- Read JS Allogne
+
+Actual:
+- all the above
+
+Read/Watched:
+- [Web Image Effects Performance Showdown](https://www.smashingmagazine.com/2016/05/web-image-effects-performance-showdown/)
+- [Kajero](http://www.joelotter.com/kajero/)
+- [Lazy Loading Images? Don’t Rely On JavaScript!](http://robinosborne.co.uk/2016/05/16/lazy-loading-images-dont-rely-on-javascript/)
+- [Refactoring a javascript video store](http://martinfowler.com/articles/refactoring-video-store-js/)
+- [universal.css](https://github.com/marmelab/universal.css) Haha!
+- [Warren Buffet on scheduling meetings](https://m.signalvnoise.com/warren-buffet-on-scheduling-meetings-f0826c0e88f6#.6j644g1kh)
+
+
+
+---
+
+
+## DAY 165 - May 22 - Sunday()
+
+Expected:
+- RSS
+- Read JS Allogne
+
+Actual:
+- all the above
+
+Read/Watched:
+- [Words are hard](https://slackhq.com/words-are-hard-aabafc490d04#.ow9kbhoo1)
+- [:+1: Six nifty ES6 tricks](http://www.2ality.com/2016/05/six-nifty-es6-tricks.html)
+
+
+---
+
+## DAY 166 - May 23 - Monday(Meetings)
+
+Expected:
+- Meet with Kevin and Potter
+- Read JS Allogne
+
+Actual:
+- all the above
+
+Read/Watched:
+- [A Look at the New Firebase: A Powerful Google Platform](https://scotch.io/bar-talk/a-look-at-the-new-firebase-a-powerful-google-platform)
+- [RooftopCMS](https://www.rooftopcms.com/#features)
+
+---
+
+## DAY 167 - May 24 - Tuesday(Meet with Bob)
+
+Expected:
+- Meet with Bob
+- Helped Mike
+- Read JS Allogne
+
+Actual:
+- all the above
+
+Read/Watched:
+- [:+1: Injecting a Line Break](https://css-tricks.com/injecting-line-break/)
+
+
+---
+
 ## DAY 168 - DATE - TITLE
 ## DAY 169 - DATE - TITLE
 ## DAY 170 - DATE - TITLE
@@ -4721,7 +4824,7 @@ Actual:
 ## DAY 221 - DATE - TITLE
 ## DAY 222 - DATE - TITLE
 ## DAY 223 - DATE - TITLE
-## DAY 224-- - DATE - TITLE
+## DAY 224 - DATE - TITLE
 ## DAY 225 - DATE - TITLE
 ## DAY 226 - DATE - TITLE
 ## DAY 227 - DATE - TITLE
