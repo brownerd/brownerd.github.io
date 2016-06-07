@@ -4744,44 +4744,368 @@ Expected:
 - Meet with Bob
 - Helped Mike
 - Read JS Allogne
+- Soccer at Amir's school
+
+Actual:
+- all the above
+- Finished JS Allogne. Great book. 90% over my head but so well written that 75% of the book was understandable. The other 25% delt with stuff that I'm not experienced enough to understand the application. Overall it was a great read, but I am fried now...a good kind of fried. Like how you feel after you do a long run. Exhauseted but in better shape to go out and do it again.
+
+Read/Watched:
+- [:+1: Injecting a Line Break](https://css-tricks.com/injecting-line-break/)
+- [:+1: Reginald Braithwaite](http://raganwald.com/)
+- [5 Bulls**t Reasons Not to Use a Static Generator](https://www.netlify.com/blog/2016/05/24/5-bullst-reasons-not-to-use-a-static-generator)
+- [:+1: {API}Search](http://apis.io/)
+- [Create your own sphere in CSS](http://codepen.io/Mamboleoo/post/sphere-css)
+- [:+1: Use Lengths, Not Strings](http://hugogiraudel.com/2013/09/03/use-lengths-not-strings/)
+- [The Hidden Power of ES6 Generators: Observable Async Flow Control](https://medium.com/javascript-scene/the-hidden-power-of-es6-generators-observable-async-flow-control-cfa4c7f31435#.a7jnms9h1) I did a crappy job of reading this. still fried from JS Allogne.
+
+---
+
+## DAY 168 - May 25 - Wednesday()
+
+
+Expected:
+- Helped Mike
+
 
 Actual:
 - all the above
 
+
 Read/Watched:
-- [:+1: Injecting a Line Break](https://css-tricks.com/injecting-line-break/)
+- [stylelint](http://stylelint.io/)
+- [Stylelint: The Style Sheet Linter We’ve Always Wanted](https://www.smashingmagazine.com/2016/05/stylelint-the-style-sheet-linter-weve-always-wanted/)
+- [Removing Items From An Array In Javascript (by index)](http://ilikekillnerds.com/2016/05/removing-items-array-javascript-by-index/)
+- [Unordered List Style Using Dash/Hyphen](http://ilikekillnerds.com/2016/04/unordered-list-style-using-dashhyphen/)
+- [Removing Duplicate Objects From An Array By Property Name In Javascript](http://ilikekillnerds.com/2016/05/removing-duplicate-objects-array-property-name-javascript/)
+- [Removing A Character From The Start/End of a String In Javascript](http://ilikekillnerds.com/2016/05/removing-character-startend-string-javascript/)
+- [All About App Search: Indexing, Ranking Factors, Universal Links, and More - Whiteboard Friday](https://moz.com/blog/app-search-whiteboard-friday)
+- [:+1: JavaScript Combinators, the “Six” Edition - Reginald Braithwaite](https://vimeo.com/153097877)
+- [:+1: “We will encourage you to develop the three great virtues of a programmer: laziness, impatience, and hubris”](http://raganwald.com/2016/04/15/laziness-is-a-virtue.html)
+- [:+1: allogn.es](http://allong.es/try/)
+- [Isometric and 3D Grids](http://tympanus.net/codrops/2016/05/25/isometric-and-3d-grids/)
+- [:+1: 10
+12 Extremely Useful Hacks for JavaScript](https://blog.jscrambler.com/12-extremely-useful-hacks-for-javascript/)
+- [:+1: Design at 1x—It’s a Fact](https://medium.com/shyp-design/design-at-1x-its-a-fact-249c5b896536#.92dzurej1)
+- [:+1: Target=”_blank” — the most underestimated vulnerability ever](https://medium.com/@jitbit/target-blank-the-most-underestimated-vulnerability-ever-96e328301f4c#.5bvv1axzt)
+- [Create a New JavaScript Framework: How We Built the Daily Mail CMS](https://code.tutsplus.com/courses/create-a-new-javascript-framework-how-we-built-the-daily-mail-cms/lessons/create-a-new-javascript-framework-how-we-built-the-daily-mail-cms)
+- [:+1: Flexbox Fundamentals](https://egghead.io/series/flexbox-fundamentals)
+- [:+1: Advanced Logging with the JavaScript Console](https://egghead.io/series/js-console-for-power-users)
+- [:+1: RxJS Beyond the Basics: Operators in Depth](https://egghead.io/series/rxjs-beyond-the-basics-operators-in-depth)
+
+
 
 
 ---
 
-## DAY 168 - DATE - TITLE
-## DAY 169 - DATE - TITLE
-## DAY 170 - DATE - TITLE
-## DAY 171 - DATE - TITLE
-## DAY 172 - DATE - TITLE
-## DAY 173 - DATE - TITLE
+## DAY 169 - May 26 - Thursday(Travel to SJ)
+
+Expected:
+- prepped to leave for SJ
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+
+
+---
+
+## DAY 170 - May 27 - Friday(SJ)
+
+Expected:
+
+
+Actual:
+- Went hiking
+- Piriformis pain
+- raji and I starting to get sick
+- went to get coffee in downtown SJ
+- ReReading Mostly Adequate Guide to Functional Programming
+
+
+Read/Watched:
+- [Racial Fault Lines in Silicon Valley](https://blog.devcolor.org/racial-fault-lines-in-silicon-valley-390cd0e4a6dc#.sa36t3t4v)
+- [Ways Pair Programming Can Fail](https://blog.devcolor.org/ways-pair-programming-can-fail-cf409bd9203c#.ftafwejdk)
+- [Nobody Knows What They’re Doing](https://blog.devcolor.org/nobody-knows-what-they-re-doing-42b5c3ee487d#.e8nb2b3ub)
+- [:+1: What the Top Tech Companies are Looking for in Engineers](https://blog.devcolor.org/what-the-top-tech-companies-are-looking-for-in-engineers-9a6b4bcc91aa#.s1pyf3ne0)
+- [:+1: Font Family Reunion](http://fontfamily.io/)
+- [The @font-face dilemma](https://www.viget.com/articles/the-font-face-dilemma)
+
 
 
 
 ---
+
+
+## DAY 171 - May 28  - Saturday(Fam day)
+
+Expected:
+
+
+Actual:
+- caught up with Minal's friends
+- Raji and I are totally sick with a cold
+- went to bet early
+- Warriors won game 6
+
+
+Read/Watched:
+- nothing
+
+---
+
+
+## DAY 172 - May 29 - Sunday(Fam day)
+
+Expected:
+
+
+Actual:
+- Read RSS
+- ReReading Mostly Adequate Guide to Functional Programming
+- still sick. runny nose is mostly gone. got a cough now
+
+
+
+Read/Watched:
+- [CSS loaders and timing functions](http://codepen.io/joogl/pen/dXyNPM)
+- [Flexbox: flex-direction:column](http://codepen.io/townivan/post/flexbox-flex-direction-column)
+- [DOM Tree Viewer](http://codepen.io/sfi0zy/pen/rLNWmr?editors=1010)
+- [Family.scss](http://lukyvj.github.io/family.scss/)
+- [Flex Layout Attribute](http://progressivered.com/fla/?d=1&v=1&h=1&s=1&i=000&a=000#playground)
+- [HTML5 Fullscreen Background Video with CSS and JS (Plugin/Library)](http://codetheory.in/html5-fullscreen-background-video/)
+- [BIDEO.JS](https://rishabhp.github.io/bideo.js/)
+- [AlgorithmVisualizer](http://jasonpark.me/AlgorithmVisualizer/#path=sorting/bubble/basic)
+- [:+1: HEAD](https://github.com/joshbuchea/HEAD)
+- [The Vanilla Javascript Repository](http://www.vanillalist.com/)
+
+
+
+---
+
+
+## DAY 173 - May 30 - Monday(SF)
+
+
+Expected:
+
+
+Actual:
+- still sick. got a cough. Pirformis is killing me
+- ReReading Mostly Adequate Guide to Functional Programming
+- Went to SF to show Amir the Golden Gate Bridge
+- Some fucker broke into our rented van and stole my camera bag in San Francisco out side the museum of fine arts.
+
+Read/Watched:
+- [E-Commerce Front Lines Report: Developer Pains & Product Review](https://snipcart.com/blog/e-commerce-report-developer-pains)
+- [Running Survey.io for Snipcart](https://snipcart.com/blog/running-surveyio-for-snipcart)
+- [survey.io](http://survey.io/)
+- [Our Shopping Cart Platform's Features VS Benefits:
+Full Rundown & Infographic](https://snipcart.com/blog/shopping-cart-features-benefits)
+- [Building an ASCII Posters Store With Snipcart & Filestack](https://blog.filestack.com/fun/building-an-ascii-posters-store-with-snipcart-filestack/)
+- [Case Study: Stereo's Quick, Lean E-Commerce Project](https://snipcart.com/blog/case-study-stereo-quick-e-commerce)
+- [Snipcart vs. WooCommerce:
+Comparing E-Commerce Solutions & Workflows](https://snipcart.com/blog/snipcart-vs-woocommerce)
+- [Case Study: Deux Huit Huit's Impressive,
+Purely Custom Snipcart Integration](https://snipcart.com/blog/case-study-deux-huit-huit-custom-integration)
+- [Smart Responsive Design Patterns, Or When Off-Canvas Isn’t Good Enough](https://www.smashingmagazine.com/2016/05/smart-responsive-design-patterns-or-when-off-canvas-isnt-good-enough/)
+- [Introducing Ramda](http://buzzdecafe.github.io/code/2014/05/16/introducing-ramda)
+
+
+---
+
+
+## DAY 174 - May 31 - Tuesday(Back to SF)
+
+
+Expected:
+
+
+Actual:
+- drove back to SF to see golden gate bridge
+- went to pick up stolen bag
+
+
+Read/Watched:
+- just espresso videos
+
+---
+
+
 
 ### May in review
 
+- Mike is improving rapidly. He is getting up on Git, HTML and CSS quickly. I'm psyched for him!
+
+- This has be a really slow month for me. Fixing hacked WP sites took up a to of time. Teaching Mike took up a lot of time. I had a bunch of meetings with Integrity people this month. And reading JS Allogne was the sole JS task I took on in may.
+
+- Finished JS Allogne. Great book. 90% over my head but so well written that 75% of the book was understandable. The other 25% delt with stuff that I'm not experienced enough to understand the application. Overall it was a great read, but I am fried now...a good kind of fried. Like how you feel after you do a long run. Exhauseted but in better shape to go out and do it again.
+
+- I feel like I understand JS better right now, but I still feel like a shitty programmer.
+
+- I need a mentor
+
+- I need to do more JS programming
+
+- I need to learn some frameworks
+
+- I need to figure out if HackReactor is possible
+
+- I need to figure out what I want to do when this is over
+
+- I'm greteful for this opportunity
+
 
 
 ---
 
 
 
+## DAY 175 - June 1 - Wednesday(Travel back to STL)
 
-## DAY 174 - DATE - TITLE
-## DAY 175 - DATE - TITLE
-## DAY 176 - DATE - TITLE
-## DAY 177 - DATE - TITLE
-## DAY 178 - DATE - TITLE
-## DAY 179 - DATE - TITLE
-## DAY 180 - DATE - TITLE
-## DAY 181 - DATE - TITLE
+no work all travel
+
+Read/Watched:
+- just espresso videos
+
+---
+
+## DAY 176 - June 2 - Thursday(Kids stayed home)
+
+Expected:
+
+
+Actual:
+- coffee with zack
+- met up with Kyle kerner
+- brought breakfast home
+- went to DevLunch
+- played with the kids
+- mom brought food over
+- watched the nba finals
+
+
+Read/Watched:
+- just espresso videos
+
+---
+
+## DAY 177 - June 3 - Friday(Wifey day, RSS)
+
+Expected:
+
+
+Actual:
+- tried to catch up with RSS stuff
+
+Read/Watched:
+- [Learning Javascript at 30 years old.](https://medium.com/@rikin311/learning-javascript-at-30-years-old-400a62f37cf4#.cakhnwysh)
+- [Learning Javascript and Meteor from scratch; Putting an Instagram Clone in the App Stores](https://medium.com/@jracollins/my-first-app-carspot-an-instagram-clone-for-cars-was-approved-for-the-itunes-store-on-the-18-8-f4668f8b17de#.81acg7rwh)
+- [:+1: Harnessing the Google Maps JavaScript API the Right Way](https://www.sitepoint.com/google-maps-javascript-api-the-right-way/)
+- [How to Build a News Website Layout with Flexbox](https://webdesign.tutsplus.com/tutorials/how-to-build-a-news-website-layout-with-flexbox--cms-26611)
+- [Improving Your CSS with Parker](http://csswizardry.com/2016/06/improving-your-css-with-parker/) I get this, but I find it a little crazy too. Regardless, i think it's a great idea to make a tool that help us reason about our css.
+- [Immersive Bootcamps Are the New College Degree](http://reactorcore.com/immersive-bootcamps-new-college-degree/)
+- [Looking Under the Hood of Our Student Outcome Metrics](http://www.hackreactor.com/blog/looking-under-the-hood-of-our-student-outcome-metrics)
+- [Glassdoor’s Top Cities to Work In Feature Reactor Core Schools](http://reactorcore.com/glassdoors-top-cities-work-reactor-core-schools/)
+- [The Broken Window Theory In Design & Product Development](https://medium.com/desk-of-van-schneider/the-broken-window-theory-in-design-product-development-93765be7349#.d1ciojnqj)
+- [How going to coding events helped me get an awesome job](https://medium.freecodecamp.com/networking-at-meet-ups-getting-hired-f0f7c4f4681a#.e8uepwy6m)
+- [:+1: Code Oakland: Trailer](https://vimeo.com/107716765)
+- [Teached](http://www.teached.org/welcome-home/)
+- [JavaScript Factory Functions vs Constructor Functions vs Classes](https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e#.47j4hxgph)
+- [:+1: JavaScript Factory Functions vs Constructor Functions vs Classes](https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e#.47j4hxgph)
+- [:+1: Setting Up Elasticsearch for a Blog](https://ponyfoo.com/articles/setting-up-elasticsearch-for-a-blog)
+- [SEO for Bloggers: How to Nail the Optimization Process for Your Posts - Whiteboard Friday](https://moz.com/blog/seo-for-bloggers-whiteboard-friday)
+- [What is PhantomJS and How is it Used?](https://scotch.io/tutorials/what-is-phantomjs-and-how-is-it-used)
+- [Regular Expressions in JavaScript](https://www.sitepoint.com/expressions-javascript/)
+5
+
+
+---
+
+## DAY 178 - June 4 - Saturday(Major Piraformis pain FUCK!)
+
+
+Expected:
+
+
+Actual:
+- watched sketch stuff
+- piraformis still hurts
+- tried to catch up with RSS stuff
+
+
+Read/Watched:
+- [SKETCH APP TUTORIALS](https://leveluptutorials.com/tutorials/sketch-app-tutorials)
+- [JSON is Not Cool Anymore: Implementing Protocol Buffers in Node.js](http://webapplog.com/json-is-not-cool-anymore/)
+- [TypeTerms](https://www.supremo.tv/typeterms/)
+- [multirange](http://leaverou.github.io/multirange/)
+- [:+1: The Ideal Design Workflow](https://blog.prototypr.io/the-ideal-design-workflow-2c200b8e337d#.mlp1zx8h9)
+- [mailgen](https://github.com/eladnava/mailgen)
+- [Commit to Contribute](http://alistapart.com/article/commit-to-contribute)
+- [Battling BEM (Extended Edition): 10 Common Problems And How To Avoid Them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/)
+- [AWESOME SKETCH RESOURCES FOR YOUR LATEST PROJECT](https://themmed.com/sketch-app-essentials/)
+- [Want to Prototype in Sketch? Craft has got your back](https://medium.com/sketch-app-sources/want-to-prototype-in-sketch-craft-has-got-your-back-31c8416d74#.f48aqzhfo)
+
+
+
+---
+
+## DAY 179 - June 5 - Sunday(fam day, leg KILLS!)
+
+Expected:
+
+
+Actual:
+- fam day
+
+
+
+Read/Watched:
+- [Everything You Need to Read and Watch About Muhammad Ali](https://theringer.com/muhammad-ali-syllabus-read-watch-video-174a6bea681a#.c0vw4buod)
+- [:+1: Hiring a programmer? Ditch the coding interview and get back to basics](https://m.signalvnoise.com/hiring-a-programmer-ditch-the-coding-interview-and-get-back-to-basics-f5c43e369eaf#.6mzhuabbl)
+
+
+---
+## DAY 180 - June 6 - Monday(saw 2 back doctors)
+
+Expected:
+
+
+Actual:
+- get body fixed
+
+
+
+Read/Watched:
+- [Haskell Basics - FunFunFunction #35](https://www.youtube.com/watch?v=j5a9l1Td2Lo&feature=em-subs_digest)
+
+
+
+
+---
+
+## DAY 181 - June 7 - Tuesday(Start 7 langs)
+
+Expected:
+- start 7 langs
+- meet with Kiya
+
+Actual:
+- all the above
+
+
+
+Read/Watched:
+- [Barbaric Tip of the Week: How to Recover a Lost Commit With Git](http://www.barbarianmeetscoding.com/blog/2016/06/07/barbaric-tip-of-the-week-how-to-recover-a-lost-commit-with-git/)
+
+
+
+---
+
+
 ## DAY 182 - DATE - TITLE
 ## DAY 183 - DATE - TITLE
 ## DAY 184 - DATE - TITLE

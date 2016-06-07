@@ -30,3 +30,16 @@ http://codepen.io/christiannwamba/
 
 - [14-Year-Old Boy Arrested For Bringing Homemade Clock To School](http://techcrunch.com/2015/09/16/14-year-old-boy-arrested-for-bringing-homemade-clock-to-school/) Ahmed Mohamed - Stay awesome!
 - [I’m Ahmed. Except I’m Not Brown.](http://ihnatko.com/2015/09/16/im-achmed-except-im-not-brown/)
+
+
+
+- [Racial Fault Lines in Silicon Valley](https://blog.devcolor.org/racial-fault-lines-in-silicon-valley-390cd0e4a6dc#.sa36t3t4v)
+
+
+- [DevColor](http://www.devcolor.org/)
+- [/dev/color Blog](https://blog.devcolor.org/latest)
+
+
+
+- [:+1: Code Oakland: Trailer](https://vimeo.com/107716765)
+- [Teached](http://www.teached.org/welcome-home/)
