@@ -5033,6 +5033,7 @@ Expected:
 
 Actual:
 - watched sketch stuff
+- amir went to eric's
 - piraformis still hurts
 - tried to catch up with RSS stuff
 
@@ -5060,6 +5061,7 @@ Expected:
 
 Actual:
 - fam day
+- leg kills! Worst pain yet
 
 
 
@@ -5100,36 +5102,586 @@ Actual:
 
 Read/Watched:
 - [Barbaric Tip of the Week: How to Recover a Lost Commit With Git](http://www.barbarianmeetscoding.com/blog/2016/06/07/barbaric-tip-of-the-week-how-to-recover-a-lost-commit-with-git/)
+- [:+1: Seven Languages in Seven weeks](https://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X) Started reading this to learn more about programming
 
 
 
 ---
 
 
-## DAY 182 - DATE - TITLE
-## DAY 183 - DATE - TITLE
-## DAY 184 - DATE - TITLE
-## DAY 185 - DATE - TITLE
-## DAY 186 - DATE - TITLE
-## DAY 187 - DATE - TITLE
-## DAY 188 - DATE - TITLE
-## DAY 189 - DATE - TITLE
-## DAY 190 - DATE - TITLE
-## DAY 191 - DATE - TITLE
-## DAY 192 - DATE - TITLE
-## DAY 193 - DATE - TITLE
-## DAY 194 - DATE - TITLE
-## DAY 195 - DATE - TITLE
-## DAY 196 - DATE - TITLE
-## DAY 197 - DATE - TITLE
-## DAY 198 - DATE - TITLE
-## DAY 199 - DATE - TITLE
-## DAY 200 - DATE - TITLE
-## DAY 201 - DATE - TITLE
-## DAY 202 - DATE - TITLE
-## DAY 203 - DATE - TITLE
-## DAY 204 - DATE - TITLE
-## DAY 205 - DATE - TITLE
+## DAY 182 - June 8 - Wednesday(mike, io)
+
+Expected:
+- talked with mike
+- started mike on a new project
+
+Actual:
+- all the above
+- started Io
+
+
+Read/Watched:
+- [Pantone Color Names v. What They Actually Look Like](https://medium.com/slackjaw/pantone-color-names-v-what-they-actually-look-like-3361033af61a#.kplzo87tw)
+- [I made a Chrome extension that changes ‘transcended race’ to ‘was deemed safe by white people’](https://medium.com/@dexdigi/i-made-a-chrome-extension-that-changes-transcended-race-to-was-deemed-safe-by-white-people-47649e79b3bd#.1fjux7rjk)
+- [Designing in color](https://medium.freecodecamp.com/designing-in-color-abd358660a7b#.1e6u7ykhp)
+- [Design for Programmers](https://blog.prototypr.io/design-for-programmers-d38c56982cd0#.iff3bm2b7)
+- [Versioning, Licensing, and Sketch 4.0](https://blog.sketchapp.com/versioning-licensing-and-sketch-4-0-8ad98783e9ba#.490m7ufy3)
+- [:+1: 10 Lodash Features You Can Replace with ES6](https://www.sitepoint.com/lodash-features-replace-es6/)
+- [io](http://iolanguage.org/)
+
+
+
+
+---
+
+## DAY 183 - June 9 - Thursday(mike, 7 langs)
+
+Expected:
+- talked with mike
+- started mike on a new project
+- continue with 7 langs
+
+Actual:
+- all the above
+- started Io
+
+
+Read/Watched:
+- [:+1: Object Oriented Programming vs. Functional Programming](http://www.codenewbie.org/blogs/object-oriented-programming-vs-functional-programming)
+- [:+1: When FP? And when OOP?](http://raganwald.com/2013/04/08/functional-vs-OOP.html)
+- [:+1: VIDEO 6 WAYS TO TIGHTEN UP YOUR DESIGNS](http://blog.invisionapp.com/6-ways-to-tighten-up-your-designs/)
+- [:+1: DESIGN SNACK #7: BASELINE GRIDS IN WEB / UI DESIGN](http://blog.invisionapp.com/design-snack-7-baseline-grids-in-web-ui-design/)
+- [DESIGN SNACK #2 : 4 AWESOME SKETCH TIPS](http://blog.invisionapp.com/design-snack-2-4-awesome-sketch-tips/)
+- [:+1: How To Use Airtable as a Front End Developer](https://css-tricks.com/use-airtable-front-end-developer/)
+- [Google I/O 2016](https://www.youtube.com/playlist?list=PLOU2XLYxmsILe6_eGvDN3GyiodoV3qNSC)
+- [Nine Atomicdust Projects Selected for AIGA Saint Louis Design Show](http://www.atomicdust.com/aiga-saint-louis-design-show/)
+- [Using JavaScript in SVG](http://thenewcode.com/1094/Using-JavaScript-in-SVG)
+- [:+1: Airtable](https://airtable.com/)
+- [ES Modules and Node.js: Hard Choices](https://medium.com/@nodesource/es-modules-and-node-js-hard-choices-2b6995e4d491#.gnt09kilq)
+- [When 'not' to use arrow functions](http://rainsoft.io/when-not-to-use-arrow-functions-in-javascript/)
+- [JS testing - part 1](http://codepen.io/reauv/pen/beEpaP?editors=0010)
+
+
+
+
+
+---
+
+
+## DAY 184 - June 10 - Friday(7 langs, jabari, Ali)
+
+Expected:
+- went to chiropractor
+- lunch with jabari
+- watched Ali tribute, awesome
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- [Making your JavaScript Pure](http://alistapart.com/article/making-your-javascript-pure)
+- [Salary Negotiation: how not to set a bunch of money on fire](https://medium.freecodecamp.com/salary-negotiation-how-not-to-set-a-bunch-of-money-on-fire-605aabbaf84b#.q7fttv3kz)
+- [Rethinking Nike+ Running](http://www.azizfirat.com/blog/2016/5/28/rethinking-nike-running)
+
+
+---
+
+## DAY 185 - June 11 - Saturday(fam day, zoo)
+
+Expected:
+- fam day
+- went to zoo
+
+Actual:
+- all the above
+
+
+Read/Watched:
+
+---
+
+## DAY 186 - June 12 - Sunday(fam day)
+
+Expected:
+- fam day
+- grits, pool
+
+Actual:
+- all the above
+
+
+Read/Watched:
+
+
+---
+
+
+## DAY 187 - June 13 - Monday(7 langs)
+
+Expected:
+- 7 langs
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- Seven Languages in Seven Weeks
+- [Mega Boilerplate](http://megaboilerplate.com/)
+- [is.js](https://github.com/pwnn/is.js)
+- [Infinite Scrolling Best Practices](https://uxplanet.org/infinite-scrolling-best-practices-c7f24c9af1d#.984odnhj4)
+- [Form Validation UX in HTML and CSS](https://css-tricks.com/form-validation-ux-html-css/)
+
+
+
+---
+
+## DAY 188 - June 14 - Tuesday(Finish 7 langs, lunch w/ dad)
+
+Expected:
+- lunch with Dad
+- 7 langs
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- [:+1: Autofill: What web devs should know, but don’t](http://blog.cloudfour.com/autofill-what-web-devs-should-know-but-dont/)
+- [auto complete table](https://html.spec.whatwg.org/multipage/forms.html#inappropriate-for-the-control)
+- [Blobs](http://codepen.io/3dh8er/pen/xOVpaK)
+- [Where The Web Is Going In 2016](http://developer.telerik.com/featured/web-going-2016/)
+- [:+1: How Emoji Can Improve Your Code—Seriously](https://www.tjvantoll.com/2016/06/10/emoji-and-coding/) not serious but fun
+- [:+1: Seven Languages in Seven weeks](https://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X) Finished. I didn't do many of the code challenges. I didn't have the time. Other great resources for this book are:
+- [Seven Languages In Seven Weeks: Io - Day 2](http://www.bennadel.com/blog/2066-seven-languages-in-seven-weeks-io---day-2.htm)
+- [Seven Languages in Seven Weeks: Io, Day 2](http://www.ybrikman.com/writing/2012/02/04/seven-languages-in-seven-weeks-io-day-2/)
+- [Seven Languages: Week 2 (Io) - Day 2](http://www.nickknowlson.com/blog/2012/01/11/seven-languages-week-2-day-2/)
+
+
+
+---
+
+
+
+## DAY 189 - June 15 - Wednesday(DeadPool, talk with mike, RSS, Teaching)
+
+
+Expected:
+- cathc up with mike
+- figure out next steps
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- [Learn ES6 The Dope Way Part I: const, let & var](https://medium.freecodecamp.com/learn-es6-the-dope-way-i-const-let-var-ae828580472b#.l3j9sfh53)
+- [Learn ES6 The Dope Way Part II: Arrow functions and the ‘this’
+keyword](https://medium.freecodecamp.com/learn-es6-the-dope-way-part-ii-arrow-functions-and-the-this-keyword-381ac7a32881#.56g09srr5)
+- [Learn ES6 The Dope Way Part III: Template Literals, Spread Operators, and Generators!](https://medium.freecodecamp.com/learn-es6-the-dope-way-part-iii-template-literals-spread-operators-generators-592765337294#.sgp0o9ti3)
+- [:+1: How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.4kn0qod03)
+- [:+1: How the Web Works Part II: Client-Server Model & the Structure of a Web Application](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.qdjwqgxw3)
+- [:+1: How the Web Works Part III: HTTP & REST](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.ppfclhkfr)
+- [7 Git Hacks You Just Can’t Ignore](https://medium.freecodecamp.com/7-git-hacks-you-just-can-t-ignore-41aea137727a#.a4d3lwxp6)
+- [Functional Programming in JavaScript](http://www.barbarianmeetscoding.com/blog/2016/06/14/functional-programming-in-javascript/)
+- [:+1: Mastering the Arcane Art of JavaScript-Mancy for C# Developers: On Summoning Servants and Critters, or the Basics of Objects in JavaScript](http://www.barbarianmeetscoding.com/blog/2015/10/08/mastering-the-arcane-art-of-javascript-mancy-on-summoning-servants-and-critters-or-the-basics-of-objects/)
+- [Mastering the Arcane Art of JavaScript-mancy for C# Developers - Chapter 1: The Many a One JavaScript Quirks](http://www.barbarianmeetscoding.com/blog/2015/05/03/mastering-the-arcane-art-of-javascript-mancy-for-c-sharp-developers-chapter-1-the-many-a-one-javascript-quirks/)
+- [:+1: An Introduction to Object Oriented Programming in JavaScript for C# Developers](http://www.barbarianmeetscoding.com/blog/2015/11/23/an-introduction-to-object-oriented-programming-in-javascript-for-c-sharp-developers/)
+- [:+1: Summoning Fundamentals: A Three Part Introduction to OOP in JavaScript - Encapsulation](http://www.barbarianmeetscoding.com/blog/2015/11/30/summoning-fundamentals-a-three-part-introduction-to-oop-in-javascript-encapsulation/)
+- [:+1: Summoning Fundamentals: A Three Part Introduction to OOP in JavaScript - II - Prototypical Inheritance](http://www.barbarianmeetscoding.com/blog/2015/12/07/summoning-fundamentals-a-three-part-introduction-to-oop-in-javascript-ii-inheritance/)
+- [:+1: Summoning Fundamentals: A Three Part Introduction to OOP in JavaScript for C# Developers - III - Polymorphism](http://www.barbarianmeetscoding.com/blog/2015/12/09/summoning-fundamentals-a-three-part-introduction-to-oop-in-javascript-for-csharp-developers-iii-polymorphism/)
+- [White Tower Summoning: Mimicking C# Classical Inheritance in JavaScript](http://www.barbarianmeetscoding.com/blog/2015/12/14/white-tower-summoning-mimicking-c-sharp-classical-inheritance-in-javascript/)
+- [:+1: Interactive Record Player](http://tympanus.net/codrops/2016/06/15/interactive-record-player/) holy shit
+- [:+1: The Material re-Design of Google Play That Will Blow Your Mind](https://stories.uplabs.com/the-no-nonsense-redesign-that-blew-our-minds-22abe19ae932#.lasoygc9a)
+- [How to build diversity into your code?](http://codepen.io/jirosworld/post/how-to-build-diversity-into-your-code)
+- [White Tower Summoning Enhanced: The Marvels of ES6 Classes](http://www.barbarianmeetscoding.com/blog/2015/12/20/white-tower-summoning-enhanced-the-marvels-of-es6-classes/)
+
+
+
+
+---
+
+## DAY 190 - June 16 - Thursday(SLAW, NationWide, Mike, Reliant)
+
+
+Expected:
+- Go to SLAW
+- Contact NationWide
+- Helped Mike
+- Reliant care site
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- [2016 PRODUCT DESIGN REPORT—EXPLORING DESIGNER COMPENSATION](http://blog.invisionapp.com/2016-designer-salary/)
+- [One does not simply learn to code](https://medium.freecodecamp.com/one-does-not-simply-learn-to-code-f25bacdc5b62#.6oymdglqb)
+- [studio.zeldman](http://studio.zeldman.com/)
+- [What I learned from #100DaysOfCode](https://medium.freecodecamp.com/i-took-on-the-100daysofcode-challenge-and-here-are-my-results-8e442f56d750#.10hwhuteu)
+- [What I learned from #100DaysOfCode](https://medium.freecodecamp.com/i-took-on-the-100daysofcode-challenge-and-here-are-my-results-8e442f56d750#.10hwhuteu)
+
+
+---
+
+## DAY 191 - June 17 - Friday(help mike)
+
+Expected:
+- RSS
+- help Mike
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- [:+1: Gentle explanation of 'this' keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
+- [Git 2.9.0 Has Been Announced!](https://dzone.com/articles/git-290-has-been-announced)
+- [:+1: Intro to the Production Webpack Course](https://egghead.io/lessons/tools-intro-to-the-production-webpack-course)
+
+
+
+---
+
+
+## DAY 192 - June 18 - Saturday()
+
+Expected:
+- RSS
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- [:+1: Intro to the Production Webpack Course](https://egghead.io/lessons/tools-intro-to-the-production-webpack-course)
+- [Currying Functions in JavaScript](https://www.youtube.com/watch?v=eZ5w5MYP3C0)
+- [iOS 10 UI](http://puzzles.design/)
+
+
+---
+
+## DAY 193 - June 19 - Sunday()
+
+Expected:
+- RSS
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- [ES6 Tagged Template Literals](https://www.youtube.com/watch?v=c9j0avG5L4c&feature=em-subs_digest)
+- [:+1: Jason Turn anything into an app.](http://www.jasonclient.org/)
+
+
+
+---
+
+## DAY 194 - June 20 - Monday(RSS)
+
+Expected:
+- RSS
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- [How to use code as your primary design tool](https://stories.uplabs.com/how-to-use-code-as-a-primary-design-tool-791d50849cb6#.aoywdv83j)
+- [Marvel app](https://marvelapp.com/)
+- [Locomotive](https://locomotive.ca/en)
+- [Don't Be Petty, Write Less Spaghetti!](https://dzone.com/articles/dont-be-petty-write-less-spaghetti)
+- [How to Use the Best UI Design Patterns](https://medium.com/@uxpin/how-to-use-the-best-ui-design-patterns-30323c24a4d6#.bowpilqd3)
+- [Implementing baseline rhythm in CSS](https://pilot.co/blog/implementing-baseline-rhythm-in-css/) I think this is too much.
+- [Learn ES6 The Dope Way Part IV: Default Parameters, Destructuring Assignment, and a new method!](https://medium.com/@__Masha__/learn-es6-the-dope-way-part-iv-default-parameters-destructuring-assignment-a-new-es6-method-44393190b8c9#.wnwlw62nk)
+- [WatchMeCode](https://sub.watchmecode.net/)
+- [JavaScript Object Creation: Patterns and Best Practices](https://www.sitepoint.com/javascript-object-creation-patterns-best-practises/?utm_source=javascriptweekly&utm_medium=email)
+- [The magic behind array length property](http://rainsoft.io/the-magic-behind-array-length-property/)
+- [Catch the XMLHttpRequest in plain JavaScript](http://rainsoft.io/catch-the-xmlhttp-request-in-plain-javascript/)
+- [How three dots changed JavaScript](http://rainsoft.io/how-three-dots-changed-javascript/)
+- [Demos & Examples](https://preactjs.com/about/demos-examples)
+- [:+1: Gentle explanation of 'this' keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
+- [:+1: Black Tower Summoning: Object Composition With Mixins](http://www.barbarianmeetscoding.com/blog/2015/12/28/black-tower-summoning-object-composition-with-mixins/)
+- [Hands-on Functional Programming with Ramda.js](https://www.sitepoint.com/functional-programming-with-ramda/)
+- [:+1: Download YouTube Videos with youtube-dl](https://davidwalsh.name/download-youtube-videos)
+- [
+Functional programming with Ramda.js](http://neiro.io/2015/09/05/functional-programming-with-ramda-js.html)
+- [Trine](https://github.com/jussi-kalliokoski/trine)
+- [PostHTML](https://github.com/posthtml/posthtml)
+- [Switch](https://github.com/zhiyul/Switch)
+- [:+1: Atomicdust’s Porano Pasta Branding Wins Best in Show from AIGA St. Louis](http://www.atomicdust.com/porano-pasta-branding-wins-best-show-aiga-st-louis/)
+- [:+1: Responsive images with 'srcset', 'sizes' and Cloudinary](http://cloudinary.com/blog/responsive_images_with_srcset_sizes_and_cloudinary)
+- [How to use conditions to dynamically manipulate images](http://cloudinary.com/blog/how_to_use_conditions_to_dynamically_manipulate_images)
+- [Considerations for styling the < pre > tag](http://mediatemple.net/blog/tips/considerations-for-styling-the-pre-tag/)
+- [AOS: CSS-Driven “On Scroll” Animation Library](https://css-tricks.com/aos-css-driven-scroll-animation-library/)
+
+
+---
+
+## DAY 195 - June 21 - Tuesday(Old RSS, Mike, Mentor)
+
+Expected:
+- RSS
+- Help Mike
+- Started a mentoring program
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- [Animate/transition box-shadow more cheaply](http://codepen.io/atelierbram/pen/VjjbpP?editors=0100)
+- [093: Picks 2](https://blog.codepen.io/2016/06/07/093-picks2/)
+- [Imposter Syndrome 101](https://medium.com/sketch-app-sources/imposter-syndrome-101-fcf7f76d3dc0#.oisv6rwnd)
+- [The Practical Guide to Becoming a Professional Web Developer](https://medium.freecodecamp.com/the-practical-guide-to-becoming-a-professional-web-developer-2f255bc25c90#.y9qdrjtvl)
+- [3 Reasons why I stopped using React.setState](https://medium.com/@mweststrate/3-reasons-why-i-stopped-using-react-setstate-ab73fc67a42e#.5isi82ed3)
+- [Building the UI for the new The Times website](https://medium.com/swlh/building-the-ui-for-the-new-the-times-website-26dc4e6569e#.s04mrjt3o)
+- [Let’s Learn JavaScript Closures](https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44#.yi7zetj3n)
+- [What Is an Object?](http://docs.oracle.com/javase/tutorial/java/concepts/object.html)
+- [Object-Oriented JavaScript: Using POJOs for good](http://g-liu.com/blog/2015/08/object-oriented-programming-javascript-using-pojos-for-good/)
+- [How to Log Client-Side JavaScript Errors](https://scotch.io/tutorials/how-to-log-client-side-javascript-errors)
+- [:+1: UserSnap](https://usersnap.com/) Collect feedback and track bugs
+- [Debugging JavaScript with Chrome DevTools Breakpoints](https://scotch.io/tutorials/debugging-javascript-with-chrome-devtools-breakpoints)
+
+
+---
+
+## DAY 196 - June 22 - Wednesday(RSS, Mike, SLAW)
+
+Expected:
+- RSS
+- Helped Mike
+- SLAW meeting
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- [Six ways to declare JavaScript functions](http://rainsoft.io/6-ways-to-declare-javascript-functions/)
+- [How To Harness The Machines: Being Productive With Task Runners
+](https://www.smashingmagazine.com/2016/06/harness-machines-productive-task-runners/)
+- [Infinite Ways to Detect Array in JavaScript](http://www.shamasis.net/2011/08/infinite-ways-to-detect-array-in-javascript/)
+- [Quick Tip: Detecting Your Location With JavaScript](http://tutorialzine.com/2016/06/quick-tip-detecting-your-location-with-javascript/)
+- [095: React](https://blog.codepen.io/2016/06/21/095-react/)
+
+
+
+
+
+---
+
+
+## DAY 197 - June 23 - Thursday(Mike)
+
+Expected:
+- Teaching Mike
+- RSS
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+
+- [Bushel On-Demand Webinar](https://vimeo.com/164317378)
+- [:+1: Bushell](https://www.bushel.com/features) Bushel is the easiest way to manage the Apple devices you use for your business.
+- [All About VPP App Deployment](https://support.bushel.com/hc/en-us/articles/205926099-All-About-VPP-App-Deployment)
+- [Volume Purchase Program for Education](https://volume.itunes.apple.com/store)
+
+- [12 Books Every JavaScript Developer Should Read](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3#.xo7tvr6r6)
+- [:+1: Webpack for The Fast and The Furious
+](https://medium.com/@booleanhunter/webpack-for-the-fast-and-the-furious-bf8d3746adbd#.gyldzmpf8)
+- [How to know if programming is your cup of tea](https://medium.com/transient-sunshine-of-the-spotted-mind/how-to-know-if-programming-is-your-cup-of-tea-94c4b1391a#.d674a8ell)
+- [Object Equality in JavaScript](http://adripofjavascript.com/blog/drips/object-equality-in-javascript.html)
+
+
+
+
+
+---
+
+## DAY 198 - June 24 - Friday(Mentored)
+
+Expected:
+- Teaching Mike
+- RSS
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- [Why so many developers hate recruiters](https://medium.freecodecamp.com/the-tech-recruiter-red-pill-967dd492560c#.pt5s3ynka)
+
+---
+
+
+## DAY 199 - June 25 - Saturday()
+
+Expected:
+- Code challenges
+- RSS
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- [I’m Ready for New York](https://thecycle.media/im-ready-for-new-york-c5fc419f98#.lfl92esoy)
+- [How well do you know CSS display?](https://www.chenhuijing.com/blog/how-well-do-you-know-display/#👟)
+- [Typography Handbook](http://typographyhandbook.com/)
+- [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY&feature=youtu.be)
+
+
+
+---
+
+## DAY 200 - June 26 - Sunday()
+
+Expected:
+- Code challenges / all sums alg
+- RSS
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- [How to learn web frameworks](https://medium.com/shopify-ux/how-to-learn-web-frameworks-9d447cb71e68#.jme2qvrnn)
+
+
+---
+
+
+## DAY 201 - June 27 - Monday(SLAW tech help)
+
+Expected:
+- Code challenges / all sums alg
+- RSS
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- [Run npm scripts in a git pre-commit Hook](http://elijahmanor.com/npm-precommit-scripts/)
+- [Eliminate JavaScript Code Smells](https://www.youtube.com/watch?v=JVlfj7mQZPo)
+- [15 Ways to Write Self-documenting JavaScript](https://www.sitepoint.com/self-documenting-javascript/)
+- [Automate Your Images with Cloudinary](https://davidwalsh.name/automate-images-cloudinary)
+- [Introducing smart cropping, intelligent quality selection and automated responsive images](http://cloudinary.com/blog/introducing_smart_cropping_intelligent_quality_selection_and_automated_responsive_images)
+- [Learn ES6 The Dope Way Part V: Classes, Transpiling ES6 Code & More Resources!](https://medium.com/@__Masha__/learn-es6-the-dope-way-part-v-classes-browser-compatibility-transpiling-es6-code-47f62267661#.3qfymu1tw)
+- [How to Build a Neuron: Exploring AI in JavaScript Pt 1](https://medium.com/javascript-scene/how-to-build-a-neuron-exploring-ai-in-javascript-pt-1-c2726f1f02b2#.xy31gelbl)
+- [An Introduction to Functional JavaScript](https://www.sitepoint.com/introduction-functional-javascript/)
+- [JavaScript arrays](http://www.growingwiththeweb.com/2012/05/initialising-arrays-in-javascript.html)
+
+
+
+
+
+---
+
+## DAY 202 - June 28 - Tuesday(Meet with Sandy and Priscilla)
+
+Expected:
+- Clients all day
+- Code challenges / all sums alg
+- RSS
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+
+
+
+---
+
+## DAY 203 - June 29 - Wednesday(Algs, Mike, Vicki, RSS)
+
+Expected:
+- Code challenges / all sums alg
+- RSS
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- [Big O Notations](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [Big O cheatsheet](http://bigocheatsheet.com/)
+- [Big-O notation explained by a self-taught programmer](https://justin.abrah.ms/computer-science/big-o-notation-explained.html)
+- [Big-O is easy to calculate, if you know how](https://justin.abrah.ms/computer-science/how-to-calculate-big-o.html)
+- [Big O Notation](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity)
+- [:+1: Interview Cake](https://www.interviewcake.com/)
+- [A beginner's guide to Big O notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
+- [:+1: Recreating the Twitter Heart Animation (with One Element, No Images, and No JavaScript)](https://css-tricks.com/recreating-the-twitter-heart-animation/) Unreal.
+- [MountainWest JavaScript 2015 - Essential Big O for JavaScript Developers by Dave Smith](https://www.youtube.com/watch?v=KatlvCFHPRo)
+3
+- [JavaScript Data Structures - The Linked List](http://www.i-programmer.info/programming/javascript/5328-javascript-data-structures-the-linked-list.html)
+- [:+1: ejs](http://codepen.io/mr_alien/pen/QEpojO) readable javascript errors
+- [How much are you allowed to Google? - Q&A Part 2 - FunFunFunction #38](https://www.youtube.com/watch?v=mIoKRyLcIjo)
+- [Is Big O relevant to you? - Q&A Part 1 - FunFunFunction #37](https://www.youtube.com/watch?v=-Yv2qljLrns)
+- [React Pure Component Starter](https://github.com/ericelliott/react-pure-component-starter)
+- [Is Big O relevant to you? - Q&A Part 1 - FunFunFunction #37](https://www.youtube.com/watch?v=-Yv2qljLrns)
+- [Musical Chord Progression Arpeggiator](http://codepen.io/jakealbaugh/pen/qNrZyw?editors=0010)
+- [#209: GitHub and Google on Public Datasets and BigQuery](https://changelog.com/209/)
+
+
+
+
+---
+
+
+## DAY 204 - June 30 - Thursday()
+
+Expected:
+- Code challenges / all sums alg
+- RSS
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- [Converting an array-like object into an Array with Array.from()](https://egghead.io/lessons/ecmascript-6-converting-an-array-like-object-into-an-array-with-array-from)
+
+---
+
+## DAY 205 - June 31 - TITLE
+
+---
+
+### June in review
+
+- I finished the 7 Langs in 7 weeks book. This was great because I learned a lot more about programming and how some of these langauges influenced each other.
+- I feel a like I've gotten to the bottom of just about everything JS. I feel like the know the why part, now I just need to learn how to do everything.
+- I'm not sure what to take on next though...After this great uncovering and discovery period it's time to learn how to make things. I know what all the tools do, now I need to learn how to build with them.
+- Finally fucking learning what THIS means and how it actually works. Fuck!
+- FUCKING OOP is starting to make sense now too. Jeezuz.
+- Productivity is going down as a result of teaching, but Mike is doing an awesome job of learning
+
+
+
+
+---
+
 ## DAY 206 - DATE - TITLE
 ## DAY 207 - DATE - TITLE
 ## DAY 208 - DATE - TITLE
@@ -5316,6 +5868,10 @@ Revisit:
 
 Ideas:
 
+
+
+- Make a tool that takes JADE and creates modualr CSS from the html
+
 - tools needed - i think it's hard to learn how to dev certain thing because there is no checklist for the tools needed to make certain things. It would be great if the tools, skills and understanding needed were listed for each tutorial.
 
 ex wrong: Make a Random Quote machine (use jQuery)
@@ -5456,7 +6012,7 @@ I'd argue that the technical requirements of the web make designing for it a mov
 - WDYGT (What did you Google today)
 
 - Layout (popularly bad habits)
-  - Excessive columns and containers
+  - Excessive columns and containershttps://medium.com/@mweststrate/3-reasons-why-i-stopped-using-react-setstate-ab73fc67a42e#.5isi82ed3
   - Excessive sidebars
   - Multi-column footers with bullshit in them
   - nav bars with site logo in the middle

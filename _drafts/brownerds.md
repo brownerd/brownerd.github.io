@@ -17,11 +17,14 @@
 - [CHRIS NWAMBA](https://twitter.com/chrizt_n)
 - [Ire Aderinokun is a UI Designer and Front-End Developer](http://www.ireaderinokun.com/)
 - [aleia walker](http://aleiawalker.com/)
+- [E.Wilson](https://medium.freecodecamp.com/@ewilson110)
 
 - [David Moore](https://dribbble.com/Dalexmoore)
 
 - [Nerdy Negress](https://twitter.com/NerdyNegress)
 - [Preethi Kasireddy]
+
+- [dex](whatupdex.com)
 
 http://codepen.io/christiannwamba/
 
@@ -43,3 +46,15 @@ http://codepen.io/christiannwamba/
 
 - [:+1: Code Oakland: Trailer](https://vimeo.com/107716765)
 - [Teached](http://www.teached.org/welcome-home/)
+
+
+
+
+
+
+
+
+
+## Overall diversity
+- [Jiro Ghianni](http://codepen.io/jirosworld/)
+- [How to build diversity into your code?](http://codepen.io/jirosworld/post/how-to-build-diversity-into-your-code)

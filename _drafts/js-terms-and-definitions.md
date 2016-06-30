@@ -23,6 +23,15 @@ http://www.joezimjs.com/javascript/great-mystery-of-the-tilde/
 
 ---
 
+
+## algorithm
+
+An algorithm is just any method for arriving at the answer to a problem. It doesn't have to be a computer problem, either. A method for finding your cat to bring him to the vet or finding your way through a cornfield maze is just as much an algorithm as a method to find all the palindromes in a word.
+
+- https://www.codecademy.com/courses/big-o/0/1
+
+---
+
 ## Arity
 
 Arity refers to the amount of parameters that a function has. The more parameters a functions has, the greater it's arity.
@@ -63,6 +72,15 @@ By contrast, if the Engine is performing an LHS look-up and arrives at the top f
 In JavaScript, a block is defined by wrapping one or more statements inside a curly-brace pair { .. }
 
 **Note**: Unlike most other statements like console.log(amount);, a block statement does not need a semicolon (;) to conclude it.
+
+---
+
+## Bound function
+A bound function is a function bind with an object. Usually it is created from the original function using .bind() method. The original and bound functions share the same code and scope, but different contexts on execution.
+
+- http://rainsoft.io/gentle-explanation-of-this-in-javascript/
+
+
 
 
 ---
@@ -294,6 +312,14 @@ bar.a;      // 42 <-- delegated to `foo`
 Dependency Injection is a simple solution to inversion of control that involves injecting the dependencies into the components that require them. There are many reasons why this is beneficial to modern web applications.
 
 - [Three D’s of Web Development #3: Dependency Injection](http://developer.telerik.com/featured/three-ds-web-development-3-dependency-injection/)
+
+
+
+## DSL
+
+Domain Specific langauge
+
+
 
 ---
 ## Duck typing
@@ -863,6 +889,16 @@ While I think that's an improvement, others strongly disagree. However, no one c
 
 ---
 
+## Indirect invocation
+
+Indirect invocation is performed when a function is called using .call() or .apply() methods.
+
+- http://rainsoft.io/gentle-explanation-of-this-in-javascript/
+
+
+
+---
+
 ## Inheritance - Class & Prototypal
 
 References:
@@ -875,8 +911,11 @@ References:
 ## Interviewing
 
 - [The Vital Guide to JavaScript Interviewing](http://www.toptal.com/javascript#hiring-guide)
-
-
+- [:+1: Interview Cake](https://www.interviewcake.com/)
+- [:+1: 10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.yb40i6cte)
+- [Master the JavaScript Interview: What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.pxxi6f9pn)
+- [Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9#.3rdrvjkvo)
+- [Master the JavaScript Interview: What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.u71thsd06)
 
 ---
 
@@ -988,6 +1027,11 @@ Scope look-up stops once it finds the first match.
 
 - https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md
 
+
+
+lexical scoping — ‘this’ refers to it’s current surrounding scope
+
+- https://medium.freecodecamp.com/learn-es6-the-dope-way-part-ii-arrow-functions-and-the-this-keyword-381ac7a32881#.56g09srr5
 ---
 
 ## Lexing (tokenizing)
@@ -996,6 +1040,7 @@ lexing process examines a string of source code characters and assigns semantic 
 
 - https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/ch2.md
 
+
 ---
 
 ## Lifting
@@ -1003,6 +1048,34 @@ lexing process examines a string of source code characters and assigns semantic 
 “a function can be surrounded by map, which transforms it from a non-functory function to a functory one, in informal terms. We call this process lifting. Functions tend to be better off working with normal data types rather than container types, then lifted into the right container as deemed necessary. This leads to simpler, more reusable functions that can be altered to work with any functor on demand.”
 
 Excerpt From: drboolean. “mostly-adequate-guide.” iBooks.
+
+
+
+
+---
+
+## Linked by reference
+
+The answer is that they are what you use all the time without ever really thinking about it.
+When you store a value in a variable e.g.
+var a=10;
+then you are doing just that - storing the value 10 in the variable a.
+However when you do the same thing but with an object you don't store the object in the variable but a reference to the object.
+For example:
+var a={x:20,y:10};
+doesn't store the object in the variable a. It stores a reference, which you can think of as a safe "pointer" to the object.
+To see that this is true all you have to do is store a in another variable b say:
+var b=a;
+If the object {x:20,y:10} was stored in variable a then a copy of the object would now be stored in variable b. Of course this isn't what happens. A reference to the object is stored in a and the assignment stores a copy of the reference in variable b. After the assignment both a and b reference or "point" to the same object. You can prove this quite easily
+b.y=20;
+alert(a.y);
+and you will see at once that storing something in b.y modifies a.y. Both a and b reference the same object.
+
+- http://www.i-programmer.info/programming/javascript/5328-javascript-data-structures-the-linked-list.html
+
+
+
+
 
 
 ---
@@ -1350,7 +1423,12 @@ var myObj = {"name" : "Phil Dunphy"}
 
 ---
 
-## Polymorphic
+## Polymorphism
+
+
+You learned how polymorphism works in JavaScript with the concept of duck typing, the idea that an object is not defined by what it is but by what it can do. Thus if something walks like a duck, swims like a duck and quacks like a duck then you treat it like a duck.
+
+- http://www.barbarianmeetscoding.com/blog/2015/12/09/summoning-fundamentals-a-three-part-introduction-to-oop-in-javascript-for-csharp-developers-iii-polymorphism/
 
 ---
 
@@ -1518,6 +1596,11 @@ Calling the function with the same inputs always returns the same output.
 Calling the function produces no side-effects: No network calls; no files read or written; no database queries; no DOM elements modified; no global variables modified; and no console output. Nothing.
 
 - http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-style/
+
+
+It doesn’t have any side effects, that is, it doesn’t affect (change, mutate) any state external to the function
+
+- http://www.barbarianmeetscoding.com/blog/2016/06/14/functional-programming-in-javascript/
 
 ---
 
@@ -1701,6 +1784,34 @@ If a function has a this reference inside it, that this reference usually points
 - https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch2.md
 
 
+Because ‘this’, always references the owner of the function it is in, for this case — since it is now out of scope — the window/global object.
+
+- https://medium.freecodecamp.com/learn-es6-the-dope-way-part-ii-arrow-functions-and-the-this-keyword-381ac7a32881#.56g09srr5
+
+
+So this in JavaScript is weird, and unlike other languages this depends on the context in which a function is invoked. This basically means that depending on how you call a function this will have a value or another:
+
+this and objects
+this unbound
+this explicitly
+this bound
+
+- http://www.barbarianmeetscoding.com/blog/2015/05/03/mastering-the-arcane-art-of-javascript-mancy-for-c-sharp-developers-chapter-1-the-many-a-one-javascript-quirks/
+
+
+
+
+Because the function invocation has the biggest impart on this, from now on do not ask yourself:
+
+Where is this taken from?
+but do ask yourself:
+
+How is the function invoked?
+For an arrow function ask yourself:
+
+What is this where the arrow function is defined?
+
+- http://rainsoft.io/gentle-explanation-of-this-in-javascript/
 ---
 
 ## Thunk
