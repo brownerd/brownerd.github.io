@@ -6882,7 +6882,7 @@ Read/Watched:
 
 Read/Watched:
 - [A Library of Node.js Microservices for Everyone — Looking Forward](https://medium.com/@keithwhor/a-library-of-node-js-microservices-for-everyone-looking-forward-219cfbc2ab0d#.nsvempk7q)
-
+- [JSON Web Tokens vs. Session Cookies: In Practice](https://ponyfoo.com/articles/json-web-tokens-vs-session-cookies)
 
 
 
