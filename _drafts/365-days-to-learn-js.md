@@ -5638,7 +5638,6 @@ Read/Watched:
 - [How much are you allowed to Google? - Q&A Part 2 - FunFunFunction #38](https://www.youtube.com/watch?v=mIoKRyLcIjo)
 - [Is Big O relevant to you? - Q&A Part 1 - FunFunFunction #37](https://www.youtube.com/watch?v=-Yv2qljLrns)
 - [React Pure Component Starter](https://github.com/ericelliott/react-pure-component-starter)
-- [Is Big O relevant to you? - Q&A Part 1 - FunFunFunction #37](https://www.youtube.com/watch?v=-Yv2qljLrns)
 - [Musical Chord Progression Arpeggiator](http://codepen.io/jakealbaugh/pen/qNrZyw?editors=0010)
 - [#209: GitHub and Google on Public Datasets and BigQuery](https://changelog.com/209/)
 
@@ -5648,10 +5647,11 @@ Read/Watched:
 ---
 
 
-## DAY 204 - June 30 - Thursday()
+## DAY 204 - June 30 - Thursday(React)
 
 Expected:
 - Code challenges / all sums alg
+- Started React course
 - RSS
 
 
@@ -5662,9 +5662,7 @@ Actual:
 Read/Watched:
 - [Converting an array-like object into an Array with Array.from()](https://egghead.io/lessons/ecmascript-6-converting-an-array-like-object-into-an-array-with-array-from)
 
----
 
-## DAY 205 - June 31 - TITLE
 
 ---
 
@@ -5676,71 +5674,1227 @@ Read/Watched:
 - Finally fucking learning what THIS means and how it actually works. Fuck!
 - FUCKING OOP is starting to make sense now too. Jeezuz.
 - Productivity is going down as a result of teaching, but Mike is doing an awesome job of learning
+- Mike is doing great! He is in a project phase. So, he just cranks in making stuff. This has given me more time to my studies.
+- I started with CodeMentor. That has been helpful
+- I started to pickup React
+- Started doing Algorithms
+- Learned about Big-O
+- FP is starting to click
+- OOP makes just a little more sense
+- feeling less sucky
+
+
+
+---
+
+## DAY 205 - July 1 - Friday(Feature Flags, Jabari, Go to Lake)
+
+Expected:
+- Code challenges
+- RSS
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- [To Be Continuous Podcast: Staging Servers Must Die](http://devops.com/2016/02/25/continuous-podcast-staging-servers-must-die/)
+- [LaunchDarkly](https://launchdarkly.com/) Feature flag management built for teams
+- [:+1: Staging Servers Are Dead!](https://dzone.com/articles/staging-servers-are-dead)
+- [Using Feature Flags](https://www.youtube.com/watch?v=WMRjj06R6jg)
+- [Show & Tell: Edith Harbaugh, LaunchDarkly - Mobile Feature Flags](https://vimeo.com/148301892)
+- [Heavybit Show & Tell: LaunchDarkly CEO Edith Harbaugh](https://vimeo.com/124674405)
+- [:+1: Building a Better Core Pitch](https://www.heavybit.com/library/video/building-a-better-core-pitch/)
+- [Feature Toggles and Continuous Integration](https://www.youtube.com/watch?v=yuTEUVGzpSc)
+- [Feature Flag-Driven Development](http://blog.launchdarkly.com/feature-flag-driven-development/)
+- [Feature Flags](https://launchdarkly.com/featureflags.html)
+- [Feature Flags in JavaScript](http://blog.thepete.net/blog/2012/05/09/javascript-feature-flags/)
+- [JavaScript SDK Reference](http://docs.launchdarkly.com/docs/js-sdk-reference)
+- [Consider VueJS for Your Next Web Project](https://blog.codeship.com/consider-vuejs-next-web-project/)
+- [:+1: Styleguide](http://livingstyleguide.devbridge.com/)
+- [Grid by Example](http://gridbyexample.com/)
+- [CodePen Chicago: June 2016](http://codepen.io/poopsplat/post/codepen-chicago-june-2016)
+- [:+1: animejs](http://anime-js.com/)
+- [Timing asynchronous functions in JavaScript ES6](https://medium.com/@homam/timing-asynchronous-functions-in-javascript-es6-2635ed306377#.97vrixzgu)
+- [:+1: Makin’ GIFs](https://css-tricks.com/makin-gifs/)
+- [Flexy Forms and Inputs](http://codepen.io/grayghostvisuals/pen/zBNRjy?editors=1100)
+- [Webpack — The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.z68vlbff0)
+- [JavaScript Design Patterns: The Singleton](https://www.sitepoint.com/javascript-design-patterns-singleton/)
+
+
+
+---
+
+## DAY 206 - July 2 - Saturday(at the lake)
+
+Expected:
+- fam day
+- RSS
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- [Introduction to asynchronous JavaScript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-asynchronous-javascript)
+- [Animate on Scroll](https://github.com/michalsnik/aos)
+- [Improved Font Loading](https://webkit.org/blog/6643/improved-font-loading/)
+- [Debugging Node.js Nightlies with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27#.v5jdrd16k)
+- [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/)
+- [You’re completely missing the point of higher education](https://medium.com/@leaverou/youre-completely-missing-the-point-of-higher-education-274570eb5a02#.3ukme438t)
+- [The vanishing personal site](https://medium.com/let-me-repost-that-for-you-zeldman/the-vanishing-personal-site-72103ffd521b#.yb0mqcwpa)
+- [The Hidden Power of ES6 Generators: Observable Async Flow Control](https://medium.com/javascript-scene/the-hidden-power-of-es6-generators-observable-async-flow-control-cfa4c7f31435#.mxr00j39j)
+- [ES6 Generators in Depth](https://ponyfoo.com/articles/es6-generators-in-depth)
+- [ES6 generators in depth](http://www.2ality.com/2015/03/es6-generators.html)
+- [ES6 Generators and asynchronous javascript](https://alexperry.io/javascript/2015/09/17/es6-generators-and-asynchronous-javascript.html)
+- [Event Calendar App](https://eventcalendarapp.com/) Display your events, on your site, beautifully.
+- [JavaScript Is Turing Complete— Explained](https://medium.freecodecamp.com/javascript-is-turing-complete-explained-41a34287d263#.qt180dt2o)
+- [Webpack & The Hot Module Replacement](https://medium.com/@rajaraodv/webpack-hot-module-replacement-hmr-e756a726a07#.9gycgjsbi)
+- [Webpack’s HMR & React-Hot-Loader — The Missing Manual](https://medium.com/@rajaraodv/webpacks-hmr-react-hot-loader-the-missing-manual-232336dc0d96#.kijd86kbi)
+- [Draft.js And Why You Should Contribute](https://medium.com/@rajaraodv/why-draft-js-and-why-you-should-contribute-460c4a69e6c8#.tl5pe0kys)
+- [Why ContentEditable is Terrible](https://medium.engineering/why-contenteditable-is-terrible-122d8a40e480#.4xl0dpsap)
+- [Step by Step Guide To Building React Redux Apps](https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a#.ba3xzosqz)
+
+
+---
+
+## DAY 207 - July 3 - Sunday(Fam day)
+
+Expected:
+- Fam day
+- RSS
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- [Email Design Trends of 2016 (so far)](https://medium.com/email-industry-news/the-newest-email-design-trends-of-2016-f8d038e56396#.as9p0hj67)
+- [webpack: It’s getting real](https://medium.com/webpack/webpack-its-getting-real-92c60fca1db1#.rktb9pgq0)
+- [Understanding the React Component Lifecycle](http://busypeoples.github.io/post/react-component-lifecycle/)
+- [Dynamically Add Classes with React classSet](https://manofhustle.com/2015/01/19/dynamically-add-classes-react-classset/)
+- [Understanding the Principles of Algorithm Design](https://code.tutsplus.com/tutorials/understanding-the-principles-of-algorithm-design--net-26561)
+
+
+
+----
+
+
+
+## DAY 208 - July 4 - Monday(fam day, driving home)
+
+- 4th of July
+
+---
+
+
+## DAY 209 - July 5 - Tuesday(Algs, Video Tuts, Nato)
+
+Expected:
+- Fam day
+- RSS
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- [Algorithm design analysis](https://www.coursera.org/learn/algorithm-design-analysis/lecture/o2NpH/the-gist)
+- [III. DIVIDE & CONQUER ALGORITHMS (Week 1)](https://www.coursera.org/learn/algorithm-design-analysis/lecture/GFmmJ/o-n-log-n-algorithm-for-counting-inversions-i)
+- [Learning JavaScript Data Structures and Algorithms: Introduction to Binary Trees | packtpub.com](https://www.youtube.com/watch?v=RH0FSurvXQ8&index=4&list=PLTgRMOcmRb3Mkd4ZrlQy2RMbdxsI8aKFJ)
+- [HTML5 Game Development - Second Edition: Displaying Multiple Objects on Stage | packtpub.com](https://www.youtube.com/watch?v=Cs-8qxzpv4E&list=PLTgRMOcmRb3Mtjlm_xxS1fh-FqIHI3fyc&index=2)
+- [Learning Functional JavaScript: Recursive Thinking | packtpub.com](https://www.youtube.com/watch?v=N9V-aZ7Gj70&index=6&list=PLTgRMOcmRb3OMIy6gbFvmk_AO-bpbjHBd)
+- [:+1: Introduction to ClojureScript and Reagent ](https://www.youtube.com/watch?v=wq6ctyZBb0A)
+- [:+1: How to use Webpack - Building a Webpack template from scratch](https://www.youtube.com/watch?v=bFrZjzfMTt0)
+- [What is Big-O notation for purely functional languages?](http://programmers.stackexchange.com/questions/315880/what-is-big-o-notation-for-purely-functional-languages)
 
 
 
 
 ---
 
-## DAY 206 - DATE - TITLE
-## DAY 207 - DATE - TITLE
-## DAY 208 - DATE - TITLE
-## DAY 209 - DATE - TITLE
-## DAY 210 - DATE - TITLE
-## DAY 211 - DATE - TITLE
-## DAY 212 - DATE - TITLE
-## DAY 213 - DATE - TITLE
-## DAY 214 - DATE - TITLE
-## DAY 215 - DATE - TITLE
-## DAY 216 - DATE - TITLE
-## DAY 217 - DATE - TITLE
-## DAY 218 - DATE - TITLE
-## DAY 219 - DATE - TITLE
-## DAY 220 - DATE - TITLE
-## DAY 221 - DATE - TITLE
-## DAY 222 - DATE - TITLE
-## DAY 223 - DATE - TITLE
-## DAY 224 - DATE - TITLE
-## DAY 225 - DATE - TITLE
-## DAY 226 - DATE - TITLE
-## DAY 227 - DATE - TITLE
-## DAY 228 - DATE - TITLE
-## DAY 229 - DATE - TITLE
-## DAY 230 - DATE - TITLE
-## DAY 231 - DATE - TITLE
-## DAY 232 - DATE - TITLE
-## DAY 233 - DATE - TITLE
-## DAY 234 - DATE - TITLE
-## DAY 235 - DATE - TITLE
-## DAY 236 - DATE - TITLE
-## DAY 237 - DATE - TITLE
-## DAY 238 - DATE - TITLE
-## DAY 239 - DATE - TITLE
-## DAY 240 - DATE - TITLE
-## DAY 241 - DATE - TITLE
-## DAY 242 - DATE - TITLE
-## DAY 243 - DATE - TITLE
-## DAY 244 - DATE - TITLE
-## DAY 245 - DATE - TITLE
-## DAY 246 - DATE - TITLE
-## DAY 247 - DATE - TITLE
-## DAY 248 - DATE - TITLE
-## DAY 249 - DATE - TITLE
-## DAY 250 - DATE - TITLE
-## DAY 251 - DATE - TITLE
-## DAY 252 - DATE - TITLE
-## DAY 253 - DATE - TITLE
-## DAY 254 - DATE - TITLE
-## DAY 255 - DATE - TITLE
-## DAY 256 - DATE - TITLE
-## DAY 257 - DATE - TITLE
-## DAY 258 - DATE - TITLE
-## DAY 259 - DATE - TITLE
-## DAY 260 - DATE - TITLE
-## DAY 261 - DATE - TITLE
-## DAY 262 - DATE - TITLE
-## DAY 263 - DATE - TITLE
-## DAY 264 - DATE - TITLE
+## DAY 210 - July 6 - Wednesday(PacktUp)
+
+Expected:
+- Video tuts
+- RSS
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+
+- [Being a Dev Dad](https://davidwalsh.name/being-a-dev-dad)
+- [Thinking in React for jQuery Programmers](https://www.codementor.io/reactjs/tutorial/react-components-from-a-jquery-programmer-background)
+- [Precision Decimal Math in JavaScript with decimal.js](https://spin.atomicobject.com/2016/01/04/javascript-math-precision-decimals/)
+- [:+1: How to Use Javascript Promises](https://www.youtube.com/watch?v=104J7_HyaG4)
+- [:+1: PacktPub](https://www.packtpub.com/)
+
+
+
+---
+
+
+## DAY 211 - July 7 - Thursday()
+
+Expected:
+- marilyn
+- mike
+- dev lunch
+- airport
+- mike
+- react class
+- RSS
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- [The :target Trick](https://bitsofco.de/the-target-trick/)
+- [The Design Tools We Really Need](https://medium.com/shyp-design/the-design-tools-we-really-need-67c79f835ca9#.fz68k5s4j)
+- [Principle](http://principleformac.com/) Animate Your Ideas, Design Better Apps
+- [Zeplin](https://zeplin.io/) Build pixel perfect apps in peace
+- [Figma](https://www.figma.com/) The Collaborative  Interface Design Tool.
+- [3 Splendid JavaScript Debugging Tips](https://www.youtube.com/watch?v=zoo69lxnE-Y)
+- [ES6 Modules Standard and Syntax - JavaScriptKC meetup recording](https://www.youtube.com/watch?v=qi_rLTcXers#t=1m49s)
+
+
+
+
+---
+
+
+
+## DAY 212 - July 8 - Friday(React, Mike)
+
+Expected:
+- Fam day
+- RSS
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+
+- [Managing the Tensions & Tradeoffs Between UX & SEO - Whiteboard Friday](https://moz.com/blog/ux-vs-seo-whiteboard-friday)
+- [A Front End Developer is Aware](https://css-tricks.com/front-end-developer-aware/)
+- [How to Do What You Love & Earn What You’re Worth as a Programmer](https://leanpub.com/dowhatyoulove/read)
+- [Shotgun with Eric Elliott – Episode 1](https://ericelliottjs.com/premium-content/shotgun-with-eric-elliott-episode-1/)
+
+---
+
+
+## DAY 213 - July 9 - Saturday(Fam day)
+
+Expected:
+- Fam day
+- RSS
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- [:+1: Loops! (in all Preprocessor Syntaxes)](https://blog.codepen.io/2013/12/04/loops-preprocessor-syntaxes/)
+- [Webcast – Class-Free React](https://ericelliottjs.com/premium-content/webcast-class-free-react/)
+
+
+
+---
+
+## DAY 214 - July 10 - Sunday()
+
+
+Expected:
+- Fam day
+- RSS
+
+
+Actual:
+- all the above
+
+
+Read/Watched:
+- [Use Cases For CSS Vertical Media Queries](https://ishadeed.com/article/vertical-media-queries/)
+- [:+1: ngrok](https://ngrok.com/) Secure tunnels to localhost
+- [SCROLLTRIGGER](https://terwanerik.github.io/ScrollTrigger/)
+- [Elementor](https://elementor.com/) Live Page Builder For WordPress
+- [Improving User Flow Through Page Transitions](https://www.smashingmagazine.com/2016/07/improving-user-flow-through-page-transitions/)
+- [Moeditor](https://github.com/Moeditor/Moeditor)
+- [WorkFrom](https://workfrom.co/) Use Workfrom to find and share the best coffee shops, cafes, bars, coworking and other work-friendly spaces in cities and towns everywhere.
+- [Structuring CSS in large projects](https://medium.com/peergrade-io/structuring-css-in-large-projects-37f1695f5ec8#.1kocsx3e3)
+- [:+1: You Don't Need JavaScript](https://github.com/NamPNQ/You-Dont-Need-Javascript)
+- [ES6 Object Changes in Depth](https://ponyfoo.com/articles/es6-object-changes-in-depth)
+- [:+1: The Future of Browser History](https://medium.com/@patrykadas/browserhistory-2abad38022b1#.z0yw089ei)
+- [HTML5: Wrap Block-Level Elements with A’s](https://davidwalsh.name/html5-elements-links)
+- [:+1: The History of the URL: Domain, Protocol, and Port](https://eager.io/blog/the-history-of-the-url-domain-and-protocol/)
+- [Better JavaScript with ES6, Pt. III: Cool Collections & Slicker Strings](https://scotch.io/tutorials/better-javascript-with-es6-pt-iii-cool-collections-slicker-strings)
+- [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
+
+
+
+---
+
+## DAY 215 - July 11 - Monday()
+
+Expected:
+- Teadom
+- Back check
+- RSS
+
+
+Actual:
+- all the above
+
+Read/Watched:
+- [My White Boss Talked About Race in America and This is What Happened](https://medium.com/@Mandela/my-white-boss-talked-about-race-in-america-and-this-is-what-happened-fe10f1a00726#.xu00tiofb)
+- [CSS Modules and React](https://css-tricks.com/css-modules-part-3-react/)
+- [Make a Simple JavaScript Slideshow without jQuery](https://www.sitepoint.com/make-a-simple-javascript-slideshow-without-jquery/)
+- [:+1: Understanding ASTs by Building Your Own Babel Plugin](https://www.sitepoint.com/understanding-asts-building-babel-plugin/)
+- [:+1: So you want to make a PostCSS plugin](https://css-tricks.com/want-make-postcss-plugin/)
+
+
+---
+
+
+## DAY 216 - July 12 - Tuesday()
+
+Expected:
+- Meetings with Bob
+- Teaching Mike
+- RSS
+
+
+Actual:
+- all the above
+
+Read/Watched:
+- [Using Hexadecimal Colors in CSS](http://thenewcode.com/1108/Using-Hexadecimal-Colors-in-CSS)
+- [Simple Static React Firebase](https://github.com/Jon-Biz/simple-static-react-firebase)
+- [Podcast Lenses in Clojure](https://www.thoughtworks.com/insights/blog/podcast-lenses-clojure)
+- [:+1: Journey Through the Looking Glass, and What I Found There](https://www.thoughtworks.com/talks/journey-through-the-looking-glass-and-what-i-found-there)
+- [:+1: Functional Composition - Chris Ford](https://www.youtube.com/watch?v=Mfsnlbd-4xQ)
+- [:+1: Lenses Quick n’ Dirty](https://vimeo.com/104807358)
+- [Monad a day 1: Reader](https://vimeo.com/105300347)
+- [Monad a day 3: State](https://vimeo.com/109984691)
+- [:+1: How Pony Foo is ridiculously over-engineered
+— and why that is awesome](https://ponyfoo.com/articles/most-over-engineered-blog-ever)
+
+---
+
+
+## DAY 217 - July 13 - Wednesday()
+
+Expected:
+- Meetings with Bob
+- Teaching Mike
+- RSS
+
+
+Actual:
+- all the above
+
+Read/Watched:
+- [Monad a day 2: Future](https://vimeo.com/106008027)
+- [lenses.js](https://github.com/DrBoolean/lenses)
+- [098: Animation](https://blog.codepen.io/2016/07/13/098-animation/)
+- [Practical ramda - functional programming examples](http://www.macwright.org/2015/08/27/practical-ramda.html)
+- [:+1: Ramda Cookbook](https://github.com/ramda/ramda/wiki/Cookbook#get-object-size)
+- [:+1: Ramda Demo](https://www.youtube.com/watch?v=digajAH_5IU)
+- [:+1: campaign](https://github.com/bevacqua/campaign)
+- [:+1: Mixins Considered Harmful](https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html)
+- [:+1: Polybit](https://polybit.com/)
+- [Simple life of your web app data](https://medium.com/@metaphorical/simple-life-of-your-web-app-data-dcca6a70e20f#.1my1nelfx)
+- [Searching data structures with JavaScript - enter map reduce and then some](https://medium.com/@metaphorical/searching-data-structures-with-javascript-enter-map-reduce-and-then-some-d-50782bd36b8b#.uzn9y1y76)
+- [Learn to Create D3.js Data Visualizations by Example](https://www.sitepoint.com/d3-js-data-visualizations/)
+- [Fantasy Land Specification](https://github.com/fantasyland/fantasy-land#apply)
+- [Must know details about ES2016 features](https://rainsoft.io/must-know-details-about-es2016-features/)
+
+
+
+
+
+---
+
+
+## DAY 218 - July 4 - Thursday(React)
+
+Expected:
+- React
+- Teaching Mike
+- RSS
+- Meet with Teadom
+- React online class
+
+
+Actual:
+- all the above
+
+Read/Watched:
+
+- [The CMS is dead. Long live the CMS!](https://medium.com/@davide.borsatto/the-death-of-the-cms-cec078a0d1b9#.hfhs1iuzm)
+- [React.js via JS Bin](https://www.youtube.com/watch?v=8E6IstwJBhs)
+- [:+1: Taming the React Setup](http://developer.telerik.com/featured/taming-react-setup/)
+- [How to create an RSS feed with restdb.io](https://restdb.io/blog#!posts/578765f545fef34300009d92)
+
+
+
+
+---
+
+## DAY 219 - July 15 - Friday()
+
+Expected:
+- Meetings with Bob
+- Teaching Mike
+- RSS
+
+
+Actual:
+- all the above
+
+Read/Watched:
+- [Results for js web frameworks benchmark – round 3](http://www.stefankrause.net/js-frameworks-benchmark2/webdriver-java/table.html)
+- [DPicker](https://soyuka.github.io/dpicker/DPicker.html)
+- [How to Choose a Domain Name - Whiteboard Friday](https://moz.com/blog/how-to-choose-a-domain-name-whiteboard-friday)
+- [PolyConf 16: Elm for JavaScript Developers / Jack Franklin](https://www.youtube.com/watch?v=tOkOmWgDLOM)
+- [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.tpbca55jl)
+
+
+
+
+
+
+---
+
+## DAY 220 - July 16 - Saturday
+
+- Cousins in town
+- Grants Farm, swimming and Cards game
+- RSS
+
+
+Read/Watched:
+- [CycleJS FrontEnd Camp](https://glebbahmutov.com/blog/cyclejs-frontendcamp/)
+- [HyperTerm](https://hyperterm.org/) JS/HTML/CSS Terminal
+- [formous](https://github.com/ffxsam/formous) Simple and elegant form-handling for React
+- [Awesome Service Workers](https://github.com/TalAter/awesome-service-workers)
+
+
+
+---
+
+
+## DAY 221 - July 17 - Sunday
+
+- Cousins in town
+- Swimming
+- RSS
+
+
+Read/Watched:
+- [hack.css - the CSS framework for hackers](http://hackcss.com/)
+- [JavaScript Promises 101](https://bitsofco.de/javascript-promises-101/)
+- [Destroy All Ifs — A Perspective from Functional Programming](http://degoes.net/articles/destroy-all-ifs)
+
+
+---
+
+
+## DAY 222 - July 18 - Monday
+
+- Amir's BDAY!
+- RSS
+
+
+Read/Watched:
+- [:+1: Fontself](https://www.fontself.com/)
+- [Dory](https://github.com/Wildhoney/Dory)
+- [The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps](https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00#.jliaa3f48)
+- [Considerations for Styling a Modal](https://css-tricks.com/considerations-styling-modal/)
+- [:+1: Setting up CSS Modules with React and Webpack](http://javascriptplayground.com/blog/2016/07/css-modules-webpack-react/)
+
+---
+
+## DAY 223 - July 19 - Tuesday
+
+- React
+- Mike
+- RSS
+- Food truck tuesday
+- Book for C
+
+
+Read/Watched:
+
+- [React State](https://medium.com/react-tutorials/react-state-14a6d4f736f5#.vj8iee2en)
+- [JSX Spread Attributes](https://facebook.github.io/react/docs/jsx-spread.html)
+- [:+1: Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
+- [props vs state](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
+- [Understanding Props and State in React](https://themeteorchef.com/snippets/understanding-props-and-state-in-react/)
+- [
+Structuring React Applications: Higher-Order Components](http://jamesknelson.com/structuring-react-applications-higher-order-components/)
+- [Should I use React.createClass, ES6 Classes or stateless functional components?](http://jamesknelson.com/should-i-use-react-createclass-es6-classes-or-stateless-functional-components/)
+- [A Quick Tour Of ES6 (Or, The Bits You’ll Actually Use)](http://jamesknelson.com/es6-the-bits-youll-actually-use/)
+- [Javascript Interview Questions: Javascript is a prototypal language. What do I mean by this?](https://medium.com/@will_gottchalk/javascript-interview-questions-javascript-is-a-prototypal-language-what-do-i-mean-by-this-76937a9aa42a#.kqh46hz34)
+- [How to handle state in React. The missing FAQ.](https://medium.com/react-ecosystem/how-to-handle-state-in-react-6f2d3cd73a0c#.z390oopb5)
+- [Forms](https://facebook.github.io/react/docs/forms.html#default-value)
+
+---
+
+## DAY 224 - July 20 - Wednesday
+
+- React
+- Mike
+- RSS
+
+
+Read/Watched:
+
+- [:+1: A Tool for Generating JavaScript Utility Libraries:)](http://liriliri.github.io/eustia/)
+- [Designing a styleguide: elements that go into building compelling products](https://medium.freecodecamp.com/designing-a-styleguide-elements-that-go-into-functional-and-beautiful-products-ff1621e00a0e#.dap3yyqbb)
+- [:+1: Cheatsheeto for Reactjs](http://ricostacruz.com/cheatsheets/react.html)
+- [Props in getInitialState Is an Anti-Pattern](https://facebook.github.io/react/tips/props-in-getInitialState-as-anti-pattern.html)
+- [Dive into React codebase: Handling state changes](http://reactkungfu.com/2016/03/dive-into-react-codebase-handling-state-changes/)
+- [:+1: How I learned to stop worrying and love the JSX](http://jamesknelson.com/learned-stop-worrying-love-jsx/)
+- [:+1: What's Next for the Retina MacBook Pro](http://www.macrumors.com/roundup/macbook-pro/)
+- [You might not need React Router]()
+- [From design to development, 10 tools I can’t live without](https://medium.freecodecamp.com/from-design-to-development-10-tools-i-cant-live-without-96006445e636#.tn49zor2f)
+- [:+1: DragDis](https://dragdis.com/tour) Looks cool.
+- [Why object literals in JavaScript are cool](https://rainsoft.io/why-object-literals-in-javascript-are-cool/)
+- [:+1: barba.js](http://barbajs.org/how-it-works.html)
+- [:+1: Uppy](http://uppy.io/)
+- [:+1: Made with React](http://madewithreact.com/)
+- [:+1: shade](http://jxnblk.com/shade/)
+- [:+1: browserify-as-a-service](https://wzrd.in/)
+- [how I write tests for node and the browser](http://substack.net/how_I_write_tests_for_node_and_the_browser)
+- [testling](https://ci.testling.com/)
+- [TAP & Tape, the awesome way to test JavaScript](http://www.macwright.org/2014/03/11/tape-is-cool.html)
+- [:+1: Recursion](http://www.macwright.org/2016/07/03/recursion.html)
+- [Unit Testing React Components with Tape](https://hashnode.com/post/unit-testing-react-components-with-tape-cinsb0d9p00muy353gnpg4w4e)
+- [Unit Test Your JavaScript Using Mocha and Chai](https://www.sitepoint.com/unit-test-javascript-mocha-chai/)
+
+
+
+
+---
+
+
+## DAY 225 - July 21 - Thursday
+
+- RePurchase stole items
+- Mike
+- React Class
+- RSS
+
+
+Read/Watched:
+
+- [:+1: A COMPREHENSIVE GUIDE TO FONT LOADING STRATEGIES](https://www.zachleat.com/web/comprehensive-webfonts/)
+- [Learning How to Set Up Automated, Cross-browser JavaScript Unit Testing](https://philipwalton.com/articles/learning-how-to-set-up-automated-cross-browser-javascript-unit-testing/)
+- [react-monocle](https://www.npmjs.com/package/react-monocle)
+- [Easy HTTP/2 Server with Node.js and Express.js](http://webapplog.com/http2-node/?utm_source=ponyfoo+weekly)
+- [:+1: howler.js](https://howlerjs.com/) makes working with audio in JavaScript easy and reliable across all platforms.
+- [:+1: How to create a good pull request](https://blog.alphasmanifesto.com/2016/07/11/how-to-create-a-good-pull-request/)
+- [The History of the URL: Path, Fragment, Query, and Auth](https://eager.io/blog/the-history-of-the-url-path-fragment-query-auth/)
+- [Using ES6 Generators And Yield To Implement Asynchronous Workflows In JavaScript](http://www.bennadel.com/blog/3123-using-es6-generators-and-yield-to-implement-asynchronous-workflows-in-javascript.htm)
+
+
+
+
+
+---
+
+
+## DAY 226 - July 22 - Friday
+
+- Mike
+- RSS
+
+
+Read/Watched:
+- [:+1: Learning to COPE with Microservices](https://css-tricks.com/learning-cope-microservices/)
+- [Thoughts on an API-First WordPress](https://css-tricks.com/thoughts-on-an-api-first-wordpress/)
+- [HyperTerm](https://hyperterm.org/)
+- [:+1: Building Photoshop](http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2013/3/30_Building_Photoshop.html)
+- [:+1: A Brief History of the Command Line](https://medium.freecodecamp.com/the-command-line-1fdbc692b3bf#.v2bhmpqis)
+
+
+
+---
+
+
+
+## DAY 227 - July 23 - Saturday
+
+- bday for Jax
+- phil and mauras
+- dinner and a movie
+- remade book in blurb
+
+
+---
+
+## DAY 228 - July 24 - Sunday
+
+- fam day
+
+Read/Watched:
+- [Richer command line interfaces](http://ballingt.com/rich-terminal-applications-2)
+- [:+1: asciinema](https://asciinema.org/)
+- [Tmux: A Simple Start](https://www.sitepoint.com/tmux-a-simple-start/)
+- [A tmux Primer](https://danielmiessler.com/study/tmux/)
+- [Vim and Tmux on your Mac](http://fideloper.com/mac-vim-tmux)
+- [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53#.muycqy2wb)
+- [5 Actual Web Designs Trends for 2016](https://medium.com/apegroup-texts/5-actual-web-designs-trends-for-2016-f9504223c9b3#.vs3fqs1bd)
+- [~~emojillate~~](http://meowni.ca/emojillate/)
+- [Vimgifs](https://vimgifs.com/)
+- [Create Apps with No Configuration](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html)
+- [Dominant Color Lazy Loading](http://codepen.io/koenigsegg1/pen/EyLgNk)
+- [#212: SiteSpeed.io and Performance with Peter Hedenskog](https://changelog.com/212/)
+- [SiteSpeed.io](https://www.sitespeed.io/)
+- [The Most In-Depth Yet Understandable ES6 Destructuring Tutorial (complete with Assembled Avengers)](http://untangled.io/in-depth-es6-destructuring-with-assembled-avengers/)
+- [Advanced ES6 Destructuring Techniques](http://untangled.io/advanced-es6-destructuring-techniques/)
+
+
+
+---
+
+## DAY 229 - July 25 - Monday
+
+- RSS
+- Enroll Amir at Jackson Park
+- Vote
+- Browser video
+- Fix hacks
+
+Read/Watched:
+- [4 ways I’ve fucked up as a designer 😬](https://medium.com/@geometrieva/here-are-some-of-the-ways-ive-fucked-up-as-a-designer-d6b1d430a750#.wgfhg0d7b)
+- [The Making of "This is your brain on JavaScript"](http://codepen.io/KrofDrakula/post/the-making-of-this-is-your-brain-on-javascript)
+- [:+1: How browsers work internally - Tali Garsiel - Front-Trends 2012](https://vimeo.com/44182484)
+- [Memory Game With JS and CSS](http://codepen.io/eliorshalev/pen/WwzEEg?editors=0010)
+
+
+
+
+
+
+
+---
+
+## DAY 230 - July 26 - Tuesday
+
+- fix hacks
+- teach mike gulp
+- migrate sites
+
+- look into line wrapping
+- CPL project
+
+
+
+
+
+---
+
+
+
+## DAY 231 - July 27 - Wednesday
+
+- Amir last day
+- Jon visited
+- RSS
+- NPM Scripts and P-S
+- CPL project
+
+
+Read/Watched:
+- [Image Processing And Manipulation In Node.js - JS Monthly London](https://www.youtube.com/watch?v=ze7IV-LnzwQ&feature=youtu.be)
+- [Using Moment.js in Node.js](https://dzone.com/articles/using-momentjs-in-nodejs)
+- [:+1: A collection is not an array](https://www.sitepoint.com/a-collection-is-not-an-array/)
+- [Get an Element's Position Using JavaScript](https://www.kirupa.com/html5/get_element_position_using_javascript.htm)
+- [HTMLElement.offsetTop](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetTop)
+- [Selection](https://developer.mozilla.org/en-US/docs/Web/API/Selection)
+- [NodeList](https://developer.mozilla.org/en-US/docs/Web/API/NodeList)
+- [CSS / JavaScript - How do you get the rendered height of an element?](http://stackoverflow.com/questions/526347/css-javascript-how-do-you-get-the-rendered-height-of-an-element)
+- [:+1: npm scripting: git, version and deploy](http://www.marcusoft.net/2015/08/npm-scripting-git-version-and-deploy.html)
+- [:+1: Pre and Post hooks for npm scripting](http://www.marcusoft.net/2015/08/pre-and-post-hooks-for-npm-scripting.html)
+- [:+1: npm scripting: configs and arguments... and some more tricks](http://www.marcusoft.net/2015/08/npm-scripting-configs-and-arguments.html)
+- [:+1: Simplify and empower npm scripts with p-s](https://www.youtube.com/watch?v=Sj9YRamTDsQ)
+- [:+1: CONFIGURING BABEL 6 FOR NODE.JS](http://jsrocks.org/2016/01/configuring-babel-6-for-node-js/)
+- [:+1: Watch & Compile your Sass with npm.](https://medium.com/@brianhan/watch-compile-your-sass-with-npm-9ba2b878415b#.h7d3ie4z3)
+
+
+
+---
+
+
+## DAY 232 - July 28 - Thursday
+
+- travel to Wyoming for family vacation
+- Fortinet bullshit
+
+Read/Watched:
+- [Become a Sketch Pro with 9 Tiny Tips](https://medium.com/sketch-app-sources/become-a-sketch-pro-with-9-tiny-tips-f73c1dbed42f#.2h5p0tptj)
+
+
+
+
+---
+
+
+## DAY 233 - July 29 - Friday
+
+- fam day
+- resolved dorsey's site issue
+
+
+Read/Watched:
+- [:+1: GeoPeeker](https://geopeeker.com/)
+
+
+---
+
+## DAY 234 - July 30 - Saturday
+
+- Hiked medicine bow with Rich
+- On vacation in Wyoming
+
+Read/Watched:
+- [CSS Writing Mode](https://ishadeed.com/article/css-writing-mode/)
+- [Accordion: TL;DW - Supercharged](https://www.youtube.com/watch?v=hw4mo7EALOw&feature=youtu.be)
+
+
+
+---
+
+## DAY 234 - July 31 - Sunday
+
+
+
+Read/Watched:
+
+- [The Background Properties](https://bitsofco.de/the-background-properties/)
+- [Yes, bad habits.](https://medium.com/@_ericelliott/yes-bad-habits-7c570308c576#.ds6beeips)
+- [A Quick Look at the React and Redux DevTools](http://mediatemple.net/blog/tips/a-quick-look-at-the-react-and-redux-devtools/)
+- [Netlify - pricing](https://www.netlify.com/pricing)
+- [Quick Tip: How to Throttle Scroll Events](https://www.sitepoint.com/throttle-scroll-events/)
+- [Full Width Containers in Limited Width Parents](https://css-tricks.com/full-width-containers-limited-width-parents/) Clever
+- [Looping Through JSON Using for…in](http://thenewcode.com/1114/Looping-Through-JSON-Using-forin)
+- [Beginner's Guide: Understanding JavaScript Functions onblur() and onfocus()](https://dzone.com/articles/begineers-guide-simple-example-to-understand-javas)
+- [Feature ComputingSoftware
+The 2016 Top Programming Languages](http://spectrum.ieee.org/computing/software/the-2016-top-programming-languages)
+- [Are Your Programmers Working Hard, Or Are They Lazy?](http://mikehadlow.blogspot.in/2013/12/are-your-programmers-working-hard-or.html?m=1)
+- [Higher Order Components: A React Application Design Pattern](https://www.sitepoint.com/react-higher-order-components/)
+- [:+1: JavaScript variables lifecycle: why let is not hoisted](https://rainsoft.io/variables-lifecycle-and-why-let-is-not-hoisted/)
+- [Web Design in 4 minutes](http://jgthms.com/web-design-in-4-minutes/)
+- [The other kind of JavaScript fatigue](http://chrismm.com/blog/the-other-kind-of-javascript-fatigue/)
+- [State Of React #1: A Stateless React App?]
+(http://jamesknelson.com/state-react-1-stateless-react-app/#more-1031)
+- [:+1: Learn Node.js with Brigadier Fluffykins Part I: Sync, Async, and Creating Your First Server!](https://medium.freecodecamp.com/learn-node-js-with-brigadier-fluffykins-i-basics-async-sync-create-your-first-server-b9e54a45e108#.o1iw1wczc)
+- [:+1: HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+- [:+1: Learn Node.js with Brigadier Fluffykins Part II: Events, EventEmitter and the Event Loop](https://medium.freecodecamp.com/learn-node-js-with-brigadier-fluffykins-part-ii-events-eventemitter-the-event-loop-6d4c139694fb#.srr1wig9z)
+
+
+
+
+
+---
+
+
+### July in review
+
+- Man, I feel like this has been a weird month
+- Mike is doing great. He is able to code comps with little to no help.
+- Got Mike introduced to Gulp
+- I started using NPM scripts and P-S. At the moment, I really like this build process
+- I have a bunch of Video tuts on pause. I started a Computer Science course with FrontEndMasters. I have a p5 course started too.
+- I took a turn to work on a character-per-line tool
+- I started getting back into learning React. This has been challenging. Lots of new concepts, rules and verbage to learn.
+
+
+
+
+
+---
+
+
+
+## DAY 235 - August 1 - Monday
+
+- In Wyoming
+- ropes course
+- archery
+
+Read/Watched:
+- [Why I don't use Haskell for Functional Programming](http://jlouisramblings.blogspot.com/2008/03/why-i-dont-use-haskell-for-functional_08.html)
+
+
+
+
+
+---
+
+
+## DAY 236 - August 1 - Tuesday
+
+
+
+- night photography
+
+Read/Watched:
+- [:+1:
+The Ultimate Introduction to Web Scraping and Browser Automation](https://www.youtube.com/watch?v=1UYBAn69Qrk&list=TL7Njr8ZhSIM8wMTA4MjAxNg)
+- [The Golden Age of JavaScript — Part 1](https://mgadams.com/modern-javascript-development-part-1-d271f3790c1c#.q89575v48)
+- [:+1: Broken Link Checker](https://davidwalsh.name/broken-link-checker)
+- [:+1: Using A Static Site Generator At Scale: Lessons Learned](https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/)
+- [lunr.js](http://lunrjs.com/) Simple full-text search in your browser
+
+
+
+
+---
+
+
+## DAY 237 - August 3 - Wednesday
+
+- in wyoming
+
+Read/Watched:
+- [Why Your Project Estimations Are Always Wrong](https://auth0.com/blog/why-your-project-estimations-are-always-wrong/)
+
+
+
+---
+
+
+## DAY 238 - August 4 - Thursday
+
+- traveling home
+
+Read/Watched:
+- [The Cosmic Stack](https://cosmicjs.com/blog/the-cosmic-stack)
+- [New attack steals SSNs, e-mail addresses, and more from HTTPS pages](http://arstechnica.com/security/2016/08/new-attack-steals-ssns-e-mail-addresses-and-more-from-https-pages/)
+- [:+1: Terminals Are Weird](https://catern.com/posts/terminal_quirks.html)
+- [ROBERT A. COLE](http://www.rcolephotography.com/)
+
+
+
+
+
+
+
+---
+
+
+## DAY 239 - August 5 - Friday
+
+- visited Amir's school and met with teacher
+- RSS
+- Pat's BDay
+
+Read/Watched:
+- [:+1: JavaScript Refactoring Techniques](https://code.tutsplus.com/courses/javascript-refactoring-techniques/lessons/refactoring-techniques)
+- [:+1: The Ultimate Introduction to Web Scraping and Browser Automation](https://www.youtube.com/watch?v=1UYBAn69Qrk)
+- [:+1: How to Make a Custom Twitch Bot](https://www.youtube.com/watch?v=rVVhkX1uTRQ)
+- [:+1: Learn Node.js with Brigadier Fluffykins Part II: Events, EventEmitter and the Event Loop](https://medium.freecodecamp.com/learn-node-js-with-brigadier-fluffykins-part-ii-events-eventemitter-the-event-loop-6d4c139694fb#.ppk5wdlua)
+- [Event reference](https://developer.mozilla.org/en-US/docs/Web/Events)
+- [Node.js EventEmitter Tutorial](http://www.hacksparrow.com/node-js-eventemitter-tutorial.html)
+- [Node.js - Event Emitter](http://www.tutorialspoint.com/nodejs/nodejs_event_emitter.htm)
+- [PUT vs POST in REST](http://stackoverflow.com/questions/630453/put-vs-post-in-rest)
+- [:+1: Learn Node.js with Brigadier Fluffykins Part III: Request Object, Configure Routes, Serve Files](https://medium.freecodecamp.com/learn-node-js-with-brigadier-fluffykins-part-iii-request-object-configure-routes-serve-files-7666f783dc10#.p4ghl8833)
+- [:+1: Client side screenshoot](http://codepen.io/netsi1964/pen/RRYzYw?editors=1010)
+- [What is a Headless CMS?](https://css-tricks.com/what-is-a-headless-cms/)
+- [Realtime Web Components](https://blog.pusher.com/realtime-web-components/)
+- [Smart automatic image cropping: Maybe you CAN always get what you want](http://cloudinary.com/blog/smart_automatic_image_cropping_maybe_you_can_always_get_what_you_want)
+- [:+1: Copy to Clipboard](http://www.jstips.co/en/copy-to-clipboard/)
+- [:+1: JS TIPS](http://www.jstips.co/)
+- [Palette 30](http://codepen.io/bourhaouta/pen/RRYrbd?editors=0010)
+- [:+1: clipboard.js](https://clipboardjs.com/)
+- [dummi](http://dummi.io/) DATA FOR YOUR PROJECTS
+- [React Router Animation Examples](https://github.com/kiki-le-singe/react-router-animation-examples)
+- [PonyFoo Articles repo](https://github.com/ponyfoo/articles)
+- [lightgallery.js](https://sachinchoolur.github.io/lightgallery.js/)
+- [Math Constants in JavaScript](http://thenewcode.com/1117/Math-Constants-in-JavaScript)
+- [Animating like you just don’t care with Element.animate](https://hacks.mozilla.org/2016/08/animating-like-you-just-dont-care-with-element-animate/)
+- [:+1: Take a Selfie With JavaScript](http://tutorialzine.com/2016/07/take-a-selfie-with-js/)
+- [High Performance SVGs](https://css-tricks.com/high-performance-svgs/)
+
+
+---
+
+## DAY 240 - August 6 - Saturday
+
+- fam day
+
+Read/Watched:
+- [A Comprehensive Introduction to Webpack, the Module Bundler](http://www.theodo.fr/blog/2016/07/a-comprehensive-introduction-to-webpack-the-module-bundler/)
+- [:+1: The History of Email](https://eager.io/blog/history-of-email/)
+- [:+1: Generators and Iterators](http://greim.github.io/gen/dist/00-intro.html)
+- [Handling Errors with ES6](http://blog.runnable.com/post/148317397736/handling-errors-with-es6)
+- [Handling Errors with ES6](http://blog.runnable.com/post/148317397736/handling-errors-with-es6)
+- [Feature Flag Routes Safely with Express Middleware](http://blog.runnable.com/post/146173707431/feature-flag-routes-safely-with-express-middleware)
+- [Dropping Webhooks](http://blog.runnable.com/post/142092495506/dropping-webhooks)
+- [Dumb Redux](http://www.macwright.org/2016/08/02/dumb-redux.html)
+- [A Comprehensive Look at jQuery Selectors](https://www.sitepoint.com/comprehensive-jquery-selectors/)
+- [React Storybooks meets Create React App](https://voice.kadira.io/react-storybooks-meets-create-react-app-ac8a3f32cc79#.nfqfmqkqc)
+- [warriorjs](https://github.com/olistic/warriorjs) Game written in JavaScript for learning JavaScript and artificial intelligence.
+- [Decoupled CMS: Why “Going Headless” Is Becoming So Popular](https://pantheon.io/decoupled-cms)
+- [Creating The Right Headspace: Why Headless CMS's Are Wrong](https://www.onehippo.com/en/resources/blogs/2016/2/why-headless-cms-is-wrong.html)
+- [Keystone.js](http://keystonejs.com/) Node.js CMS & Web Application Platform
+
+
+
+---
+
+
+## DAY 241 - August 7 - Sunday
+
+- fam day
+
+Read/Watched:
+- [How to Create a Redux-Form with Validation and Initialized Values](http://www.davidmeents.com/create-redux-form-validation-initialized-values/)
+- [State of React #1: A Stateless React App?](http://jamesknelson.com/state-react-1-stateless-react-app/)
+- [State of React #2 – From Inception to Redux](http://jamesknelson.com/state-react-2-inception-redux/)
+- [POD - git push deploy for Node.js](https://github.com/yyx990803/pod)
+- [Should My Landing Page Be SEO-Focused, Conversion-Focused, or Both? - Whiteboard Friday](https://moz.com/blog/landing-page-seo-conversion-or-both-whiteboard-friday)
+- [Scraping with Node](http://maxogden.com/scraping-with-node.html)
+- [Electron Fundamentals](http://maxogden.com/electron-fundamentals.html)
+- [Scraping the Web With Node.js](https://scotch.io/tutorials/scraping-the-web-with-node-js)
+- [Web Scraping With Node.js](https://www.smashingmagazine.com/2015/04/web-scraping-with-nodejs/)
+- [Introduction to Noms](https://github.com/attic-labs/noms/blob/master/doc/intro.md)
+- [form.io](https://form.io/) Serverless Enterprise Applications
+- [Building Serverless Apps with Form.io](https://www.youtube.com/watch?v=_25-wYc3l0w)
+- [Building Serverless web applications with JSON Powered Forms - Part 1](https://www.youtube.com/watch?v=KHbteRQF2Yk)
+- [Building Serverless web applications with JSON Powered Forms - Part 2](https://www.youtube.com/watch?v=V-G47-jHr_s)
+
+
+
+---
+
+## DAY 242 - August 8 - Monday
+
+
+
+
+Read/Watched:
+- [Building Serverless Apps with Form.io](https://www.youtube.com/watch?v=_25-wYc3l0w)
+- [Everything You Need to Know About Instagram API Integration](https://css-tricks.com/everything-need-know-instagram-api-integration/)
+- [:+1: Google Creative Lab](https://www.creativelab5.com/)
+- [NEWS
+Google Hunting for Fresh Talent with Creative Lab 5](http://www.webdesignerdepot.com/2016/03/google-hunting-for-fresh-talent-with-creative-lab-5/)
+- [My journey into creativelab5.com](http://www.2vc.org/2016/06/09/google-fivers-creativelab5/)
+- [:+1: Cracking Google's Creative Lab 5 Application](http://clapinton.github.io/2016/04/14/cracking-googles-creative-lab-5-application.html)
+- [:+1: Designing & Coding Google's Creative 5 Application](http://clapinton.github.io/2016/04/23/coding-designing-googles-creative-5-application.html)
+- [Discovery Requires Circumstance](http://goeiebook.github.io/creativelab/)
+- [:+1: bind and this - Object Creation in JavaScript P1 - FunFunFunction #43](https://www.youtube.com/watch?v=GhbhD1HR5vk)
+- [Examples of this and bind - Object Creation in JavaScript P2 - FunFunFunction #44](https://www.youtube.com/watch?v=PIkA60I0dKU&feature=em-subs_digest)
+- [Building Your First App With Vue.js](http://tutorialzine.com/2016/08/building-your-first-app-with-vue-js/)
+- [:+1: Learning Vue 1.0: Step By Step](https://laracasts.com/series/learning-vue-step-by-step)
+
+
+---
+
+## DAY 243 - August 9 - Tuesday
+
+- Amir's first day of Kindergarden
+- Julianne in town
+
+
+Read/Watched:
+- [:+1: Learning Vue 1.0: Step By Step](https://laracasts.com/series/learning-vue-step-by-step)
+- [:+1: Runs Previous Command with Replace](https://davidwalsh.name/runs-previous-command-replace)
+- [White Noise - Random Text Background](http://codepen.io/brownerd/pen/8c7dfc10f32afe18559efef3cea3d134/?editors=0010)
+- [Rise of frameworks & programmers’ frustration](https://medium.com/@bhatt.shashwat/rise-of-frameworks-programmers-frustration-809be0d02c4a#.jesxchjt9)
+- [Relp.it](Rise of frameworks & programmers’ frustration)
+- [:+1: esnextb.in](https://esnextb.in/)
+- [React EsNextbin](https://esnextb.in/?gist=27fd38f51a4a9303e9c7&execute=true)
+
+
+
+---
+
+## DAY 244 - August 10 - Wednesday
+
+- julianne in town
+- BDay
+
+Read/Watched:
+- [JavaScript Functional Testing with Nightwatch.js](https://www.sitepoint.com/javascript-functional-testing-nightwatch-js/)
+- [JavaScript Testing: Unit vs Functional vs Integration Tests](https://www.sitepoint.com/javascript-testing-unit-functional-integration/)
+- [Is this my interface or yours?](https://medium.com/@jsaito/is-this-my-interface-or-yours-b09a7a795256#.5mcvhbtfv)
+- [The holy grail of image optimization OR balancing visual quality and file size](http://cloudinary.com/blog/the_holy_grail_of_image_optimization_or_balancing_visual_quality_and_file_size)
+- [Make your JavaScript code shine: knockout old ES5 hacks](https://rainsoft.io/make-your-javascript-code-shide-knockout-old-es5-hack/)
+- [:+1: stdlib](https://stdlib.com/)
+- [Building a React Components Living Documentation using React-Storybook.](https://medium.com/@mlthuret/building-a-react-components-living-documentation-using-react-storybook-5f11f0e7d23e#.d12py4wlf)
+- [2015 STUDENT OUTCOMES REPORT](http://www.hackreactor.com/student-outcomes-2015)
+- [:+1: stdlib.com Demo - Create a Node.js Microservice in Seconds](https://www.youtube.com/watch?v=XRrwTGq6SbE&feature=youtu.be)
+
+
+
+---
+
+
+
+## DAY 245 - August 11 - Thursday
+
+- julianne leaves
+
+
+
+Read/Watched:
+- [Build an API with Nodal 0.11 - Screencast](https://www.youtube.com/watch?v=FNgRDihY_3I)
+- [Nodal](http://www.nodaljs.com/)
+- [Comma operator in JS](http://www.jstips.co/en/comma-operaton-in-js/)
+- [Vocalizer: Help Others Pronounce Your Name Correctly](http://atifaz.am/blog/vocalizer-help-others-pronounce-your-name-correctly.html)
+- [:+1: NameShouts](https://www.nameshouts.com/)
+- [:+1: Vocalizer: Help Others Pronounce Your Name Correctly](http://atifaz.am/blog/vocalizer-help-others-pronounce-your-name-correctly.html)
+- [Vocalizer](https://github.com/atifazam/vocalizer)
+- [Practical SVG](http://alistapart.com/article/practical-svg)
+- [:+1: Why “Agile” and especially Scrum are terrible](https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/)
+- [Flow](https://flowtype.org/)
+- [React Enlightenment [DRAFT]](https://www.gitbook.com/book/frontendmasters/react-enlightenment/details)
+- [The State of Vue](https://medium.com/the-vue-point/the-state-of-vue-1655e10a340a#.9hpt61g68)
+- [An Introduction to Service Workers - JS Monthly London](https://www.youtube.com/watch?v=EnaKD_EHG14)
+- [Typr.js](https://github.com/photopea/Typr.js)
+
+
+
+
+---
+
+## DAY 246 - August 12 - Friday
+
+
+
+Read/Watched:
+- [Creating Your First Elm App: From Authentication to Calling an API (Part 1)](https://auth0.com/blog/creating-your-first-elm-app-part-1/)
+- [Build an App in Elm with JWT Authentication and an API](https://github.com/kmaida/elm-with-jwt-api)
+- [NodeJS JWT Authentication sample](https://github.com/auth0-blog/nodejs-jwt-authentication-sample)
+- [Elm Lang documentation](http://guide.elm-lang.org/core_language.html)
+- [Creating Your First Elm App: From Authentication to Calling an API (Part 2)](https://auth0.com/blog/creating-your-first-elm-app-part-2/)
+- [React Native for Web: Playground](http://codepen.io/necolas/pen/PZzwBR)
+- [Why Most Programmers Get Pagination Wrong](https://blog.jooq.org/2016/08/10/why-most-programmers-get-pagination-wrong/)
+
+
+
+---
+
+## DAY 247 - August 13 - Saturday
+
+
+Read/Watched:
+- [:+1: GraphicMeans](http://www.graphicmeans.com/)
+- [A Beginner’s Guide To Progressive Web Apps](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/)
+- [Smooth as Butter: Achieving 60 FPS Animations with CSS3](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108#.vfg45w19q)
+
+
+
+---
+
+
+## DAY 248 - August 14 - Sunday
+
+
+Read/Watched:
+- [How to use CSS and SVG clipping and masking techniques](https://getflywheel.com/layout/css-svg-clipping-and-masking-techniques/?utm_source=codropscollective)
+- [Developing a WordPress Theme from Scratch](https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/) This is a good resource for mike
+- [What is an API? In English, please.](https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82#.pn2sdv47h)
+- [:+1: Object-Oriented Design - Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming/object-oriented/p/object-types#) Great for Mike too
+- [Sorting By Vote Count & Recently Added Date In Javascript](http://ilikekillnerds.com/2016/08/sorting-vote-count-recently-added-date-javascript/)
+- [:+1: Object-Oriented Bootcamp: Messages 101](https://laracasts.com/series/object-oriented-bootcamp-in-php/episodes/5?autoplay=true)
+
+
+---
+
+## DAY 249 - August 15 - Monday
+
+
+
+Read/Watched:
+- [:+1: Object-Oriented Bootcamp: Messages 101](https://laracasts.com/series/object-oriented-bootcamp-in-php/episodes/5?autoplay=true)
+- [The cost of small modules](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/)
+- [:+1: Voting App](https://github.com/cosmicjs/cosmicapp-voting-app)
+- [Editing Images in CSS: Combining Techniques](https://code.tutsplus.com/tutorials/editing-images-in-css-combining-techniques--cms-26061)
+- [How To Clean Up Your JavaScript Build With Tree Shaking](https://blog.engineyard.com/2016/tree-shaking)
+- [LogicJS](https://github.com/mcsoto/LogicJS) Logic programming is typically known by the language Prolog.
+- [:+1: Quick Tip: What Are Factory Functions in JavaScript](https://www.sitepoint.com/factory-functions-javascript/)
+- [What is React?](https://remysharp.com/2016/08/15/what-is-react)
+- [Factory constructor pattern](http://javascript.info/tutorial/factory-constructor-pattern)
+- [Factory Functions in JavaScript](http://atendesigngroup.com/blog/factory-functions-javascript)
+- [Ultra Flexible JavaScript Object Oriented Programming With Stamps](https://www.barbarianmeetscoding.com/blog/2016/01/18/javascript-ultra-flexible-object-oriented-programming-with-stamps/)
+- [React for designers](https://medium.com/@fredjens/react-for-designers-3fbc7b6560dd#.k3jsgnzdu)
+
+
+
+
+
+---
+
+
+
+## DAY 250 - August 16 - Tuesday
+
+
+Read/Watched:
+- [Staggering Animations](https://css-tricks.com/staggering-animations/)
+- [The rise of functional programming & the decline of Angular 2.0](http://blog.wolksoftware.com/the-rise-of-functional-programming-and-the-death-of-angularjs)
+- [S(GH)PA: The Single-Page App Hack For GitHub Pages](https://www.smashingmagazine.com/2016/08/sghpa-single-page-app-hack-github-pages/)
+- [Using the JavaScript while… and do…while loops](http://thenewcode.com/1122/Using-the-JavaScript-while-and-dowhile-loops)
+- [Sketch Symbol best practices](https://medium.com/@lloyd/sketch-symbol-best-practices-c957511f1188#.llb7v3nf0)
+- [Force.js](http://www.gravmatt.com/force-js/)
+- [:+1: webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard)
+- [:+1: The modulus operator %](http://codepen.io/brandonbrule/post/the-modulus-operator)
+- [:+1: Two-way Synchronization for a Web App and Git](https://ponyfoo.com/articles/two-way-synchronization-for-a-web-app-and-git)
+- [Return an Array in GraphQL](http://jaketrent.com/post/return-array-graphql/)
+- [Think Before You Mongo](http://blog.runnable.com/post/149000201856/think-before-you-mongo)
+- [:+1: Simple Git](https://github.com/steveukx/git-js) A light weight interface for running git commands in any node.js application.
+- [github-webhook-handler](https://github.com/rvagg/github-webhook-handler) GitHub allows you to register Webhooks for your repositories. Each time an event occurs on your repository, whether it be pushing code, filling issues or creating pull requests, the webhook address you register can be configured to be pinged with details.
+
+This library is a small handler (or "middleware" if you must) for Node.js web servers that handles all the logic of receiving and verifying webhook requests from GitHub.
+
+- [How to Use Map, Filter, & Reduce in JavaScript](https://code.tutsplus.com/tutorials/how-to-use-map-filter-reduce-in-javascript--cms-26209)
+
+- [:+1: Create an App in VueJS 2](https://auth0.com/blog/create-an-app-in-vuejs-2/) That was a ton to take in. I'm not there yet.
+
+- [:+1: How to flatten a deep nested Array in JS #DailyAlgorithm](https://codetuts.tech/flatten-deep-nested-array-object/)
+
+- [:+1: Finding the surrounding cells in a Matrix (2D Array)](https://codetuts.tech/adjacent-cells-of-a-matrix/)
+
+
+
+---
+
+## DAY 251 - August 17 - Wednesday
+
+
+Read/Watched:
+- [Why are time estimates often REALLY wrong? - MPJ's Musings - FunFunFunction #45](https://www.youtube.com/watch?v=6LERX0pLZfs)
+- [How to Build Natural Language Search with Algolia](https://www.youtube.com/watch?v=xrazLQxzLNE)
+- [ScreenshotMaker with Vue.js – First look at Vue.js (HTTP and simple component)](http://fedojo.com/vue-js-first-look-and-test/)
+- [node-webshot](https://github.com/brenden/node-webshot)
+- [Vue.js – ScreenshotMaker part 2 (using Jade with Vue.js, call variables)](http://fedojo.com/vue-js-screenshotmaker-part-2-using-jade-with-vue-js-call-variables/)
+- [Confessions of an Insecure Designer](https://medium.freecodecamp.com/confessions-insecure-designer-cebfe2546e97#.hl76gsrhp)
+- [People can’t gauge their own interview performance. And that makes them harder to hire.](https://medium.freecodecamp.com/people-cant-gauge-their-own-interview-performance-and-that-makes-them-harder-to-hire-96cd51601437#.5uchtbhy6)
+- [interviewing.io](http://www.interviewing.io/)
+- [:+1: If Correlation Doesn’t Imply Causation, Then What Does?](https://medium.freecodecamp.com/if-correlation-doesnt-imply-causation-then-what-does-c74f20d26438#.kt59jbpry)
+- [Mustache templates in Haskell](https://www.stackbuilders.com/tutorials/haskell/mustache-templates/)
+- [:+1: Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
+- [react-native-off-canvas-menu](https://github.com/shoumma/react-native-off-canvas-menu)
+- [A curated list of free resources to master React Development](https://github.com/ericdouglas/react-roadmap)
+- [:+1: Staticman](https://staticman.net/)
+- [:+1: EEX - COLLECTION OF WEB EEXPERIMENTS](https://tofuness.github.io/eex/)
+- [Hello Color](http://jxnblk.com/hello-color/?c=26de4a)
+- [How to create a simple layout with CSS Grid Layouts](https://getflywheel.com/layout/css-grid-layouts-how-to/?utm_source=codropscollective)
+- [:+1: Lets get into the basics of CSS Grid Layout Model](https://pawelgrzybek.com/lets-get-into-the-basics-of-css-grid-layout-model/)
+- [The future of UX design](https://medium.com/user-defenders/the-future-of-ux-design-76b69d302ac5#.ciuolm8a7)
+- [Geomicons](http://geomicons.com/#!)
+- [SVG Stroke FTW!](http://danklammer.com/articles/svg-stroke-ftw/)
+- [:+1: Bytesize Icons](https://github.com/danklammer/bytesize-icons)
+
+
+
+
+---
+
+## DAY 252 - August 18 - Thursday
+
+
+Read/Watched:
+- [Making sense of Redux](https://medium.freecodecamp.com/why-redux-makes-sense-to-me-and-how-i-conceptualize-it-c8a3a9db15ca#.2vuqw69a7)
+- [Where to Hold React Component Data: state, store, static, and this](https://medium.freecodecamp.com/where-do-i-belong-a-guide-to-saving-react-component-data-in-state-store-static-and-this-c49b335e2a00#.1ghg7altj)
+- [:+1: WTF, forms?](http://wtfforms.com/)
+- [:+1: Building Your First App With Vue.js](http://tutorialzine.com/2016/08/building-your-first-app-with-vue-js/)
+- [:+1: Breaking or continuing loop in functional programming](http://www.jstips.co/en/break-continue-loop-functional/)
+- [Simpler GitHub Pages publishing](https://github.com/blog/2228-simpler-github-pages-publishing)
+- [Preview a new look for fonts on Typekit](http://blog.typekit.com/2016/08/18/preview-a-new-look-for-fonts-on-typekit/)
+- [:+1: DNS Explained – How Your Browser Finds Websites](https://scotch.io/tutorials/dns-explained-how-your-browser-finds-websites)
+- [:+1: THE MARVELLOUSLY MYSTERIOUS JAVASCRIPT MAYBE MONAD](http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)
+- [Recharts](http://recharts.org/)
+- [Papa Parse](http://papaparse.com/) The powerful, in-browser CSV parser for big boys and girls
+- [Tasty: My First Go Program](http://blog.leahhanson.us/post/recursecenter2016/tasty.html)
+- [Yes, You Should Learn Vanilla JavaScript Before Fancy JS Frameworks](https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks)
+- [Monads](https://glebbahmutov.com/blog/monads/)
+
+
+
+
+
+---
+
+## DAY 253 - August 19 - Friday
+
+Read/Watched:
+- [Let's Go: Object-Oriented Programming in Golang](https://code.tutsplus.com/tutorials/lets-go-object-oriented-programming-in-golang--cms-26540)
+
+
+---
+
+## DAY 254 - August 20 - Saturday
+
+- Brittish soccer clinic
+- Atom theme
+
+Read/Watched:
+- [#216: GitHub’s Electron With Zeke Sikelianos](https://changelog.com/216/)
+- [Getting into JavaScript Building & Bundling. Part 1: Modules](http://codepen.io/FelixRilling/post/my-journey-of-javascipt-building-bundling)
+
+
+---
+
+## DAY 255 - August 21 - Sunday
+
+- Coffee at the Homestead
+- Atom theme
+
+Read/Watched:
+- [Offline Storage for Progressive Web Apps](https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.71iarlvo0)
+
+
+
+---
+
+## DAY 256 - August 22 - Monday
+
+- raji and amir doctor checkup
+- Teaching mike JSON, Jade, SCSS, project organization
+
+Read/Watched:
+- [File Bundling and HTTP/2: Rethinking Best Practices](https://www.sitepoint.com/file-bundling-and-http2/)
+
+
+
+---
+
+## DAY 257 - August 23 - Tuesday
+
+
+Read/Watched:
+- [A Library of Node.js Microservices for Everyone — Looking Forward](https://medium.com/@keithwhor/a-library-of-node-js-microservices-for-everyone-looking-forward-219cfbc2ab0d#.nsvempk7q)
+
+
+
+
+---
+
+## DAY 258 - August 1 - TITLE
+## DAY 259 - August 1 - TITLE
+## DAY 260 - August 1 - TITLE
+## DAY 261 - August 1 - TITLE
+## DAY 262 - August 1 - TITLE
+## DAY 263 - August 1 - TITLE
+## DAY 264 - August 1 - TITLE
 ## DAY 265 - DATE - TITLE
 ## DAY 266 - DATE - TITLE
 ## DAY 267 - DATE - TITLE
@@ -5847,13 +7001,13 @@ Read/Watched:
 
 Left Over:
 - Get simple recursion down
-- Get forEach, map, filter, reduce, curry and other FP down in regards to Arrays and Objects
+- ~~Get forEach, map, filter, reduce, curry and other FP down in regards to Arrays and Objects~~
 - Nested Loops need practice
-- Get comfortable creating useful closures
-- Start FrontEndMasters videos
+- ~~Get comfortable creating useful closures~~
+- ~~Start FrontEndMasters videos~~
 - Object to Array / Array to Object
 - Understand memory leaks in JS
-- better understand "test interface, not its implementation"
+- understand "test interface, not its implementation"
 
 
 
@@ -5869,14 +7023,56 @@ Revisit:
 Ideas:
 
 
+- Pronounce Black names API
+  - nameShouts API
 
-- Make a tool that takes JADE and creates modualr CSS from the html
+- Semver joke 1.0.0.0.0.0.0
 
-- tools needed - i think it's hard to learn how to dev certain thing because there is no checklist for the tools needed to make certain things. It would be great if the tools, skills and understanding needed were listed for each tutorial.
+
+
+- Visualizing JS
+  - Make a shift, unshift, pop, push, slice, splice, substr, substring visualizer with mnemonic devices
+
+  - Make a function maker that shows all the thing you can dump into arguments (string, array, obj, fn, number)
+
+
+- Google Chome Extension for play
+  - Commatosed - period rea
+
+
+- Testing Tus
+  - Show difference between TDD in Mocha, Jasmine, Tape, and Vanilla using CodePen
+    - http://karloespiritu.com/better-unit-testing-with-tape/
+    - https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.4jzb13ffm
+    - https://ponyfoo.com/articles/testing-javascript-modules-with-tape
+    - http://www.macwright.org/2014/03/11/tape-is-cool.html
+    -
+
+- Make something like DragDis but for my workflow
+  - Squirrel Article Title and URL away
+    - Make Categories (all categories have a Read Later section)
+    - Gets stored in a ReadMe?
+    - Can be pushed to gethub
+    - or does it sync with Google Drive or iCloud?
+    - Just drag the highlighted title
+
+
+- make my own blog from scratch
+
+- Make my own UI tools (Modal, Tabs, Slider, LightBox)
+
+[Considerations for Styling a Modal](https://css-tricks.com/considerations-styling-modal/)
+
+[Awesome Responsive Slider](http://codepen.io/EvyatarDa/pen/bZLdBA?editors=0010)
+
+
+- Make a tool that takes JADE and creates modular CSS from the html
+
+- tools needed - i think it's hard to learn how to dev certain things because there is no checklist for the tools needed to make certain things. It would be great if the tools, skills and understanding needed were listed for each tutorial.
 
 ex wrong: Make a Random Quote machine (use jQuery)
 
-ex better: Make a Random Quote machine (js, xhr, understand callbacks, thunks, json, working with json, error handling...)
+ex better: Make a Random Quote machine (js, xhr, understand callbacks, thunks, json, working with error handling...)
 
 - Make a Notes app for devs. I love the MiniNotes app, but I hate that I can't do code formatting with it. It would be awesome to do one that just converts markdown
 
@@ -5884,9 +7080,9 @@ ex better: Make a Random Quote machine (js, xhr, understand callbacks, thunks, j
 
 - Daily Reading list maker, Desktop app or Chrome plugin. Select Article title, press hotkey, it writes selected text and page url to markdown doc. Or does it push it to Firebase?
 
-- Swipeable navigation. it works just like a slider does. next nav categroy can be blurred out and clipped on the side.
+- Swipeable navigation. it works just like a slider does. next nav category can be blurred out and clipped on the side.
 
-- STL MIT HAUS opening. All designs can be tweeked my viewers and sent or printed
+- STL MIT HAUS opening. All designs can be tweeked by viewers and sent or printed
 
 - Web vs Print typography
     - Indentation vs new line (Both work, but one would require much more paper, thus more money)
@@ -5900,8 +7096,16 @@ ex better: Make a Random Quote machine (js, xhr, understand callbacks, thunks, j
 
     - Make CPL tool
 
+    - http://simplefocus.com/flowtype
+      - cool, but not realistic
+      - 45 - 75 makes sense kinda for print.  book can only be a certain size before it becomes too expensive or cumbersome.
+      - online, you can have measures of whatever you want
+        - but there is a point where things get rediculous
+          - small text sucks to read online
+          - 300 cpl looks gross
 
-- -0 to 0 (going from no JS or Programming skills to read to basic skills)
+
+- 0 to 0 (going from no JS or Programming skills to basic skills)
 
 
 - Similar to BrainJS (i need a new name for this BTW) what if we could express dating/match making through code for nerds and make a UI for everyone else to understand
@@ -5960,7 +7164,7 @@ I'd argue that the technical requirements of the web make designing for it a mov
 - Managing images is FUCKED
   - Are we really going to split an image into n a million fucking image sizes? Managing this in our code blows. And image bloat is insane.
 
-- Accesibility and Color Blindness settings toggle?
+- Accessibility and Color Blindness settings toggle?
 
 - Talk: History of BAD CSS [History of Style]. (Inline on each page > Flash > stylesheets > over qualification > Standards/ Validated > Imports > One line declarations > OOCSS > Utility Classes > Compass > SASS > SCSS > BEM > PostCSS > Inline CSS > CSS Modules)
 
@@ -5998,7 +7202,6 @@ I'd argue that the technical requirements of the web make designing for it a mov
 
 - Methods (setup Wudojo, Testing and Code Coverage)
 - Get simple recursion down
-- Start FrontEndMasters videos
 - Make browser dances like Harlem Shake
 - React site with True Vertical Rhythm + images and stuff
 - Style guide. Just code as usual. Code view only shows on click event. Shows HTML and CSS. Can this be done without the Comment clutter?
@@ -6007,8 +7210,7 @@ I'd argue that the technical requirements of the web make designing for it a mov
     - forEach version
 
 - Look over nathan s' slider
-- Visualizing JS - Make a shift, unshift, pop, push, slice, splice, substr, substring visualizer with mnemonic devices
-- Visualizing JS - Make a function maker that shows all the thing you can dump into arguments (string, array, obj, fn, number)
+
 - WDYGT (What did you Google today)
 
 - Layout (popularly bad habits)

@@ -80,7 +80,13 @@ A bound function is a function bind with an object. Usually it is created from t
 
 - http://rainsoft.io/gentle-explanation-of-this-in-javascript/
 
+---
 
+## Business logic
+
+rules for how data is manipulated
+
+- https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00#.jliaa3f48
 
 
 ---
@@ -211,7 +217,9 @@ In browsers, console hooks up to the developer tools' console display, whereas i
 - https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/apA.md
 
 
+---
 
+## COPE (Create Once, Publish Everywhere)
 
 
 ---
@@ -503,9 +511,13 @@ if (~foo.indexOf("f")) {
 
 ## Expression
 
-An expression is any valid unit of code that resolves to a value. —Mozilla Development Network: Expressions and operators
+An expression is any valid unit of code that resolves to a value.
+— Mozilla Development Network: Expressions and operators
 
 
+An expression returns a value and can be used in place of any other expression
+
+- http://lisperator.net/pltut/dream
 
 
 ---
@@ -768,6 +780,20 @@ The `if (a && b)` conditional around the baz() call is traditionally called a "g
 - https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch1.md
 
 
+---
+
+## Generator
+
+ a generator is merely a function that returns an iterator.
+
+ - http://greim.github.io/gen/dist/04-generators.html
+
+
+
+- A push and a pull mechanism ( - Jafar, Front End Masters Asynchronous JS lecture )
+
+
+
 
 ---
 
@@ -971,6 +997,105 @@ var baz = foo || "foo";       // "foo"
 ## Iterator
 A pull Mechanism ( - Jafar, Front End Masters Asynchronous JS lecture )
 
+
+Recaiterators are stateful objects.
+
+
+### Things that are iterables:
+
+- Arrays
+- Strings
+- Maps
+- Sets
+- Function arguments objects
+- DOM collections
+
+
+
+### Things that accept iterables:
+
+
+#### Spread operators
+
+```js
+function* foo() { yield 'a', yield 'b', yield 'c'; }
+
+function bar() { console.log(arguments); }
+bar(...foo()); // => { 0: 'a', 1: 'b', 2: 'c' }
+
+function* foo() { yield 1, yield 2, yield 3; }
+console.log([...foo()]); // => [ 1, 2, 3 ]
+
+```
+
+
+#### Destructuring
+
+```js
+function* foo() { yield 1, yield 2, yield 3; }
+const [ x, y, z ] = foo();
+console.log(x); // => 1
+console.log(y); // => 2
+console.log(z); // => 3
+```
+
+
+#### Construction of maps and sets
+
+```js
+function* foo() { yield 1, yield 2, yield 3; }
+const set = new Set(foo());
+console.log(set.has(1)); // => true
+console.log(set.has(2)); // => true
+console.log(set.has(3)); // => true
+```
+
+```js
+function* foo() { yield ['a', 1], yield ['b', 2]; }
+const map = new Map(foo());
+console.log(map.get('a')); // => 1
+console.log(map.get('b')); // => 2
+```
+
+#### Array.from()
+
+```js
+function* foo() { yield 1, yield 2, yield 3; }
+console.log(Array.from(foo())); // => [ 1, 2, 3 ]
+```
+
+
+#### Promise.all()
+
+```js
+function* foo() {
+  yield Promise.resolve(1);
+  yield Promise.resolve(2);
+  yield Promise.resolve(3);
+}
+Promise.all(foo()).then(arr => {
+  console.log(arr); // => [ 1, 2, 3 ]
+});
+```
+
+
+#### Generator delegation
+
+```js
+function* foo() { yield 1, yield 2, yield 3; }
+function* bar() { yield* foo(); }
+const arr = Array.from(bar());
+console.log(arr); // => [ 1, 2, 3 ]
+```
+
+
+
+
+
+- http://greim.github.io/gen/dist/06-iteration-everywhere.html
+
+
+
 ---
 
 ## I/O
@@ -981,12 +1106,6 @@ A pull Mechanism ( - Jafar, Front End Masters Asynchronous JS lecture )
 
 - [I/O - input/output](http://www.webopedia.com/TERM/I/I_O.html) Short for input/output. The term I/O is used to describe any program, operation or device that transfers data to or from a computer and to or from a peripheral device. Every transfer is an output from one device and an input into another. Devices such as keyboards and mouses are input-only devices while devices such as printers are output-only. A writable CD-ROM is both an input and an output device.
 
----
-
-
-## Generator
-
-- A push and a pull mechanism ( - Jafar, Front End Masters Asynchronous JS lecture )
 
 
 ---
@@ -1367,6 +1486,23 @@ A collection that arrives over time ( - Jafar, Front End Masters Asynchronous JS
 
 An Observable is a lot like an Event. Like an Event, an Observable is a sequence of values that a data producer pushes to the consumer. However unlike an Event, an Observable can signal to a listener that it has completed, and will send no more data.
 
+
+
+
+
+---
+
+## OOP vs FP
+
+In the section on Small Functions on common structures, we discuss how having a large number of common functions that will run consistently against simple resuable data structures -- an idea very much at odds with Object Oriented programming's notion of having many data structures, each with a small number of custom functions -- how this idea makes thinking about our systems significantly easier.
+
+- http://ramdajs.com/0.17/manual/01-intro/index.html
+
+
+
+
+
+
 ---
 
 ## Parameters
@@ -1615,7 +1751,18 @@ It doesn’t have any side effects, that is, it doesn’t affect (change, mutate
 ## referential transparency
 When a function is called twice with the same parameters, and ALWAYS returns the same result.
 
+---
 
+
+### Routing
+
+Routing means doing something in response to a change in the browser’s current URL. There are two ways you can accomplish this:
+
+pushState routing, using the HTML5 History API
+
+hash-based routing, using the portion of the page’s URL starting with #, i.e. the hash.
+
+- http://jamesknelson.com/routing-with-raw-react/
 
 ---
 
@@ -1941,6 +2088,14 @@ undefined means missing. That is, there's no difference between undefined and mi
 - let
 - const
 - function
+
+
+## Variable lifecycle
+
+- declaration phase
+- initialization phase
+- assignment phase
+
 
 ---
 
