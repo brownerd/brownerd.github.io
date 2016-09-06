@@ -6835,6 +6835,8 @@ Read/Watched:
 
 ## DAY 253 - August 19 - Friday
 
+- atom theme
+
 Read/Watched:
 - [Let's Go: Object-Oriented Programming in Golang](https://code.tutsplus.com/tutorials/lets-go-object-oriented-programming-in-golang--cms-26540)
 
@@ -6872,60 +6874,363 @@ Read/Watched:
 
 Read/Watched:
 - [File Bundling and HTTP/2: Rethinking Best Practices](https://www.sitepoint.com/file-bundling-and-http2/)
-
+- [12 Language Grammars](http://manual.macromates.com/en/language_grammars.html#naming_conventions)
 
 
 ---
 
 ## DAY 257 - August 23 - Tuesday
 
+- Working on Atom theme
 
 Read/Watched:
 - [A Library of Node.js Microservices for Everyone — Looking Forward](https://medium.com/@keithwhor/a-library-of-node-js-microservices-for-everyone-looking-forward-219cfbc2ab0d#.nsvempk7q)
-- [JSON Web Tokens vs. Session Cookies: In Practice](https://ponyfoo.com/articles/json-web-tokens-vs-session-cookies)
+- [JSON Web Tokens vs. Session Cookies: In Practguice](https://ponyfoo.com/articles/json-web-tokens-vs-session-cookies)
+- [JavaScript Sorting Recipes](http://thenewcode.com/1125/JavaScript-Sorting-Recipes)
+- [How To Develop a Package for GitHub’s Atom Code Editor](https://www.sitepoint.com/how-to-write-a-syntax-highlighting-package-for-atom/)
+- [How to Write Atom Packages Using Vanilla JavaScript](https://www.sitepoint.com/write-atom-packages-using-vanilla-javascript/)
+- [Creating an Electron Mac App: Stock Market Monitor](https://www.youtube.com/watch?v=6_V85t64OSI)
+- [:+1: Building your first Atom plugin](https://github.com/blog/2231-building-your-first-atom-plugin)
+- [:+1: Creating an Electron Mac App: Stock Market Monitor](https://www.youtube.com/watch?v=6_V85t64OSI)
+- [:+1: httpbin(1): HTTP Request & Response Service](https://httpbin.org/)
+- [:+1: Cache Fetched AJAX Requests Locally: Wrapping the Fetch API](https://www.sitepoint.com/cache-fetched-ajax-requests/)
+
+---
+
+## DAY 258 - August 24 - Wednesday
+
+- Working on Atom theme
+
+Read/Watched:
+- [It takes a village to raise a coder](https://medium.freecodecamp.com/it-takes-a-village-to-raise-a-coder-209b4e1d00f0#.tm1uwbw7s)
+- [10 reasons why you should give Elm a try](https://medium.com/@tibastral/10-reasons-why-you-should-give-elm-a-try-62b56d305643#.mwfm6ro8z)
+- [Types of Data](https://medium.com/@quikchange/types-of-data-33a6d465dfa0#.no3021qc4)
+- [Create a Music Jam Station with Vanilla JavaScript](https://www.sitepoint.com/music-jam-station/)
+- [Why Node Sass broke your code and SemVer](https://medium.com/@xzyfer/why-node-sass-broke-your-code-and-semver-1b3e409c57b9#.lfsid55ns)
+- [Badgerly](https://github.com/stevenmhunt/badgerly)
+- [closure-compiler-js](https://github.com/google/closure-compiler-js)
+- [ServiceWorker intro](https://glebbahmutov.com/blog/service-worker-intro/)
+- [Grade.js](http://benhowdle.im/grade/)
+- [Promises in Node.js – An Alternative to Callbacks](https://strongloop.com/strongblog/promises-in-node-js-an-alternative-to-callbacks/)
+- [Handle Errors in a Node App](http://jaketrent.com/post/handle-errors-node-app/)
+
+
 
 
 
 ---
 
-## DAY 258 - August 1 - TITLE
-## DAY 259 - August 1 - TITLE
-## DAY 260 - August 1 - TITLE
-## DAY 261 - August 1 - TITLE
-## DAY 262 - August 1 - TITLE
-## DAY 263 - August 1 - TITLE
-## DAY 264 - August 1 - TITLE
-## DAY 265 - DATE - TITLE
-## DAY 266 - DATE - TITLE
-## DAY 267 - DATE - TITLE
-## DAY 268 - DATE - TITLE
-## DAY 269 - DATE - TITLE
-## DAY 270 - DATE - TITLE
-## DAY 271 - DATE - TITLE
-## DAY 272 - DATE - TITLE
-## DAY 273 - DATE - TITLE
-## DAY 274 - DATE - TITLE
-## DAY 275 - DATE - TITLE
-## DAY 276 - DATE - TITLE
-## DAY 277 - DATE - TITLE
-## DAY 278 - DATE - TITLE
-## DAY 279 - DATE - TITLE
-## DAY 280 - DATE - TITLE
-## DAY 281 - DATE - TITLE
-## DAY 282 - DATE - TITLE
-## DAY 283 - DATE - TITLE
-## DAY 284 - DATE - TITLE
-## DAY 285 - DATE - TITLE
-## DAY 286 - DATE - TITLE
-## DAY 287 - DATE - TITLE
-## DAY 288 - DATE - TITLE
-## DAY 289 - DATE - TITLE
-## DAY 290 - DATE - TITLE
-## DAY 291 - DATE - TITLE
-## DAY 292 - DATE - TITLE
-## DAY 293 - DATE - TITLE
-## DAY 294 - DATE - TITLE
-## DAY 295 - DATE - TITLE
+## DAY 259 - August 25 - Thursday
+
+- meeting with Vicki
+- meeting with Diadie
+- teaching Mike
+- Multiply soft launch
+- Working on Atom theme
+
+Read/Watched:
+- [Rachel White - Javascript as Play A Primer on Getting Started with Video Games - CascadiaFest 2016](https://www.youtube.com/watch?v=2oKSSnEgBDw&utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-25)
+- [Babel 6.14.0 Released](https://babeljs.io/blog/2016/08/24/6.14.0)
+- [Essential Electron](http://jlord.us/essential-electron/)
+- [Chartblocks](http://www.chartblocks.com/en/)
+
+
+
+---
+
+## DAY 260 - August 26 - Friday
+
+- Raji sick. home from school
+- Working on Atom Theme
+- got sick around 3pm
+
+Read/Watched:
+- [ES6, var vs let](http://www.jstips.co/en/keyword-var-vs-let/)
+- [What is Promise.try, and why does it matter?](http://cryto.net/~joepie91/blog/2016/05/11/what-is-promise-try-and-why-does-it-matter/)
+- [Trees of Promises in ES6](http://www.2ality.com/2016/04/promise-trees.html)
+
+
+
+---
+
+## DAY 261 - August 27 - Saturday
+
+- sick all fucking day
+
+
+
+
+---
+
+## DAY 262 - August 28 - Sunday
+
+- atome theme
+
+Read/Watched:
+- [Keyless Entry: Using JavaScript’s for…of Loop](http://thenewcode.com/1129/Keyless-Entry-Using-JavaScripts-forof-Loop)
+- [Keyless Entry: Using JavaScript’s for…of Loop](http://thenewcode.com/1129/Keyless-Entry-Using-JavaScripts-forof-Loop)
+- [The target="_blank" vulnerability by example](https://dev.to/ben/the-targetblank-vulnerability-by-example)
+- [:+1: Typography is impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891#.exb4nssy1)
+
+
+
+---
+
+## DAY 263 - August 29 - Monday
+
+- atom theme
+
+Read/Watched:
+
+
+---
+
+
+## DAY 264 - August 30 - Tuesday
+
+- atom theme
+
+Read/Watched:
+
+- [The Law of Absolutes: Using Math.abs, parseInt and parseFloat in JavaScript](http://thenewcode.com/1130/The-Law-of-Absolutes-Using-Mathabs-parseInt-and-parseFloat-in-JavaScript)
+- [Fun Times With CSS Pixel Art](https://css-tricks.com/fun-times-css-pixel-art/)
+
+
+
+---
+
+
+## DAY 265 - August 31 - Wednesday
+
+
+- atom theme
+
+Read/Watched:
+- [11 Simple npm Tricks That Will Knock Your Wombat Socks Off](https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/)
+
+---
+
+
+## DAY 266 - September 1 - Thursday
+
+- atom theme
+
+Read/Watched:
+- [The art of writing small and plain functions](https://rainsoft.io/the-art-of-writing-small-and-plain-functions/)
+- [Babili (babel-minify)](https://babeljs.io/blog/2016/08/30/babili)
+- [:+1: Boosted Boards](https://boostedboards.com/)
+- [The Complete-ish Guide to Upgrading to Gulp 4](https://dzone.com/articles/the-complete-ish-guide-to-upgrading-to-gulp-4-1)
+- [Gusto](https://gusto.com) Simply the best payroll for your small business.
+
+
+
+
+---
+
+## DAY 267 - September 2 - Friday
+
+- atom theme
+
+Read/Watched:
+- ['The Star-Spangled Banner' and Slavery](http://www.snopes.com/2016/08/29/star-spangled-banner-and-slavery/)
+- [An Open Letter to Colin Kaepernick](https://medium.com/@nateboyer/an-open-letter-to-colin-kaepernick-1398203ed46f#.i6m6yxkaq)
+
+
+---
+
+## DAY 268 -September 3 - Saturday
+
+
+Read/Watched:
+- [Git 2.10 has been released](https://github.com/blog/2242-git-2-10-has-been-released)
+- [Animation Fundamentals: Understanding Particles](http://thenewcode.com/1133/Animation-Fundamentals-Understanding-Particles)
+- [SRL - Simple Regex Language](https://simple-regex.com/)
+- [The inaccessible web: how we got into this mess](https://uxdesign.cc/the-inaccessible-web-how-we-got-into-this-mess-7cd3460b8e32#.dgyr0pu4p)
+- [Minio](https://minio.io/) Store photos, videos, VMs, containers, log files, or any blob of data as objects.
+- [#218: Elm with Evan Czaplicki and Richard Feldman](https://changelog.com/218/)
+
+
+
+---
+
+## DAY 269 -September 4 - Sunday
+
+Read/Watched:
+
+- [Hosting a static website on Amazon S3 (AWS tutorials)](https://www.youtube.com/watch?v=g9NbuTcos18)
+- [stdlib.com Demo - Create a Node.js Microservice in Seconds](https://www.youtube.com/watch?v=XRrwTGq6SbE&feature=youtu.be)
+- [stdlib.com - Node Module Support, Create a Rio 2016 Medal Count Function](https://www.youtube.com/watch?v=CIAnu8E5ryE)
+- [Introduction (Getting started with AWS Lambda, part 1)](https://www.youtube.com/watch?v=fSUEk6iMW88)
+- [First Lambda function in node.js (Getting started with AWS Lambda, part 2)](https://www.youtube.com/watch?v=PEatXsXIkLc)
+- []
+
+---
+
+## DAY 270 -September 5 - Monday
+
+- Labor day
+
+Read/Watched:
+- [Why You Should Hire Computer Science Majors](http://brennan.io/2015/08/30/why-you-should-hire-cs-majors/)
+
+---
+
+## DAY 271 -September 2 - Tuesday
+
+Read/Watched:
+
+- [:+1: Web Developer Reading List: JavaScript](http://thenewcode.com/1135/Web-Developer-Reading-List-JavaScript)
+
+---
+
+## DAY 272 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 273 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 274 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 275 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 276 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 277 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 278 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 279 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 280 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 281 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 282 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 283 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 284 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 285 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 286 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 287 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 288 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 289 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 290 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 291 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 292 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 293 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 294 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 295 -September 2 - TITLE
+
+Read/Watched:
+
+---
+
+
+
+
+
 ## DAY 296 - DATE - TITLE
 ## DAY 297 - DATE - TITLE
 ## DAY 298 - DATE - TITLE
