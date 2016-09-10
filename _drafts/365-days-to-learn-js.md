@@ -6845,7 +6845,7 @@ Read/Watched:
 
 ## DAY 254 - August 20 - Saturday
 
-- Brittish soccer clinic
+- British soccer clinic
 - Atom theme
 
 Read/Watched:
@@ -7040,6 +7040,7 @@ Read/Watched:
 
 ## DAY 268 -September 3 - Saturday
 
+- atom theme
 
 Read/Watched:
 - [Git 2.10 has been released](https://github.com/blog/2242-git-2-10-has-been-released)
@@ -7055,6 +7056,8 @@ Read/Watched:
 
 ## DAY 269 -September 4 - Sunday
 
+- atom theme
+
 Read/Watched:
 
 - [Hosting a static website on Amazon S3 (AWS tutorials)](https://www.youtube.com/watch?v=g9NbuTcos18)
@@ -7068,6 +7071,7 @@ Read/Watched:
 
 ## DAY 270 -September 5 - Monday
 
+- atom theme
 - Labor day
 
 Read/Watched:
@@ -7075,7 +7079,9 @@ Read/Watched:
 
 ---
 
-## DAY 271 -September 2 - Tuesday
+## DAY 271 -September 6 - Tuesday
+
+- atom theme
 
 Read/Watched:
 
@@ -7083,21 +7089,53 @@ Read/Watched:
 
 ---
 
-## DAY 272 -September 2 - TITLE
+## DAY 272 -September 7 - Wednesday
+
+- atom theme
 
 Read/Watched:
+
+- [My New Favorite ES6 Toy: Destructured Objects as Parameters](https://css-tricks.com/new-favorite-es6-toy-destructured-objects-parameters/)
+- [Farewell to Node.js v5, Preparing for v7](https://nodesource.com/blog/farewell-to-node-js-v5-preparing-for-v7/)
+- [:+1: WAUD.JS](http://www.waudjs.com/)
+- [Shepherd](http://github.hubspot.com/shepherd/docs/welcome/) Guide your users through a tour of your app.
+- [:+1: DropzoneJS](http://www.dropzonejs.com/) DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.
+- [Sheep.host](https://sheep.host/) A developer's backend-as-a-service for MongoDB
+
+
 
 ---
 
-## DAY 273 -September 2 - TITLE
+## DAY 273 -September 8 - Thursday
+
+- atom theme
 
 Read/Watched:
+- [Fullstack Developer is an Outdated Term](http://blog.honeypot.io/fullstack-developer/)
+- [Is var Dead? What should I use?](http://wesbos.com/is-var-dead/)
+- [Text Mask](https://text-mask.github.io/text-mask/)
+- [Making a podcast](https://codon.com/making-a-podcast)
+
+
 
 ---
 
-## DAY 274 -September 2 - TITLE
+## DAY 274 -September 9 - Firday
+
+- atom theme
+- dev lunch
+- ordered iphone7
 
 Read/Watched:
+- [eslint-config-cleanjs](https://github.com/bodil/eslint-config-cleanjs)
+- [:+1: Create your own API for Craft Data Plugin (no code required)](https://medium.com/@Fif/create-your-own-api-for-craft-data-plugin-no-code-required-c5ef58da61b0#.y0mmfgkto)
+- [:+1: Sheetsu](https://sheetsu.com/) Turn a Google Spreadsheet into a REST API
+- [Identity Crisis: Am I a Developer or Designer?](https://medium.freecodecamp.com/identity-crisis-am-i-a-developer-or-designer-ee513443e914#.vqpui3j00)
+- [CSSConf](https://2016.cssconf.com/)
+- [Optimize Your App with HTTP/2 Server Push Using Node and Express](http://webapplog.com/http2-server-push-node-express/)
+- [Weird, Crazy Myths About Link Building in SEO You Should Probably Ignore - Whiteboard Friday](https://moz.com/blog/weird-crazy-myths-about-link-building-in-seo-you-should-probably-ignore-whiteboard-friday)
+- [COPE and Node.js microservices at BragaJS](https://eduardoboucas.com/blog/2016/09/09/bragajs.html)
+
 
 ---
 

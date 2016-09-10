@@ -18,6 +18,8 @@
 - [Ire Aderinokun is a UI Designer and Front-End Developer](http://www.ireaderinokun.com/)
 - [aleia walker](http://aleiawalker.com/)
 - [E.Wilson](https://medium.freecodecamp.com/@ewilson110)
+- [Kado Damball]()
+
 
 - [David Moore](https://dribbble.com/Dalexmoore)
 
