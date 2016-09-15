@@ -7120,7 +7120,7 @@ Read/Watched:
 
 ---
 
-## DAY 274 -September 9 - Firday
+## DAY 274 -September 9 - Friday
 
 - atom theme
 - dev lunch
@@ -7137,35 +7137,71 @@ Read/Watched:
 - [COPE and Node.js microservices at BragaJS](https://eduardoboucas.com/blog/2016/09/09/bragajs.html)
 
 
+
+
 ---
 
-## DAY 275 -September 2 - TITLE
+## DAY 275 -September 10 - Saturday
+
+- atom theme
+- amir soccer
+- dredges for dinner
 
 Read/Watched:
 
 ---
 
-## DAY 276 -September 2 - TITLE
+## DAY 276 -September 11 - Sunday
+
+- atom theme
+
+Read/Watched:
+- [Sketch vs. Adobe XD vs. Figma](https://medium.com/ux-tools/sketch-vs-adobe-xd-vs-figma-4ca1861983ae#.hkfu93awa)
+- [:+1: Physics of Test Driven Development](http://blog.wingman-sw.com/archives/16)
+- [JavaScript: Arrays vs Objects](http://frontendmayhem.com/2016/09/05/javascript-arrays-objects/)
+- [Oh shit, git!](http://ohshitgit.com/)
+
+
+---
+
+## DAY 277 -September 12 - Monday
+
+- atom theme
+- back alignment
+- SLAW
 
 Read/Watched:
 
 ---
 
-## DAY 277 -September 2 - TITLE
+## DAY 278 -September 2 - Tuesday
+
+- atom theme
 
 Read/Watched:
+- [9 Security Tips to Keep Express from Getting Pwned](https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned/)
+- [JavaScript Refactoring Techniques: Specific to Generic Code](https://www.sitepoint.com/javascript-refactoring-techniques-specific-to-generic-code/)
+- [:+1: Callback Functions](http://codepen.io/rjstone/post/callback-functions)
+- [I built a role playing game in JavaScript. You can, too. Here’s how.](https://medium.freecodecamp.com/learning-javascript-by-making-a-game-4aca51ad9030#.mblot4n3r)
 
 ---
 
-## DAY 278 -September 2 - TITLE
+## DAY 279 -September 2 - Wednesday
+
+- atom theme
+- mike
 
 Read/Watched:
+- [Elbowing JavaScript out](http://blog.ikura.co/posts/elbowing-js-out.html)
+- [Phoenix](http://www.phoenixframework.org/)
+- [:+1: What every JavaScript developer should know about Unicode](https://rainsoft.io/what-every-javascript-developer-should-know-about-unicode/)
+- [When Not to use an Arrow Function](http://wesbos.com/arrow-function-no-no/)
+- [lory](http://meandmax.github.io/lory/) Touch enabled minimalistic slider written in vanilla JavaScript
+- [svg-patterns](https://github.com/derhuerst/svg-patterns)
+- [dualNav](http://codepen.io/rgg/pen/xEkAwv)
 
----
 
-## DAY 279 -September 2 - TITLE
 
-Read/Watched:
 
 ---
 
