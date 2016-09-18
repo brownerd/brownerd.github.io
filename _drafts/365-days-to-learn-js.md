@@ -7174,7 +7174,7 @@ Read/Watched:
 
 ---
 
-## DAY 278 -September 2 - Tuesday
+## DAY 278 -September 13 - Tuesday
 
 - atom theme
 
@@ -7186,7 +7186,7 @@ Read/Watched:
 
 ---
 
-## DAY 279 -September 2 - Wednesday
+## DAY 279 -September 14 - Wednesday
 
 - atom theme
 - mike
@@ -7205,27 +7205,45 @@ Read/Watched:
 
 ---
 
-## DAY 280 -September 2 - TITLE
+## DAY 280 -September 15 - Thursday
+
+- atom theme
 
 Read/Watched:
 
 ---
 
-## DAY 281 -September 2 - TITLE
+## DAY 281 -September 16 - Friday
+
+- atom theme
 
 Read/Watched:
+- [Setting up a dev environment in Elm using Atom](https://boonofcode.svbtle.com/setting-up-an-atom-elm-dev-environment)
+
 
 ---
 
-## DAY 282 -September 2 - TITLE
+## DAY 282 -September 17 - Saturday
 
 Read/Watched:
+- [lowdb](https://github.com/typicode/lowdb)
+- [appdirectory](https://www.npmjs.com/package/appdirectory) A cross-platform utility to find the best directory to put data and config files.
+
+
 
 ---
 
-## DAY 283 -September 2 - TITLE
+## DAY 283 -September 18 - Sunday
 
 Read/Watched:
+- [How to create your own font: 18 top tips](http://www.creativebloq.com/typography/design-your-own-typeface-8133919)
+- [Font Remix Tools](https://remix-tools.com/glyphsapp/tutorials)
+- [Making a Font with Glyphs](https://www.youtube.com/watch?v=F4FPoD5dXuo)
+- [Creating A Typeface: Importing Into Glyphs (3/3)](https://www.youtube.com/watch?v=YMzninGsWCk)
+- [SpinThatShit](https://matejkustec.github.io/SpinThatShit)
+- [MinMaxing: Understanding vMin and vMax in CSS](http://thenewcode.com/1137/MinMaxing-Understanding-vMin-and-vMax-in-CSS)
+
+
 
 ---
 
