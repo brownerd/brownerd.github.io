@@ -6664,7 +6664,7 @@ Read/Watched:
 - [Practical SVG](http://alistapart.com/article/practical-svg)
 - [:+1: Why “Agile” and especially Scrum are terrible](https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/)
 - [Flow](https://flowtype.org/)
-- [React Enlightenment [DRAFT]](https://www.gitbook.com/book/frontendmasters/react-enlightenment/details)
+- [React Enlightenment [DRAFT](https://www.gitbook.com/book/frontendmasters/react-enlightenment/details)
 - [The State of Vue](https://medium.com/the-vue-point/the-state-of-vue-1655e10a340a#.9hpt61g68)
 - [An Introduction to Service Workers - JS Monthly London](https://www.youtube.com/watch?v=EnaKD_EHG14)
 - [Typr.js](https://github.com/photopea/Typr.js)
@@ -7011,6 +7011,26 @@ Read/Watched:
 ---
 
 
+
+### August in review
+
+- Lots of RSS
+- Looking into VUE
+- Vacation in Wyoming
+- looking into wloudinary
+- looking into STDLIB micro services
+- Bday month
+- looking into ELM
+- looking into 60FPS animations
+- watched some great Laracast videos
+- Looking into React again
+- Getting mike up on JSON, tempting in Jade. He’s doing great!
+- Started to research Atom
+- Started my UUU/Uraswm
+
+
+---
+
 ## DAY 266 - September 1 - Thursday
 
 - atom theme
@@ -7048,7 +7068,7 @@ Read/Watched:
 - [SRL - Simple Regex Language](https://simple-regex.com/)
 - [The inaccessible web: how we got into this mess](https://uxdesign.cc/the-inaccessible-web-how-we-got-into-this-mess-7cd3460b8e32#.dgyr0pu4p)
 - [Minio](https://minio.io/) Store photos, videos, VMs, containers, log files, or any blob of data as objects.
-- [#218: Elm with Evan Czaplicki and Richard Feldman](https://changelog.com/218/)
+- [:+1: #218: Elm with Evan Czaplicki and Richard Feldman](https://changelog.com/218/)
 
 
 
@@ -7242,78 +7262,617 @@ Read/Watched:
 - [Creating A Typeface: Importing Into Glyphs (3/3)](https://www.youtube.com/watch?v=YMzninGsWCk)
 - [SpinThatShit](https://matejkustec.github.io/SpinThatShit)
 - [MinMaxing: Understanding vMin and vMax in CSS](http://thenewcode.com/1137/MinMaxing-Understanding-vMin-and-vMax-in-CSS)
+- [Electron, Redux and Persistence](http://www.mattgreer.org/articles/electron-redux-and-persistence/)
+- [JavaScript Promises ... In Wicked Detail](http://www.mattgreer.org/articles/promises-in-wicked-detail/)
 
 
 
 ---
 
-## DAY 284 -September 2 - TITLE
+## DAY 284 -September 19 - Monday
+
+- atom theme
+- teaching mike
+
+Read/Watched:
+
+- [:+1: Understanding JavaScript Callbacks](http://thenewcode.com/1140/Understanding-JavaScript-Callbacks)
+
+
+---
+
+## DAY 285 -September 20 - Tuesday
+
+- atom theme
+
+Read/Watched:
+- [My New Favorite ES6 Toy: Destructured Objects as Parameters](https://css-tricks.com/new-favorite-es6-toy-destructured-objects-parameters/)
+- [The Thumb Zone: Designing For Mobile Users](https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/)
+- [Should I use 'single' or "double-quotes" for strings in JavaScript](http://bytearcher.com/articles/single-or-double-quotes-strings-javascript/)
+- [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.cxlk0nofv)
+- [How to Create ClojureScript App](https://medium.com/@roman01la/how-to-create-clojurescript-app-4e38778c4762#.deomtcbkx)
+- [How to Create Elm App](https://medium.com/@eduardkyvenko/how-to-create-elm-app-cf052629a11a#.s0dt7emp7)
+- [How I Got Into Programming](https://ponyfoo.com/articles/how-i-got-into-programming)
+- [Run Javascript in shell: The ultimate shebang collection](http://daily-javascript.com/articles/shebang/)
+- [appdirectory](https://www.npmjs.com/package/appdirectory)
+- [Where to store user settings in Electron (Atom Shell) Application?](http://stackoverflow.com/questions/30465034/where-to-store-user-settings-in-electron-atom-shell-application)
+- [Template Literals are Strictly Better Strings](https://ponyfoo.com/articles/template-literals-strictly-better-strings)
+- [How Developers use Node.js - Survey Results](https://blog.risingstack.com/node-js-developer-survey-results-2016/)
+- [Pragmatic Uses of Monkey Patching in JavaScript](https://www.sitepoint.com/pragmatic-monkey-patching/)
+- [Generators and Channels in JavaScript](https://medium.com/javascript-inside/generators-and-channels-in-javascript-594f2cf9c16e#.1xvty5pgy)
+- [:+1: I set out to create pixel perfect icons. Here’s what I discovered along the way.](https://blog.ginetta.net/i-set-out-to-create-pixel-perfect-icons-heres-what-i-discovered-along-the-way-4e46378932df#.yiby6w5j5)
+- [You will randomly bomb technical interviews. Everyone does. Here’s the data.](https://medium.freecodecamp.com/you-will-randomly-bomb-technical-interviews-everyone-does-heres-the-data-44475806e32#.uy62nf836)
+- [How not to bomb your offer negotiation](https://medium.freecodecamp.com/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea#.g47wltxn6)
+
+
+
+
+---
+
+## DAY 286 -September 21 - Wednesday
+
+- atom theme
+
+Read/Watched:
+- [3D Portfolio Template](https://codyhouse.co/gem/3d-portfolio-template/)
+- [Homebrew 1.0.0](http://brew.sh/2016/09/21/homebrew-1.0.0/)
+
+
+---
+
+## DAY 287 -September 22 - Thursday
+
+- atom theme
+
+Read/Watched:
+- [Buddy](https://buddy.works/) The Git and Continuous Delivery Platform
+- [A Nerd’s Guide to Color on the Web](https://css-tricks.com/nerds-guide-color-web/)
+- [Microservices – Please, don’t](http://basho.com/posts/technical/microservices-please-dont)
+
+
+---
+
+## DAY 288 -September 23 - Friday
+
+- atom theme
+
+Read/Watched:
+- [Rob Janoff on his logo for Apple](http://www.logodesignlove.com/rob-janoff-apple-logo-designer)
+- [ugmonk](http://ugmonk.com/)
+- [Three useful Babel presets](http://www.2ality.com/2016/09/three-useful-babel-presets.html)
+- [Particles.js: Introduction](https://code.tutsplus.com/tutorials/particles-js-introduction--cms-26285)
+- [:+1: JavaScript .bind() vs .apply() and .call()](http://www.hacksparrow.com/javascript-bind-vs-apply-and-call.html)
+- [:+1: (Basic) Lazy Evaluation and Memoization in JavaScript](http://blog.gypsydave5.com/2015/03/21/lazy-eval-and-memo/)
+- [:+1: (Even More) Memoization in JavaScript](http://blog.gypsydave5.com/2016/03/28/more-js-memoization/)
+- [:+1: (not quite) Currying in JavaScript](http://blog.gypsydave5.com/2015/02/19/not-quite-js-currying/)
+- [:+1: Lazy, composable, and modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript)
+- [:+1: Into the Land of Functional Programming with JavaScript](https://smthngsmwhr.wordpress.com/2012/10/22/higher-order-javascript-short-journey-into-the-land-of-functional-programming/)
+
+- [:+1: How to Write Faster JavaScript Condition Expressions](https://www.sitepoint.com/faster-javascript-condition-expressions/)
+- [:+1: Short circuiting with || and &&](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch5.md)
+- [How To Do Microservices with Node.js](http://thenewstack.io/microservices-node-js/)
+- [An Introduction to Microservices, Part 1](https://auth0.com/blog/an-introduction-to-microservices-part-1/)
+
+---
+
+## DAY 289 -September 24 - Saturday
+
+- atom theme
+
+Read/Watched:
+- [:+1: All Burgundy](http://allburgundy.com/)
+
+---
+
+## DAY 290 -September 25 - Sunday
+
+- atom theme
+
+Read/Watched:
+- [:+1: How We Replaced React With Phoenix](https://dzone.com/articles/how-we-replaced-react-with-phoenix)
+- [Turbolinks](https://github.com/turbolinks/turbolinks)
+- [:+1: Comments on Code Comments](https://dzone.com/articles/comments-on-comments)
+- [:+1: Leaflet](http://leafletjs.com/)
+- [:+1: Let’s Code It: The 'Debug' Module](https://dzone.com/articles/lets-code-it-the-debug-module)
+- [:+1: debug](https://github.com/visionmedia/debug) tiny node.js & browser debugging utility for your libraries and applications
+- [gallium](https://github.com/alexflint/gallium)
+- [9 Underutilized Features in CSS](https://medium.com/@iamjordanlittle/9-underutilized-features-in-css-90ced6ddbfe7#.2zt8w9fk8)
+- [How to add code blocks to Medium and use embed tools for syntax highlighting](https://medium.freecodecamp.com/how-to-add-code-to-medium-and-get-syntax-highlighting-d699761a5883#.8afmmia28)
+- [The 6 most desirable coding jobs (and the types of people drawn to each)](https://medium.freecodecamp.com/the-6-most-desirable-coding-jobs-and-the-types-of-people-drawn-to-each-aebac45fd7f7#.cf5jg7bo7)
+
+
+---
+
+## DAY 291 -September 26 - Monday
+
+- atom theme
+
+Read/Watched:
+- [Librarify](https://github.com/mfix22/librarify)
+- [6 Syntax Highlighting JavaScript Libraries](https://codetuts.tech/syntax-highlighting-libraries/)
+- [What SSDs can I use with the Drobo B810n, Drobo 5D, Drobo Gen 3, Drobo 5N and Drobo Mini?](https://myproducts.drobo.com/article/AA-01428)
+- [EZConvert Pro MB982SP-1S ](http://www.icydock.com/goods.php?id=134)
+- [Samsung 850 PRO - 1TB - 2.5-Inch SATA III Internal SSD (MZ-7KE1T0BW)](https://www.amazon.com/Samsung-850-PRO-2-5-Inch-MZ-7KE1T0BW/dp/B00LF10KTE)
+- [Solid State Drives](http://www.samsung.com/us/computing/memory-storage/solid-state-drives/s/2tb_/_/n-10+11+hv22y+trokl)
+- [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}](http://blog.burntsushi.net/ripgrep/)
+- [:+1: Lambda Calculus Introduction #programming](https://www.twitch.tv/gary_bernhardt/v/90270724?t=21m48s)
+- [:+1: How to Test a JavaScript app from the Chrome developer tools console](https://vimeo.com/183799777)
+- [:+1: Using Objects to Organize Your Code](https://rmurphey.com/blog/2009/10/15/using-objects-to-organize-your-code)
+
+
+---
+
+## DAY 292 -September 27 - Tuesday
+
+- atom theme
+- starting to look into making a site for this thing
+
+Read/Watched:
+- [Recursion, Recursion, Recursion](https://medium.freecodecamp.com/recursion-recursion-recursion-4db8890a674d#.xzel0r4po)
+
+
+---
+
+## DAY 293 -September 28 - Wednesday
+
+- slaw updates
+- atom theme
+- spike sugarml and sugarss and cosmicjs and contentful
+
+Read/Watched:
+- [:+1: Top 10 Mistakes Node.js Developers Make](https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make)
+- [How to start a Node/Express Project](http://zshawnsyed.com/2015/04/28/starting-express-js/)
+- [JavaScript Asynchronous Iteration Proposal](https://ponyfoo.com/articles/javascript-asynchronous-iteration-proposal)
+- [NPM for Everything](http://beletsky.net/2015/04/npm-for-everything.html)
+- [3 Years of Pattern Libraries: Lessons Learned](http://una.im/pattern-libs/?utm_source=codropscollective#💁)
+- [Understanding module.exports and exports in Node.js](https://www.sitepoint.com/understanding-module-exports-exports-node-js/)
+- [Leaflet](http://leafletjs.com/2016/09/27/leaflet-1.0-final.html)
+- [:+1: HTML5 Video Player Best Practices](https://davidwalsh.name/html5-video)
+
+---
+
+## DAY 294 -September 29 - Thursday
+
+
+- slaw updates
+- atom theme
+- spike sugarml and sugarss and cosmicjs and contentful
+
+Read/Watched:
+- [Quick Tip: Add or Remove a CSS Class with Vanilla JavaScript](https://www.sitepoint.com/add-remove-css-class-vanilla-js/)
+- [Twelve Fancy Chrome DevTools Tips](https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.6l2sugsbp)
+- [Sticky Headers: A Case Study in Customer-Driven Development](http://wijmo.com/blog/sticky-headers-case-study-customer-driven-development/)
+- [Refactoring CSS Without Losing Your Mind](https://slideslive.com/38898201/refactoring-css-without-losing-your-mind)
+
+---
+
+## DAY 295 -September 30 - Friday
+
+- Slaw updaes
+
+Read/Watched:
+
+- [Monod v4 has been released!](https://tailordev.fr/blog/2016/09/30/monod-v4-is-out/)
+- [Modern Javascript Development](http://codepen.io/acodesmith/post/welcome-to-es6)
+
+
+---
+
+
+### September in review
+
+- Working my UUU/Uraswm theme/package in Atom
+- Just about ATOM only
+- Gutter-Punk
+- Pacman cursor
+- UUU easy to update Syntax and UI
+- Pojo
+- Transform from selected text to pojo that runs a forEach
+- Font sync
+- Font check
+- Promises
+- Debounce onChange() event
+- presets?
+- spin color of unsaved document so it’s always visible / should I spin the non selected part
+- Default text-color in syntax
+
+
+
+---
+
+
+
+## DAY 296 - October 1 - Saturday
+
+- ucity homecoming
+- rss
+- getting up on cosmicjs
+
+Read/Watched:
+- [Cosmic JS Product Tour](https://cosmicjs.com/blog/cosmic-js-product-tour)
+- [New Feature: Track Your API Requests](https://cosmicjs.com/blog/new-feature-track-your-api-requests)
+- [Building with the Content Editor in Mind](https://cosmicjs.com/blog/building-with-the-content-editor-in-mind)
+- [BREAKING THE MOLD: TAKING CHARGE OF YOUR DEVELOPMENT PROCESS](https://tonyspiro.com/breaking-the-mold-taking-charge-of-your-development-process)
+- [BUILD A SALES PRESENTATION APP IN 4 STEPS](https://carsongibbons.com/build-a-sales-presentation-app-in-4-steps)
+- [BUILD A BLOG IN 4 STEPS](https://carsongibbons.com/build-a-blog-in-4-steps)
+- [The Cosmic Stack](https://cosmicjs.com/blog/the-cosmic-stack)
+- [Three Ways to Use The Cosmic Stack](https://cosmicjs.com/blog/three-ways-to-use-the-cosmic-stack)
+- [How to Create an Intuitive Website Navigation Menu](https://cosmicjs.com/blog/how-to-create-an-intuitive-website-navigation-menu)
+- [How to Create an Intuitive Website Navigation Menu](https://cosmicjs.com/blog/how-to-create-an-intuitive-website-navigation-menu)
+- [Build a Tiny App Using the Standard Elm Architecture](https://egghead.io/lessons/elm-build-a-tiny-app-using-the-standard-elm-architecture)
+- [Decode a List of Numbers From a JSON String in Elm](https://egghead.io/lessons/elm-decode-a-list-of-numbers-from-a-json-string-in-elm)
+- [Decode a List of Numbers From a JSON String in Elm](https://egghead.io/lessons/elm-decode-a-list-of-numbers-from-a-json-string-in-elm)
+- [Upgrading to 0.17 ELM](https://github.com/elm-lang/elm-platform/blob/master/upgrade-docs/0.17.md)
+- [Using "Maybe" in Elm for values that may or may not exist](https://egghead.io/lessons/elm-using-maybe-in-elm-for-values-that-may-or-may-not-exist)
+- [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm)
+- [Your Body Text Is Too Small](https://medium.com/@xtianmiller/your-body-text-is-too-small-5e02d36dc902#.afmk8fffw)
+- [Figma VS Sketch](https://medium.com/@mengto/figma-vs-sketch-c01e5e74eddd#.3s7ftszhq)
+- [g9.js](http://omrelli.ug/g9/)
+- [Grid layout is a much needed step-change for CSS](http://maketea.co.uk/2016/09/28/css-grid-layout-is-a-step-change.html)
+- [vomit](https://github.com/bredele/vomit)
+- [Functional Programming In Javascript? More like dysfunctional](http://ilikekillnerds.com/2016/09/functional-programming-javascript-like-dysfunctional/)
+- [Push to production three times faster with the right git workflow](http://www.theodo.fr/blog/2016/09/push-to-production-three-times-faster-with-the-right-git-workflow/)
+
+
+
+
+## DAY 297 - October 2 - Sunday
+
+Read/Watched:
+- [Angular 2 vs React: The Ultimate Dance Off](https://medium.com/javascript-scene/angular-2-vs-react-the-ultimate-dance-off-60e7dfbc379c#.wnsbqcpyu
+  )
+  - [From JavaScript to ClojureScript: Which editor to choose?](https://medium.com/@roman01la/from-javascript-to-clojurescript-which-editor-to-choose-a444b2f8edca#.yl4p77u2z)
+- [ES proposal: Rest/Spread Properties](http://www.2ality.com/2016/10/rest-spread-properties.html)
+
+-[Building a React Universal Blog App: A Step-by-Step Guide](https://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/)
+- [Building a React Universal Blog App: Implementing Flux](https://www.sitepoint.com/building-a-react-universal-blog-app-implementing-flux/)
+- [Node.JS Top 10 Articles in September](https://medium.mybridge.co/node-js-top-10-articles-in-september-6ceb0dbef685#.uto5b1iem)
+
+
+
+
+---
+
+## DAY 298 - October 3 - Monday
+
+- Raji sick
+- tyring to grep COSMICjs, Spike and node
+
+Read/Watched:
+- [Create and deploy a RESTful API in 10 minutes](https://www.youtube.com/watch?v=6x-ijyG-ack)
+- [:+1: Server-Side Rendering: Live Code Session - Supercharged](https://www.youtube.com/watch?v=8LM4p7l9YMY&noredirect=1)
+- [How it feels to learn Javascript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.fiiebj141)
+- [Why is TV 29.97 frames per second?](https://www.youtube.com/watch?v=3GJUM6pCpew)
+- [Streamline JavaScript Development with ESLint](https://nodesource.com/blog/streamline-javascript-development-with-eslint/)
+- [Webinar - Building static pages with Contentful and Roots](https://www.youtube.com/watch?v=RzLw2pQXAsk)
+- [ImgIX vs Cloudinary](http://www.analyzo.com/product-comparisons/177/ImgIX/736/Cloudinary/735)
+- [Jade vs. Mustache vs. Hogan.js](http://stackshare.io/stackups/mustache-vs-hogan-vs-jade)
+- [Why I chose ejs over jade and hogan !!!](https://medium.com/@_ebinjohn/why-i-choose-ejs-over-jade-and-hogan-b77ac669454b#.qna70rvdp)
+- [blade vs. Jade](http://vschart.com/compare/embedded-javascript/vs/jade-template-engin)
+
+
+
+
+---
+
+## DAY 299 - October 4 - Tuesday
+
+- Minal sick
+- trying to grep COSMICjs, Spike and node
+
+Read/Watched:
+- [Debugging With Node.js](https://code.tutsplus.com/tutorials/debugging-with-nodejs--cms-26306)
+- [:+1: HyperDev Learn Node.js](https://hyperdev.wpengine.com/help/learn-node-js-free-beginner-course/)
+- [:+1: Understanding node.js](http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb)
+- [Inversion of Control Containers and the Dependency Injection pattern](http://martinfowler.com/articles/injection.html)
+- [:+1: Execution in the Kingdom of Nouns](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)
+- [Everything is fine with JavaScript](http://www.macwright.org/2016/10/04/everything-is-fine-with-javascript.html)
+- [Fetch – Modern Async Server Calls](http://developer.telerik.com/featured/fetch-modern-async-server-calls/)
+- [Node.js, TC-39, and Modules](https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e#.19lpjx6xy)
+- [Does ES6 Mean The End Of Underscore / Lodash?](https://derickbailey.com/2016/09/12/does-es6-mean-the-end-of-underscore-lodash/)
+- [Object.assign is pretty rad!](http://thewebivore.com/object-assign-is-pretty-rad/)
+- [Send Transactional Emails At The Most Disruptive Pricing Ever.](http://www.pepipost.com/)
+
+
+---
+
+## DAY 300 - October 5 - Wednesday
+
+- Hyperdev Node beginner lesson
+
+Read/Watched:
+- [:+1: HyperDev Learn Node.js](https://hyperdev.wpengine.com/help/learn-node-js-free-beginner-course/)
+- [How To: Create Your Own Slide Deck with HTML and Reveal.js](https://hyperdev.wpengine.com/blog/create-slide-deck-html-reveal-js/)
+- [How To: Use Firebase for Your App’s Backend](https://hyperdev.wpengine.com/blog/use-firebase-apps-backend/)
+- [How To: Use Parse Server for Your App’s Backend](https://hyperdev.wpengine.com/blog/use-parse-server-apps-backend-hyperdev/)
+- [How To: Create Slack Bots with HyperDev and the Events API](https://hyperdev.wpengine.com/blog/create-slack-bot-hyperdev-events-api/)
+- [How To: Create Your Own Slack Custom Slash Command Response Handler](https://hyperdev.wpengine.com/blog/create-slack-custom-slash-command-response-handler/)
+- [YOLO, So Don’t Just Code Solo*](https://hyperdev.wpengine.com/blog/yolo-dont-just-code-solo/)
+- [HyperDev is the developer playground for building full-stack web apps, fast](https://hyperdev.com/about/)
+- [New: Import and Export To and From GitHub](https://hyperdev.wpengine.com/blog/new-import-export-github/)
+- [How To: Create Your Own RESTful API with ExpressJS](https://hyperdev.wpengine.com/blog/how-to-create-restful-api-express-hyperdev/)
+- [How To: Create a Dashboard with Data from Google Sheets](https://hyperdev.wpengine.com/blog/create-google-sheets-data-dashboard/)
+- [Meet the Man Behind ‘Solarized,’ the Most Important Color Scheme in Computer History](http://observer.com/2015/02/meet-the-man-behind-solarized-the-most-important-color-scheme-in-computer-history/)
+- [:+1: Fukol™](https://github.com/Heydon/fukol-grids)
+- [Learn JavaScript with NodeSchool’s Javascripting Workshopper on HyperDev](https://hyperdev.wpengine.com/blog/learn-javascript-nodeschools-javascripting-workshopper-hyperdev/)
+
+
+
+
+---
+
+## DAY 301 - October 6 - Thursday
+
+- learning Nodejs
+- Dev lunch with Britton
+
+Read/Watched:
+
+- [:+1: Master the DOM](https://medium.com/re-dom/master-the-dom-bc1a2a06089b#.l4vwyuw02)
+- [I don't care about accessibility.](http://www.veen.com/jeff/archives/000503.html)
+- [:+1: first do it, then do it right, then do it better.](https://medium.com/@addyosmani/totally-get-your-frustration-ea11adf237e3#.9uhv3ej44)
+- [mojs workflow](https://vimeo.com/185587462)
+
+- [Install PostgreSQL on Mac OS X via Brew](http://exponential.io/blog/2015/02/21/install-postgresql-on-mac-os-x-via-brew/)
+
+
+
+---
+
+## DAY 302 - October 7 - Friday
+
+- Learning NodeJS
+- Kids half-day of school
+
+Read/Watched:
+
+- [Front-end is🤘and JavaScript is 👑](https://medium.com/@fredjens/front-end-is-and-javascript-is-d4bc3a8edbb7#.xsyxvjfuo)
+- [:+1: JavaScript Copy to Clipboard](https://davidwalsh.name/clipboard)
+- [Vue 2.0 is Here!](https://medium.com/the-vue-point/vue-2-0-is-here-ef1f26acf4b8#.l1k3vogc5)
+- [The State Of JavaScript](http://stateofjs.com/2016/introduction/)
+- [The SVG `path` Syntax: An Illustrated Guide](https://css-tricks.com/svg-path-syntax-illustrated-guide/)
+- [:+1: Alternative Text and Images](https://bitsofco.de/alternative-text-and-images/)
+- [15 Best Node.js Tools for Developers](https://brainhub.eu/blog/2016/10/06/15-best-node-js-tools-developers/)
+- [:+1: PROGRESS BAR.JS](https://kimmobrunfeldt.github.io/progressbar.js/)
+- [OpenColor](https://yeun.github.io/open-color/swatches.html)
+- [Introducing n-cli for node.js commandline applications](https://www.youtube.com/watch?v=m53SlSaP6cs)
+- [Intro to Variable Fonts in Web Design](http://designmodo.com/variable-fonts/)
+- [Flinto](https://www.flinto.com/mac)
+- [Module Bundling with Webpack: Getting Started Guide](https://www.codementor.io/javascript/tutorial/module-bundler-webpack-getting-started-guide)
+- [NORMALIZE (CSS) NO MORE.](http://shaunrashid.com/2015/09/15/normalize-css-no-more/)
+- [How to start a Node/Express Project](http://zshawnsyed.com/2015/04/28/starting-express-js/)
+- [Jade (now Pug) nuggets](https://glebbahmutov.com/blog/jade-pug-tips/)
+- [CSS Variables: An introduction](http://codepen.io/hidanielle/post/css-variables-an-introduction)
+- [:+1: Getting Started with Express.js](https://egghead.io/courses/getting-started-with-express-js)
+- [:+1: Introduction to Node Servers with Hapi.js](https://egghead.io/courses/introduction-to-node-servers-with-hapi-js)
+---
+
+## DAY 303 - October 8 - Saturday
+
+- hyperdev - express, hapi, koa
+
+Read/Watched:
+- [:+1: Getting Started with Express.js](https://egghead.io/courses/getting-started-with-express-js)
+- [:+1: Introduction to Node Servers with Hapi.js](https://egghead.io/courses/introduction-to-node-servers-with-hapi-js)
+- [:+1: Introduction to Node: The Fundamentals](https://egghead.io/courses/introduction-to-node-the-fundamentals)
+- [Javascript is Event-Driven - What makes Javascript Weird...and Awesome Pt 2](https://www.youtube.com/watch?v=pNzN5WF7Uag)
+- [Javascript Closures Tutorial - What makes Javascript Weird...and Awesome Pt 3](https://www.youtube.com/watch?v=ZqGFKcCcO-Y)
+- [:+1: Google Interview University](https://github.com/jwasham/google-interview-university?utm_source=codropscollective)
+- [Factory Functions](http://funkyjavascript.com/factory-functions/)
+- [6 Reasons Why You Should Write Functional Code](http://funkyjavascript.com/6-reasons-why-you-should-write-functional-code/)
+- [Moar Pug Templates](http://funkyjavascript.com/moar-pug-templates/)
+- [Fun With The DOM](http://funkyjavascript.com/fun-with-the-dom/)
+
+
+
+
+---
+
+## DAY 304 - October 9 - Sunday
+
+- hyperdev - express, hapi, koa
+
+Read/Watched:
+- [koajs/koa](https://github.com/koajs/koa)
+- [Express ES5 to Koa ES7](http://blog.bandwidth.com/express-es5-to-koa-es7/)
+- [Hapi - Vision](https://github.com/hapijs/vision)
+- [Hapi Views tutorial](http://hapijs.com/tutorials/views)
+- [Using template engines with Express](https://expressjs.com/en/guide/using-template-engines.html)
+- [Hapi - Inert](https://github.com/hapijs/inert)
+- [Hapi — Extend Your Server Functionality With Plugins](https://futurestud.io/tutorials/hapi-extend-your-server-functionality-with-plugins)
+- [Getting started with Koa.js](https://medium.com/@adrianmacneil/getting-started-with-koa-js-52d8852fa49d#.4qovt3iod)
+- [KOA](http://koajs.com/)
+- [Node.js Koa 2 Framework Tutorial](https://dinosaurscode.xyz/nodejs/2016/06/28/nodejs-koa2-tutorial/)
+
+
+
+
+---
+
+## DAY 305 - October 10 - Monday
+
+- hyperdev - express, hapi, koa
+- help frank
+
+Read/Watched:
+- [Express Routes And HTTP Requests](http://funkyjavascript.com/express-routes/)
+- [#223: Homebrew and Package Management with Mike McQuaid](https://changelog.com/223/)
+- [Code Like Node In Your Browser With Browserify](http://funkyjavascript.com/code-like-node-in-your-browser-with-browserify/)
+- [Lenses](http://funkyjavascript.com/lenses/)
+- [Implementing Curry And Compose](Implementing Curry And Compose)
+- [:+1: Node.js Best Practices](https://www.codementor.io/nodejs/tutorial/nodejs-best-practices)
+- [:+1: Quick Intro to Node.JS Microservices: Seneca.JS](https://www.codementor.io/nodejs/tutorial/introduction-to-nodejs-microservices-senecajs)
+- [More than you want to know about ES6 Modules @ Learn to Code Websites and Apps Meetup (remote)](https://www.youtube.com/watch?v=kTlcu16rSLc&list=TL9eyoyLDQHmIxMDEwMjAxNg)
+- [Finally a Simple and Universal Router for React.js](https://blog.avocode.com/blog/finally-a-simple-and-universal-router-for-reactjs)
+- [Styling Underlines on the Web](https://css-tricks.com/styling-underlines-web/)
+- [Guarding Functions in JavaScript](https://dzone.com/articles/guarding-functions-in-javascript)
+
+
+
+
+
+---
+
+
+
+## DAY 306 - October 11 - Tuesday
+
+Read/Watched:
+- [Barbaric Tip of the Week: Configure Eslint Super Quickly With Eslint Init](https://www.barbarianmeetscoding.com/blog/2016/10/11/barbaric-tip-of-the-week-configure-eslint-super-quickly-with-eslint-init/)
+- [:+!: 5 step method to make test-driven development and unit testing easy](http://codeutopia.net/blog/2016/10/10/5-step-method-to-make-test-driven-development-and-unit-testing-easy/)
+- [How to build a serverless NodeJS microservice on AWS Lambda](https://medium.freecodecamp.com/building-a-nodejs-microservice-on-aws-lambda-6adb6da53cbb#.eu70061sx)
+- [Jaco Labs: NodeJS + Docker => The Missing Manual](http://blog.getjaco.com/jaco-labs-nodejs-docker-missing-manual/)
+- [Jaco](http://www.getjaco.com/) The easiest way to watch and analyze your users’ behavior
+- [How to Manage Your JavaScript Application State with MobX](https://www.sitepoint.com/manage-javascript-application-state-mobx/)
+- [mobx-examples](https://github.com/mobxjs/mobx-examples)
+- [Atom 1.11](http://blog.atom.io/2016/10/11/atom-1-11.html)
+- [Yarn](https://yarnpkg.com/) FAST, RELIABLE, AND SECURE DEPENDENCY MANAGEMENT.
+- [Node.js Examples - What Companies Use Node for in 2016](https://blog.risingstack.com/node-js-examples-what-companies-use-node-for/)
+- [docrel](https://github.com/svileng/docrel)
+- [monitaure](https://monitaure.io/) A simple and hassle-free server
+monitoring dashboard
+- [Avoid callbacks in Node.js with Bluebird promises](http://www.applandeo.com/en/avoid-callbacks-nodejs-bluebird-promises/)
+
+
+
+---
+
+## DAY 307 - October 12 - Wednesday
+
+- backed Functional-Light JS again. this time I get to talk with Kyle Simpson
+
+Read/Watched:
+- [Node.js REST APIs - Integrating Stripe for payments - MEAN Stack Tutorial part 30](https://www.youtube.com/watch?v=sIW-ZJjOK2g)
+- [:+1:  Build a Functional Pipeline with Ramda.js](https://egghead.io/lessons/javascript-build-a-functional-pipeline-with-ramda-js)
+- [:+1:  Ramda - Filter, Reject and Partition](https://egghead.io/lessons/javascript-ramda-filter-reject-and-partition)
+- [:+1: Declaratively Map Predicates to Object Properties Using Ramda where](https://egghead.io/lessons/javascript-declaratively-map-predicates-to-object-properties-using-ramda-where)
+- [:+1: Change Object Properties with Ramda Lenses](https://egghead.io/lessons/javascript-change-object-properties-with-ramda-lenses)
+- [Node.js Getting Started - Introduction](https://www.youtube.com/watch?v=vA9_UmVZPNg&list=PLY2dwEM7boLWjnd2Pr_rgyAkwZw0u1knG)
+- [Node.js Principles-Modules](https://www.youtube.com/watch?v=913U-NbBbR8&index=4&list=PLY2dwEM7boLWjnd2Pr_rgyAkwZw0u1knG)
+- [Turbo Charge your NodeJS app with Cache](https://howtonode.org/cloudboost-cache)
+- [Yarn Is The Best Thing To Happen To Javascript Since Npm](http://ilikekillnerds.com/2016/10/yarn-best-thing-happen-javascript-since-npm/)
+- [Stateful and stateless components, the missing manual](https://toddmotto.com/stateful-stateless-components)
+- [A Quick Understanding of REST](https://scotch.io/bar-talk/a-quick-understanding-of-rest)
+- [:+1: The Node.js Debug Module: Advanced Usage](https://strongloop.com/strongblog/the-node-js-debug-module-advanced-usage/)
+- [NPM vs Yarn Cheat Sheet](https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc#.1wftj5i85)
+- [ResizeObserver: It’s Like document.onresize for Elements](https://developers.google.com/web/updates/2016/10/resizeobserver)
+
+
+
+
+
+
+---
+
+## DAY 308 - October 1 - TITLE
 
 Read/Watched:
 
 ---
 
-## DAY 285 -September 2 - TITLE
+## DAY 309 - October 1 - TITLE
 
 Read/Watched:
 
 ---
 
-## DAY 286 -September 2 - TITLE
+## DAY 310 - October 1 - TITLE
 
 Read/Watched:
 
 ---
 
-## DAY 287 -September 2 - TITLE
+## DAY 311 - October 1 - TITLE
 
 Read/Watched:
 
 ---
 
-## DAY 288 -September 2 - TITLE
+## DAY 312 - October 1 - TITLE
 
 Read/Watched:
 
 ---
 
-## DAY 289 -September 2 - TITLE
+## DAY 313 - October 1 - TITLE
 
 Read/Watched:
 
 ---
 
-## DAY 290 -September 2 - TITLE
+## DAY 314 - October 1 - TITLE
 
 Read/Watched:
 
 ---
 
-## DAY 291 -September 2 - TITLE
+## DAY 315 - October 1 - TITLE
 
 Read/Watched:
 
 ---
 
-## DAY 292 -September 2 - TITLE
+## DAY 316 - October 1 - TITLE
 
 Read/Watched:
 
 ---
 
-## DAY 293 -September 2 - TITLE
+## DAY 317 - October 1 - TITLE
 
 Read/Watched:
 
 ---
 
-## DAY 294 -September 2 - TITLE
+## DAY 318 - October 1 - TITLE
 
 Read/Watched:
 
 ---
 
-## DAY 295 -September 2 - TITLE
+## DAY 319 - October 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 320 - October 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 321 - October 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 322 - October 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 323 - October 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 324 - October 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 325 - October 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 326 - October 1 - TITLE
 
 Read/Watched:
 
@@ -7322,38 +7881,24 @@ Read/Watched:
 
 
 
+### October in review
 
-## DAY 296 - DATE - TITLE
-## DAY 297 - DATE - TITLE
-## DAY 298 - DATE - TITLE
-## DAY 299 - DATE - TITLE
-## DAY 300 - DATE - TITLE
-## DAY 301 - DATE - TITLE
-## DAY 302 - DATE - TITLE
-## DAY 303 - DATE - TITLE
-## DAY 304 - DATE - TITLE
-## DAY 305 - DATE - TITLE
-## DAY 306 - DATE - TITLE
-## DAY 307 - DATE - TITLE
-## DAY 308 - DATE - TITLE
-## DAY 309 - DATE - TITLE
-## DAY 310 - DATE - TITLE
-## DAY 311 - DATE - TITLE
-## DAY 312 - DATE - TITLE
-## DAY 313 - DATE - TITLE
-## DAY 314 - DATE - TITLE
-## DAY 315 - DATE - TITLE
-## DAY 316 - DATE - TITLE
-## DAY 317 - DATE - TITLE
-## DAY 318 - DATE - TITLE
-## DAY 319 - DATE - TITLE
-## DAY 320 - DATE - TITLE
-## DAY 321 - DATE - TITLE
-## DAY 322 - DATE - TITLE
-## DAY 323 - DATE - TITLE
-## DAY 324 - DATE - TITLE
-## DAY 325 - DATE - TITLE
-## DAY 326 - DATE - TITLE
+- lost of client stuff to do
+- Moved content from SLAW into CosmicJS
+- Looked into COntentful again as well as Spike, SugarSS and SugarML
+
+
+I haven’t been “actionable” until now. From Jan - Aug, EVERYTHING has been new to my eyes and has required extensive research to begin to make only the slightest sense of JS and programming. Now, after 8 months, I can apply what I learn, instead of having to go down the rabbit hole of research.
+
+In other words, I am just beginning to be able to program in JS
+
+
+
+
+---
+
+
+
 ## DAY 327 - DATE - TITLE
 ## DAY 328 - DATE - TITLE
 ## DAY 329 - DATE - TITLE

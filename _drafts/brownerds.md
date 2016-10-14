@@ -20,6 +20,9 @@
 - [E.Wilson](https://medium.freecodecamp.com/@ewilson110)
 - [Kado Damball]()
 
+- [Speakers Who Want a Platform](https://github.com/iheanyi/speakers-who-want-a-platform)
+
+
 
 - [David Moore](https://dribbble.com/Dalexmoore)
 

@@ -224,11 +224,39 @@ In browsers, console hooks up to the developer tools' console display, whereas i
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+## Curry
+
+
+Currying is a special form of partial application where the arity is reduced to 1, with a chain of successive chained function calls, each which takes one argument. Once all arguments have been specified by these function calls, the original function is executed with all the collected arguments. You can also undo a currying.
+
+https://github.com/getify/Functional-Light-JS/blob/master/ch3.md
+
+
+
+
+
+
+---
+
 ## Debouncing and Throttling
 
 Debounce and throttle are two similar (but different!) techniques to control how many times we allow a function to be executed over time.
 
 - [:+1: Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
+
+
+
+
 
 ---
 
@@ -1527,6 +1555,14 @@ We have passed two arguments, "Hello" and "World". Inside the function, param1 w
 ## partial application
 
 Another basic building block is partial application. When a function takes multiple arguments, we “apply” the function to the arguments by evaluating it with all of the arguments, producing a value. But what if we only supply some of the arguments? In that case, we can’t get the final value, but we can get a function that represents part of our application.
+
+
+
+
+Partial Application is a technique for reducing the arity -- expected number of arguments to a function -- by creating a new function where some of the arguments are preset.
+
+https://github.com/getify/Functional-Light-JS/blob/master/ch3.md
+
 
 
 ---
