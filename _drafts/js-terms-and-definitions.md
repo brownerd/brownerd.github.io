@@ -705,6 +705,22 @@ const doubleOfAddOne = compose(doubleOf, addOne);
 
 ---
 
+
+
+## Function composition
+
+Function composition is a pattern for defining a function that routes the output of one function call into another function call, and its output to another, and so on.
+
+
+
+
+https://github.com/getify/Functional-Light-JS/blob/master/ch4.md
+
+
+
+
+---
+
 ## Function declaration
 
 `function chop () {}`
@@ -789,6 +805,13 @@ http://blog.8thlight.com/uncle-bob/2013/01/02/FPBE2-Whys-it-called-functional.ht
 
 
 Functional programming is about programming using mathematical/pure functions. Where the same input(agrument) always returns the same output - Erik Meijer
+
+
+
+
+Functional Programming deals with changes to values in a record by making a copy of the record with the values changed.
+- https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.9btdgof0e
+
 
 
 ---
@@ -1133,6 +1156,16 @@ console.log(arr); // => [ 1, 2, 3 ]
  - http://callbackhell.com/
 
 - [I/O - input/output](http://www.webopedia.com/TERM/I/I_O.html) Short for input/output. The term I/O is used to describe any program, operation or device that transfers data to or from a computer and to or from a peripheral device. Every transfer is an output from one device and an input into another. Devices such as keyboards and mouses are input-only devices while devices such as printers are output-only. A writable CD-ROM is both an input and an output device.
+
+
+
+
+---
+
+## Value immutability
+
+Value immutability means that when we need to change the state in our program, we must create and track a new value rather than mutate an existing value.
+
 
 
 
@@ -1606,9 +1639,16 @@ You learned how polymorphism works in JavaScript with the concept of duck typing
 
 ## Predicate
 
+predicate (a function that returns a boolean)
+- https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403#.mhwvcoi8t
+
+
+
+
 A predicate is a test function that returns True or False. It test items for true or false and returns the items that pass the test.
 
 A predicate is a function that accepts an item in the array, and returns a boolean indicating whether the item should be retained in the new array. ( - Jafar, Front End Masters Asynchronous JS lecture )
+
 
 ---
 
@@ -1774,6 +1814,16 @@ It doesn’t have any side effects, that is, it doesn’t affect (change, mutate
 
 - http://www.barbarianmeetscoding.com/blog/2016/06/14/functional-programming-in-javascript/
 
+
+
+ME!
+A pure function has inputs and outputs, and it does not change anything outside of itself.  NO external storage/containers get modified (ex: vars files, )
+
+
+
+Wow - There are no variables in Functional Programming. Stored values are still called variables because of history but they are constants, i.e. once x takes on a value, it’s that value for life.
+- https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.9btdgof0e
+
 ---
 
 ## Recursion
@@ -1786,6 +1836,11 @@ It doesn’t have any side effects, that is, it doesn’t affect (change, mutate
 
 ## referential transparency
 When a function is called twice with the same parameters, and ALWAYS returns the same result.
+
+
+Referential transparency is the assertion that a function call could be replaced by its output value, and the overall program behavior wouldn't change.
+- https://github.com/getify/Functional-Light-JS/blob/master/ch5.md
+
 
 ---
 
@@ -1957,6 +2012,21 @@ Statements are sentences, expressions are phrases, and operators are conjunction
 "Strict Mode" [^note-strictmode], which was added in ES5, has a number of different behaviors from normal/relaxed/lazy mode. One such behavior is that it disallows the automatic/implicit global variable creation.
 
 - https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/ch1.md
+
+
+
+
+
+---
+
+
+## Tail call
+
+In other words, the function call is the last thing to execute in the function, and whatever value it returns is explicitly returned.
+
+https://github.com/getify/Functional-Light-JS/blob/master/ch8.md
+
+
 
 
 ---

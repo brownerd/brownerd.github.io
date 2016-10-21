@@ -7764,57 +7764,153 @@ Read/Watched:
 
 ---
 
-## DAY 308 - October 1 - TITLE
+## DAY 308 - October 13 - Thursday
+
+- SLAW updates
+- Teaching Mike Github and Terminal
 
 Read/Watched:
+- [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS/blob/master/ch3.md)
+---
+
+## DAY 309 - October 14 - Friday
+
+- Functional lite JS KS
+- Partial Application
+
+Read/Watched:
+- [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS/blob/master/ch3.md)
+- [partial-left](https://github.com/jonschlinkert/partial-left)
+- [Partial Application in JavaScript](http://benalman.com/news/2012/09/partial-application-in-javascript/)
+- [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.9btdgof0e)
+- [So You Want to be a Functional Programmer (Part 2)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a#.u4wpc1qak)
+- [So You Want to be a Functional Programmer (Part 3)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7#.35lw155rm)
+- [So You Want to be a Functional Programmer (Part 4)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49#.vkqkh5oex)
+- [So You Want to be a Functional Programmer (Part 5)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a#.dk57gun55)
+- [So You Want to be a Functional Programmer (Part 6)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403#.mhwvcoi8t)
+- [Chapter 5: Reducing Side Effects](https://github.com/getify/Functional-Light-JS/blob/master/ch5.md)
+
+
+
 
 ---
 
-## DAY 309 - October 1 - TITLE
+## DAY 310 - October 15 - Saturday
+
+- amir soccer
+- FP lite
+- Wells Family Day
 
 Read/Watched:
+- [Chapter 6: Value Immutability](https://github.com/getify/Functional-Light-JS/blob/master/ch6.md)
+- [Chapter 7: List Operations](https://github.com/getify/Functional-Light-JS/blob/master/ch7.md)
+
+
+
+
+
 
 ---
 
-## DAY 310 - October 1 - TITLE
+## DAY 311 - October 16 - Sunday
+
+- Jax and I got stung
+- Phillips lights and nest
+- Killing yellow jackets
 
 Read/Watched:
+- [webpackbin - beta2](https://www.youtube.com/watch?v=yf3Jhjw5Btc)
+- [Chapter 8: Recursion](https://github.com/getify/Functional-Light-JS/blob/master/ch8.md)
+- [Wasting Time TDDing The Wrong Things](http://www.rubypigeon.com/posts/wasting-time-tdd-the-wrong-things/)
+
+
+
+
+
+
 
 ---
 
-## DAY 311 - October 1 - TITLE
+## DAY 312 - October 17 - Monday
+
+- killing yellow jackets
+- Teaching mike how to set up projects
 
 Read/Watched:
+
+- [The Definitive Guide to the First Three Days of Yarn and npm](https://nodesource.com/blog/the-definitive-guide-to-the-first-three-days-of-yarn-and-npm/)
+- [Building a Website Performance Monitor](https://css-tricks.com/building-website-performance-monitor/)
 
 ---
 
-## DAY 312 - October 1 - TITLE
+## DAY 313 - October 18 - Tuesday
+
+- SK8ed with Meter and did lunch
+- ES6 wes bos course
 
 Read/Watched:
+
+- [Simple build tools: npm scripts vs Makefile vs runjs](https://hackernoon.com/simple-build-tools-npm-scripts-vs-makefile-vs-runjs-31e578278162#.6hi28qojs)
+- [runjs](https://github.com/pawelgalazka/runjs)
+- [Node.js at Scale - How the module system, CommonJS & require works | @RisingStack](https://blog.risingstack.com/node-js-at-scale-module-system-commonjs-require/)
+- [Converting a Node List to an Array](http://www.jstips.co/en/converting-a-node-list-to-an-array/)
+- [Modular JavaScript launches in a week!](https://ponyfoo.com/articles/modular-javascript-launches-soon)
+- [Is MVC dead for the frontend? →](https://blog.flybase.io/2016/10/18/is-mvc-dead-for-the-frontend/)
+- [JavaScript: What's the difference between textContent, innerHTML, innerText, nodeValue?](http://xahlee.info/js/js_textContent_innerHTML_innerText_nodeValue.html)
+
 
 ---
 
-## DAY 313 - October 1 - TITLE
+## DAY 314 - October 19 - TITLE
+
+- Mike project set-up with gulp and NPM
+- Installed Nest with Mike's help
+- Taught Mike about Var, Let, Const and Functions
+- ES6.io
 
 Read/Watched:
+
+- [JAMSTACK](https://jamstack.org/)
+- [The Ugly Truth About Being an Entrepreneur](https://medium.com/@larrykim/the-ugly-truth-about-being-an-entrepreneur-68c34d51e36e#.6b2j2qtlq)
+
+
+
+
 
 ---
 
-## DAY 314 - October 1 - TITLE
+## DAY 315 - October 20 - Thursday
+
+- Amir home today
+- destroyed yellow jacket nest confirmed
+- taught mike how to set up a Gulpfile with babel
+- ES6.io finished
 
 Read/Watched:
+- [Polyfill.io](mv zoo/o ~/trash)
+- [JSX 2.0](https://github.com/facebook/jsx/issues/65)
+- [Service vs Factory](https://daveceddia.com/service-vs-factory/)
+- [Webpack 101: An introduction to Webpack](http://code.hootsuite.com/webpack-101/)
+
+
 
 ---
 
-## DAY 315 - October 1 - TITLE
+## DAY 316 - October 21 - Friday
+
+- amir home
+- amir parent teacher conference
+- mike - gulpfile and npm scripts
 
 Read/Watched:
-
----
-
-## DAY 316 - October 1 - TITLE
-
-Read/Watched:
+- [Async functions - making promises friendly](https://developers.google.com/web/fundamentals/getting-started/primers/async-functions)
+- [Quick Tip: Replace jQuery’s Ready() with Plain JavaScript](https://www.sitepoint.com/jquery-document-ready-plain-javascript/)
+- [Migrating to Webpack 2](http://javascriptplayground.com/blog/2016/10/moving-to-webpack-2/)
+- [Why We Chose Vue.js](https://about.gitlab.com/2016/10/20/why-we-chose-vue/)
+- [Push-button Art Direction with Cloudinary’s Responsive Image Breakpoints Generator](http://cloudinary.com/blog/push_button_art_direction_with_cloudinary_s_responsive_image_breakpoints_generator)
+- [Push-button Art Direction with Cloudinary’s Responsive Image Breakpoints Generator](http://cloudinary.com/blog/push_button_art_direction_with_cloudinary_s_responsive_image_breakpoints_generator)
+- [Introducing intelligent responsive image breakpoints solutions](http://cloudinary.com/blog/introducing_intelligent_responsive_image_breakpoints_solutions)
+- [A javascript watcher that works just right](https://medium.com/@ivanorlov/a-javascript-watcher-that-works-just-right-38ae7d8f1e94#.gg5ea0b63)
 
 ---
 
@@ -7891,6 +7987,11 @@ Read/Watched:
 I haven’t been “actionable” until now. From Jan - Aug, EVERYTHING has been new to my eyes and has required extensive research to begin to make only the slightest sense of JS and programming. Now, after 8 months, I can apply what I learn, instead of having to go down the rabbit hole of research.
 
 In other words, I am just beginning to be able to program in JS
+
+- Yeah. Where as all JS stuff to this point went right in top my WTF brain space, all JS stuff is making stuff now. I've seen and done enough to make sense of things.
+
+- I am learning that a lot of programming is framework/library based. Knowing vanilla JS is great, yet that is often paired with using frameworks/libraries. So I'm finding that I now need to learn a crap ton of libraries now that I know enough JS to make sense of what they do. Ugh. More time.
+
 
 
 
