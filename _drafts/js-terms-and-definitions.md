@@ -923,6 +923,56 @@ The document variable exists as a global variable when your code is running in a
 
  It's a special object, often called a "host object."
 
+---
+
+
+
+## Imperative
+
+
+---
+
+## Implicit
+
+Happens as a side-effect of some other opperation (- Kyle Simpson)
+
+`a = a + ""`
+
+```js
+
+// Implicit String to Number
+var foo = "123";
+var baz = foo - 0;          // 123
+
+baz = foo - "0"             // 123
+baz = foo foo / 1;          // 123
+
+// Implicit Number to String
+baz = 456;
+foo = baz + "";             // "456"   string concatenation happens
+
+foo = baz - "";             // 456
+
+
+// Implicit Boolean coercion
+var foo = "123";              // true
+if (foo) {
+  alert("Sure")
+}
+
+foo = 0;                    // false    0 is falsy
+if (foo) {
+  alert("Right")
+}
+
+
+if (foo == false) {           // true, but don't ever do this
+  alert("Yeah.")
+}
+
+var baz = foo || "foo";       // "foo"
+```
+
 
 ---
 
@@ -997,53 +1047,17 @@ References:
 ---
 
 
-## Imperative
+
+# I/O
+Reading and Writing from the filesystem
 
 
+
+Most of the backends behind websites don’t need to do complicated computations. Our programs spend most of their time waiting for the disk to read & write , or waiting for the wire to transmit our message and send back the answer.
+
+IO operations can be orders of magnitude slower than data processing. Take this for example: SSD-s can have a read speed of 200-730 MB/s - at least a high-end one. Reading just one kilobyte of data would take 1.4 microseconds, but during this time a CPU clocked at 2GHz could have performed 28 000 of instruction-processing cycles.
 ---
 
-## Implicit
-
-Happens as a side-effect of some other opperation (- Kyle Simpson)
-
-`a = a + ""`
-
-```js
-
-// Implicit String to Number
-var foo = "123";
-var baz = foo - 0;          // 123
-
-baz = foo - "0"             // 123
-baz = foo foo / 1;          // 123
-
-// Implicit Number to String
-baz = 456;
-foo = baz + "";             // "456"   string concatenation happens
-
-foo = baz - "";             // 456
-
-
-// Implicit Boolean coercion
-var foo = "123";              // true
-if (foo) {
-  alert("Sure")
-}
-
-foo = 0;                    // false    0 is falsy
-if (foo) {
-  alert("Right")
-}
-
-
-if (foo == false) {           // true, but don't ever do this
-  alert("Yeah.")
-}
-
-var baz = foo || "foo";       // "foo"
-```
-
----
 
 ## Iterator
 A pull Mechanism ( - Jafar, Front End Masters Asynchronous JS lecture )

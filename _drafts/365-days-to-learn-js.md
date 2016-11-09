@@ -7914,63 +7914,197 @@ Read/Watched:
 
 ---
 
-## DAY 317 - October 1 - TITLE
+## DAY 317 - October 22 - Saturday
+
+- trying to switch cosmic project over to pug
 
 Read/Watched:
+- [Why I think Elm is the Future of Front End Development](https://medium.com/@rgoomar/why-i-think-elm-is-the-future-of-front-end-development-21e9b091fa05#.9v81q1xog)
+- [Elm: The Gateway Drug To Functional Programming](https://becoming-functional.com/elm-the-gateway-drug-to-functional-programming-23ee2ea62ad7#.5dfin2ngi)
+- [WordPress Without Shame](https://trackchanges.postlight.com/wordpress-without-shame-fedc1a2fef72#.okd0dj2wd)
+- [Tips for using async functions (ES2017)](http://www.2ality.com/2016/10/async-function-tips.html)
 
 ---
 
-## DAY 318 - October 1 - TITLE
+## DAY 318 - October 23 - Sunday
+
+- trying to switch cosmic project over to pug
 
 Read/Watched:
+- [The npm Blog](http://blog.npmjs.org/post/151660845210/hello-yarn)
+- [Elm – functional frontend development](https://dennisreimann.de/articles/elm.html)
+- [Elm Setup](https://dennisreimann.de/articles/elm-setup-first-project.html)
+- [Elm Modules and Imports](https://dennisreimann.de/articles/elm-modules-import.html)
+- [Elm Functions](https://dennisreimann.de/articles/elm-functions.html)
+- [Elm Data Structures (1)](https://dennisreimann.de/articles/elm-data-structures-list-array-set-dict.html) Lists, Arrays, Sets, and Dictionaries
+- [Elm Data Structures (2)](https://dennisreimann.de/articles/elm-data-structures-record-tuple.html) Records and Tuples
+- [Elm Data Structures (3)](https://dennisreimann.de/articles/elm-data-structures-union-type.html) Union types
+- [Video: elm-reactor: a Time Travelling Debugge](http://www.lambdacat.com/elm-reactor-a-time-travelling-debugger/)
+- [Road to Elm - Currying, The Unknown](http://www.lambdacat.com/road-to-elm-currying-the-unknown/)
+- [Road to Elm - 'let' and 'in'](http://www.lambdacat.com/road-to-elm-let-and-in/)
+- [Road to Elm - Destructuring](http://www.lambdacat.com/road-to-elm-destructuring/)
+- [Road to Elm - Structuring your application](http://www.lambdacat.com/road-to-elm-structuring-your-application/)
+- [Road to Elm - The Strange Case of "<~"](http://www.lambdacat.com/road-to-elm-the-strange-case-of-strange-symbol/)
+- [Road to Elm - Pipes, Chaining and Nesting](http://www.lambdacat.com/road-to-elm-pipes/)
+
+
+
 
 ---
 
-## DAY 319 - October 1 - TITLE
+## DAY 319 - October 24 - Monday
+
+- long talk with carl
+- lunch and long talk with Dad
+- Dinner prep
+- wrestling with swapping hogan for pug
 
 Read/Watched:
+- [Functional CSS From A Pure UI Perspective](https://medium.com/javascript-inside/functional-css-from-a-pure-ui-perspective-bd04c8af4fdc#.bzz75911j) Ugh. This sounds terrible.
+- [Functional Programming, CSS, and your sanity](http://www.jon.gold/2015/07/functional-css/) This sounds terrible also.
+- [
+Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b#.r9567ok6v)
+- [The End of Global CSS](https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284#.vadlz18sk)
+- [3 cases where JavaScript generators rock (+ understanding them)](http://goshakkk.name/javascript-generators-understanding-sample-use-cases/)
+- [Responsive Images in CSS](https://css-tricks.com/responsive-images-css/)
+- [Responsive Images with Client Hints](https://davidwalsh.name/responsive-images-client-hints)
+- [Phoenix - a framework for the modern web - Chris Mccord](https://vimeo.com/131633172)
+- [Brian Lonsdorf - Oh Composable World!](https://www.youtube.com/watch?v=SfWR3dKnFIo)
+
 
 ---
 
-## DAY 320 - October 1 - TITLE
+## DAY 320 - October 25 - Tuesday
+
+- wrestling with swapping hogan for pug
+- learning Elm
 
 Read/Watched:
+
+- [After React: Elm?](https://medium.com/wraptime-io/after-react-elm-152bd6559cb1#.itwmg629p)
+- [Unit tests vs. Integration tests - MPJ's Musings - FunFunFunction #55](https://www.youtube.com/watch?v=vqAaMVoKz1c)
+- [How to Build an API-Powered, Static Website: The Best of Both Worlds](https://cosmicjs.com/blog/how-to-build-an-api-powered-static-website-the-best-of-both-worlds)
+- [Understanding Redux (or, How I Fell in Love with a JavaScript State Container)](http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-redux-or-how-i-fell-in-love-with-a-javascript-state-container)
+- [:+1: How to Make a Simple Slack Chat-bot with Node and Humour](http://adriangordon.me/blog/how-make-simple-slack-chat-bot-node-and-humour)
+- [Redux without React — State Management in Vanilla JavaScript](https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/)
+- [How I Structure Elm Apps](http://blog.jenkster.com/2016/04/how-i-structure-elm-apps.html)
+- [BUILDING A SINGLE PAGE APPLICATION WITH ELM](http://7sharpnine.com/2016/10/03/building-an-spa-with-elm/)
+- [Next.js ](https://zeit.co/blog/next)
+- [What is the difference between CSS variables and preprocessor variables?](https://css-tricks.com/difference-between-types-of-css-variables/)
+- [Mahabis](https://mahabis.com/) Slippers
 
 ---
 
-## DAY 321 - October 1 - TITLE
+## DAY 321 - October 26 - Wednesday
+
+- teaching Mike
 
 Read/Watched:
+- [A Visual Guide to State in React](https://daveceddia.com/visual-guide-to-state-in-react/)
+- [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/)
+- [Donger List](http://dongerlist.com/)
+- [stdlib: Create Scalable Node.js Microservices in a Flash](https://davidwalsh.name/stdlib)
+- [Replacing switch statements with Object literals](https://toddmotto.com/deprecating-the-switch-statement-for-object-literals/)
+- [More Functional Javascript: Reducing Promises, Ramda.js, & Arrow functions again](https://medium.com/@dtipson/more-functional-javascript-reducing-promises-ramda-js-arrow-functions-again-c1f90e0a79d0#.7e91bj3sf)
+- [More Functional Javascript: Reducing Promises, Ramda.js, & Arrow functions again](https://medium.com/@dtipson/more-functional-javascript-reducing-promises-ramda-js-arrow-functions-again-c1f90e0a79d0#.7e91bj3sf)
+- [Node.js Interview Questions and Answers](https://blog.risingstack.com/node-js-interview-questions/)
+- [Elm Tutorial Part 3](https://www.youtube.com/watch?v=ALlYcJdZsgc)
+- [Elm Tutorial Part 4 -- Analog Clock App](https://www.youtube.com/watch?v=9YgGnZnbTSw)
+- [What to Expect at Apple's 'Hello Again' Mac Event](http://www.macrumors.com/2016/10/25/what-to-expect-at-hello-again-mac-event/)
+- [How to Land Your First Development Job in 5 Simple Steps](https://medium.com/javascript-scene/how-to-land-your-first-development-job-in-5-simple-steps-4e9fb73314c#.qy9ppzbuc)
+- [:+1: Richard Feldman - Introduction to Elm (March 22, 2016)](https://www.youtube.com/watch?v=zBHB9i8e3Kc)
+
+
+
 
 ---
 
-## DAY 322 - October 1 - TITLE
+## DAY 322 - October 27 - Thursday
+
+- saw an accident today
+- Elm
+- Apple event
 
 Read/Watched:
+- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon/blob/master/readme.md)
+- [Easy Creation of HTML with JavaScript’s Template Strings](http://wesbos.com/template-strings-html/)
+- ["Code is the Easy Part" by Evan Czaplicki](https://www.youtube.com/watch?v=DSjbTC-hvqQ)
+- ["0-60 in 15 Minutes: Building a Realtime App With Elm and Horizon" by Abadi Kurniawaan](https://www.youtube.com/watch?v=fTHHn7NhU3w)
+- ["Functional Data Structures" by Tessa Kelly](https://www.youtube.com/watch?v=UBuFHCsz16A)
+- ["Beyond Hello World and Todo Lists" by Ossi Hanhinen](https://www.youtube.com/watch?v=vpc80c5iC6k)
+- ["Compilers as Therapists, or Why Elm is Good for ADHD" by Luke Westby](https://www.youtube.com/watch?v=wpYFTG-uViE)
+- ["Rich Animation" by Matthew Griffith](https://www.youtube.com/watch?v=DsDwYqsLU3E)
+- [The Style Animation library for Elm!](http://package.elm-lang.org/packages/mdgriffith/elm-style-animation/latest/)
+- ["Building an Interactive Storytelling Framework in Elm" by Jeff Schomay](https://www.youtube.com/watch?v=t8RSxzpw1Yw)
+
+
+
 
 ---
 
-## DAY 323 - October 1 - TITLE
+## DAY 323 - October 28 - Friday
+
+- Elm
 
 Read/Watched:
+- ["The Clockwork Gardener: Growing an Elm App With Templates" by Jessica Kerr](https://www.youtube.com/watch?v=jJ4e6cIBgYM)
+- ["Nightingale.space - Elm and Crowd-Sourced Music Making" by Murphy Randle](https://www.youtube.com/watch?v=lPXVfqwYmEA)
+- ["Making Impossible States Impossible" by Richard Feldman](https://www.youtube.com/watch?v=IcgmSRJHu_8)
+- [Q&A Panel](https://www.youtube.com/watch?v=LCNs92YQjhw)
+- [How Floats Will Sink Your App](http://www.theodo.fr/blog/2016/10/how-floats-will-sink-your-app/)
+- [Getting Started with YAML in Node.js using js-yaml](http://thisdavej.com/getting-started-with-yaml-in-node-js-using-js-yaml/)
+- [How to Craft the Best Damn E-commerce Page on the Web - Whiteboard Friday](https://moz.com/blog/how-to-craft-the-best-damn-ecommerce-page-on-the-web-whiteboard-friday)
+- [FIREBASE, TONE.JS, AND DEVICE ORIENTATION](http://codepen.io/jakealbaugh/post/firebase-tone-js-and-device-orientation)
+- [Carousels Don’t Have to be Complicated](http://mediatemple.net/blog/tips/carousels-dont-have-to-be-complicated/)
 
 ---
 
-## DAY 324 - October 1 - TITLE
+## DAY 324 - October 29 - Saturday
+
+- elm
+- amir soccer
+- evan bday party
 
 Read/Watched:
+- [Faithful Elm and the Amazing Router](http://www.gizra.com/content/faithful-elm-amazing-router/)
+- [Elmctron - Build Desktop Apps with Elm and Electron](http://www.gizra.com/content/elm-electron-build/)
+- [:+1: How to think Elm](https://www.youtube.com/watch?v=tx07ysIrAz8)
+- [Modeling union types using only functions](https://brehaut.net/blog/2013/unions_as_functions)
+- [:+1: Functional Data Structures in JavaScript: The Basics](https://www.linkedin.com/pulse/function-data-structures-javascript-basics-kevin-greene)
+- [Decoding Larger JSON Objects in Elm 0.15](http://www.troikatech.com/blog/2015/08/17/decoding-larger-json-objects-in-elm)
+- [Pagination](https://www.romanzolotarev.com/pagination/)
+- [When FP? And when OOP?](http://raganwald.com/2013/04/08/functional-vs-OOP.html)
+- [Jamf ](https://www.jamf.com/lp/set-up-manage-and-protect-apple-devices-at-work/)
+Set up, manage and protect Apple devices at work.
+
+
 
 ---
 
-## DAY 325 - October 1 - TITLE
+## DAY 325 - October 30 - Sunday
 
 Read/Watched:
+- [Stepping out of the chaos with Elm, José Lorenzo Rodríguez - AtTheFrontend 2016](https://www.youtube.com/watch?v=wRGl3CveTgo)
+- [:+1: Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA)
+- [:+1: GOTO 2016 • Adventures in Elm • Jessica Kerr](https://www.youtube.com/watch?v=cgXhMc8M4X4)
+- [Erlang Factory SF 2016 Keynote Phoenix and Elm – Making the Web Functional](https://www.youtube.com/watch?v=XJ9ckqCMiKk)
+- [Tomasz Kowal - Elixir and Elm - the perfect couple (Lambda Days 2016)](https://www.youtube.com/watch?v=mIwD27qqr5U)
+- [ElixirConf 2015 - Phoenix with Elm by Alan Gardner](https://www.youtube.com/watch?v=MgFDZx1LmOE)
+- [Learn Me a Haskell](ElixirConf 2015 - Phoenix with Elm by Alan Gardner)
+- [Seven More Languages in Seven Weeks](https://pragprog.com/book/7lang/seven-more-languages-in-seven-weeks)
 
 ---
 
-## DAY 326 - October 1 - TITLE
+## DAY 326 - October 31 - Monday
+
+- Halloween
 
 Read/Watched:
+- [Rob Martin - Teaching functional programming to noobs (Lambda Days 2016)](https://www.youtube.com/watch?v=bmFKEewRRQg)
+- [:+1: :+1:Functional programming design patterns by Scott Wlaschin](https://www.youtube.com/watch?v=E8I19uA-wGY)
+- [:+1: Functional Programming for the Object Oriented - Øystein Kolsrud](https://www.youtube.com/watch?v=I2tMmsZC1ZU)
+- [Living in a Post-Functional World](https://www.infoq.com/presentations/post-functional-scala-clojure-haskell)
+- [Server side Elm with Phoenix](http://blog.overstuffedgorilla.com/server-side-elm-with-phoenix/)
 
 ---
 
@@ -7981,7 +8115,7 @@ Read/Watched:
 
 - lost of client stuff to do
 - Moved content from SLAW into CosmicJS
-- Looked into COntentful again as well as Spike, SugarSS and SugarML
+- Looked into Contentful again as well as Spike, SugarSS and SugarML
 
 
 I haven’t been “actionable” until now. From Jan - Aug, EVERYTHING has been new to my eyes and has required extensive research to begin to make only the slightest sense of JS and programming. Now, after 8 months, I can apply what I learn, instead of having to go down the rabbit hole of research.
@@ -7992,44 +8126,291 @@ In other words, I am just beginning to be able to program in JS
 
 - I am learning that a lot of programming is framework/library based. Knowing vanilla JS is great, yet that is often paired with using frameworks/libraries. So I'm finding that I now need to learn a crap ton of libraries now that I know enough JS to make sense of what they do. Ugh. More time.
 
-
-
-
+- Started looking into Elm.
+- Ask for more time to study and teach mike programming too
+- Feeling like I there is SO fucking much to learn
+- Wishing I knew DB stuff
+- Slacking on Client work
+- Started to teach mike Programming and JS basics.
+- Feel empowered to program, yeah! But I now I need to learn all the framework stuff, ugh!
 
 ---
 
 
 
-## DAY 327 - DATE - TITLE
-## DAY 328 - DATE - TITLE
-## DAY 329 - DATE - TITLE
-## DAY 330 - DATE - TITLE
-## DAY 331 - DATE - TITLE
-## DAY 332 - DATE - TITLE
-## DAY 333 - DATE - TITLE
-## DAY 334 - DATE - TITLE
-## DAY 335 - DATE - TITLE
-## DAY 336 - DATE - TITLE
-## DAY 337 - DATE - TITLE
-## DAY 338 - DATE - TITLE
-## DAY 339 - DATE - TITLE
-## DAY 340 - DATE - TITLE
-## DAY 341 - DATE - TITLE
-## DAY 342 - DATE - TITLE
-## DAY 343 - DATE - TITLE
-## DAY 344 - DATE - TITLE
-## DAY 345 - DATE - TITLE
-## DAY 346 - DATE - TITLE
-## DAY 347 - DATE - TITLE
-## DAY 348 - DATE - TITLE
-## DAY 349 - DATE - TITLE
-## DAY 350 - DATE - TITLE
-## DAY 351 - DATE - TITLE
-## DAY 352 - DATE - TITLE
-## DAY 353 - DATE - TITLE
-## DAY 354 - DATE - TITLE
-## DAY 355 - DATE - TITLE
-## DAY 356 - DATE - TITLE
+## DAY 327 - Nov 1 - Tuesday
+
+- Teaching Mike
+
+Read/Watched:
+- [:+1: Functional Data Structures in JavaScript: The Basics](https://www.linkedin.com/pulse/function-data-structures-javascript-basics-kevin-greene)
+- [Jason Fried: Why work doesn't happen at work](http://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work)
+- [Node.js at Scale - Understanding the Node.js Event Loop](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/)
+- [:+1: Getting Started with Webpack 2](https://medium.com/written-with-envy/getting-started-with-webpack-2-ed2b86c68783#.1xjh29jzg)
+- [Mercury](https://mercury.postlight.com/web-parser/) Make any web page make sense.
+- [An Introduction to Vue JS](https://www.ninjadevs.io/vue-js-series-1/)
+- [WebAssembly Browser Preview](http://v8project.blogspot.com/2016/10/webassembly-browser-preview.html)
+- [Arrays as Multipurpose Data Structures in JavaScript](http://www.jomendez.com/2015/12/07/array-as-multipurpose-data-structures-in-javascript/)
+- [Computing tag functions for ES6 template literals](http://www.2ality.com/2016/11/computing-tag-functions.html)
+- [Making Your JavaScript More Functional](https://adam.merrifield.ca/2016/11/01/making-your-javascript-more-functional/)
+
+---
+
+
+## DAY 328 - Nov 2 - Wednesday
+
+Read/Watched:
+- [A Study Plan To Cure JavaScript Fatigue](https://medium.com/@sachagreif/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.ynj5b5yak)
+- [André Staltz on Elm](http://www.elmbark.com/2016/03/10/andre-staltz-on-elm)
+- [What does it mean that Javascript is a prototype based language?](http://stackoverflow.com/questions/186244/what-does-it-mean-that-javascript-is-a-prototype-based-language)
+- [Prototypal Object-Oriented Programming using JavaScript](http://alistapart.com/article/prototypal-object-oriented-programming-using-javascript)
+- [JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+- [80+ JavaScript Interview Questions and Answers](http://www.developersfan.com/javascript-interview-questions-and-answers/)
+
+
+
+---
+
+## DAY 329 - Nov 3 - Thursday
+
+- Dev lunch
+- Elm
+- Mike JS
+
+Read/Watched:
+- [Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
+- [Adaptive browser based image format delivery](http://cloudinary.com/blog/adaptive_browser_based_image_format_delivery)
+- [Webpack or Browserify & Gulp: Which Is Better?](https://www.toptal.com/front-end/webpack-browserify-gulp-which-is-better)
+
+---
+
+## DAY 330 - Nov 4 - Friday
+
+- Pixel Camp videos
+- Helping Mike with plugins and paths
+- Elm guide
+
+
+Read/Watched:
+- [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
+- [Where X=Elm](https://learnxinyminutes.com/docs/elm/)
+- [How to design APIs that don’t suck](https://medium.freecodecamp.com/https-medium-com-anupcowkur-how-to-design-apis-that-dont-suck-922d864365c9#.lex1bzfot)
+- [:+1: Chrome DevTools Masterclass](https://www.youtube.com/watch?v=KykP5Z5E4kA)
+- [:+1: Elm Guide](https://guide.elm-lang.org/)
+- [Learn X in Y minutes: Where Elixir](https://learnxinyminutes.com/docs/elixir/)
+- [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
+- [Building the Elm Playground](http://elmplayground.com/building-the-elm-playground)
+- [
+Three Little-Known Development Console API Methods](https://www.sitepoint.com/three-little-known-development-console-api-methods/)
+
+---
+
+## DAY 331 - Nov 5 - Saturday
+
+
+
+Read/Watched:
+
+- [How Can Small Businesses/Websites Compete with Big Players in SEO? - Whiteboard Friday](https://moz.com/blog/small-businesses-websites-compete-big-players-seo-whiteboard-friday)
+- [Using Winston, a versatile logging library for Node.js](http://thisdavej.com/using-winston-a-versatile-logging-library-for-node-js/)
+- [Using Winston, a versatile logging library for Node.js](http://thisdavej.com/using-winston-a-versatile-logging-library-for-node-js/)
+- [
+Making Interactive Node.js Console Apps That Listen for Keypress Events](http://thisdavej.com/making-interactive-node-js-console-apps-that-listen-for-keypress-events/)
+- [The Cosmic Stack](https://medium.com/@carsoncgibbons/the-cosmic-stack-66d05b259adc#.82upaaz2i)
+- [Responsive Images Are Here. Now What? by Jason Grigsby—An Event Apart video](https://aneventapart.com/news/post/responsive-images-jason-grigsby-an-event-apart-video)
+
+---
+
+## DAY 332 - Nov 6 - Sunday
+
+Read/Watched:
+- [The one thing I hate about grid](https://medium.com/csstuff/the-one-thing-i-hate-about-grid-cd2c4acdbb8a#.egt9ge4b1)
+- [Things I’ve Learned About CSS Grid Layout](https://css-tricks.com/things-ive-learned-css-grid-layout/)
+- [Keith J. Grant - Stop Thinking in Pixels](https://www.youtube.com/watch?v=XanhwddQ-PM)
+- [Pete Hunt - Component Based Style Reuse](https://www.youtube.com/watch?v=_70Yp8KPXH8)
+
+---
+
+## DAY 333 - Nov 7 - Monday
+
+- slow start but, finished strong
+
+Read/Watched:
+
+- [Jessica Lord - Nativize Is the New Normalize](https://www.youtube.com/watch?v=H6IDoraEpO0)
+- [Lea Verou - CSS Variables: var(--subtitle);](https://www.youtube.com/watch?v=2an6-WVPuJU)
+- [Object.create - Object Creation in JavaScript P6 - FunFunFunction #57](https://www.youtube.com/watch?v=CDFN1VatiJA&list=TLGGwELKS16qqNowNzExMjAxNg)
+- [Professional Advice from Adobe MAX Conference (Aaron Draplin, Sara Dietschy, Shae Lewis, and more)](https://www.youtube.com/watch?v=4y_G6BayFz0&list=TLGGzzKkWA09U0UwNzExMjAxNg)
+- [Gitless works around Git’s problems, simplifies programmers’ life](https://jaxenter.com/gitless-works-around-gits-problems-simplifies-programmers-129968.html)
+- [Gitless: a version control system](http://gitless.com/)
+- [Setting up GraphQL with Hapi.js](https://blog.callstack.io/super-simple-graphql-server-with-hapi-js-mongodb-and-a-new-apollo-server-41418ded2faf#.cdpdkgu06)
+- [:+1: Webtask's Backend-as-a-Service: A Serverless E-Commerce Tutorial](https://snipcart.com/blog/webtask-baas-serverless-tutorial)
+- [Serverless Architectures](http://martinfowler.com/articles/serverless.html)
+- [The Twelve Factor App](https://12factor.net/)
+- [Building a Facebook-like Comment Box: A React Tutorial in Elm](https://www.codementor.io/elm/tutorial/build-facebook-commentbox-react-tutorial-elm)
+- [Build a Chrome Extension from Scratch](https://pub.scotch.io/@jibolash/build-a-chrome-extension-from-scratch)
+- [:+1: Build a Chrome Extension from Scratch](https://pub.scotch.io/@jibolash/build-a-chrome-extension-from-scratch)
+- [Build a Chrome Extension for Real-time Price Tracking with Appbase](https://scotch.io/tutorials/build-a-chrome-extension-for-real-time-price-tracking-with-appbase)
+
+
+---
+
+## DAY 334 - Nov 8 - Tuesday
+
+
+Read/Watched:
+- [Why Deadlines Need to Drop Dead](https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1#.mmyxcpitf)
+- [Native Apps are Doomed](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.bkr0obeex)
+- [Native Apps are Doomed](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.bkr0obeex)
+- [Progressive Web Apps](https://pwa.rocks/)
+- [:+1: Passing arguments to a JavaScript callback function](https://adam.merrifield.ca/2016/06/28/passing-arguments-to-a-javascript-callback-function/)
+- [Type Bombs in Elm](http://blog.jenkster.com/2016/11/type-bombs-in-elm.html)
+- [How Elm Slays a UI Antipattern](http://blog.jenkster.com/2016/06/how-elm-slays-a-ui-antipattern.html)
+- [The 2016 MacBook  Pro](https://jcs.org/notaweblog/2016/11/08/the_2016_macbook_pro/)
+- [:+1: Let’s be mainstream! User focused design in Elm](http://www.elmbark.com/2016/03/16/mainstream-elm-user-focused-design)
+
+---
+
+## DAY 335 - Nov 9 - Wednesday
+
+Read/Watched:
+- [If CSS is so easy why does everyone suck?](https://hackernoon.com/if-css-is-so-easy-why-does-everyone-suck-e4442cc9428a#.kb5ekhp61)
+- [tetris-on-a-plane](https://github.com/jstimpfle/tetris-on-a-plane)
+- [Rethinking Responsive Design](http://una.im/rethinking-responsive/?utm_source=codropscollective#💁)
+- [User Management](https://github.com/cosmicjs/user-management)
+- [Building microservices: Stonemason & Generating microservice stubs](https://community.risingstack.com/building-microservices-stonemason-generating-microservice-stubs/)
+- [elm-architecture-tutorial](https://github.com/evancz/elm-architecture-tutorial/)
+- [Html.App](http://package.elm-lang.org/packages/elm-lang/html/1.0.0/Html-App#)
+- [Elm HTML](http://package.elm-lang.org/packages/elm-lang/html/1.1.0/Html)
+
+---
+
+## DAY 336 - Nov 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 337 - Nov 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 338 - Nov 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 339 - Nov 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 340 - Nov 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 341 - Nov 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 342 - Nov 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 343 - Nov 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 344 - Nov 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 345 - Nov 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 346 - Nov 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 347 - Nov 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 348 - Nov 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 349 - Nov 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 350 - Nov 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 351 - Nov 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 352 - Nov 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 353 - Nov 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 354 - Nov 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 355 - Nov 1 - TITLE
+
+Read/Watched:
+
+---
+
+## DAY 356 - Nov 1 - TITLE
+
+Read/Watched:
+
+---
+
 ## DAY 357 - DATE - TITLE
 ## DAY 358 - DATE - TITLE
 ## DAY 359 - DATE - TITLE
