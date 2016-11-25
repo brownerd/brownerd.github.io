@@ -3358,7 +3358,7 @@ Read/Watched:
 
 ### March in review
 
-- I am hooked on these FreeCodeCamp challenges. I fell like I've found a JS resource that is organized to take you from zero to hero in a straigt path.
+- I am hooked on these FreeCodeCamp challenges. I fell like I've found a JS resource that is organized to take you from zero to hero in a straight path.
 - [:+1: You Don't Need jQuery!: Ajax Requests](http://blog.garstasio.com/you-dont-need-jquery/ajax/) I'm loving this series. SOOO good.
 - Went snowboarding for the first time since 1999. Ugh.
 - Learning Vanilla AJAX requests has been challenging
@@ -8213,9 +8213,7 @@ Read/Watched:
 
 - [How Can Small Businesses/Websites Compete with Big Players in SEO? - Whiteboard Friday](https://moz.com/blog/small-businesses-websites-compete-big-players-seo-whiteboard-friday)
 - [Using Winston, a versatile logging library for Node.js](http://thisdavej.com/using-winston-a-versatile-logging-library-for-node-js/)
-- [Using Winston, a versatile logging library for Node.js](http://thisdavej.com/using-winston-a-versatile-logging-library-for-node-js/)
-- [
-Making Interactive Node.js Console Apps That Listen for Keypress Events](http://thisdavej.com/making-interactive-node-js-console-apps-that-listen-for-keypress-events/)
+- [Making Interactive Node.js Console Apps That Listen for Keypress Events](http://thisdavej.com/making-interactive-node-js-console-apps-that-listen-for-keypress-events/)
 - [The Cosmic Stack](https://medium.com/@carsoncgibbons/the-cosmic-stack-66d05b259adc#.82upaaz2i)
 - [Responsive Images Are Here. Now What? by Jason Grigsby—An Event Apart video](https://aneventapart.com/news/post/responsive-images-jason-grigsby-an-event-apart-video)
 
@@ -8257,6 +8255,10 @@ Read/Watched:
 
 ## DAY 334 - Nov 8 - Tuesday
 
+- Raji home sick
+- RSS
+- Elm
+- Election night
 
 Read/Watched:
 - [Why Deadlines Need to Drop Dead](https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1#.mmyxcpitf)
@@ -8273,6 +8275,9 @@ Read/Watched:
 
 ## DAY 335 - Nov 9 - Wednesday
 
+- Raji home sick
+- Talking about Trump election
+
 Read/Watched:
 - [If CSS is so easy why does everyone suck?](https://hackernoon.com/if-css-is-so-easy-why-does-everyone-suck-e4442cc9428a#.kb5ekhp61)
 - [tetris-on-a-plane](https://github.com/jstimpfle/tetris-on-a-plane)
@@ -8282,90 +8287,182 @@ Read/Watched:
 - [elm-architecture-tutorial](https://github.com/evancz/elm-architecture-tutorial/)
 - [Html.App](http://package.elm-lang.org/packages/elm-lang/html/1.0.0/Html-App#)
 - [Elm HTML](http://package.elm-lang.org/packages/elm-lang/html/1.1.0/Html)
+- [10 Tips and Tricks That Will Make You an npm Ninja](https://www.sitepoint.com/10-npm-tips-and-tricks/)
 
 ---
 
-## DAY 336 - Nov 1 - TITLE
+## DAY 336 - Nov 10 - Thursday
+
+- Amir and Raji home sick
+
+Read/Watched:
+- [Introducing FlyWeb](https://flyweb.github.io/posts/2016/11/01/introducing-flyweb.html)
+- [:+1: The Ultimate JavaScript Cheat Sheet](https://www.codementor.io/johnnyb/tutorials/javascript-cheatsheet-fb54lz08k)
+ -[Comparing Rails and Phoenix: Part I](https://blog.codeship.com/comparing-rails-and-phoenix-part-i/)
+ - [Comparing Rails and Phoenix: Part II](https://blog.codeship.com/comparing-rails-and-phoenix-part-ii/)
+ - [Zero to One: How I mastered JavaScript and how you can too](https://hashnode.com/post/zero-to-one-how-i-mastered-javascript-and-how-you-can-too-ciuwmrw9j00r50q539clhhdj7)
+ c
+---
+
+## DAY 337 - Nov 11 - Friday
+
+- Raji home sick
+
+Read/Watched:
+- [President-Elect Donald Trump](https://medium.com/@SenWarren/presidentelecttrump-d93539b06966#.yxcovzvhv)
+- [Deploying an Express Application to AWS Lambda, the easy way](https://medium.com/trisfera/deploying-an-express-application-to-aws-lambda-the-easy-way-fa5fbef190ba#.btt297vzu)
+- [Learning to ‘Express’ Yourself](https://medium.com/@clrksanford/learning-to-express-yourself-f5cebf466492#.sgbvkcqtf)
+- [:+1: now: realtime global deployments](https://zeit.co/now#)
+- [Scaling Slack Events in Node](https://medium.com/the-founders-blog/scaling-slack-events-in-node-c5b0a54a55a6#.uxaeh9dtq)
+- [git-journal](https://github.com/saschagrunert/git-journal)
+---
+
+## DAY 338 - Nov 12 - Saturday
+
+- Elm and screencast
+- GIzmo sick
+
+Read/Watched:
+- [Live Coding an Instagram Clone From Scratch](https://www.codementor.io/officehours/3865229154/live-coding-an-instagram-clone-from-scratch)
+
+---
+
+## DAY 339 - Nov 13 - Sunday
+
+Read/Watched:
+- [Debugging The Web (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=HF1luRD4Qmk)
+- [
+Advanced JS performance with V8 and Web Assembly (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=PvZdTZ1Nl5o)
+- [The code I’m still ashamed of](https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.cyhiyjrex)
+- [You can’t fix diversity in tech without fixing the technical interview. Here’s the data.](https://medium.freecodecamp.com/you-cant-fix-diversity-in-tech-without-fixing-the-technical-interview-here-s-the-data-93130f977da2#.jx8p2ath6)
+- [lighthouse](https://github.com/GoogleChrome/lighthouse)
+- [Deprecating our AJAX crawling scheme](https://webmasters.googleblog.com/2015/10/deprecating-our-ajax-crawling-scheme.html)
+- [Google Crawler for Single Page Application](http://stackoverflow.com/questions/36702789/google-crawler-for-single-page-application)
+
+---
+
+## DAY 340 - Nov 14 - Monday
+
+- Raji sick
+- Designing sites for Mike
+
+Read/Watched:
+- [Leaky abstractions - MPJ's Musings - FunFunFunction #58](https://www.youtube.com/watch?v=gRsyY0kzXfw&feature=em-subs_digest)
+- [GETTING STARTED with VueJS 2 | VueJS 2 | Learning the Basics](https://www.youtube.com/watch?v=nyJSd6V2DRI&list=TLGGGWEs0dvSiywxNDExMjAxNg)
+- [Next.Js
+Is it the next big thing in JavaScript?](https://medium.com/javascript-mantra/next-js-53e9cf4da5af#.jqafawahp)
+- [Vocalizer ](https://github.com/atifazam/vocalizer)
+- [Nodemon](http://funkyjavascript.com/nodemon/)
+- [Removing Shadow DOM boundaries from text editor elements](http://blog.atom.io/2016/11/14/removing-shadow-dom-boundary-from-text-editor-elements.html)
+- [The Perfect Bug Report](http://elm-lang.org/blog/the-perfect-bug-report)
+- [7 More npm Tricks to Knock Your Wombat Socks Off](https://nodesource.com/blog/seven-more-npm-tricks-to-knock-your-wombat-socks-off/)
+- [To Learn Programming, Do Projects You Actually Care About](https://datarebellion.com/blog/to-learn-programming-do-projects-you-actually-care-about/)
+- [Cryptographically secure random numbers in Elm](http://reversemicrowave.me/blog/2016/03/04/elm-secure-random/)
+- [Object oriented JavaScript](https://blog.hellojs.org/object-oriented-javascript-559aaec119e6#.kiyv4v20d)
+
+---
+
+## DAY 341 - Nov 15 - Tuesday
+
+- raji sick
+
+Read/Watched:
+- [5 New ES6 Features in Node LTS](http://blog.runnable.com/post/153197291991/5-new-es6-features-in-node-lts)
+- [New Responsive App Demo Experience](https://cosmicjs.com/blog/new-responsive-app-demo-experience)
+- [Functional Programming In JS — With Practical Examples (Part 1)](https://medium.com/@rajaraodv/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276#.8xnuf6ozy)
+
+---
+
+## DAY 342 - Nov 16 - Wednesday
+
+- Anniversary
+- trying to fix failing computer
+
+Read/Watched:
+- [Codepen stats library](http://codepen.io/remirobichet/post/codepen-stats-library)
+- [I totally forgot about print style sheets](https://medium.com/@matuzo/i-totally-forgot-about-print-style-sheets-f1e6604cfd6#.5e2mkhsg9)
+
+---
+
+## DAY 343 - Nov 17 - Thursday
+
+- mike sick
+- trying to fix failing computer
+- took computer to MacHQ
+
+Read/Watched:
+- [An Introduction Into Lenses In JavaScript](https://medium.com/javascript-inside/an-introduction-into-lenses-in-javascript-e494948d1ea5#.qznmgr67n)
+---
+
+## DAY 344 - Nov 18 - Friday
+
+- letting CrashPlan run
 
 Read/Watched:
 
 ---
 
-## DAY 337 - Nov 1 - TITLE
+## DAY 345 - Nov 19 - Saturday
+
+- letting CrashPlan run
+- Amir soccer bowling party
+- SIUE mini reunion
 
 Read/Watched:
 
 ---
 
-## DAY 338 - Nov 1 - TITLE
+## DAY 346 - Nov 20 - Sunday
+
+- friendsgiving
+- letting CrashPlan run
 
 Read/Watched:
 
 ---
 
-## DAY 339 - Nov 1 - TITLE
+## DAY 347 - Nov 21 - Monday
 
 Read/Watched:
+- [:+1: I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.45h7tkzh9)
+- [:+1: Why Native Apps Really are Doomed: Native Apps are Doomed pt 2](https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9#.gnt4fb4jf)
+- [YouTube channels for frontend developers](https://github.com/andrew--r/channels)
+- [An Introduction to mo.js](https://css-tricks.com/introduction-mo-js/)
+- [:+1: AsciiMorph](https://github.com/tholman/ascii-morph)
+- [Style List Markers in CSS](https://css-tricks.com/style-list-markers-css/)
+- [Fun Functional Programming with the Choo Framework](https://www.sitepoint.com/functional-programming-choo/)
+- [Secure Data Recovery Review](http://www.toptenreviews.com/services/internet/best-hard-drive-recovery-services/secure-data-recovery-review/)
+- [Secure Data Recovery Service Selection](https://www.securedatarecovery.com/service-selection?ID=544BE80239A042389220DE5AD2A1EE04)
+- [dotenv](https://github.com/motdotla/dotenv)
+- [Introduction to Node & Express](https://medium.com/javascript-scene/introduction-to-node-express-90c431f9e6fd#.k51xg1wv2)
+- [Functional Programming In JS — With Practical Examples (Part 2)](https://medium.com/@rajaraodv/functional-programming-in-js-with-practical-examples-part-2-429d2e8ccc9e#.8us9sf5lw)
+- [:+1: An Introduction Into Lenses In JavaScript](https://medium.com/javascript-inside/an-introduction-into-lenses-in-javascript-e494948d1ea5#.4cy2o2ktp)
+---
+
+## DAY 348 - Nov 22 - Tuesday
+
+Read/Watched:
+- [Creating Node.js Microservices with Ease Using Stdlib](http://thisdavej.com/creating-node-js-microservices-with-ease-using-stdlib/)
+- [Random.js](http://codepen.io/ninivert/pen/RoKQqz)
+- [Why the MacBook Pro is limited to 16GB of RAM](https://macdaddy.io/macbook-pro-limited-16gb-ram/)
+- [What the heck is a 'thunk'?](https://daveceddia.com/what-is-a-thunk/)
+- [:+1: How to Build a Node.js User Management App](https://cosmicjs.com/blog/how-to-build-a-nodejs-user-management-app)
+- [It’s Time. Thank You & Bye Meteor](https://voice.kadira.io/its-time-thank-you-bye-meteor-115dd649a8#.5hf7z5c5y)
+- [:+1: Native Apps are killing themselves](https://medium.com/@_ericelliott/i-have-also-been-on-several-teams-that-were-building-the-same-app-for-both-the-web-and-mobile-c94e3614fdbf#.cyzr7tu8k)
+- [Functional JavaScript toolkit part 1](https://blog.hellojs.org/functional-javascript-toolkit-part-1-7470f8d5e3bc#.emlgzv88x)
+- [15" MacBook Pro with Touch Bar Drama!](https://www.youtube.com/watch?v=pbDCq36tLm8)
+- [Six More Tiny But Awesome ES6 Features](https://davidwalsh.name/es6-features-ii)
+- [Introducing splittable](https://medium.com/@cramforce/introducing-splittable-1c882babca7e#.ddeyoidj0)
 
 ---
 
-## DAY 340 - Nov 1 - TITLE
+## DAY 349 - Nov 23 - Wednesday
 
 Read/Watched:
-
----
-
-## DAY 341 - Nov 1 - TITLE
-
-Read/Watched:
-
----
-
-## DAY 342 - Nov 1 - TITLE
-
-Read/Watched:
-
----
-
-## DAY 343 - Nov 1 - TITLE
-
-Read/Watched:
-
----
-
-## DAY 344 - Nov 1 - TITLE
-
-Read/Watched:
-
----
-
-## DAY 345 - Nov 1 - TITLE
-
-Read/Watched:
-
----
-
-## DAY 346 - Nov 1 - TITLE
-
-Read/Watched:
-
----
-
-## DAY 347 - Nov 1 - TITLE
-
-Read/Watched:
-
----
-
-## DAY 348 - Nov 1 - TITLE
-
-Read/Watched:
-
----
-
-## DAY 349 - Nov 1 - TITLE
-
-Read/Watched:
+- [100 Excuses for Designers](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910#.dd6ykuxyx)
+- [grid-kiss: Keep CSS Grids simple, stupid](https://github.com/sylvainpolletvillard/postcss-grid-kiss?utm_source=codropscollective)
+- [Building Custom Dom Event Handlers in Elm](https://dzone.com/articles/building-custom-dom-event-handlers-in-elm)
+- [Lacking onMouseMove](https://github.com/elm-lang/html/issues/50)
 
 ---
 
@@ -8411,6 +8508,20 @@ Read/Watched:
 
 ---
 
+## November in review
+- this month has been tough
+- I started looking into Elm because JS it make JS look fucking crazy
+- I started to peek into Elixir anf Phoenix. I still don't know much about them. Yet another Syntax that I'm not familiar with yet
+- I'm really starting to slow down. I do feel confusion about what to do next. Hoenstly, I feel like I need another year of training. Yes, I now know the basics of JS, but I don't have any experience BUILDING things. I really need to MAKE things now and learn how to weild the langauge. I also feel deficient in all things DB. I don't know shit about DBs.
+- Mike is doing great. He is in the same place I am. He really needs to be making actual websites.
+
+
+
+
+
+
+
+---
 ## DAY 357 - DATE - TITLE
 ## DAY 358 - DATE - TITLE
 ## DAY 359 - DATE - TITLE
@@ -8419,7 +8530,7 @@ Read/Watched:
 ## DAY 362 - DATE - TITLE
 ## DAY 363 - DATE - TITLE
 ## DAY 364 - DATE - TITLE
-## DAY 365 - Oct 19 - Done
+## DAY 365 - Dec 19 - Done
 
 
 

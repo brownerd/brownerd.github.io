@@ -216,22 +216,25 @@ In browsers, console hooks up to the developer tools' console display, whereas i
 
 - https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/apA.md
 
+---
+
+## Controller
+
+Controllers sit sort of in the middle of a web request. We get to the controller by way of the routing, and it’s the controller’s job to basically convert incoming request (and its params) into a response. It does so by interacting with the Model layer and then passing that data to a view who presents the data as HTML or JSON.
+
+- https://blog.codeship.com/comparing-rails-and-phoenix-part-ii/
 
 ---
 
 ## COPE (Create Once, Publish Everywhere)
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-
-
-
-
 
 
 ## Curry
