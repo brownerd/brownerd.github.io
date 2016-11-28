@@ -8329,6 +8329,8 @@ Read/Watched:
 
 ## DAY 339 - Nov 13 - Sunday
 
+- Designing sites for Mike
+
 Read/Watched:
 - [Debugging The Web (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=HF1luRD4Qmk)
 - [
@@ -8344,7 +8346,6 @@ Advanced JS performance with V8 and Web Assembly (Chrome Dev Summit 2016)](https
 ## DAY 340 - Nov 14 - Monday
 
 - Raji sick
-- Designing sites for Mike
 
 Read/Watched:
 - [Leaky abstractions - MPJ's Musings - FunFunFunction #58](https://www.youtube.com/watch?v=gRsyY0kzXfw&feature=em-subs_digest)
@@ -8458,6 +8459,9 @@ Read/Watched:
 
 ## DAY 349 - Nov 23 - Wednesday
 
+- settin up new MacBookPro
+- TDay party with Moms
+
 Read/Watched:
 - [100 Excuses for Designers](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910#.dd6ykuxyx)
 - [grid-kiss: Keep CSS Grids simple, stupid](https://github.com/sylvainpolletvillard/postcss-grid-kiss?utm_source=codropscollective)
@@ -8466,27 +8470,58 @@ Read/Watched:
 
 ---
 
-## DAY 350 - Nov 1 - TITLE
+## DAY 350 - Nov 1 - Thursday
+
+- Thanksgiving
+- Setting up new mac
 
 Read/Watched:
 
 ---
 
-## DAY 351 - Nov 1 - TITLE
+## DAY 351 - Nov 1 - Friday
+
+- Setting up new mac
 
 Read/Watched:
+
+
+- [Prevent Errors from Crashing Gulp Watch](https://scotch.io/tutorials/prevent-errors-from-crashing-gulp-watchhttps://scotch.io/tutorials/prevent-errors-from-crashing-gulp-watch)
+- [RSS Electron considered harmful](http://sircmpwn.github.io/2016/11/24/Electron-considered-harmful.htmlhttp://sircmpwn.github.io/2016/11/24/Electron-considered-harmful.html)
+- [2016 MacBook Pro: Siri Icon on the Touchbar is Driving me Crazy](https://macperformanceguide.com/blog/2016/20161118_2304-2016MacBookPro-touchbar-Siri.htmlhttps://macperformanceguide.com/blog/2016/20161118_2304-2016MacBookPro-touchbar-Siri.html)
+- [Learning & Discovering ZSH Features - Command Line Power User (7/11)](https://www.youtube.com/watch?v=4q3eO17eEK4&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf&index=7https://www.youtube.com/watch?v=4q3eO17eEK4&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf&index=7)
+- [vim + tmux - OMG!Code](https://www.youtube.com/watch?v=5r6yzFEXajQ)
+- [:+1: Why I’m Thankful for JS Fatigue. I know you’re sick of those words, but this is different.](https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f#.bvh4fcnqohttps://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f#.bvh4fcnqo)
+- [:+1: Louis C K Generation of Spoiled Idiots](https://www.youtube.com/watch?v=akiVi1sR2rMhttps://www.youtube.com/watch?v=akiVi1sR2rM)
+- [Use Homebrew zsh Instead of the OS X Default](http://rick.cogley.info/post/use-homebrew-zsh-instead-of-the-osx-default/http://rick.cogley.info/post/use-homebrew-zsh-instead-of-the-osx-default/)
+- [Mac OS X Setup Guide](http://sourabhbajaj.com/mac-setup/iTerm/zsh.html)
 
 ---
 
-## DAY 352 - Nov 1 - TITLE
+## DAY 352 - Nov 1 - Saturday
+
+- Shep Family Foundation meeting
+- Lunch and movie with Moms
+- Dinner with Rich and Mike
+- setting up new computer
 
 Read/Watched:
-
+- [URL rewriting with Github Pages](http://lea.verou.me/2016/11/url-rewriting-with-github-pages/)
 ---
 
-## DAY 353 - Nov 1 - TITLE
+## DAY 353 - Nov 1 - Sunday
+
+- setting up new computer
 
 Read/Watched:
+- [The 100% correct way to do CSS breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.az4rq5rfwhttps://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.az4rq5rfw)
+- [5 Things I Learnt as a Designer at LEGO](https://5thingsilearned.com/5-things-i-learnt-as-a-designer-at-lego-25705816376d#.yyifdkgnyhttps://5thingsilearned.com/5-things-i-learnt-as-a-designer-at-lego-25705816376d#.yyifdkgny)
+- [What happened to Apple?](https://hackernoon.com/what-happened-to-apple-3c2029b98845#.eruujv9ezhttps://hackernoon.com/what-happened-to-apple-3c2029b98845#.eruujv9ez)
+- [When to use which CSS methodology](http://simurai.com/blog/2016/11/27/css-methodologieshttp://simurai.com/blog/2016/11/27/css-methodologies)
+- [So that whole coding bootcamp thing is a scam, right?](https://medium.freecodecamp.com/so-that-whole-coding-bootcamp-thing-is-a-scam-right-6fddf14087d4#.vqlga1a5t)
+- [Best practices for JavaScript function parameters](http://codeutopia.net/blog/2016/11/24/best-practices-for-javascript-function-parameters/)
+- [Elm for the Frontend, Right Now (Updated for Elm 0.18)](http://bendyworks.com/blog/elm-frontend-right-now-updated-for-0-18)
+
 
 ---
 
