@@ -823,6 +823,9 @@ Functional Programming deals with changes to values in a record by making a copy
 ## Functor
 Is an object or data structor you can map over (- Brian Lonsdorf, FrontEndMasters)
 
+A functor is a fancy name for a "mappible" type
+- https://www.youtube.com/watch?v=E8I19uA-wGY    (49:29)
+
 ---
 
 ## Gate
@@ -1050,6 +1053,23 @@ References:
 ---
 
 
+
+# invariant programming
+In computer science, an invariant is a condition.
+
+A that can be relied upon to be true during execution of a program, or during some portion of it.
+
+It is a logical assertion that is held to always be true during a certain phase of execution.
+
+
+- https://en.wikipedia.org/wiki/Invariant_(computer_science)
+
+
+Invariant
+It is a varying quantity about which some fact does not change  
+- https://courses.edx.org/courses/course-v1:UBCx+SPD3x+2T2016/courseware/209ab569f2be4bdbae795c4710b16999/ec543fe52b0f4be2b6bfc16e4a47b644/?child=first
+
+--
 
 # I/O
 Reading and Writing from the filesystem
@@ -1383,6 +1403,44 @@ Our Person object is a mixin, it provides functionality to be mixed into an obje
 “Monads are pointed functors that can flatten”
 
 Excerpt From: drboolean. “mostly-adequate-guide.” iBooks.
+
+
+
+---
+
+
+
+
+# Monoid
+
+// A monoid is a semigroup with a neutral element, like an identity function
+
+
+
+Monoid
+
+You start with a bunch of things, and combining two things is always another one of the things.
+
+Rule 1 (Closure) The result of combining two things is always another one of the things
+  - This converts pairwise operations into operations that work on lists
+  - 1 + 2 + 3           [1,2,3].reduce(+)
+  - 1 * 2 * 3           [1,2,3].reduce(*)
+  - "a" + "b" + "c"     ["a", "b", "c"].reduce(+)
+
+Rule 2 (Associativity) When combining more than two things, which pairwise combination you do first doesn;t matter
+  - This is rad because order doesnt matter
+  - We can do divide and conquor, paralleliztion and incremental accumulation
+  - (1+2)  (3+4)
+  -     3+7
+  - (1+2+3)+4.  (6) + 4
+
+
+Rule 3 (Identity element) There is a special thing called "zero" such that when you combine any thing with "zero" you get the original back
+
+  - benefit: Initial value for empty or missing data
+  - if ZERO is missing, it is called a semigroup
+
+https://www.youtube.com/watch?v=E8I19uA-wGY (59:00)
 
 
 

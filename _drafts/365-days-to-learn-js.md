@@ -5098,7 +5098,7 @@ Expected:
 Actual:
 - all the above
 
-
+ear
 
 Read/Watched:
 - [Barbaric Tip of the Week: How to Recover a Lost Commit With Git](http://www.barbarianmeetscoding.com/blog/2016/06/07/barbaric-tip-of-the-week-how-to-recover-a-lost-commit-with-git/)
@@ -5277,8 +5277,7 @@ Actual:
 
 Read/Watched:
 - [Learn ES6 The Dope Way Part I: const, let & var](https://medium.freecodecamp.com/learn-es6-the-dope-way-i-const-let-var-ae828580472b#.l3j9sfh53)
-- [Learn ES6 The Dope Way Part II: Arrow functions and the ‘this’
-keyword](https://medium.freecodecamp.com/learn-es6-the-dope-way-part-ii-arrow-functions-and-the-this-keyword-381ac7a32881#.56g09srr5)
+- [Learn ES6 The Dope Way Part II: Arrow functions and the 'this' keyword](https://medium.freecodecamp.com/learn-es6-the-dope-way-part-ii-arrow-functions-and-the-this-keyword-381ac7a32881#.56g09srr5)
 - [Learn ES6 The Dope Way Part III: Template Literals, Spread Operators, and Generators!](https://medium.freecodecamp.com/learn-es6-the-dope-way-part-iii-template-literals-spread-operators-generators-592765337294#.sgp0o9ti3)
 - [:+1: How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.4kn0qod03)
 - [:+1: How the Web Works Part II: Client-Server Model & the Structure of a Web Application](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.qdjwqgxw3)
@@ -5409,8 +5408,7 @@ Read/Watched:
 - [:+1: Black Tower Summoning: Object Composition With Mixins](http://www.barbarianmeetscoding.com/blog/2015/12/28/black-tower-summoning-object-composition-with-mixins/)
 - [Hands-on Functional Programming with Ramda.js](https://www.sitepoint.com/functional-programming-with-ramda/)
 - [:+1: Download YouTube Videos with youtube-dl](https://davidwalsh.name/download-youtube-videos)
-- [
-Functional programming with Ramda.js](http://neiro.io/2015/09/05/functional-programming-with-ramda-js.html)
+- [Functional programming with Ramda.js](http://neiro.io/2015/09/05/functional-programming-with-ramda-js.html)
 - [Trine](https://github.com/jussi-kalliokoski/trine)
 - [PostHTML](https://github.com/posthtml/posthtml)
 - [Switch](https://github.com/zhiyul/Switch)
@@ -6143,8 +6141,7 @@ Read/Watched:
 - [:+1: Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
 - [props vs state](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
 - [Understanding Props and State in React](https://themeteorchef.com/snippets/understanding-props-and-state-in-react/)
-- [
-Structuring React Applications: Higher-Order Components](http://jamesknelson.com/structuring-react-applications-higher-order-components/)
+- [Structuring React Applications: Higher-Order Components](http://jamesknelson.com/structuring-react-applications-higher-order-components/)
 - [Should I use React.createClass, ES6 Classes or stateless functional components?](http://jamesknelson.com/should-i-use-react-createclass-es6-classes-or-stateless-functional-components/)
 - [A Quick Tour Of ES6 (Or, The Bits You’ll Actually Use)](http://jamesknelson.com/es6-the-bits-youll-actually-use/)
 - [Javascript Interview Questions: Javascript is a prototypal language. What do I mean by this?](https://medium.com/@will_gottchalk/javascript-interview-questions-javascript-is-a-prototypal-language-what-do-i-mean-by-this-76937a9aa42a#.kqh46hz34)
@@ -7563,7 +7560,7 @@ Read/Watched:
 Read/Watched:
 - [Debugging With Node.js](https://code.tutsplus.com/tutorials/debugging-with-nodejs--cms-26306)
 - [:+1: HyperDev Learn Node.js](https://hyperdev.wpengine.com/help/learn-node-js-free-beginner-course/)
-- [:+1: Understanding node.js](http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb)
+- [:+1: Understanding node.js](http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb5)
 - [Inversion of Control Containers and the Dependency Injection pattern](http://martinfowler.com/articles/injection.html)
 - [:+1: Execution in the Kingdom of Nouns](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)
 - [Everything is fine with JavaScript](http://www.macwright.org/2016/10/04/everything-is-fine-with-javascript.html)
@@ -7962,8 +7959,7 @@ Read/Watched:
 Read/Watched:
 - [Functional CSS From A Pure UI Perspective](https://medium.com/javascript-inside/functional-css-from-a-pure-ui-perspective-bd04c8af4fdc#.bzz75911j) Ugh. This sounds terrible.
 - [Functional Programming, CSS, and your sanity](http://www.jon.gold/2015/07/functional-css/) This sounds terrible also.
-- [
-Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b#.r9567ok6v)
+- [Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b#.r9567ok6v)
 - [The End of Global CSS](https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284#.vadlz18sk)
 - [3 cases where JavaScript generators rock (+ understanding them)](http://goshakkk.name/javascript-generators-understanding-sample-use-cases/)
 - [Responsive Images in CSS](https://css-tricks.com/responsive-images-css/)
@@ -8470,7 +8466,7 @@ Read/Watched:
 
 ---
 
-## DAY 350 - Nov 1 - Thursday
+## DAY 350 - Nov 24 - Thursday
 
 - Thanksgiving
 - Setting up new mac
@@ -8479,7 +8475,7 @@ Read/Watched:
 
 ---
 
-## DAY 351 - Nov 1 - Friday
+## DAY 351 - Nov 25 - Friday
 
 - Setting up new mac
 
@@ -8498,7 +8494,7 @@ Read/Watched:
 
 ---
 
-## DAY 352 - Nov 1 - Saturday
+## DAY 352 - Nov 26 - Saturday
 
 - Shep Family Foundation meeting
 - Lunch and movie with Moms
@@ -8509,7 +8505,7 @@ Read/Watched:
 - [URL rewriting with Github Pages](http://lea.verou.me/2016/11/url-rewriting-with-github-pages/)
 ---
 
-## DAY 353 - Nov 1 - Sunday
+## DAY 353 - Nov 27 - Sunday
 
 - setting up new computer
 
@@ -8525,30 +8521,57 @@ Read/Watched:
 
 ---
 
-## DAY 354 - Nov 1 - TITLE
+## DAY 354 - Nov 28 - Monday
+
+- back check
+- pt
+- talk with mom
+- set up urawsm
 
 Read/Watched:
+- [Functional Programming should be your #1 priority for 2015](https://medium.com/@jugoncalves/functional-programming-should-be-your-1-priority-for-2015-47dd4641d6b9#.soxk66gvh)
+
 
 ---
 
-## DAY 355 - Nov 1 - TITLE
+## DAY 355 - Nov 29 - Tuesday
 
 Read/Watched:
+- [The new MacBook Pro is kind of great for hackers](https://medium.com/@ageitgey/the-new-macbook-pro-is-kind-of-great-for-hackers-64c1c577a4d2#.3zyfr9moh)
+- [When I started learning to code in many languages, I quickly realized that most of them had quite a lot in common.](https://medium.com/@_ericelliott/when-i-started-learning-to-code-in-many-languages-i-quickly-realized-that-most-of-them-had-quite-a-5080e34b5be6#.8t66cm10l)
+- [Service Wizard 1.0](https://stdlib.com/wizard)
+- [Next.js Website](https://github.com/cosmicjs/next.js-website)
+- [:+1: Consuming Node.js Microservices Created with Stdlib](http://thisdavej.com/consuming-node-js-microservices-created-with-stdlib/)
+- [Tips for Getting Started with Elixir & IEx](https://www.promptworks.com/blog/getting-started-with-elixir-and-iex)
+- [:+1: Standardized ladder of Functional Programming](http://lambdaconf.us/downloads/documents/lambdaconf_slfp.pdf)
+- [Git 2.11 has been released](https://github.com/blog/2288-git-2-11-has-been-released)
 
 ---
 
-## DAY 356 - Nov 1 - TITLE
+## DAY 356 - Nov 30 - Wednesday
+
+- Raji Ear infection
+- Pickup failed harddrive
+- Help Frank with computer
+- Ship off failed hard drive to Data Recovery center
 
 Read/Watched:
+- [:+1: Why and how should we learn about paradigms? ](https://courses.edx.org/courses/course-v1:LouvainX+Louv1.1x+3T2016/courseware/e161981dd2d3451b8f316158c69228b7/43e14b7dbe5b4efc9bd727991f82ece1/)
+- [:+1: Paradigms of Computer Programming - Abstraction and Concurrency](https://courses.edx.org/courses/course-v1:LouvainX+Louv1.2x+3T2016/courseware/68174036e360423c877d4b35e231ede0/5e5bed8639cd4142a7cb18d7d7340ff4/)
+- [Useful Regex Patterns](https://projects.lukehaas.me/regexhub/)
+- [SmtpJS.com](http://www.smtpjs.com/)
+- [formbase](https://github.com/electerious/formbase)
+- [Nesting Your BEM?](http://csswizardry.com/2016/11/nesting-your-bem/)
 
 ---
 
 ## November in review
 - this month has been tough
-- I started looking into Elm because JS it make JS look fucking crazy
-- I started to peek into Elixir anf Phoenix. I still don't know much about them. Yet another Syntax that I'm not familiar with yet
-- I'm really starting to slow down. I do feel confusion about what to do next. Hoenstly, I feel like I need another year of training. Yes, I now know the basics of JS, but I don't have any experience BUILDING things. I really need to MAKE things now and learn how to weild the langauge. I also feel deficient in all things DB. I don't know shit about DBs.
-- Mike is doing great. He is in the same place I am. He really needs to be making actual websites.
+- I started looking into Elm because it makes JS look fucking crazy
+- I started to peek into Elixir and Phoenix. I still don't know much about them. Yet another Syntax that I'm not familiar with yet
+- I'm really starting to slow down. I do feel confusion about what to do next. Honest, I feel like I need another year of training. Yes, I now know the basics of JS, but I don't have any experience BUILDING things. I really need to MAKE things now and learn how to wield the language. I also feel deficient in all things DB. I don't know shit about DBs.
+- Mike is doing great. He is in the same place I am. He really needs to be making actual websites. I need to feed him production projects.
+- Yeah. Looking back, I've come a LONG way, but I still feel far from where I intended to be. Actually, I intened to be comfortable with the React library. I am not. I gave up on this to learn Programming and JS in general. So, I've gain exposure and knowledge of the basics of JS and programming, but I haven't made much of anything. Further more, I now see that a long and deep list of Frameworks and LIbraries lie in front of me know. Yes, I need to know vanilla JS and programming, but EVERYTHING being made today utilizes multiple frameworks. I need to learn to build with these.
 
 
 
@@ -8557,16 +8580,249 @@ Read/Watched:
 
 
 ---
-## DAY 357 - DATE - TITLE
-## DAY 358 - DATE - TITLE
-## DAY 359 - DATE - TITLE
-## DAY 360 - DATE - TITLE
-## DAY 361 - DATE - TITLE
-## DAY 362 - DATE - TITLE
-## DAY 363 - DATE - TITLE
-## DAY 364 - DATE - TITLE
-## DAY 365 - Dec 19 - Done
 
+## DAY 357 - Dec 1 - Thursday
+
+- Dev lunch
+- Raji Sick with stomach bug
+
+Read/Watched:
+- [Computer Science from the Bottom Up](https://www.bottomupcs.com/) Unread
+- [HTTPie, a Human-Friendly cURL-Like Tool](https://code.tutsplus.com/tutorials/httpie-a-human-friendly-curl-like-tool--cms-27310)
+- [The Fundamentals of Flow in 10-ish Minutes](https://www.youtube.com/watch?v=xWMuAUbXcdQ&utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2016-10-29)
+- [The Fundamentals of Flow in 10-ish Minutes](https://www.youtube.com/watch?v=xWMuAUbXcdQ&utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2016-10-29)
+- [A few tricks and ideas how anybody can improve in mental arithmetic.](http://codepen.io/pixelass/post/learning-to-multiply-using-2-and-10)
+- [Elixir Examples](https://elixir-examples.github.io/)
+- [How to Code: Systematic Program Design - Part 1](https://courses.edx.org/courses/course-v1:UBCx+SPD1x+2T2016/courseware/d4b5b9454a3e47689c866b557162d73d/348790b506ce479789ffd6c227d1bc9d/)
+- [Serverless "cron" jobs with JavaScript Codehooks](https://restdb.io/blog#!posts/583e8afe50ccd12d0000838d)
+- [crontab.guru](https://crontab.guru/)
+- [Which Page Markup + Tags Still Matter for SEO? - Whiteboard Friday](https://moz.com/blog/which-page-markup-tags-still-matter-for-seo-whiteboard-friday) Validation doesn't matter anymore. Nor does semantic markup.
+
+
+
+---
+
+
+## DAY 358 - Dec 2 - Friday
+
+- raji home with stomach bug
+- juju in town
+
+Read/Watched:
+- [What to Expect in WordPress 4.7 – New Features and Real Screenshots](http://wplift.com/wordpress-4-7)
+---
+
+## DAY 359 - Dec 3 - Saturday
+
+- juju in town
+
+Read/Watched:
+
+
+---
+
+## DAY 360 - Dec 4 - Sunday
+
+- SICK!!!
+
+Read/Watched:
+
+---
+
+## DAY 361 - Dec 5 - Monday
+
+- Recovering from stomach bug
+
+Read/Watched:
+- [What is Frontend Design? Is that even a thing?](https://blog.prototypr.io/what-is-frontend-design-is-that-even-a-thing-3bafbf6c716e#.h132204jr)
+- [My journey to becoming a web developer from scratch without a CS degree, 2 years later (and what I learned from it)](https://medium.com/@sgarcia.dev/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.sxta9pidx)
+- [Bro, do you even map ? — MapReduce demystified](https://hackernoon.com/bro-do-you-even-map-mapreduce-demystified-ea7f11b0e238#.rsjeaf5gv)
+
+---
+
+## DAY 362 - Dec 6 - Tuesday
+
+- Amir and Juju sick
+
+Read/Watched:
+
+- [You might not need that $15K coding bootcamp](https://medium.freecodecamp.com/you-might-not-need-that-15k-coding-bootcamp-be0ba9697885#.apeop2duo)
+- [You Might Not Need TypeScript (or Static Types)](https://medium.com/javascript-scene/you-might-not-need-typescript-or-static-types-aa7cb670a77b#.ia6n0ygvp)
+- [Stop Wasting Time: Pair Programming Rocks](https://medium.com/javascript-scene/stop-wasting-time-pair-programming-rocks-4a99604cb09d#.rkovsdejv)
+- [Virtual CSS with Styletron](https://ryantsao.com/blog/virtual-css-with-styletron#fnref-5)
+- [margin-bottom or margin-top](https://css-tricks.com/margin-bottom-margin-top/)
+
+---
+
+## DAY 363 - Dec 7 - Wednesday
+
+- Mike budgeting
+- juju
+- Minals car
+
+Read/Watched:
+- [DxF5H/lightbox](https://github.com/DxF5H/lightbox/blob/master/dist/lightbox.js)
+- [The State of Babel](https://babeljs.io/blog/2016/12/07/the-state-of-babel)
+
+---
+
+## DAY 364 - Dec 8 - Thursday
+
+- systematic programming
+
+Read/Watched:
+- [Publishing with GitHub Pages, now as easy as 1, 2, 3](https://github.com/blog/2289-publishing-with-github-pages-now-as-easy-as-1-2-3)
+
+---
+
+## DAY 364 - Dec 9 - Friday
+
+- PT
+- EarthDance
+
+Read/Watched:
+- [strelka](https://github.com/nikita-volkov/strelka)
+---
+
+## DAY 358 - Dec 10 - Saturday
+
+- Jabari graduates!
+
+Read/Watched:
+- [Siema](https://pawelgrzybek.com/siema/)
+---
+
+## DAY 359 - Dec 11 - Sunday
+
+Read/Watched:
+- [Success in Introductory Programming: What Works? ](https://swcarpentry.github.io/instructor-training/files/papers/porter-what-works-2013.pdf)
+- [:+1: Tips for Self-Learning Programming](http://blog.hiphipjorge.com/tips-for-learning-programming/)
+- [Why we chose Vue.js over React](http://pixeljets.com/blog/why-we-chose-vuejs-over-react)
+
+
+---
+
+## DAY 360 - Dec 12 - Monday
+
+Read/Watched:
+- [:+1: Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
+- [What is a closure in JavaScript and why they are wrong?](http://www.albertgao.xyz/2016/08/21/what-is-a-closure-in-javascript-and-why-they-are-wrong/)
+
+---
+
+## DAY 361 - Dec 13 - Tuesday
+
+Read/Watched:
+- [:+1: Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
+---
+
+## DAY 362 - Dec 14 - Wednesday
+
+Read/Watched:
+- [How Does One Improve as an Intermediate Programmer?](http://ericdykstra.me/blog/improving-as-an-intermediate-programmer)
+- [JavaScript Clean Coding Best Practices - Node.js at Scale](http://ericdykstra.me/blog/improving-as-an-intermediate-programmer)
+- [You Might Not Need React](https://hackernoon.com/you-might-not-need-react-e5fd54611111#.jw8frbm8p)
+- [The Outrageous Cost of Skipping TDD & Code Reviews](https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412#.cqmmwdg2n)
+- [Here’s Why Client-side Rendering Won](https://medium.freecodecamp.com/heres-why-client-side-rendering-won-46a349fadb52#.al3m87fu5)
+- [Introducing Pragma](https://www.laktek.com/2016/11/29/introducing-pragma/)
+- [Learn Pug.js with Pugs](http://codepen.io/mimoduo/post/learn-pug-js-with-pugs)
+- [Recycle — Truly Functional and Reactive way of writing React-like apps](https://medium.com/@domagojk/recycle-truly-functional-and-reactive-way-of-writing-react-like-apps-cfe1d41302ee#.lko2eqq89)
+- [Fabulous macOS Tips & Tricks](https://blog.sindresorhus.com/macos-tips-tricks-13046cf377f8#.tdn8hs2kj)
+- [Voca](https://blog.sindresorhus.com/macos-tips-tricks-13046cf377f8#.tdn8hs2kj) The ultimate JavaScript string library
+- [:+1: An Overview of Client-Side Storage](https://bitsofco.de/an-overview-of-client-side-storage/)
+- [Make Creating Websites Fun Again With Hugo](https://code.tutsplus.com/tutorials/make-creating-websites-fun-again-with-hugo-the-static-website-generator-written-in-go--cms-27319)
+- [WordPress to Hugo Exporter](https://github.com/SchumacherFM/wordpress-to-hugo-exporter)
+- [Promises: The Basics](http://funkyjavascript.com/promises/)
+- [Extreme test-first!](https://medium.com/humans-create-software/extreme-test-first-ff3a68756491#.lagotmucf)
+- [Alternatives to Placeholder Text](https://uxdesign.cc/alternatives-to-placeholder-text-13f430abc56f#.kxmtrx8nq)
+- [:+1: Explaining JavaScript Closure & Scope Chain with Examples](https://community.risingstack.com/explaining-javascript-closure-scope-chain-examples/)
+- [Between the Wires | Chris Coyier](https://betweenthewires.org/between-the-wires-chris-coyier-382a217a0f1#.jbfuuelpj)
+
+---
+
+## DAY 363 - Dec 15 - Thursday
+
+Read/Watched:
+- [webpack 2.2: The Release Candidate](https://medium.com/webpack/webpack-2-2-the-release-candidate-2e614d05d75f#.dppmc8ocl)
+- [:+1: Surge](https://surge.sh/)
+- [:+1: Surge VS GitHub Pages: How to deploy a create-react-app project](https://medium.freecodecamp.com/surge-vs-github-pages-deploying-a-create-react-app-project-c0ecbf317089#.wymh5qtu5)
+- [Understanding React and reimplementing it from scratch Part 1: Views](https://gcanti.github.io/2014/10/29/understanding-react-and-reimplementing-it-from-scratch-part-1.html?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-41)
+- [Level Up Your Cross-Browser Testing](https://hacks.mozilla.org/2016/12/level-up-your-cross-browser-testing/)
+- [Level Up Your Cross-Browser Testing](https://hacks.mozilla.org/2016/12/level-up-your-cross-browser-testing/)
+- [Mozilla's cross-browser testing lab](https://github.com/mdn/crossbrowser-testing-lab/wiki)
+- [:+1: Front End Center — Why Inline SVG is Best SVG](https://www.youtube.com/watch?v=af4ZQJ14yu8)
+- [Debug.log in Elm Pipes](http://jaketrent.com/post/debug-log-in-elm-pipes/)
+- [Writing reusable JavaScript](https://medium.com/@_kamerontanseli/writing-reusable-javascript-d220aa501e67#.g6ue3q13p)
+- [HTTP/2 Server Push and Service Workers: The Perfect Partnership](https://24ways.org/2016/http2-server-push-and-service-workers/)
+
+---
+
+## DAY 364 - Dec 16 - Friday
+
+Read/Watched:
+- [:+1: Twitter Deep Dive: How to Use Social Media to 10x Your Website Traffic - Whiteboard Friday](https://moz.com/blog/twitter-deep-dive-10x-your-website-traffic-whiteboard-friday)
+- [CodeMirror Theme Builder](http://codepen.io/alexzaworski/pen/dOQEKP)
+- [Installing the Google PageSpeed Module](https://code.tutsplus.com/tutorials/installing-the-google-pagespeed-module-alternative--cms-26425)
+- [Planning for Performance: PRPL (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=RWLzUnESylc)
+
+---
+
+## DAY 364 - Dec 17 - Saturday
+
+Read/Watched:
+- [Behind the Scenes - My Course Platform Stack!](https://www.youtube.com/watch?v=4CS436KZ35A)
+- [Intro to the 8-Point Grid System](https://medium.com/built-to-adapt/intro-to-the-8-point-grid-system-d2573cde8632#.rcn3d1nmn)
+- [:+1: Who said javascript was easy ?](https://hackernoon.com/who-said-javascript-easy-f4a1d5b399b8#.8sfij027o)
+
+---
+
+## DAY 364 - Dec 18 - Sunday
+
+Read/Watched:
+- [I’m learning to code at 56. Here’s an epic beat-down of my critical inner self.](https://medium.freecodecamp.com/yes-im-56-and-learning-to-code-f33abea6fd4c#.srkklzlnz)
+- [REST in Peace: real-life examples of when to use microservices or monoliths](https://medium.freecodecamp.com/rest-in-peace-to-microservices-or-not-6d097b6c8279#.hbak9gdmi)
+- [Scrappy](https://scrapy.org/)
+An open source and collaborative framework for extracting the data you need from websites.
+In a fast, simple, yet extensible way.
+- [Newspaper3k: Article scraping & curation](https://github.com/codelucas/newspaper)
+- [React Elements VS React Components](https://medium.freecodecamp.com/react-elements-vs-react-components-fdc776705880#.qkgdazfj9)
+- [:+1: :+1:  Behind the Scenes - My Course Platform Stack!](https://www.youtube.com/watch?v=4CS436KZ35A)
+
+---
+
+## DAY 365 - Dec 19 - Monday
+
+Read/Watched:
+- [The Array native every(), filter(), map(), some(), forEach() methods](https://coderwall.com/p/_ggh2w/the-array-native-every-filter-map-some-foreach-methods)
+- [Five Lessons From My First 18 Months as a Dev](https://24ways.org/2016/my-first-18-months-as-a-dev/)
+- [How I use include-media in my projects](https://eduardoboucas.com/blog/2016/12/19/how-i-use-include-media.html)
+- [Recursion in Functional JavaScript](https://www.sitepoint.com/recursion-functional-javascript/)
+- [Tricks of the trade: Recursion to Iteration, Part 1: The Simple Method, secret features, and accumulators](http://blog.moertel.com/posts/2013-05-11-recursive-to-iterative.html)
+- [Tricks of the trade: Recursion to Iteration, Part 4: The Trampoline](http://blog.moertel.com/posts/2013-06-12-recursion-to-iteration-4-trampolines.html)
+- [Recursion, Tail Calls and Trampolines](http://www.datchley.name/recursion-tail-calls-and-trampolines/)
+
+
+---
+
+
+
+
+
+---
+
+## November in review
+
+- well, it's been a year, and i'm not where I want to be. YES! I have come a long way. And JS and Programming are things that I understand now. If I get another year at this, I need to further my understanding through the act of doing. I need to spend a year MAKING things now. Unfortunately, this means I need to learn a ton of frameworks: React, WebPack, Node everything, Express, Hapi, Koa, AUthentication, Stripe, DBs, ELM this is already a long list.
+- I have started learning from all kinds of programming resources: JAVA, SML, Oz, Haskell, C++. This has been really helpful to learn for othe languages. I'd like to learn a little about Python, Go, Ruby and Elixir.
+-
+
+
+
+
+
+
+
+---
 
 
 Left Over:
