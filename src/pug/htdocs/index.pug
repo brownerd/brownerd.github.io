@@ -1,0 +1,17 @@
+//- This page uses the global layout
+extends ../layout/global
+
+//- Fill in title and description for SEO
+block seo
+  title=seo.homepage.title
+  meta(name='description', content=`${seo.homepage.description}`)
+    
+//- Index page specific content only
+block page
+  //- include ../includes/home/feature
+  
+  .homepage.feature__layer
+    .feature__container
+      h1.feature__heading BROWNERD
+      h2.feature__subheading Get down!
+

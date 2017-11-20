@@ -1,1 +1,0 @@
-If you update to Yosemite, Coda 2 will crash IF you have the Emmet plugin installed. Once you delete the Emmet plugin from library/application support/coda2/plugins/emmet, all will work properly again.

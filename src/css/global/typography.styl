@@ -1,0 +1,103 @@
+// Vars
+base-font-size = 20px
+base-line-height = 1.5
+
+
+// Typefaces
+Sans = {
+  font: 'Fira Sans'\, sans-serif,
+  weight: {
+    light: 100,
+    normal: 400,
+    bold: 900
+  }
+}
+
+Condensed = {
+  font: 'Fira Sans Extra Condensed'\, serif,
+  weight: {
+    light: 100,
+    normal: 400,
+    bold: 900
+  }
+}
+
+
+// Line height function
+line-height-function()
+  base-font-size * base-line-height
+
+
+// Var must be specified after returning the line-height function
+cal-line-height = line-height-function()
+
+
+:root
+  font-size 20px
+  font-size base-font-size
+  -moz-osx-font-smoothing grayscale
+  -webkit-font-smoothing antialiased
+
+
+body
+  color charcoal
+  font-family: Sans.font
+  font-weight normal
+  line-height base-line-height
+  margin 0
+
+
+[class*='__heading']
+  color white
+  font-family: Condensed.font
+  font-size 6rem
+  font-weight: Condensed.weight.normal
+  line-height 1
+  text-align center
+  text-shadow -1px 1px 0 charcoal
+  text-transform uppercase
+
+  +below(660px)
+    font-size 3rem
+
+[class*='__subheading']
+  color white
+  font-size 2rem
+  font-weight: Condensed.weight.normal
+  text-align center
+  text-shadow -1px 1px 0 charcoal
+
+  +below(660px)
+    font-size 1.5rem
+    line-height 1
+    padding 0 2rem
+
+[class*='__title']
+  color white
+  font-size 2rem
+  font-weight 100
+  text-align center
+  text-shadow -3px 3px 0 fog
+
+// Anchor text
+a
+  text-decoration: none
+
+  &:hover
+    text-decoration none
+
+.bold
+  font-weight bold
+
+.centerText
+  text-align center
+
+.textLink:hover
+  text-decoration underline
+
+
+// Content Areas
+[class*='__content']
+  // Add margin bottom to all elements inside this container
+  & > *
+    margin-bottom 1.5rem

@@ -1,4 +1,4 @@
-_site
-.orig
+.DS_Store
 node_modules
 *.log
+*.map

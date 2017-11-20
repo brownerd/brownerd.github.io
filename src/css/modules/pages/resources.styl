@@ -1,0 +1,90 @@
+.resource
+  &.feature
+    &__layer
+      background-image url(img/resources.jpg) //, linear-gradient(135deg, tomato, indigo)
+
+  &__container
+    display block
+
+  &__content
+    max-width 960px
+    margin 3rem auto
+
+    +below(660px)
+      margin 3rem 2rem
+
+
+  &__list
+    padding  3rem 0
+
+  &__item
+    border-bottom 1px solid fog
+    display flex
+    align-items center
+    justify-content flex-start
+    text-align left
+    font-family: Condensed.font
+
+    &:last-of-type
+      border none
+
+    +below(660px)
+      flex-direction column
+      text-align center
+      padding 1rem 0
+      justify-content center
+      text-align center
+      display block
+
+    &:hover
+      background-color #0fc
+
+    &:nth-of-type(odd)
+      background-color #f5f5f5
+
+      &:hover
+        background-color #0fc
+
+  &__subheading
+    color charcoal
+    text-shadow none
+    font-size 1rem
+    font-weight normal
+    line-height 1
+    text-align right
+    flex-basis 50%
+
+    +below(660px)
+      font-size 1.25rem
+      padding-bottom .5rem
+      text-align center
+
+  &__links
+    flex-basis 50%
+    padding-left 2rem
+
+    +below(660px)
+      padding 0
+
+  &__button
+    margin-right 1rem
+    display inline-flex
+
+  &__text-link
+    background-color indigo
+    color white
+    border 1px solid transparent
+    padding .1rem .5rem
+    margin .2rem
+    text-align center
+
+    display block
+    font-family: Condensed.font
+    font-size 1rem
+    display inline-block
+    font-weight 400
+
+    &:hover
+      background-color white
+      color indigo
+      border 1px solid indigo

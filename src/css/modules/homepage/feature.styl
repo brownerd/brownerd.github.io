@@ -1,0 +1,47 @@
+.homepage.feature
+  &__layer
+    background-image url(https://media.giphy.com/media/Uy6JAB9ta0poc/giphy.gif), linear-gradient(135deg, gold, brown)
+    background-blend-mode overlay
+  //
+.feature
+  &__container
+    +below(660px)
+      padding-top 5rem
+
+  &__heading
+    +below(660px)
+      font-size 3rem
+
+  &__subheading
+    +below(660px)
+      font-size 1.5rem
+
+  &__content
+    //
+  &__item
+    //
+  &__links
+    //
+  &__button
+    //
+
+
+.lookdown
+  animation bounce 1.6s ease-in-out infinite
+
+  &:hover
+    svg
+      fill #0fc
+
+  svg
+    fill white
+    filter drop-shadow(-1px 1px 0px charcoal)
+
+
+@keyframes bounce
+	0%
+		transform translateY(0)
+	50%
+		transform translateY(10px)
+	100%
+		transform translateY(0)
